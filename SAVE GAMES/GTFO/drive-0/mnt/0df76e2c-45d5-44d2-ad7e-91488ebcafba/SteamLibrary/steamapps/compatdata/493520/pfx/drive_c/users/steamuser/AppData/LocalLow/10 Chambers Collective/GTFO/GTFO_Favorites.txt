@@ -1,0 +1,12 @@
+{
+  "Favorites": [],
+  "LastEquipped_Standard": "OfflineGear_ID_40",
+  "LastEquipped_Special": "OfflineGear_ID_46",
+  "LastEquipped_Class": "OfflineGear_ID_25",
+  "LastEquipped_Melee": "OfflineGear_ID_70",
+  "LastEquipped_HelmetId": 153,
+  "LastEquipped_TorsoId": 17,
+  "LastEquipped_LegsId": 16,
+  "LastEquipped_BackpackId": 38,
+  "LastEquipped_PaletteId": 117
+}

@@ -1,0 +1,2 @@
+ENCODE: openssl enc -aes-256-cbc -pbkdf2 -in /home/avery/Documents/aes256.txt -out /home/avery/Documents/aes256.enc
+DECODE: openssl enc -d -aes-256-cbc -pbkdf2 -in /home/avery/Documents/aes256.enc -out /home/avery/Documents/aes256.dec

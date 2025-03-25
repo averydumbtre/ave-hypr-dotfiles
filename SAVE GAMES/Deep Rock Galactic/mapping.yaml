@@ -1,0 +1,51 @@
+---
+name: Deep Rock Galactic
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:34.147656433Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/Config/WindowsNoEditor/GameUserSettings.ini:
+        hash: 35d33092017b8beb1c6aae6582be75daec8786bb
+        size: 4921
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Backup_0.sav:
+        hash: 48802407b9c331ac4785a24b5fde0d76d402b0be
+        size: 800742
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Backup_1.sav:
+        hash: 2948731851c2da2d38de0b43217adb8f67127388
+        size: 801128
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Backup_2.sav:
+        hash: e28006d2720ca9382c367f8fa03c1cab3488d5c8
+        size: 803751
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Backup_3.sav:
+        hash: 3e2583b819ae12d9fac0bfd0c840fd994e0600c2
+        size: 802379
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player.sav:
+        hash: e28006d2720ca9382c367f8fa03c1cab3488d5c8
+        size: 803751
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player_ExternalBackup_0.sav:
+        hash: 48802407b9c331ac4785a24b5fde0d76d402b0be
+        size: 800742
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player_ExternalBackup_1.sav:
+        hash: 2948731851c2da2d38de0b43217adb8f67127388
+        size: 801128
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player_ExternalBackup_2.sav:
+        hash: e28006d2720ca9382c367f8fa03c1cab3488d5c8
+        size: 803751
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player_ExternalBackup_3.sav:
+        hash: 0e78842dba77e0799cc3980072c915428dad0bdb
+        size: 793744
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player_ExternalBackup_4.sav:
+        hash: 0de5320e5fe0e8daa3fa3515d9101be1e3ce138e
+        size: 794964
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/76561198974162714_Player_ExternalBackup_5.sav:
+        hash: ef73723cc25a03dfac068943b9860219962c2995
+        size: 794964
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Deep Rock Galactic/FSD/Saved/SaveGames/VROptions.sav:
+        hash: 7d3a0608bf18344e0b6968d58b953d72ef3c50e1
+        size: 1351
+    registry:
+      hash: ~
+    children: []

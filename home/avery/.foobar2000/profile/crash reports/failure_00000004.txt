@@ -1,0 +1,340 @@
+﻿Illegal operation:
+Code: 6F8E1DC8h, flags: 00000001h, address: 00006FFFFF463E77h
+Additional parameters: 0000000000000002h
+
+Call path not available.
+
+Code bytes (00006FFFFF463E77h):
+00006FFFFF463E37h:  48 89 C1 C7 41 18 00 00 00 00 45 85 C0 74 2C 4D
+00006FFFFF463E47h:  85 C9 74 27 BA 0F 00 00 00 41 39 D0 41 0F 42 D0
+00006FFFFF463E57h:  89 51 18 48 8D 41 20 4D 8B 01 4C 89 00 FF CA 74
+00006FFFFF463E67h:  0A 48 83 C0 08 49 83 C1 08 EB EC E8 09 14 07 00
+00006FFFFF463E77h:  48 81 C4 C8 00 00 00 C3 90 48 8B 01 81 38 06 00
+00006FFFFF463E87h:  01 40 0F 94 C0 0F B6 C0 C3 48 8B 01 81 38 0A 00
+00006FFFFF463E97h:  01 40 0F 94 C0 0F B6 C0 C3 48 83 EC 38 4C 89 4C
+00006FFFFF463EA7h:  24 58 4C 8D 4C 24 58 4C 89 4C 24 28 FF 15 67 CA
+
+Registers:
+RAX: 00007BFFF39EFCF0, RBX: 00007FFFFE350F40, RCX: 00007BFFF39EFCD0, RDX: 0000000000000000
+RSI: 0000000000000000, RDI: 0000000000000000, RBP: 0000000000000000, RSP: 00007BFFF39EFCB0
+
+Timestamp:
+19022ms
+
+Crash location:
+Module: kernelbase
+Offset: 13E77h
+
+Loaded modules:
+foobar2000                       loaded at 0000000140000000h - 0000000140452000h
+ntdll                            loaded at 00006FFFFFC40000h - 00006FFFFFFE6000h
+kernel32                         loaded at 00006FFFFFA70000h - 00006FFFFFC2B000h
+kernelbase                       loaded at 00006FFFFF450000h - 00006FFFFFA5D000h
+comctl32                         loaded at 00006FFFFE4D0000h - 00006FFFFEA30000h
+advapi32                         loaded at 00006FFFFF310000h - 00006FFFFF43C000h
+msvcrt                           loaded at 00006FFFFEFA0000h - 00006FFFFF2FE000h
+sechost                          loaded at 00006FFFFEF00000h - 00006FFFFEF8A000h
+ucrtbase                         loaded at 00006FFFFEB00000h - 00006FFFFEEEE000h
+gdi32                            loaded at 00006FFFFE1F0000h - 00006FFFFE4BC000h
+user32                           loaded at 00006FFFFDBF0000h - 00006FFFFE1D4000h
+win32u                           loaded at 00006FFFFDBA0000h - 00006FFFFDBDF000h
+imm32                            loaded at 00006FFFFB9D0000h - 00006FFFFBA4F000h
+winmm                            loaded at 00006FFFFD730000h - 00006FFFFD8E6000h
+msacm32                          loaded at 00006FFFFD6A0000h - 00006FFFFD71B000h
+ole32                            loaded at 00006FFFFD2D0000h - 00006FFFFD68E000h
+combase                          loaded at 00006FFFFD130000h - 00006FFFFD2BA000h
+rpcrt4                           loaded at 00006FFFFD900000h - 00006FFFFDB8E000h
+coml2                            loaded at 00006FFFFD0D0000h - 00006FFFFD11C000h
+shlwapi                          loaded at 00006FFFFCFA0000h - 00006FFFFD0B5000h
+shcore                           loaded at 00006FFFFCF30000h - 00006FFFFCF83000h
+uxtheme                          loaded at 00006FFFFCE50000h - 00006FFFFCF1A000h
+shell32                          loaded at 00006FFFFA620000h - 00006FFFFB3C0000h
+oleaut32                         loaded at 00006FFFFCAF0000h - 00006FFFFCE3D000h
+zlib1                            loaded at 00006FFFFCAC0000h - 00006FFFFCADD000h
+vcruntime140                     loaded at 00006FFFFCA90000h - 00006FFFFCAAA000h
+sqlite3                          loaded at 00006FFFFC980000h - 00006FFFFCA74000h
+shared                           loaded at 00006FFFFC710000h - 00006FFFFC738000h
+imagehlp                         loaded at 00006FFFFC6B0000h - 00006FFFFC6F3000h
+dbghelp                          loaded at 00006FFFFC3A0000h - 00006FFFFC69B000h
+comdlg32                         loaded at 00006FFFFC130000h - 00006FFFFC381000h
+winspool                         loaded at 00006FFFFC050000h - 00006FFFFC119000h
+compstui                         loaded at 00006FFFFC000000h - 00006FFFFC032000h
+msvcp140                         loaded at 00006FFFFA230000h - 00006FFFFA607000h
+vcruntime140_1                   loaded at 00006FFFFBFB0000h - 00006FFFFBFE7000h
+msvcp140_atomic_wait             loaded at 00006FFFFC950000h - 00006FFFFC96D000h
+msimg32                          loaded at 00006FFFFBF80000h - 00006FFFFBF98000h
+oleacc                           loaded at 00006FFFFBED0000h - 00006FFFFBF68000h
+crypt32                          loaded at 00006FFFF9E50000h - 00006FFFFA212000h
+bcrypt                           loaded at 00006FFFFBE60000h - 00006FFFFBEBD000h
+avrt                             loaded at 00006FFFFBE30000h - 00006FFFFBE4D000h
+winhttp                          loaded at 00006FFFFBCE0000h - 00006FFFFBE1B000h
+jsproxy                          loaded at 00006FFFFBC80000h - 00006FFFFBCC9000h
+ws2_32                           loaded at 00006FFFFEA40000h - 00006FFFFEAED000h
+gdiplus                          loaded at 00006FFFF9B60000h - 00006FFFF9E36000h
+mlang                            loaded at 00006FFFFB740000h - 00006FFFFB7D0000h
+secur32                          loaded at 00006FFFFB670000h - 00006FFFFB728000h
+winex11                          loaded at 00006FFFFBBC0000h - 00006FFFFBC16000h
+concrt140                        loaded at 00006FFFF99D0000h - 00006FFFF9A7E000h
+kerberos                         loaded at 00006FFFFB620000h - 00006FFFFB656000h
+foo_dsp_eq                       loaded at 00006FFFF9930000h - 00006FFFF99B8000h
+dwmapi                           loaded at 00006FFFFB5E0000h - 00006FFFFB605000h
+foo_freedb2                      loaded at 00006FFFF98D0000h - 00006FFFF991D000h
+foo_ui_std                       loaded at 00006FFFF9670000h - 00006FFFF98B1000h
+foo_input_std                    loaded at 00006FFFF9410000h - 00006FFFF965D000h
+avcodec-fb2k-60                  loaded at 00006FFFF91D0000h - 00006FFFF93F8000h
+avutil-fb2k-58                   loaded at 00006FFFF8FC0000h - 00006FFFF91B7000h
+avformat-fb2k-60                 loaded at 00006FFFF8F70000h - 00006FFFF8FA1000h
+foo_unpack                       loaded at 00006FFFF8EB0000h - 00006FFFF8F52000h
+foo_converter                    loaded at 00006FFFF8DC0000h - 00006FFFF8E97000h
+foo_dsp_std                      loaded at 00006FFFF8D60000h - 00006FFFF8DA2000h
+foo_fileops                      loaded at 00006FFFF8CC0000h - 00006FFFF8D47000h
+atlthunk                         loaded at 00006FFFF8C90000h - 00006FFFF8CA8000h
+mmdevapi                         loaded at 00006FFFF8B70000h - 00006FFFF8C74000h
+version                          loaded at 00006FFFF8B40000h - 00006FFFF8B60000h
+winepulse                        loaded at 00006FFFF8B10000h - 00006FFFF8B2E000h
+pp-uwp-interop                   loaded at 00006FFFFBBA0000h - 00006FFFFBBAB000h
+vccorlib140                      loaded at 00006FFFF8AA0000h - 00006FFFF8AF5000h
+
+Stack dump analysis:
+Address: 00006FFFFF463E77h (kernelbase+13E77h)
+Address: 00006FFFFF463E77h (kernelbase+13E77h)
+Address: 00006FFFFF463E77h (kernelbase+13E77h)
+Address: 000000014010E764h (foobar2000+10E764h)
+Address: 00006FFFFEB212D3h (ucrtbase+212D3h)
+Address: 00006FFFFF45E595h (kernelbase+E595h), symbol: "CtrlRoutine" (+75h)
+Address: 00006FFFFF4D5AC0h (kernelbase+85AC0h), symbol: "__wine_exception_handler_all" (+0h)
+Address: 00006FFFFF45E5D3h (kernelbase+E5D3h), symbol: "CtrlRoutine" (+B3h)
+Address: 00006FFFFFC7072Ah (ntdll+3072Ah), symbol: "__wine_ctrl_routine" (+1Ah)
+Address: 00006FFFFFA98E69h (kernel32+28E69h), symbol: "BaseThreadInitThunk" (+9h)
+Address: 00006FFFFFC9516Bh (ntdll+5516Bh)
+
+Environment:
+App: foobar2000 v2.24.1
+Arch: x64
+UI: Default User Interface 2.24.1
+
+Components:
+Core (2025-01-15 22:56:42 UTC)
+    foobar2000 core 2.24.1
+foo_converter (2025-01-15 22:56:42 UTC)
+    Converter 2.24.1
+foo_dsp_eq (2025-01-15 22:56:42 UTC)
+    Equalizer 1.2.3
+foo_dsp_std (2025-01-15 22:56:42 UTC)
+    Standard DSP Array 2.24.1
+foo_fileops (2025-01-15 22:56:42 UTC)
+    File Operations 2.24.1
+foo_freedb2 (2025-01-15 22:56:42 UTC)
+    Online Tagger 0.10
+foo_input_std (2025-01-15 22:56:42 UTC)
+    CD Audio Decoder 2.24.1
+    FFmpeg Decoders 6.0
+    FLAC Decoder 1.4.3
+    Monkey's Audio Decoder 10.80
+    Opus Decoder 1.5.2
+    Standard Input Array 2.24.1
+    WavPack Decoder 5.7.0
+foo_ui_std (2025-01-15 22:56:42 UTC)
+    Album List 2.24.1
+    Decoding Speed Test 2.24.1
+    Default User Interface 2.24.1
+    File Integrity Verifier 2.24.1
+foo_unpack (2025-01-15 22:56:42 UTC)
+    ZIP/GZIP/RAR/7-Zip Reader 2.24.1
+
+Recent events:
+[8ms] Pre component load
+[9ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_dsp_eq.dll
+[9ms] Component : foo_dsp_eq API 81
+[10ms] Added 6 services
+[10ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_freedb2.dll
+[10ms] Component : foo_freedb2 API 81
+[10ms] Added 9 services
+[10ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_ui_std.dll
+[12ms] Component : foo_ui_std API 81
+[12ms] Added 114 services
+[12ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_input_std.dll
+[15ms] Component : foo_input_std API 81
+[15ms] Added 197 services
+[16ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_unpack.dll
+[16ms] Component : foo_unpack API 81
+[16ms] Added 8 services
+[16ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_converter.dll
+[17ms] Component : foo_converter API 81
+[17ms] Added 40 services
+[17ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_dsp_std.dll
+[18ms] Component : foo_dsp_std API 81
+[18ms] Added 19 services
+[18ms] Loading DLL: Z:\home\avery\.foobar2000\components\foo_fileops.dll
+[19ms] Component : foo_fileops API 81
+[19ms] Added 18 services
+[19ms] Total: 778 services, 150 classes
+[19ms] Components loaded in: 0:00.010446
+[20ms] Pre config read
+[20ms] Configuration read in: 0:00.000511
+[20ms] foobar2000 v2.24.1 x64 [portable]
+[26ms] Watching: Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m
+[87ms] UI Element instantiation failure: UI Element Not Found
+[120ms] Playlist #0 loaded in 0:00.000272
+[127ms] UI Element instantiation failure: UI Element Not Found
+[162ms] User Interface initialized in: 0:00.140709
+[162ms] Processing commandline
+[162ms] initquit::init entry
+[162ms] FFmpeg version: 6.0
+[163ms] initquit::init exit
+[163ms] Startup time : 0:00.158682
+[166ms] Library initialized after 0:00.161814
+[181ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[192ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[196ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[197ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[203ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[203ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[204ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[205ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[206ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[208ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[213ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[214ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[218ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[220ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[224ms] Media library indexing: file://Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m\Streetlight Manifesto - Somewhere in the Between (2017)\03. Streetlight Manifesto - Would You Be Impressed?.flac
+[224ms] Library scanning problem: "Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m\Streetlight Manifesto - Somewhere in the Between (2017)\03. Streetlight Manifesto - Would You Be Impressed?.flac", reason: Invalid path syntax
+[225ms] Media library indexing: file://Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m\acid?1.vcv
+[225ms] Library scanning problem: "Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m\acid?1.vcv", reason: Invalid path syntax
+[225ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[225ms] Media library indexing: file://Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m\glass beach\the first glass beach album\03. glass beach - (forever?????????).flac
+[225ms] Library scanning problem: "Z:\mnt\0df76e2c-45d5-44d2-ad7e-91488ebcafba\m\glass beach\the first glass beach album\03. glass beach - (forever?????????).flac", reason: Invalid path syntax
+[226ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[231ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[232ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[237ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[238ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[243ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[244ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[249ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[250ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[255ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[257ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[261ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[263ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[269ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[274ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[280ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[281ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[286ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[287ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[291ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[292ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[298ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[299ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[304ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[305ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[309ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[311ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[316ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[317ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[321ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[323ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[328ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[331ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[336ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[340ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[341ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[348ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[353ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[359ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[360ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[364ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[368ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[370ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[371ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[376ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[378ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[382ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[385ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[389ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[390ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[394ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[398ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[402ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[406ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[408ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[413ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[418ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[420ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[425ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[431ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[433ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[436ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[438ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[443ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[444ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[450ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[456ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[461ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[464ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[469ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[474ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[475ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[480ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[481ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[485ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[486ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[492ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[493ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[498ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[504ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[505ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[510ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[511ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[516ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[517ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[521ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[528ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[530ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[535ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[540ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[547ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[552ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[553ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[558ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[564ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[566ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[573ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[580ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[584ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[589ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[590ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[594ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[603ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[607ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[613ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[615ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[620ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[625ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[632ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[637ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[638ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[649ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[685ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[719ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[729ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[732ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[741ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[752ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[766ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[776ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[795ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[808ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[813ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[833ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[856ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+[886ms] setConfigBlob(cfg_var.64DCCFA1-B289-407A-BD59-98841A205717,52 bytes)
+
+
+Machine specifications:
+OS: wine-9.18, on: Linux / 6.12.9-1-cachyos
+CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, features: MMX SSE SSE2 SSE3 SSE4.1 SSE4.2 AVX LZCNT
+CPU threads: 12
+Audio: PCM2900C Audio CODEC Analog Stereo; Easy Effects Sink; Vive Analog Stereo; HyperX Cloud II Wireless Analog Surround 7.1; Built-in Audio Analog Stereo; GA106 High Definition Audio Controller Digital Stereo (HDMI); PulseAudio Output

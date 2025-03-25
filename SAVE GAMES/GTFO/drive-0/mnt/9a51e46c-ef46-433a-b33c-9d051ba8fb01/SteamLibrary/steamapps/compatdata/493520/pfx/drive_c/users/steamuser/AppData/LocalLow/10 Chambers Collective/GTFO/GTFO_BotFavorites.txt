@@ -1,0 +1,32 @@
+{
+  "LastEquipped_Melee": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "LastEquipped_Standard": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "LastEquipped_Special": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "LastEquipped_Class": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "LastEquipped_HackingTool": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}

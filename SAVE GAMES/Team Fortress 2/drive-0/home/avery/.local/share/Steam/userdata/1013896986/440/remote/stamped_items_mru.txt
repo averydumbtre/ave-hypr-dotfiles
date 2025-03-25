@@ -1,0 +1,24 @@
+"StampedItems"
+{
+	"Uploaded"
+	{
+		"1"
+		{
+			"md5"		"5d4f6f9a7146a1c97e122588718d37d4"
+			"ugcid"		"0x1D5E3463C572B0C9"
+			"mru"		"3"
+		}
+		"2"
+		{
+			"md5"		"5ee994842e8d6d2e37720eef47e640c1"
+			"ugcid"		"0x1DBE350BA80FD673"
+			"mru"		"2"
+		}
+		"3"
+		{
+			"md5"		"8883209f07988aa008f40e85d6615068"
+			"ugcid"		"0x1DBE350BA80FE4F0"
+			"mru"		"1"
+		}
+	}
+}

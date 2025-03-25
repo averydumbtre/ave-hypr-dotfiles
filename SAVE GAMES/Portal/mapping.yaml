@@ -1,0 +1,210 @@
+---
+name: Portal
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-18T02:28:00.737330257Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/userdata/1013896986/400/remote/cfg/config.cfg:
+        hash: 762b9be292ce19e6866862b9ba649d5be2a666aa
+        size: 7782
+      /home/avery/.local/share/Steam/userdata/1013896986/400/remote/materials/vgui/logos/spray.vmt:
+        hash: 268533355715ff93d7739e979737adabd8b355e1
+        size: 133
+      /home/avery/.local/share/Steam/userdata/1013896986/400/remote/materials/vgui/logos/spray.vtf:
+        hash: d066a6676508c817a28b6ce4cc4b9c3cd66186ce
+        size: 22064
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter1.cfg:
+        hash: 676920f789efe7091af09e3569fa897149953157
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter10.cfg:
+        hash: fa626225a7c45a60dc2ae01f4c16994e4e532b90
+        size: 19
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter11.cfg:
+        hash: 956e40fc0fee348587f1654169fcfa12b5e3da8c
+        size: 19
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter2.cfg:
+        hash: ef33e3f9befc99ab6c3c0fd76b6db0ac748c3a1c
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter3.cfg:
+        hash: b2d10186dad17a430f0af8465fee6678aba50565
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter4.cfg:
+        hash: f24e5b94a197c519444ffcf12511207be487e510
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter5.cfg:
+        hash: fa4f9e5b60c1675024f91c0c16a35bd895c991cf
+        size: 19
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter6.cfg:
+        hash: d377af729476b2bb70cd6d8cbb1b1c5d64d89e3a
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter7.cfg:
+        hash: 2f9b6d6bd9a8bd40e0a12bb0081e3976e4f33348
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter8.cfg:
+        hash: 553904e5807f9a9e3ceaacb00d9d1195b0543181
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/chapter9.cfg:
+        hash: f1ea0406e7afc273a61ed10a5d9c9f0a6640f669
+        size: 19
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/config.cfg:
+        hash: 762b9be292ce19e6866862b9ba649d5be2a666aa
+        size: 7782
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/config_default.cfg:
+        hash: 0eec3dd09d1284a5c6c8c386ecdf1d2f4ba90395
+        size: 1291
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/modsettings.cfg:
+        hash: db37d3dbf7fb45fe20d4fd1b75e120b38f09e54a
+        size: 467
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/cfg/server_blacklist.txt:
+        hash: bf1a8c12eb5baf94a4e171d2feb048a9ac6be0b8
+        size: 22
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/autosave.sav:
+        hash: d1acd7c02b8e0b6d39b5a51d7a215b3c30e720a9
+        size: 269136
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/autosave01.sav:
+        hash: 70606fffe950d2d40accdfe65c196b844a74ab5a
+        size: 468867
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/autosavedangerous.sav:
+        hash: 588b25635888866b279353f2ab46b58b10a4f9de
+        size: 1062784
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/autosavedangerous01.sav:
+        hash: 861252cea33ba2c4971cdbd677191a9b9705aa1d
+        size: 439153
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/bonus_maps_data.bmd:
+        hash: 59d446990a92323af922df500d8f88ca2fc36100
+        size: 1108
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-000.sav:
+        hash: 178bc57e08677886093928da43b8f53ace7814d4
+        size: 341627
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-001.sav:
+        hash: 2c8074906f04bec7dbb72f0c91d20827de24e0fc
+        size: 393824
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-002.sav:
+        hash: 7f89a6b938950b1656028fce72e275a47b094f9a
+        size: 393792
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-003.sav:
+        hash: 1629ecb0244403513ba41c4b7bc1f7e9af499f35
+        size: 477804
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-004.sav:
+        hash: 6e6c3d6621f4545d5adb140348d9b2891c42ed01
+        size: 433578
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-005.sav:
+        hash: 4090270fc5277a4d91f1c3efa466cba3282c90fe
+        size: 395985
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-006.sav:
+        hash: 05ffe09c963812b868e178f5e29671ef5a2040aa
+        size: 302588
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-007.sav:
+        hash: aaba11049b30b96418bf73050be428867c9f968e
+        size: 1081203
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/half-life-008.sav:
+        hash: 5a4cc2f8b718ed68e1a590167d75d110e35df0aa
+        size: 398625
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/lowbattery_autosave.sav:
+        hash: 0c2d51e47d3be0b58168d7ca47d6104ad8a4a0fe
+        size: 398109
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/modeswitchsave.sav:
+        hash: 3cdf4c6a183de2f89a425f286d54b22aa76bd8c8
+        size: 304172
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/quick01.sav:
+        hash: 482dca4a098169757e6ab77d4e63109c59b79e7e
+        size: 268320
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/quick01.tga:
+        hash: 01f7344dbc12aca8b72fce8ef987db659e0d8a9f
+        size: 54018
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/testchmb_a_02.hl1:
+        hash: 272b72bbdf6fef17f3731cedb7d2585d6cca1158
+        size: 237888
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/testchmb_a_02.hl2:
+        hash: aa161ddf084406f9ec7f5552321234c2a257d725
+        size: 23525
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/testchmb_a_02.hl3:
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Portal/portal/save/vault.sav:
+        hash: 4fa0b14ea6fa1f9a95b16080b996f6a6c5ca76fe
+        size: 294538
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/cfg/config.cfg:
+        hash: 6702f86ee7f384016940acab221c1d194cf762fa
+        size: 7956
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/cfg/server_blacklist.txt:
+        hash: bf1a8c12eb5baf94a4e171d2feb048a9ac6be0b8
+        size: 22
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/autosave.sav:
+        hash: eb6df3063432d2a36ed1e2108a2a164616911210
+        size: 1001666
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/autosave01.sav:
+        hash: 5c90ef7b556934082c4741c029c771e73ff873ea
+        size: 1003015
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/autosavedangerous.sav:
+        hash: 7a93861825962d4e70a9de0b32faf9416649187a
+        size: 1054982
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/autosavedangerous01.sav:
+        hash: fa3aaf8235a21b327a5a71306557dc5ef37e0889
+        size: 1038805
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/bonus_maps_data.bmd:
+        hash: 59d446990a92323af922df500d8f88ca2fc36100
+        size: 1108
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/escape_02.hl1:
+        hash: 066af4567aa58541f44650fcefb937c3adb5b3c3
+        size: 827385
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/escape_02.hl2:
+        hash: ab75242a1cac367ddb8bbfce117b45a77ef79c25
+        size: 162274
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/escape_02.hl3:
+        hash: 9069ca78e7450a285173431b3e52c5c25299e473
+        size: 4
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-000.sav:
+        hash: 178bc57e08677886093928da43b8f53ace7814d4
+        size: 341627
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-001.sav:
+        hash: 2c8074906f04bec7dbb72f0c91d20827de24e0fc
+        size: 393824
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-002.sav:
+        hash: 7f89a6b938950b1656028fce72e275a47b094f9a
+        size: 393792
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-003.sav:
+        hash: 1629ecb0244403513ba41c4b7bc1f7e9af499f35
+        size: 477804
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-004.sav:
+        hash: 6e6c3d6621f4545d5adb140348d9b2891c42ed01
+        size: 433578
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-005.sav:
+        hash: 4090270fc5277a4d91f1c3efa466cba3282c90fe
+        size: 395985
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-006.sav:
+        hash: 05ffe09c963812b868e178f5e29671ef5a2040aa
+        size: 302588
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-007.sav:
+        hash: aaba11049b30b96418bf73050be428867c9f968e
+        size: 1081203
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/half-life-008.sav:
+        hash: 5a4cc2f8b718ed68e1a590167d75d110e35df0aa
+        size: 398625
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/lowbattery_autosave.sav:
+        hash: 0c2d51e47d3be0b58168d7ca47d6104ad8a4a0fe
+        size: 398109
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/modeswitchsave.sav:
+        hash: 3cdf4c6a183de2f89a425f286d54b22aa76bd8c8
+        size: 304172
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/quick01.sav:
+        hash: 0ecefbb818f9405f8524a56ddd44f8ce42a480c3
+        size: 999837
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/quick01.tga:
+        hash: aa39893a27286c7fc054c595a8804a1340f4b62e
+        size: 54018
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Portal/portal/save/vault.sav:
+        hash: 4fa0b14ea6fa1f9a95b16080b996f6a6c5ca76fe
+        size: 294538
+    registry:
+      hash: ~
+    children: []

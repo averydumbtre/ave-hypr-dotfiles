@@ -1,0 +1,21 @@
+---
+name: Street Fighter 6
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:33.584680936Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/userdata/1013896986/1364780/remote/win64_save/data00-1.bin:
+        hash: dd61efe2b2e7856f7e0b5d842fbb87abf7bfc717
+        size: 266844
+      /home/avery/.local/share/Steam/userdata/1013896986/1364780/remote/win64_save/data400Slot.bin:
+        hash: e32cad4fed7d3622c7bb1008bc3feee1629283d3
+        size: 266844
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/Street Fighter 6/config.ini:
+        hash: e66a6af7f8968a66f96a7b5a51bd3fb0d0014149
+        size: 7055
+    registry:
+      hash: ~
+    children: []

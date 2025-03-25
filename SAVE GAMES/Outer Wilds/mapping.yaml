@@ -1,0 +1,42 @@
+---
+name: Outer Wilds
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:19.724699027Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/Avery.owprofile:
+        hash: c25e9a51f9b8d8fc1ab586e8db232c4b49955751
+        size: 208
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/Avery/data.owsave:
+        hash: 6337b741d2b41a2239856e4d645568a175c3172e
+        size: 38526
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/Avery/data_mult.owsave:
+        hash: 7c0bca4676e4704c1d344eea9f2f711c29ab72de
+        size: 821
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/Avery/graphics.owsett:
+        hash: 1479fbdd3f42a352c1204ed96a3f8d9c3c1565e9
+        size: 353
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/Avery/input_new.owsett:
+        hash: 8d70dc56038c08d3754bcfb64a3885f663143dcb
+        size: 116066
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/Avery/player.owsett:
+        hash: 6c01204cfbbba083d1d6452bbf9aea800418562e
+        size: 650
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/drive_c/users/steamuser/AppData/LocalLow/Mobius Digital/Outer Wilds/SteamSaves/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/system.reg:
+        hash: f9fed3665b06706e9a287284f7cce5aaac3120be
+        size: 3744733
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/user.reg:
+        hash: 8438589f13ca18c40ec8abb9b03af2d8a9dda21b
+        size: 40656
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/753640/pfx/userdef.reg:
+        hash: 73e918c3f6ef78c9a98f29f4fca2fe71667eacd8
+        size: 4190
+    registry:
+      hash: ~
+    children: []

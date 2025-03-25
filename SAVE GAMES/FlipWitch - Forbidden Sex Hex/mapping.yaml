@@ -1,0 +1,27 @@
+---
+name: FlipWitch - Forbidden Sex Hex
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-08T01:23:27.649506181Z"
+    os: linux
+    files:
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/LocalLow/MomoGames/FlipWitch/Player-prev.log:
+        hash: 2572744e9e100d6db26b529ba42fd5eacc11372a
+        size: 47076
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/LocalLow/MomoGames/FlipWitch/Player.log:
+        hash: eea271dc53ff24066c7033b54d28be828508fb9c
+        size: 16196
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/LocalLow/MomoGames/FlipWitch/controls.config:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/LocalLow/MomoGames/FlipWitch/player_0.fun:
+        hash: cd4661598c3c78dfbea23f832b59e800410dd06a
+        size: 21172
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/LocalLow/MomoGames/FlipWitch/settings.config:
+        hash: 353fe500d7f8566f6e9e87c3a13f68cdf25e396b
+        size: 181
+    registry:
+      hash: ~
+    children: []

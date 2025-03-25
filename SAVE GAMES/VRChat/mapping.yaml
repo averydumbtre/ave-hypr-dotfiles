@@ -1,0 +1,39 @@
+---
+name: VRChat
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-08T01:22:53.140525356Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat/LocalAvatarData/usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989/avtr_7f56f978-1fc0-42fb-bb37-635738ceee92:
+        hash: 37b4ff3c2b4bcd91be75ef01b95c639bdeac4f6f
+        size: 2066
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat/LocalAvatarData/usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989/avtr_8fa2bf67-380a-40c1-a3d6-c782afce65bc:
+        hash: c75dee31505de554a9cf911dc90976bef15512c4
+        size: 317
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat/LocalAvatarData/usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989/avtr_c38a1615-5bf5-42b4-84eb-a8b6c37cbd11:
+        hash: ac8ebffaa94dc83d87a5a4f150545c7985d2d3e3
+        size: 64
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat/LocalAvatarData/usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989/avtr_faf40a9f-ce39-4ff2-a069-223797ba11af:
+        hash: 2884eff9e117000f2c4d636d7700035312cdc705
+        size: 628
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat/LocalAvatarData/usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27/avtr_8fa2bf67-380a-40c1-a3d6-c782afce65bc:
+        hash: c75dee31505de554a9cf911dc90976bef15512c4
+        size: 317
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat/LocalAvatarData/usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27/avtr_c38a1615-5bf5-42b4-84eb-a8b6c37cbd11:
+        hash: ac8ebffaa94dc83d87a5a4f150545c7985d2d3e3
+        size: 64
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/system.reg:
+        hash: 249287fde0da4ffbfad77ff89b698ed32cd01e9f
+        size: 3847553
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/user.reg:
+        hash: cb310d6fccd5b32fef2b862f9a5e352da59e3185
+        size: 87261
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/438100/pfx/userdef.reg:
+        hash: 7572152b710cebc43dd73e5f9f71ddf0494a33a5
+        size: 4190
+    registry:
+      hash: ~
+    children: []

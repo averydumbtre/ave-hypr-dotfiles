@@ -1,0 +1,24 @@
+---
+name: Super Lesbian Animal RPG
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:35.030438586Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Super Lesbian Animal RPG/Game.ini:
+        hash: 08de17f125620ad3a5734457413399663ec95aa4
+        size: 164
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Super Lesbian Animal RPG/Save01.rvdata2:
+        hash: 5a14919ad004d28cee51a4726b54b301d97c268e
+        size: 117300
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Super Lesbian Animal RPG/Save02.rvdata2:
+        hash: b540aaed1a13854543bf7167945b801209dceb30
+        size: 236595
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Super Lesbian Animal RPG/Save03.rvdata2:
+        hash: fb380b3686411304eccc7731a1ea97865711bae0
+        size: 239661
+    registry:
+      hash: ~
+    children: []

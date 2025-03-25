@@ -1,0 +1,18 @@
+---
+name: Dying Light 2 Stay Human
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:33.616446778Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/534380/pfx/drive_c/users/steamuser/Documents/dying light 2/out/settings/audio.scr:
+        hash: f5639261434f056cf636670bf05b0c3dd2bdb36f
+        size: 661
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/534380/pfx/drive_c/users/steamuser/Documents/dying light 2/out/settings/video.scr:
+        hash: aeb0ce1334ceea8044fbeb6aa8e8e351e345bcde
+        size: 4336
+    registry:
+      hash: ~
+    children: []

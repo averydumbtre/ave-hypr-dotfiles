@@ -1,0 +1,18 @@
+---
+name: "Dark Souls: Prepare to Die Edition"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-08T01:22:51.525986793Z"
+    os: linux
+    files:
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/NBGI/DarkSouls/DarkSouls.ini:
+        hash: d792556ffd133d837c267662ab4aedf95c41da6f
+        size: 874
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/Documents/NBGI/DarkSouls/DRAKS0005.sl2:
+        hash: 66c0b95d4c908fd025775752a86b929c7c767f01
+        size: 4326432
+    registry:
+      hash: ~
+    children: []

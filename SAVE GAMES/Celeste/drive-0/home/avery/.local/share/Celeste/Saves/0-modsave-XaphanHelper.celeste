@@ -1,0 +1,129 @@
+SavedFlags: []
+GlobalFlags:
+- StrawberryJam2021/0-Lobbies_Ch0_sj2021_beg_gym_bubble
+- StrawberryJam2021/0-Lobbies_Ch0_sj2021_int_gym_bubble
+- StrawberryJam2021/0-Lobbies_Ch0_sj2021_adv_gym_bubble
+WatchedCutscenes: []
+VisitedChapters: []
+VisitedRooms: []
+VisitedRoomsTiles: []
+ExtraUnexploredRooms: []
+ShowHints: {}
+ProgressMode: {}
+Markers: {}
+ShowMarkers: {}
+UnlockedWarps: []
+GoldenStrawberryUnlockedWarps: []
+PowerGripInactive: []
+ClimbingKitInactive: []
+SpiderMagnetInactive: []
+LightningDashInactive: []
+DroneTeleportInactive: []
+JumpBoostInactive: []
+BombsInactive: []
+MegaBombsInactive: []
+RemoteDroneInactive: []
+GoldenFeatherInactive: []
+BinocularsInactive: []
+EtherealDashInactive: []
+PortableStationInactive: []
+PulseRadarInactive: []
+DashBootsInactive: []
+HoverJetInactive: []
+MissilesModuleInactive: []
+SuperMissilesModuleInactive: []
+SpazerInactive: []
+PlasmaBeamInactive: []
+MorphingBallInactive: []
+MorphBombsInactive: []
+SpringBallInactive: []
+HighJumpBootsInactive: []
+SpeedBoosterInactive: []
+LongBeamInactive: []
+IceBeamInactive: []
+WaveBeamInactive: []
+VariaJacketInactive: []
+GravityJacketInactive: []
+ScrewAttackInactive: []
+SpaceJumpInactive: []
+StaminaUpgrades: []
+GoldenStrawberryStaminaUpgrades: []
+DroneMissilesUpgrades: []
+GoldenStrawberryDroneMissilesUpgrades: []
+DroneSuperMissilesUpgrades: []
+GoldenStrawberryDroneSuperMissilesUpgrades: []
+DroneFireRateUpgrades: []
+GoldenStrawberryDroneFireRateUpgrades: []
+CountdownCurrentTime: -1
+CountdownShake: false
+CountdownExplode: false
+CountdownActiveFlag: ''
+CountdownStartChapter: -1
+CountdownStartRoom: ''
+CountdownSpawn: &o0
+  X: 0
+  Y: 0
+CountdownIntroType: false
+CountdownUseLevelWipe: false
+CountdownHideFlag: ''
+CountdownEventsFlags: ''
+TeleportFromElevator: false
+DestinationRoom: ''
+Spawn: *o0
+Wipe: ''
+WipeDuration: 1.3500000238418579
+ConsiderBeginning: false
+SavedChapter: {}
+SavedRoom: {}
+SavedSpawn: {}
+SavedLightingAlphaAdd: {}
+SavedBloomBaseAdd: {}
+SavedCoreMode: {}
+SavedMusic: {}
+SavedAmbience: {}
+SavedNoLoadEntities: {}
+SavedTime: {}
+SavedFromBeginning: {}
+SavedSesionFlags: {}
+SavedSessionStrawberries: {}
+MaxHealth: {}
+MaxMissiles: {}
+MaxSuperMissiles: {}
+MaxPowerBombs: {}
+DoorsOpened: []
+AmmoCollected: []
+IgnoreSavedChapter: false
+IgnoreSavedRoom: false
+CSideUnlocked: []
+LastPlayedSide: 0
+Checkpoints: []
+CanDisplayPopups: false
+Achievements: []
+LorebookEntries: []
+LorebookEntriesRead: []
+startAsDrone:
+  StrawberryJam2021/3-Advanced: false
+droneStartChapter:
+  StrawberryJam2021/3-Advanced: 0
+droneStartRoom:
+  StrawberryJam2021/3-Advanced: ''
+droneStartSpawn:
+  StrawberryJam2021/3-Advanced: *o0
+droneCurrentSpawn:
+  StrawberryJam2021/3-Advanced: *o0
+fakePlayerFacing:
+  StrawberryJam2021/3-Advanced: 0
+fakePlayerPosition:
+  StrawberryJam2021/3-Advanced: *o0
+LightMode: {}
+GoldenStartChapter: -999
+PreGoldenTimer: 0
+PreGoldenDoNotLoad: []
+PreGoldenFlags: []
+PreGoldenSavedFlags: []
+PreGoldenGlobalFlags: []
+CurrentSubArea: ''
+BagUIId1: 0
+BagUIId2: 0
+LoadedPlayer: false
+SoCMVer: ''

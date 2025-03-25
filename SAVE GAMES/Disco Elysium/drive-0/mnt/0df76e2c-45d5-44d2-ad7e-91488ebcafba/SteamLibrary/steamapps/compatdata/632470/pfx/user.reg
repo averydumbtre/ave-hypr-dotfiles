@@ -1,0 +1,1427 @@
+WINE REGISTRY Version 2
+;; All keys relative to REGISTRY\\User\\S-1-5-21-2604488494-2696367801-1000-1000
+
+#arch=win64
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1715269842
+#time=1daa228a5d9a44e
+@=""
+
+[Console] 1715486848
+#time=1daa421e75970ca
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Control Panel\\Accessibility\\AudioDescription] 1715269838
+#time=1daa228a34d7070
+"Locale"=dword:00000000
+"On"="0"
+
+[Control Panel\\Accessibility\\Blind Access] 1715269838
+#time=1daa228a34d56ee
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1715269838
+#time=1daa228a34d3650
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1715269838
+#time=1daa228a34d608a
+"On"="0"
+
+[Control Panel\\Colors] 1715269843
+#time=1daa228a61b5c2c
+"ActiveBorder"="255 255 255"
+"ActiveTitle"="50 150 250"
+"AppWorkSpace"="128 128 128"
+"Background"="37 111 149"
+"ButtonAlternateFace"="255 255 255"
+"ButtonDkShadow"="106 106 106"
+"ButtonFace"="245 245 245"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="166 166 166"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="50 150 250"
+"GradientInactiveTitle"="128 128 128"
+"GrayText"="166 166 166"
+"Hilight"="48 150 250"
+"HilightText"="255 255 255"
+"HotTrackingColor"="224 224 224"
+"InactiveBorder"="255 255 255"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="200 200 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="255 255 255"
+"MenuBar"="255 255 255"
+"MenuHilight"="48 150 250"
+"MenuText"="0 0 0"
+"Scrollbar"="255 255 255"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="158 158 158"
+"WindowText"="0 0 0"
+
+[Control Panel\\Desktop] 1715269843
+#time=1daa228a61b71d0
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,02,80,12,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1715269843
+#time=1daa228a61b6fbe
+"BorderWidth"="1"
+"CaptionFont"=hex:0a,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="25"
+"CaptionWidth"="18"
+"IconFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="18"
+"MenuWidth"="18"
+"MessageFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="0"
+"ScrollHeight"="17"
+"ScrollWidth"="17"
+"SmCaptionFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="17"
+"SmCaptionWidth"="17"
+"StatusFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[Control Panel\\International] 1715269838
+#time=1daa228a33cbadc
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"Locale"="00000409"
+"LocaleName"="en-US"
+"NumShape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM d, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sShortTime"="h:mm tt"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\International\\Geo] 1715269838
+#time=1daa228a33cbc08
+"Name"="US"
+"Nation"="244"
+
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1715269838
+#time=1daa228a33cabf0
+"Currencies"="USD"
+
+[Control Panel\\Keyboard] 1715269838
+#time=1daa228a34d3812
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1715269838
+#time=1daa228a34d660c
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1715269838
+#time=1daa228a34d00fe
+"Beep"="Yes"
+
+[Environment] 1715269841
+#time=1daa228a4fda106
+"TEMP"="C:\\users\\steamuser\\Temp"
+"TMP"="C:\\users\\steamuser\\Temp"
+
+[Keyboard Layout\\Preload] 1715269838
+#time=1daa228a34ceb00
+"1"="00000409"
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1715269842
+#time=1daa228a5d16d1a
+"Search Page"="https://www.google.com"
+"Start Page"="https://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1715269840
+#time=1daa228a49456d8
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1715269842
+#time=1daa228a5d16fb8
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1715269842
+#time=1daa228a5d9a6ba
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1715269846
+#time=1daa228a806be64
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1715269846
+#time=1daa228a806c224
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1715269846
+#time=1daa228a806c5d0
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1715486848
+#time=1daa421e7b312d8
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1715486848
+#time=1daa421e7b313aa
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1715486848
+#time=1daa421e7b31472
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1715269846
+#time=1daa228a806dcc8
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1715269846
+#time=1daa228a806e074
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1715269846
+#time=1daa228a806e416
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1715486848
+#time=1daa421e7ae76ce
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1715486848
+#time=1daa421e7ae77a0
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1715486848
+#time=1daa421e7ae785e
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1715269846
+#time=1daa228a806fb4a
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1715269846
+#time=1daa228a806fef6
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1715269846
+#time=1daa228a8070310
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1719871335
+#time=1dacc02556a587e
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1715269841
+#time=1daa228a4fa6982
+"Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\steamuser\\AppData\\Roaming"
+"Cache"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"="C:\\users\\steamuser\\Desktop"
+"Favorites"="C:\\users\\steamuser\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"="C:\\users\\steamuser\\AppData\\Local"
+"My Music"="C:\\users\\steamuser\\Music"
+"My Pictures"="C:\\users\\steamuser\\Pictures"
+"My Videos"="C:\\users\\steamuser\\Videos"
+"NetHood"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"="C:\\users\\steamuser\\Documents"
+"PrintHood"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\steamuser\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\steamuser\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\steamuser\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\steamuser\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\steamuser\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\steamuser\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1715269841
+#time=1daa228a4fa6a86
+"__WineVistaPaths"=dword:00000001
+"Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
+"Cache"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\AppData\\Local"
+"My Music"=str(2):"%USERPROFILE%\\Music"
+"My Pictures"=str(2):"%USERPROFILE%\\Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\Videos"
+"NetHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"=str(2):"%USERPROFILE%\\Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1715269842
+#time=1daa228a5ae6d42
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1715269842
+#time=1daa228a5ae6612
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1715269842
+#time=1daa228a5ae605e
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1715269842
+#time=1daa228a5ae5988
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1715269842
+#time=1daa228a5ae6716
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1715269842
+#time=1daa228a5b33908
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1715269842
+#time=1daa228a5af9618
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1715269842
+#time=1daa228a5b0c92a
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1715269842
+#time=1daa228a5b1fc00
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1715269842
+#time=1daa228a5b33282
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1715269842
+#time=1daa228a5b4654e
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1715269842
+#time=1daa228a5d545b6
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1715269843
+#time=1daa228a61a8ffe
+"ColorName"="Blue"
+"DllName"="C:\\windows\\resources\\themes\\light\\light.msstyles"
+"FlatMenu"=dword:00000000
+"GradientCaption"=dword:00000001
+"IconTitleFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"LoadedBefore"="1"
+"NonClientMetrics"=hex:f8,01,00,00,01,00,00,00,10,00,00,00,10,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,\
+  00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,\
+  ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,\
+  22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,\
+  00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00
+"SizeName"="NormalSize"
+"ThemeActive"="1"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1715269842
+#time=1daa228a61a8838
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"Background"="58 110 165"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="212 208 200"
+"MenuBar"="212 208 200"
+"MenuHilight"="10 36 106"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1715486848
+#time=1daa421e7adf2f8
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1715269842
+#time=1daa228a5da0448
+"ProgId"="ftp"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1715269842
+#time=1daa228a5da1a0a
+"ProgId"="http"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1715269842
+#time=1daa228a5da2ffe
+"ProgId"="https"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1715269842
+#time=1daa228a5d552b8
+
+[Software\\Valve\\Steam] 1732855881
+#time=1db421a55fe005e
+"language"="english"
+"SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
+"SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Valve\\Steam\\ActiveProcess] 1719871335
+#time=1dacc0255711808
+"PID"=dword:0000fffe
+"SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
+"SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
+"SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Valve\\Steam\\Apps\\632470] 1715486854
+#time=1daa421eb48debe
+"Installed"=dword:00000001
+"Running"=dword:00000001
+"Updating"=dword:00000000
+
+[Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1715269842
+#time=1daa228a5edf0e8
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\BlackOps3.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed9bc0
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\DarkSoulsIII.exe\\X11 Driver] 1715269842
+#time=1daa228a5ecdaa0
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\DIRT5.exe\\DllOverrides] 1715269842
+#time=1daa228a5edb7f4
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\gotg.exe\\DllOverrides] 1715269842
+#time=1daa228a5edd3ce
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\GW2.Main_Win64_Retail.exe\\DllOverrides] 1715269842
+#time=1daa228a5ee0a6a
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\h1_mp64_ship.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed82b6
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\h1_sp64_ship.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed7636
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\iw7_ship.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed8f40
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\Maine-Win64-Shipping.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed1d12
+"SpeechSynthWrapper"="disabled"
+
+[Software\\Wine\\AppDefaults\\msedgewebview2.exe] 1715269842
+#time=1daa228a5ede472
+"Version"="win81"
+
+[Software\\Wine\\AppDefaults\\NFS16.exe\\DllOverrides] 1715269842
+#time=1daa228a5eda85e
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\NieRAutomata.exe\\X11 Driver] 1715269842
+#time=1daa228a5ecf576
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1732855881
+#time=1db421a55fdf488
+
+[Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed0fac
+"SpeechSynthesisWrapper"="disabled"
+
+[Software\\Wine\\AppDefaults\\rayne1.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed2992
+"d3d8"="native"
+
+[Software\\Wine\\AppDefaults\\rayne2.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed363a
+"d3d8"="native"
+
+[Software\\Wine\\AppDefaults\\RDR2.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed43be
+"vulkan-1"="native"
+
+[Software\\Wine\\AppDefaults\\RelicCardinal.exe\\DllOverrides] 1715269842
+#time=1daa228a5ede152
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\RiftApart.exe\\DllOverrides] 1715269842
+#time=1daa228a5ee23b0
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\s2_mp64_ship.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed69ac
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\s2_sp64_ship.exe\\DllOverrides] 1715269842
+#time=1daa228a5ed5cfa
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\sekiro.exe\\X11 Driver] 1715269842
+#time=1daa228a5ece810
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\ShadowOfWar.exe\\DllOverrides] 1715269842
+#time=1daa228a5edab60
+"amd_ags_x64"="disabled"
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\SpellForce.exe\\X11 Driver] 1715269842
+#time=1daa228a5ed0318
+"LimitNumberOfResolutions"="16"
+
+[Software\\Wine\\AppDefaults\\Spider-Man.exe\\DllOverrides] 1715269842
+#time=1daa228a5ee171c
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\starwarssquadrons.exe\\DllOverrides] 1715269842
+#time=1daa228a5edfd72
+"atiadlxx"="builtin"
+
+[Software\\Wine\\Debug] 1715269842
+#time=1daa228a5d6e6a0
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DllOverrides] 1732855865
+#time=1db421a4ca0fb06
+"api-ms-win-crt-conio-l1-1-0"="native,builtin"
+"api-ms-win-crt-heap-l1-1-0"="native,builtin"
+"api-ms-win-crt-locale-l1-1-0"="native,builtin"
+"api-ms-win-crt-math-l1-1-0"="native,builtin"
+"api-ms-win-crt-runtime-l1-1-0"="native,builtin"
+"api-ms-win-crt-stdio-l1-1-0"="native,builtin"
+"api-ms-win-crt-time-l1-1-0"="native,builtin"
+"atiadlxx"="disabled"
+"atl100"="native,builtin"
+"atl110"="native,builtin"
+"atl120"="native,builtin"
+"atl140"="native,builtin"
+"concrt140"="native,builtin"
+"msvcp100"="native,builtin"
+"msvcp110"="native,builtin"
+"msvcp120"="native,builtin"
+"msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
+"msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
+"msvcr100"="native,builtin"
+"msvcr110"="native,builtin"
+"msvcr120"="native,builtin"
+"msvcr140"="native,builtin"
+"nvcuda"="disabled"
+"ucrtbase"="native,builtin"
+"vcomp100"="native,builtin"
+"vcomp110"="native,builtin"
+"vcomp120"="native,builtin"
+"vcomp140"="native,builtin"
+"vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_00_1f.3.analog-stereo] 1732855901
+#time=1db421a61b1282c
+"guid"=hex:71,79,45,b0,8e,ac,fc,4d,b9,1d,01,e2,cb,25,3a,81
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_01_00.1.hdmi-stereo] 1715486857
+#time=1daa421ecbf03d6
+"guid"=hex:40,b8,bf,0a,a0,bb,a0,43,a0,22,33,3b,8a,dc,64,bf
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Alpha_Imaging_Tech_HTC_Vive-02.analog-stereo] 1715486857
+#time=1daa421ecbf429c
+"guid"=hex:b0,9e,16,fc,a3,7b,20,45,9c,d3,61,63,6d,f3,c9,84
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo] 1715486857
+#time=1daa421ecbf1790
+"guid"=hex:0f,9c,09,9c,d0,71,d5,45,85,c7,f8,42,ca,24,2e,44
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-surround-71] 1715486857
+#time=1daa421ecbf2db6
+"guid"=hex:7b,17,60,8f,30,9d,66,4a,a2,65,a3,07,59,05,1f,12
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Sony_Interactive_Entertainment_Wireless_Controller-00.analog-stereo] 1732855901
+#time=1db421a61b18740
+"guid"=hex:28,bd,bb,e0,f7,9e,e5,40,bf,cd,b5,3d,1b,0d,1b,01
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,easyeffects_sink] 1716054764
+#time=1daa94c30108a04
+"guid"=hex:c1,02,42,5d,15,39,56,45,a8,e4,7b,77,00,5b,ed,7f
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_00_1f.3.analog-stereo] 1715486857
+#time=1daa421ecbf79f6
+"guid"=hex:ae,76,2e,59,94,61,41,42,b0,21,82,b5,e2,51,97,e3
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Alpha_Imaging_Tech_HTC_Vive-02.mono-fallback] 1715486857
+#time=1daa421ecbfee68
+"guid"=hex:73,9f,1b,2b,8d,71,e4,41,96,aa,91,d8,0c,b1,3e,86
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo] 1715486857
+#time=1daa421ecbfa480
+"guid"=hex:cb,f6,98,71,43,4b,4e,47,a8,f0,3d,24,48,0d,b9,36
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.mono-fallback] 1732855901
+#time=1db421a61b208d2
+"guid"=hex:68,64,32,9c,fe,91,ef,40,99,90,cd,6e,db,09,0d,b5
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Sony_Interactive_Entertainment_Wireless_Controller-00.mono-fallback] 1732855901
+#time=1db421a61b282f8
+"guid"=hex:0e,3f,db,6a,51,e9,56,4d,86,01,cf,f0,b9,ad,f8,77
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_00_1f.3.analog-stereo.monitor] 1732855901
+#time=1db421a61b1b134
+"guid"=hex:de,90,1c,b3,73,06,76,4b,a6,d7,bf,50,3c,e7,a3,4e
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor] 1715486857
+#time=1daa421ecbf63d0
+"guid"=hex:51,0b,a0,9f,c6,10,01,45,98,e2,80,d0,b9,18,70,b8
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Alpha_Imaging_Tech_HTC_Vive-02.analog-stereo.monitor] 1715486857
+#time=1daa421ecbfd27a
+"guid"=hex:07,8e,e2,b5,50,bc,56,4f,85,95,89,32,9d,df,a7,2f
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo.monitor] 1715486857
+#time=1daa421ecbf8e1e
+"guid"=hex:ab,5e,af,c3,7d,3c,20,4d,ad,e6,89,05,eb,09,59,2c
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-surround-71.monitor] 1715486857
+#time=1daa421ecbfb9a2
+"guid"=hex:30,7d,1e,de,4e,e4,8d,4e,95,52,be,2d,15,e7,06,3b
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Sony_Interactive_Entertainment_Wireless_Controller-00.analog-stereo.monitor] 1732855901
+#time=1db421a61b261b0
+"guid"=hex:fe,67,21,d3,b1,ec,06,4f,8f,7e,f9,e2,30,e8,3f,ed
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,easyeffects_sink.monitor] 1716054764
+#time=1daa94c30111352
+"guid"=hex:72,bc,b7,44,aa,2d,17,47,8f,8c,d4,96,1f,9f,a6,c7
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,easyeffects_source] 1716054764
+#time=1daa94c301134ea
+"guid"=hex:12,d4,28,17,e2,2d,97,4a,be,4c,93,88,7e,92,1a,4f
+
+[Software\\Wine\\Fonts] 1735100170
+#time=1db5683ba1733ee
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1733279452
+#time=1db45f489fdbaec
+"Anime Ace 2.0 BB (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\animeace2_reg.ttf"
+"Anime Ace 2.0 BB Bold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\animeace2_bld.ttf"
+"Anime Ace 2.0 BB Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\animeace2_ital.ttf"
+"C059-BdIta (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-BdIta.otf"
+"C059-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-Bold.otf"
+"C059-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-Italic.otf"
+"C059-Roman (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-Roman.otf"
+"Cantarell Regular (TrueType)"="Z:\\run\\host\\fonts\\cantarell\\Cantarell-VF.otf"
+"Chinacat (TrueType)"="Z:\\home\\avery\\.fonts\\chinacat.ttf"
+"Conky Symbols (TrueType)"="Z:\\home\\avery\\.fonts\\ConkySymbols.ttf"
+"D050000L (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\D050000L.otf"
+"DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSans-BoldOblique.ttf"
+"DejaVu Sans Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed.ttf"
+"DejaVu Sans Condensed Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed-Bold.ttf"
+"DejaVu Sans Condensed Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed-BoldOblique.ttf"
+"DejaVu Sans Condensed Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed-Oblique.ttf"
+"DejaVu Sans ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSans-ExtraLight.ttf"
+"DejaVu Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono-Bold.ttf"
+"DejaVu Sans Mono Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansMono-BoldOblique.ttf"
+"DejaVu Sans Mono Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansMono-Oblique.ttf"
+"DejaVu Sans Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSans-Oblique.ttf"
+"DejaVu Serif (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif-Bold.ttf"
+"DejaVu Serif Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerif-BoldItalic.ttf"
+"DejaVu Serif Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed.ttf"
+"DejaVu Serif Condensed Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed-Bold.ttf"
+"DejaVu Serif Condensed Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed-BoldItalic.ttf"
+"DejaVu Serif Condensed Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed-Italic.ttf"
+"DejaVu Serif Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerif-Italic.ttf"
+"DejaVuMathTeXGyre-Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuMathTeXGyre.ttf"
+"Font Awesome 6 Brands Regular (TrueType)"="Z:\\run\\host\\fonts\\OTF\\Font Awesome 6 Brands-Regular-400.otf"
+"Font Awesome 6 Free Regular (TrueType)"="Z:\\run\\host\\fonts\\OTF\\Font Awesome 6 Free-Regular-400.otf"
+"Font Awesome 6 Free Solid (TrueType)"="Z:\\run\\host\\fonts\\OTF\\Font Awesome 6 Free-Solid-900.otf"
+"FreeMono (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMono.otf"
+"FreeMono Bold (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMonoBold.otf"
+"FreeMono Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMonoBoldOblique.otf"
+"FreeMono Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMonoOblique.otf"
+"FreeSans (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSans.otf"
+"FreeSans Bold (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSansBold.otf"
+"FreeSans Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSansBoldOblique.otf"
+"FreeSans Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSansOblique.otf"
+"FreeSerif (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerif.otf"
+"FreeSerif Bold (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerifBold.otf"
+"FreeSerif Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerifBoldItalic.otf"
+"FreeSerif Italic (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerifItalic.otf"
+"Future (TrueType)"="Z:\\home\\avery\\.fonts\\FUTURE.TTF"
+"GE Inspira (TrueType)"="Z:\\home\\avery\\.fonts\\GE_Inspira.ttf"
+"ITC Avant Garde Gothic LT Medium (TrueType)"="Z:\\home\\avery\\.fonts\\AvantGarde_LT_Medium.ttf"
+"JetBrainsMono NFP Bold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-Bold.ttf"
+"JetBrainsMono NFP ExtraBold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-ExtraBold.ttf"
+"JetBrainsMono NFP ExtraLight (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-ExtraLight.ttf"
+"JetBrainsMono NFP Light (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-Light.ttf"
+"JetBrainsMono NFP Medium (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-Medium.ttf"
+"JetBrainsMono NFP Regular (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-Regular.ttf"
+"JetBrainsMono NFP SemiBold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-SemiBold.ttf"
+"JetBrainsMono NFP Thin (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\NFP\\JetBrainsMonoNerdFontPropo-Thin.ttf"
+"NimbusMonoPS-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-Bold.otf"
+"NimbusMonoPS-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-BoldItalic.otf"
+"NimbusMonoPS-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-Italic.otf"
+"NimbusMonoPS-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-Regular.otf"
+"NimbusRoman-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-Bold.otf"
+"NimbusRoman-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-BoldItalic.otf"
+"NimbusRoman-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-Italic.otf"
+"NimbusRoman-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-Regular.otf"
+"NimbusSans-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-Bold.otf"
+"NimbusSans-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-BoldItalic.otf"
+"NimbusSans-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-Italic.otf"
+"NimbusSans-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-Regular.otf"
+"NimbusSansNarrow-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-Bold.otf"
+"NimbusSansNarrow-BoldOblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-BoldOblique.otf"
+"NimbusSansNarrow-Oblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-Oblique.otf"
+"NimbusSansNarrow-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-Regular.otf"
+"Orbitron Black (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Black.31.ttf"
+"Orbitron Bold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Bold.31.ttf"
+"Orbitron ExtraBold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_ExtraBold.31.ttf"
+"Orbitron Medium (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Medium.31.ttf"
+"Orbitron Regular (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Regular.31.ttf"
+"Orbitron SemiBold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_SemiBold.31.ttf"
+"P052-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-Bold.otf"
+"P052-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-BoldItalic.otf"
+"P052-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-Italic.otf"
+"P052-Roman (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-Roman.otf"
+"Segoe UI (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\segoeui.ttf"
+"Segoe UI Black (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguibl.ttf"
+"Segoe UI Black Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguibli.ttf"
+"Segoe UI Bold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\segoeuib.ttf"
+"Segoe UI Bold Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\segoeuiz.ttf"
+"Segoe UI Emoji (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguiemj.ttf"
+"Segoe UI Historic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguihis.ttf"
+"Segoe UI Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\segoeuii.ttf"
+"Segoe UI Light (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\segoeuil.ttf"
+"Segoe UI Light Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguili.ttf"
+"Segoe UI Semibold (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguisb.ttf"
+"Segoe UI Semibold Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguisbi.ttf"
+"Segoe UI Semilight (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\segoeuisl.ttf"
+"Segoe UI Semilight Italic (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguisli.ttf"
+"Segoe UI Symbol (TrueType)"="Z:\\home\\avery\\.local\\share\\fonts\\Microsoft\\TrueType\\SegoeUI\\seguisym.ttf"
+"Source Code Pro (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Regular.otf"
+"Source Code Pro Black (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Black.otf"
+"Source Code Pro Black Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-BlackIt.otf"
+"Source Code Pro Bold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Bold.otf"
+"Source Code Pro Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-BoldIt.otf"
+"Source Code Pro ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-ExtraLight.otf"
+"Source Code Pro ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-ExtraLightIt.otf"
+"Source Code Pro Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-It.otf"
+"Source Code Pro Light (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Light.otf"
+"Source Code Pro Light Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-LightIt.otf"
+"Source Code Pro Medium (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Medium.otf"
+"Source Code Pro Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-MediumIt.otf"
+"Source Code Pro Semibold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Semibold.otf"
+"Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-SemiboldIt.otf"
+"SourceCodeVF (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Upright.otf"
+"SourceCodeVF Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Italic.otf"
+"Standard Symbols PS (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\StandardSymbolsPS.otf"
+"Ubuntu (TrueType)"="Z:\\home\\avery\\.fonts\\Ubuntu.ttf"
+"URWBookman-Demi (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-Demi.otf"
+"URWBookman-DemiItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-DemiItalic.otf"
+"URWBookman-Light (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-Light.otf"
+"URWBookman-LightItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-LightItalic.otf"
+"URWGothic-Book (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-Book.otf"
+"URWGothic-BookOblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-BookOblique.otf"
+"URWGothic-Demi (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-Demi.otf"
+"URWGothic-DemiOblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-DemiOblique.otf"
+"Z003-MediumItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\Z003-MediumItalic.otf"
+"Zekton (TrueType)"="Z:\\home\\avery\\.fonts\\zekton__.ttf"
+"Zekton Bold (TrueType)"="Z:\\home\\avery\\.fonts\\zektonbo.ttf"
+"Zekton Bold Italic (TrueType)"="Z:\\home\\avery\\.fonts\\zektonbi.ttf"
+"Zekton Italic (TrueType)"="Z:\\home\\avery\\.fonts\\zektonit.ttf"
+
+[Software\\Wine\\Fonts\\Replacements] 1715269842
+#time=1daa228a5d8149e
+"Palatino Linotype"="Times New Roman"
+"Segoe UI"="Times New Roman"
+"Verdana"="Times New Roman"
+
+[Software\\Wine\\WineDbg] 1715269842
+#time=1daa228a5d6eb64
+"ShowCrashDialog"=dword:00000000
+
+[Software\\ZAUM Studio\\Disco Elysium] 1716054766
+#time=1daa94c30fd10d6
+"BindingsDefault_h1511096668"=hex:51,6b,6c,4f,52,41,49,41,66,77,41,41,41,41,56,\
+  51,59,58,56,7a,5a,51,63,41,41,41,41,42,41,41,41,41,61,51,41,41,41,41,45,41,\
+  41,41,42,6c,41,41,41,41,41,51,41,41,41,47,63,41,41,41,41,42,41,41,41,41,61,\
+  41,41,41,41,41,45,41,41,41,42,78,41,41,41,41,41,51,41,41,41,47,6f,41,41,41,\
+  41,43,41,41,41,41,41,51,41,41,41,41,30,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,43,45,6c,75,64,47,56,79,59,57,4e,30,\
+  41,77,41,41,41,41,45,41,41,41,41,53,41,41,41,41,41,51,41,41,41,42,4d,41,41,\
+  41,41,43,41,41,41,41,41,51,41,41,41,43,67,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,46,45,6c,75,64,47,56,79,59,57,4e,\
+  30,53,57,35,30,5a,58,4a,68,59,33,52,70,62,32,35,7a,41,41,41,41,41,41,6c,4d,\
+  5a,57,5a,30,54,57,39,31,63,32,55,42,41,41,41,41,41,77,41,41,41,41,45,41,41,\
+  41,41,51,55,32,4e,79,62,32,78,73,56,32,68,6c,5a,57,78,44,62,47,6c,6a,61,77,\
+  45,41,41,41,41,44,41,41,41,41,41,77,41,41,41,41,70,53,61,57,64,6f,64,45,31,\
+  76,64,58,4e,6c,41,51,41,41,41,41,4d,41,41,41,41,43,41,41,41,41,42,6c,4e,77,\
+  63,6d,6c,75,64,41,49,41,41,41,41,43,41,41,41,41,41,51,41,41,41,41,55,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,67,\
+  41,41,41,41,45,41,41,41,41,4a,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,78,54,63,48,4a,70,62,6e,52,55,62,32,64,6e,\
+  62,47,55,42,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,75,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,6c,4a,62,6e,\
+  5a,6c,62,6e,52,76,63,6e,6b,42,41,41,41,41,41,67,41,41,41,41,45,41,41,41,41,\
+  73,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,6c,49,61,57,64,6f,62,47,6c,6e,61,48,51,44,41,41,41,41,41,51,41,41,41,\
+  42,45,41,41,41,41,43,41,41,41,41,41,51,41,41,41,45,49,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,77,41,41,41,41,49,\
+  41,41,41,41,47,55,6d,46,6b,61,57,46,73,41,41,41,41,41,41,6c,51,61,47,39,30,\
+  62,30,31,76,5a,47,55,42,41,41,41,41,41,67,41,41,41,41,45,41,41,41,41,72,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  78,50,63,6d,4a,54,5a,57,78,6c,59,33,52,70,62,32,34,41,41,41,41,41,43,6c,4e,\
+  6c,62,47,56,6a,64,45,78,6c,5a,6e,51,41,41,41,41,41,43,31,4e,6c,62,47,56,6a,\
+  64,46,4a,70,5a,32,68,30,41,41,41,41,41,41,6c,46,62,6d,52,31,63,6d,46,75,59,\
+  32,55,42,41,41,41,41,41,51,41,41,41,41,30,41,41,41,41,49,56,6d,39,73,61,58,\
+  52,70,62,32,34,42,41,41,41,41,41,51,41,41,41,41,34,41,41,41,41,49,54,47,56,\
+  6d,64,45,68,68,62,6d,51,42,41,41,41,41,41,51,41,41,41,41,55,41,41,41,41,4a,\
+  55,6d,6c,6e,61,48,52,49,59,57,35,6b,41,51,41,41,41,41,45,41,41,41,41,4b,41,\
+  41,41,41,44,46,4e,30,62,33,42,4e,62,33,5a,6c,62,57,56,75,64,41,45,41,41,41,\
+  41,43,41,41,41,41,41,51,41,41,41,45,77,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,44,6c,52,6f,62,33,56,6e,61,48,52,44,\
+  59,57,4a,70,62,6d,56,30,41,51,41,41,41,41,49,41,41,41,41,42,41,41,41,41,4e,\
+  77,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,48,53,6d,39,31,63,6d,35,68,62,41,49,41,41,41,41,43,41,41,41,41,41,51,41,\
+  41,41,43,30,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,67,41,41,41,41,45,41,41,41,41,7a,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,35,44,61,47,46,79,59,57,\
+  4e,30,5a,58,4a,54,61,47,56,6c,64,41,45,41,41,41,41,43,41,41,41,41,41,51,41,\
+  41,41,43,59,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,30,31,68,63,41,45,41,41,41,41,43,41,41,41,41,41,51,41,41,41,\
+  44,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,44,30,78,68,62,6d,64,31,59,57,64,6c,55,33,64,70,64,47,4e,6f,4d,41,45,\
+  41,41,41,41,43,41,41,41,41,41,51,41,41,41,44,51,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,44,30,78,68,62,6d,64,31,59,\
+  57,64,6c,55,33,64,70,64,47,4e,6f,4d,51,45,41,41,41,41,43,41,41,41,41,41,51,\
+  41,41,41,43,38,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,44,6c,46,31,61,57,4e,72,53,57,35,32,5a,57,35,30,62,33,4a,35,\
+  41,41,41,41,41,42,4e,52,64,57,6c,6a,61,30,4e,6f,59,58,4a,68,59,33,52,6c,63,\
+  6c,4e,6f,5a,57,56,30,41,51,41,41,41,41,45,41,41,41,41,56,41,41,41,41,44,46,\
+  46,31,61,57,4e,72,53,6d,39,31,63,6d,35,68,62,41,41,41,41,41,41,54,55,58,56,\
+  70,59,32,74,55,61,47,39,31,5a,32,68,30,51,32,46,69,61,57,35,6c,64,41,41,41,\
+  41,41,41,4b,57,6d,39,76,62,56,52,76,5a,32,64,73,5a,51,41,41,41,41,41,48,57,\
+  6d,39,76,62,53,42,4a,62,67,49,41,41,41,41,42,41,41,41,41,44,77,41,41,41,41,\
+  4d,41,41,41,41,49,41,41,41,41,43,46,70,76,62,32,30,67,54,33,56,30,41,67,41,\
+  41,41,41,45,41,41,41,41,51,41,41,41,41,41,77,41,41,41,41,6b,41,41,41,41,50,\
+  57,6d,39,76,62,53,42,4a,62,69,42,45,61,57,64,70,64,47,46,73,41,51,41,41,41,\
+  41,49,41,41,41,41,42,41,41,41,41,5a,51,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,51,57,6d,39,76,62,53,42,50,64,58,51,\
+  67,52,47,6c,6e,61,58,52,68,62,41,45,41,41,41,41,43,41,41,41,41,41,51,41,41,\
+  41,47,51,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,42,45,68,6c,62,48,41,42,41,41,41,41,41,67,41,41,41,41,45,41,41,41,\
+  41,4f,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,6c,52,64,57,6c,6a,61,31,4e,68,64,6d,55,42,41,41,41,41,41,67,41,41,\
+  41,41,45,41,41,41,41,53,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,6c,52,64,57,6c,6a,61,30,78,76,59,57,51,42,41,41,\
+  41,41,41,67,41,41,41,41,45,41,41,41,41,57,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,42,46,45,61,57,46,73,62,32,64,31,\
+  5a,56,4e,6f,62,33,4a,30,53,32,56,35,4d,51,49,41,41,41,41,43,41,41,41,41,41,\
+  51,41,41,41,42,73,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,59,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,42,46,45,61,57,46,73,\
+  62,32,64,31,5a,56,4e,6f,62,33,4a,30,53,32,56,35,4d,67,49,41,41,41,41,43,41,\
+  41,41,41,41,51,41,41,41,42,77,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,5a,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,42,46,45,\
+  61,57,46,73,62,32,64,31,5a,56,4e,6f,62,33,4a,30,53,32,56,35,4d,77,49,41,41,\
+  41,41,43,41,41,41,41,41,51,41,41,41,42,30,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,\
+  61,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,42,46,45,61,57,46,73,62,32,64,31,5a,56,4e,6f,62,33,4a,30,53,32,56,35,4e,\
+  41,49,41,41,41,41,43,41,41,41,41,41,51,41,41,41,42,34,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,\
+  41,41,41,42,62,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,42,46,45,61,57,46,73,62,32,64,31,5a,56,4e,6f,62,33,4a,30,53,\
+  32,56,35,4e,51,49,41,41,41,41,43,41,41,41,41,41,51,41,41,41,42,38,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,67,41,\
+  41,41,41,45,41,41,41,42,63,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,42,46,45,61,57,46,73,62,32,64,31,5a,56,4e,6f,62,\
+  33,4a,30,53,32,56,35,4e,67,49,41,41,41,41,43,41,41,41,41,41,51,41,41,41,43,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,67,41,41,41,41,45,41,41,41,42,64,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,42,46,45,61,57,46,73,62,32,64,31,5a,\
+  56,4e,6f,62,33,4a,30,53,32,56,35,4e,77,49,41,41,41,41,43,41,41,41,41,41,51,\
+  41,41,41,43,45,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,65,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,42,46,45,61,57,46,73,62,\
+  32,64,31,5a,56,4e,6f,62,33,4a,30,53,32,56,35,4f,41,49,41,41,41,41,43,41,41,\
+  41,41,41,51,41,41,41,43,49,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,66,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,42,46,45,61,\
+  57,46,73,62,32,64,31,5a,56,4e,6f,62,33,4a,30,53,32,56,35,4f,51,49,41,41,41,\
+  41,43,41,41,41,41,41,51,41,41,41,43,4d,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,67,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,74,54,62,47,46,32,5a,55,4e,68,62,57,56,79,59,51,45,41,41,41,41,43,41,41,\
+  41,41,41,51,41,41,41,47,77,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,42,55,56,75,64,47,56,79,41,51,41,41,41,41,49,41,\
+  41,41,41,42,41,41,41,41,53,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,4c,55,32,68,70,5a,6e,52,54,5a,57,78,6c,59,33,\
+  51,42,41,41,41,41,41,67,41,41,41,41,45,41,41,41,41,42,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,6c,4e,62,33,5a,6c,\
+  49,45,78,6c,5a,6e,51,44,41,41,41,41,41,51,41,41,41,41,4d,41,41,41,41,43,41,\
+  41,41,41,41,51,41,41,41,43,51,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,54,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,70,4e,\
+  62,33,5a,6c,49,46,4a,70,5a,32,68,30,41,77,41,41,41,41,45,41,41,41,41,45,41,\
+  41,41,41,41,67,41,41,41,41,45,41,41,41,41,6e,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,49,41,41,41,41,42,41,41,41,\
+  41,56,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,48,54,57,39,32,5a,53,42,56,63,41,4d,41,41,41,41,42,41,41,41,41,41,\
+  51,41,41,41,41,49,41,41,41,41,42,41,41,41,41,4f,67,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,43,41,41,41,41,41,51,41,\
+  41,41,46,55,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,43,55,31,76,64,6d,55,67,52,47,39,33,62,67,4d,41,41,41,41,42,41,\
+  41,41,41,41,67,41,41,41,41,49,41,41,41,41,42,41,41,41,41,4e,67,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,43,41,41,41,\
+  41,41,51,41,41,41,46,59,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,43,55,78,76,62,32,73,67,54,47,56,6d,64,41,49,41,41,\
+  41,41,42,41,41,41,41,43,41,41,41,41,41,4d,41,41,41,41,45,41,41,41,41,43,6b,\
+  78,76,62,32,73,67,55,6d,6c,6e,61,48,51,43,41,41,41,41,41,51,41,41,41,41,6b,\
+  41,41,41,41,44,41,41,41,41,42,51,41,41,41,41,64,4d,62,32,39,72,49,46,56,77,\
+  41,67,41,41,41,41,45,41,41,41,41,47,41,41,41,41,41,77,41,41,41,41,63,41,41,\
+  41,41,4a,54,47,39,76,61,79,42,45,62,33,64,75,41,67,41,41,41,41,45,41,41,41,\
+  41,48,41,41,41,41,41,77,41,41,41,41,59,41,41,41,41,4d,56,55,6b,67,54,57,39,\
+  32,5a,53,42,4d,5a,57,5a,30,41,77,41,41,41,41,45,41,41,41,41,4e,41,41,41,41,\
+  41,67,41,41,41,41,45,41,41,41,41,6b,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,49,41,41,41,41,42,41,41,41,41,55,77,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  4e,56,55,6b,67,54,57,39,32,5a,53,42,53,61,57,64,6f,64,41,4d,41,41,41,41,42,\
+  41,41,41,41,44,67,41,41,41,41,49,41,41,41,41,42,41,41,41,41,4a,77,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,43,41,41,\
+  41,41,41,51,41,41,41,46,51,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,43,6c,56,4a,49,45,31,76,64,6d,55,67,56,58,41,44,\
+  41,41,41,41,41,51,41,41,41,41,73,41,41,41,41,43,41,41,41,41,41,51,41,41,41,\
+  44,6f,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,67,41,41,41,41,45,41,41,41,42,56,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,78,56,53,53,42,4e,62,33,5a,6c,\
+  49,45,52,76,64,32,34,44,41,41,41,41,41,51,41,41,41,41,77,41,41,41,41,43,41,\
+  41,41,41,41,51,41,41,41,44,59,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,57,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,6c,56,\
+  53,53,42,54,64,57,4a,74,61,58,51,45,41,41,41,41,41,51,41,41,41,42,4d,41,41,\
+  41,41,43,41,41,41,41,41,51,41,41,41,45,77,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,67,41,41,41,41,45,41,41,41,42,\
+  49,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,49,41,41,41,41,42,41,41,41,41,5a,67,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,4a,56,55,6b,67,51,32,46,75,59,32,\
+  56,73,41,67,41,41,41,41,45,41,41,41,41,55,41,41,41,41,41,67,41,41,41,41,45,\
+  41,41,41,41,4e,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,6c,56,53,56,52,68,61,32,56,42,62,47,77,42,41,41,41,41,41,\
+  51,41,41,41,42,59,41,41,41,41,4a,56,55,6c,55,59,57,4a,4d,5a,57,5a,30,41,51,\
+  41,41,41,41,45,41,41,41,41,52,41,41,41,41,43,6c,56,4a,56,47,46,69,55,6d,6c,\
+  6e,61,48,51,42,41,41,41,41,41,51,41,41,41,42,49,41,41,41,41,4d,56,55,6c,55,\
+  62,33,42,55,59,57,4a,4d,5a,57,5a,30,41,51,41,41,41,41,45,41,41,41,41,50,41,\
+  41,41,41,44,56,56,4a,56,47,39,77,56,47,46,69,55,6d,6c,6e,61,48,51,42,41,41,\
+  41,41,41,51,41,41,41,42,41,41,41,41,41,4b,56,55,6c,4f,59,58,4a,79,59,58,52,\
+  76,63,67,41,41,41,41,41,47,56,55,6c,54,62,33,4a,30,41,51,41,41,41,41,45,41,\
+  41,41,41,57,41,41,41,41,43,6b,4e,73,62,33,4e,6c,49,46,5a,70,5a,58,63,42,41,\
+  41,41,41,41,51,41,41,41,42,55,41,41,41,41,57,56,55,6c,44,61,47,46,79,63,32,\
+  68,6c,5a,58,52,53,59,57,35,6b,62,32,31,54,64,47,46,30,63,77,45,41,41,41,41,\
+  42,41,41,41,41,46,51,41,41,41,42,5a,56,53,55,4e,6f,59,58,4a,7a,61,47,56,6c,\
+  64,46,4a,6c,64,6d,56,79,64,46,4e,30,59,58,52,7a,41,51,41,41,41,41,45,41,41,\
+  41,41,57,41,41,41,41,46,6c,56,4a,51,32,68,68,63,6e,4e,6f,5a,57,56,30,55,33,\
+  56,69,62,57,6c,30,55,33,52,68,64,48,4d,41,41,41,41,41,44,31,56,4a,55,6d,56,\
+  7a,5a,58,52,54,5a,58,52,30,61,57,35,6e,63,77,45,41,41,41,41,42,41,41,41,41,\
+  46,67,41,41,41,41,78,56,53,55,52,6c,62,47,56,30,5a,56,4e,68,64,6d,55,42,41,\
+  41,41,41,41,51,41,41,41,42,59,41,41,41,41,4d,57,45,4a,50,57,46,4e,33,59,58,\
+  42,56,63,32,56,79,41,51,41,41,41,41,45,41,41,41,41,56,41,41,41,41,46,56,4e,\
+  6f,62,33,64,45,5a,58,5a,6c,62,47,39,77,62,57,56,75,64,46,42,68,62,6d,56,73,\
+  4d,51,45,41,41,41,41,42,41,41,41,41,45,51,41,41,41,42,56,54,61,47,39,33,52,\
+  47,56,32,5a,57,78,76,63,47,31,6c,62,6e,52,51,59,57,35,6c,62,44,49,42,41,41,\
+  41,41,41,51,41,41,41,42,59,41,41,41,41,53,52,47,56,69,64,57,64,42,62,48,64,\
+  68,65,58,4d,32,54,32,35,53,62,32,78,73,41,67,41,41,41,41,49,41,41,41,41,42,\
+  41,41,41,41,54,77,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,42,41,41,41,41,45,41,41,41,41,42,4a,45,5a,57,4a,31,5a,30,\
+  46,73,64,32,46,35,63,7a,46,50,62,6c,4a,76,62,47,77,43,41,41,41,41,41,67,41,\
+  41,41,41,45,41,41,41,42,51,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,45,41,41,41,41,53,41,41,41,41,45,45,4e,76,62,\
+  47,78,68,5a,32,55,67,55,32,4e,68,62,47,55,67,56,58,41,42,41,41,41,41,41,77,\
+  41,41,41,41,67,41,41,41,41,53,51,32,39,73,62,47,46,6e,5a,53,42,54,59,32,46,\
+  73,5a,53,42,45,62,33,64,75,41,51,41,41,41,41,4d,41,41,41,41,4a,41,41,41,41,\
+  45,30,4e,76,62,47,78,68,5a,32,55,67,55,32,4e,68,62,47,55,67,55,6d,56,7a,5a,\
+  58,51,42,41,41,41,41,41,77,41,41,41,41,4d,41,41,41,41,57,51,32,39,73,62,47,\
+  46,6e,5a,53,42,4f,5a,58,68,30,49,45,39,77,5a,58,4a,68,64,47,6c,76,62,67,49,\
+  41,41,41,41,43,41,41,41,41,41,51,41,41,41,46,51,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,51,41,41,41,41,34,41,41,\
+  41,41,61,51,32,39,73,62,47,46,6e,5a,53,42,51,63,6d,56,32,61,57,39,31,63,79,\
+  42,50,63,47,56,79,59,58,52,70,62,32,34,43,41,41,41,41,41,67,41,41,41,41,45,\
+  41,41,41,42,54,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,45,41,41,41,41,4e,41,41,41,41,48,55,4e,76,62,47,78,68,5a,\
+  32,55,67,52,47,6c,68,62,47,39,6e,64,57,55,67,52,57,35,30,63,6e,6b,67,55,33,\
+  56,69,62,57,6c,30,41,51,41,41,41,41,49,41,41,41,41,42,41,41,41,41,53,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,64,\
+  51,32,39,73,62,47,46,6e,5a,53,42,45,61,57,46,73,62,32,64,31,5a,53,42,46,62,\
+  6e,52,79,65,53,42,53,5a,57,31,76,64,6d,55,42,41,41,41,41,41,67,41,41,41,41,\
+  45,41,41,41,42,42,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,43,42,44,62,32,78,73,59,57,64,6c,49,45,52,70,59,57,78,76,\
+  5a,33,56,6c,49,45,46,31,64,47,39,6d,61,57,78,73,49,46,4e,31,59,6d,31,70,64,\
+  41,45,41,41,41,41,43,41,41,41,41,41,51,41,41,41,45,49,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,44,45,4e,76,62,47,78,\
+  68,5a,32,55,67,51,33,52,79,62,41,45,41,41,41,41,43,41,41,41,41,41,51,41,41,\
+  41,41,67,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,46,55,4e,76,62,47,78,68,5a,32,55,67,53,32,56,35,59,6d,39,68,63,6d,\
+  51,67,56,57,35,6b,62,77,45,41,41,41,41,43,41,41,41,41,41,51,41,41,41,44,30,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  46,55,4e,76,62,47,78,68,5a,32,55,67,53,32,56,35,59,6d,39,68,63,6d,51,67,55,\
+  6d,56,6b,62,77,45,41,41,41,41,43,41,41,41,41,41,51,41,41,41,44,55,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,46,45,4e,\
+  76,62,47,78,68,5a,32,55,67,52,32,46,74,5a,58,42,68,5a,43,42,56,62,6d,52,76,\
+  41,51,41,41,41,41,45,41,41,41,41,50,41,41,41,41,46,45,4e,76,62,47,78,68,5a,\
+  32,55,67,52,32,46,74,5a,58,42,68,5a,43,42,53,5a,57,52,76,41,51,41,41,41,41,\
+  45,41,41,41,41,51,41,41,41,41,47,6b,4e,76,62,47,78,68,5a,32,55,67,55,48,4a,\
+  76,5a,33,4a,6c,63,33,4e,70,64,6d,55,67,51,6e,56,30,64,47,39,75,41,51,41,41,\
+  41,41,45,41,41,41,41,54,41,41,41,41,47,6b,4e,76,62,47,78,68,5a,32,55,67,52,\
+  47,56,7a,64,48,4a,31,59,33,52,70,64,6d,55,67,51,6e,56,30,64,47,39,75,41,51,\
+  41,41,41,41,45,41,41,41,41,55,41,41,41,41,45,30,4e,76,62,47,78,68,5a,32,55,\
+  67,52,57,52,70,64,43,42,43,64,58,52,30,62,32,34,42,41,41,41,41,41,51,41,41,\
+  41,42,55,41,41,41,41,56,51,32,39,73,62,47,46,6e,5a,53,42,55,62,32,64,6e,62,\
+  47,55,67,51,6e,56,30,64,47,39,75,41,51,41,41,41,41,45,41,41,41,41,57,41,41,\
+  41,41,44,45,4e,76,62,47,78,68,5a,32,55,67,54,57,39,32,5a,51,41,41,41,41,41,\
+  57,51,32,39,73,62,47,46,6e,5a,53,42,44,59,57,31,6c,63,6d,45,67,57,6d,39,76,\
+  62,53,42,4a,62,67,45,41,41,41,41,44,41,41,41,41,43,51,41,41,41,42,64,44,62,\
+  32,78,73,59,57,64,6c,49,45,4e,68,62,57,56,79,59,53,42,61,62,32,39,74,49,45,\
+  39,31,64,41,45,41,41,41,41,44,41,41,41,41,43,41,41,41,41,42,35,44,62,32,78,\
+  73,59,57,64,6c,49,45,64,68,62,57,56,77,59,57,51,67,51,32,46,74,5a,58,4a,68,\
+  49,46,70,76,62,32,30,67,53,57,34,42,41,41,41,41,41,51,41,41,41,41,77,41,41,\
+  41,41,66,51,32,39,73,62,47,46,6e,5a,53,42,48,59,57,31,6c,63,47,46,6b,49,45,\
+  4e,68,62,57,56,79,59,53,42,61,62,32,39,74,49,45,39,31,64,41,45,41,41,41,41,\
+  42,41,41,41,41,43,77,41,41,41,42,64,44,62,32,78,73,59,57,64,6c,49,45,78,6c,\
+  5a,6e,51,67,55,33,52,70,59,32,73,67,54,47,56,6d,64,41,45,41,41,41,41,42,41,\
+  41,41,41,41,77,41,41,41,42,68,44,62,32,78,73,59,57,64,6c,49,45,78,6c,5a,6e,\
+  51,67,55,33,52,70,59,32,73,67,55,6d,6c,6e,61,48,51,42,41,41,41,41,41,51,41,\
+  41,41,41,51,41,41,41,41,56,51,32,39,73,62,47,46,6e,5a,53,42,4d,5a,57,5a,30,\
+  49,46,4e,30,61,57,4e,72,49,46,56,77,41,51,41,41,41,41,45,41,41,41,41,42,41,\
+  41,41,41,46,30,4e,76,62,47,78,68,5a,32,55,67,54,47,56,6d,64,43,42,54,64,47,\
+  6c,6a,61,79,42,45,62,33,64,75,41,51,41,41,41,41,45,41,41,41,41,43,41,41,41,\
+  41,47,45,4e,76,62,47,78,68,5a,32,55,67,55,6d,6c,6e,61,48,51,67,55,33,52,70,\
+  59,32,73,67,54,47,56,6d,64,41,45,41,41,41,41,42,41,41,41,41,43,41,41,41,41,\
+  42,6c,44,62,32,78,73,59,57,64,6c,49,46,4a,70,5a,32,68,30,49,46,4e,30,61,57,\
+  4e,72,49,46,4a,70,5a,32,68,30,41,51,41,41,41,41,45,41,41,41,41,4a,41,41,41,\
+  41,46,6b,4e,76,62,47,78,68,5a,32,55,67,55,6d,6c,6e,61,48,51,67,55,33,52,70,\
+  59,32,73,67,56,58,41,42,41,41,41,41,41,51,41,41,41,41,59,41,41,41,41,59,51,\
+  32,39,73,62,47,46,6e,5a,53,42,53,61,57,64,6f,64,43,42,54,64,47,6c,6a,61,79,\
+  42,45,62,33,64,75,41,51,41,41,41,41,45,41,41,41,41,48,41,41,41,41,47,45,4e,\
+  76,62,47,78,68,5a,32,55,67,52,32,46,74,5a,58,42,68,5a,43,42,54,59,32,46,73,\
+  5a,53,42,56,63,41,45,41,41,41,41,42,41,41,41,41,43,77,41,41,41,42,70,44,62,\
+  32,78,73,59,57,64,6c,49,45,64,68,62,57,56,77,59,57,51,67,55,32,4e,68,62,47,\
+  55,67,52,47,39,33,62,67,45,41,41,41,41,42,41,41,41,41,44,41,41,41,41,42,78,\
+  44,62,32,78,73,59,57,64,6c,49,45,64,68,62,57,56,77,59,57,51,67,55,48,4a,6c,\
+  64,6d,6c,76,64,58,4d,67,56,47,46,69,41,51,41,41,41,41,45,41,41,41,41,52,41,\
+  41,41,41,47,45,4e,76,62,47,78,68,5a,32,55,67,52,32,46,74,5a,58,42,68,5a,43,\
+  42,4f,5a,58,68,30,49,46,52,68,59,67,45,41,41,41,41,42,41,41,41,41,45,67,41,\
+  41,41,43,52,44,62,32,78,73,59,57,64,6c,49,45,64,68,62,57,56,77,59,57,51,67,\
+  55,48,4a,6c,64,6d,6c,76,64,58,4d,67,52,48,4a,68,64,32,56,79,49,46,52,76,62,\
+  32,77,42,41,41,41,41,41,51,41,41,41,41,38,41,41,41,41,67,51,32,39,73,62,47,\
+  46,6e,5a,53,42,48,59,57,31,6c,63,47,46,6b,49,45,35,6c,65,48,51,67,52,48,4a,\
+  68,64,32,56,79,49,46,52,76,62,32,77,42,41,41,41,41,41,51,41,41,41,42,41,41,\
+  41,41,41,66,51,32,39,73,62,47,46,6e,5a,53,42,48,59,57,31,6c,63,47,46,6b,49,\
+  46,52,68,61,32,55,67,55,32,4e,79,5a,57,56,75,63,32,68,76,64,41,45,41,41,41,\
+  41,42,41,41,41,41,45,67,41,41,41,42,74,44,62,32,78,73,59,57,64,6c,49,45,35,\
+  6c,65,48,51,67,52,47,6c,68,62,47,39,6e,64,57,55,67,52,57,35,30,63,6e,6b,42,\
+  41,41,41,41,41,51,41,41,41,41,49,41,41,41,41,66,51,32,39,73,62,47,46,6e,5a,\
+  53,42,51,63,6d,56,32,61,57,39,31,63,79,42,45,61,57,46,73,62,32,64,31,5a,53,\
+  42,46,62,6e,52,79,65,51,45,41,41,41,41,42,41,41,41,41,41,51,41,41,41,43,52,\
+  44,62,32,78,73,59,57,64,6c,49,45,35,6c,65,48,51,67,52,47,6c,68,62,47,39,6e,\
+  64,57,55,67,51,58,56,30,62,32,5a,70,62,47,77,67,52,57,35,30,63,6e,6b,42,41,\
+  41,41,41,41,51,41,41,41,41,63,41,41,41,41,6f,51,32,39,73,62,47,46,6e,5a,53,\
+  42,51,63,6d,56,32,61,57,39,31,63,79,42,45,61,57,46,73,62,32,64,31,5a,53,42,\
+  42,64,58,52,76,5a,6d,6c,73,62,43,42,46,62,6e,52,79,65,51,45,41,41,41,41,42,\
+  41,41,41,41,42,67,41,41,41,42,31,44,62,32,78,73,59,57,64,6c,49,46,52,76,5a,\
+  32,64,73,5a,53,42,45,61,57,46,73,62,32,64,31,5a,53,42,44,61,47,56,6a,61,77,\
+  45,41,41,41,41,42,41,41,41,41,45,51,41,41,41,42,78,44,62,32,78,73,59,57,64,\
+  6c,49,46,52,76,5a,32,64,73,5a,53,42,44,62,32,35,30,61,57,35,31,5a,53,42,55,\
+  65,58,42,6c,41,51,41,41,41,41,45,41,41,41,41,4c,41,41,41,41,44,45,4e,76,62,\
+  47,78,68,5a,32,55,67,52,58,68,70,64,41,63,41,41,41,41,42,41,41,41,41,61,51,\
+  41,41,41,41,45,41,41,41,42,6c,41,41,41,41,41,51,41,41,41,47,63,41,41,41,41,\
+  42,41,41,41,41,61,41,41,41,41,41,45,41,41,41,42,78,41,41,41,41,41,51,41,41,\
+  41,47,6f,41,41,41,41,43,41,41,41,41,41,51,41,41,41,41,30,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,44,6b,4e,76,62,47,\
+  78,68,5a,32,55,67,55,6d,56,74,62,33,5a,6c,41,51,41,41,41,41,49,41,41,41,41,\
+  42,41,41,41,41,54,67,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,\
+  41,41,41,41,41,41,41,3d,00
+"I2 Language_h3293684300"=hex:45,6e,67,6c,69,73,68,00
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000001
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000438
+"Screenmanager Resolution Height_h2627697771"=dword:00000438
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000780
+"Screenmanager Resolution Width_h182942802"=dword:00000780
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"unity.cloud_userid_h2665564582"=hex:32,65,39,30,32,37,65,32,32,38,66,32,65,37,\
+  66,34,36,62,35,63,64,36,39,66,34,38,31,62,62,61,66,35,00
+"unity.player_session_count_h922449978"=hex:32,00
+"unity.player_sessionid_h1351336811"=hex:34,31,35,36,34,33,38,32,37,36,34,38,\
+  30,36,37,31,33,35,30,00
+"UnitySelectMonitor_h17969598"=dword:00000000
+
+[Volatile Environment] 1715486847
+#time=1daa421e6ddd2b2
+"APPDATA"="C:\\users\\steamuser\\AppData\\Roaming"
+"CLIENTNAME"="Console"
+"HOMEDRIVE"="C:"
+"HOMEPATH"="\\users\\steamuser"
+"HOMESHARE"=""
+"LOCALAPPDATA"="C:\\users\\steamuser\\AppData\\Local"
+"LOGONSERVER"="\\\\AVERY-S-THANG"
+"SESSIONNAME"="Console"
+"USERDOMAIN"="AVERY-S-THANG"
+"USERNAME"="steamuser"
+"USERPROFILE"="C:\\users\\steamuser"

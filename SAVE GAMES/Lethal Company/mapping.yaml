@@ -1,0 +1,27 @@
+---
+name: Lethal Company
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:17.038137855Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1966720/pfx/drive_c/users/steamuser/AppData/LocalLow/ZeekerssRBLX/Lethal Company/LCGeneralSaveData:
+        hash: b1b9e66d228ac966ffa8949eb2c491db2d51fae0
+        size: 2096
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1966720/pfx/drive_c/users/steamuser/AppData/LocalLow/ZeekerssRBLX/Lethal Company/Player.log:
+        hash: cc1aeb653a33f47b812ee52ed260994815a36560
+        size: 2384446
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1966720/pfx/system.reg:
+        hash: 57dbccc7a263ebc1624cc9494a63b325eaf40abe
+        size: 3749433
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1966720/pfx/user.reg:
+        hash: 83d570a17e2a51ac141f3ab44ad4b4a19897734e
+        size: 45868
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1966720/pfx/userdef.reg:
+        hash: ec13b340c37576997f00ddd17790a06ce73ea96c
+        size: 4190
+    registry:
+      hash: ~
+    children: []

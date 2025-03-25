@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data template="TkGameSettings">
+	<Property name="KeyMapping" />
+	<Property name="KeyMapping2">
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="OnFootControls" />
+			<Property name="Action" value="Player_Interact" />
+			<Property name="Button" value="Mouse5" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="FRONTEND" />
+			<Property name="Action" value="UI_Right_Sub" />
+			<Property name="Button" value="Mouse5" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="FRONTEND" />
+			<Property name="Action" value="UI_StackSplitUp" />
+			<Property name="Button" value="Mouse5" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="BuildMenuPlacementMode" />
+			<Property name="Action" value="BaseBuilding_NextPart" />
+			<Property name="Button" value="Mouse5" />
+			<Property name="Axis" value="None" />
+		</Property>
+		<Property name="KeyMapping2" value="GcInputActionMapping2.xml">
+			<Property name="ActionSet" value="VehicleMode" />
+			<Property name="Action" value="Vehicle_Exit" />
+			<Property name="Button" value="Mouse5" />
+			<Property name="Axis" value="None" />
+		</Property>
+	</Property>
+	<Property name="LastKnownPadType" value="TkPadEnum.xml">
+		<Property name="Pad" value="DS4" />
+	</Property>
+</Data>

@@ -1,0 +1,7 @@
+PlayerAlwaysHasNail: false
+NailHit:
+  Buttons:
+  - X
+  Keys:
+  - A
+  MouseButtons: []

@@ -1,0 +1,1292 @@
+[2025-03-23 21:49:24.299]: Info: Sunshine version: 2025.122.141614
+[2025-03-23 21:49:24.299]: Info: Package Publisher: Third Party Publisher
+[2025-03-23 21:49:24.299]: Info: Publisher Website: 
+[2025-03-23 21:49:24.299]: Info: Get support: https://app.lizardbyte.dev/support
+[2025-03-23 21:49:24.302]: Info: Found display [wayland-1]
+[2025-03-23 21:49:24.302]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 21:49:24.302]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 21:49:24.302]: Info: Found interface: wl_output(54) version 4
+[2025-03-23 21:49:24.302]: Warning: Missing Wayland wire for wlr-export-dmabuf
+[2025-03-23 21:49:24.302]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:49:24.302]: Info: Found display [wayland-1]
+[2025-03-23 21:49:24.302]: Info: Found display [wayland-1]
+[2025-03-23 21:49:24.302]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 21:49:24.302]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 21:49:24.302]: Info: Found interface: wl_output(54) version 4
+[2025-03-23 21:49:24.302]: Info: Resolution: 1920x1080
+[2025-03-23 21:49:24.302]: Info: Resolution: 3840x2160
+[2025-03-23 21:49:24.302]: Info: Name: DP-1
+[2025-03-23 21:49:24.302]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 21:49:24.302]: Info: Offset: 0x0
+[2025-03-23 21:49:24.302]: Info: Logical size: 1920x1080
+[2025-03-23 21:49:24.302]: Info: Name: DP-2
+[2025-03-23 21:49:24.302]: Info: Found monitor: ASUSTek COMPUTER INC ASUS VG289 0x00053D1B (DP-2)
+[2025-03-23 21:49:24.303]: Info: Offset: 1920x0
+[2025-03-23 21:49:24.303]: Info: Logical size: 2560x1440
+[2025-03-23 21:49:24.303]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 21:49:24.303]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 21:49:24.303]: Info: Monitor 1 is DP-2: ASUSTek COMPUTER INC ASUS VG289 0x00053D1B (DP-2)
+[2025-03-23 21:49:24.303]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 21:49:24.347]: Info: System tray created
+[2025-03-23 21:49:24.390]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 21:49:24.390]: Info: Trying encoder [nvenc]
+[2025-03-23 21:49:24.390]: Info: Screencasting with KMS
+[2025-03-23 21:49:24.390]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:49:24.391]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:49:24.391]: Info: Found connector ID [106]
+[2025-03-23 21:49:24.391]: Info: Found cursor plane [53]
+[2025-03-23 21:49:24.391]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:49:24.391]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:49:24.391]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:49:24.391]: Info: Found connector ID [106]
+[2025-03-23 21:49:24.391]: Info: Found cursor plane [53]
+[2025-03-23 21:49:24.466]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 21:49:24.466]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:49:24.466]: Info: Color depth: 8-bit
+[2025-03-23 21:49:24.466]: Info: Color range: JPEG
+[2025-03-23 21:49:24.980]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:49:24.980]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:49:24.980]: Info: Color depth: 8-bit
+[2025-03-23 21:49:24.980]: Info: Color range: JPEG
+[2025-03-23 21:49:25.475]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 21:49:25.475]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:49:25.475]: Info: Color depth: 8-bit
+[2025-03-23 21:49:25.475]: Info: Color range: JPEG
+[2025-03-23 21:49:25.580]: Warning: [av1_nvenc @ 0x55db2ae6bf80] Codec not supported
+[2025-03-23 21:49:25.580]: Error: [av1_nvenc @ 0x55db2ae6bf80] Provided device doesn't support required NVENC features
+[2025-03-23 21:49:25.899]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 21:49:25.900]: Info: Screencasting with KMS
+[2025-03-23 21:49:25.900]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:49:25.900]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:49:25.900]: Info: Found connector ID [106]
+[2025-03-23 21:49:25.900]: Info: Found cursor plane [53]
+[2025-03-23 21:49:25.900]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:49:25.900]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:49:25.900]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:49:25.900]: Info: Found connector ID [106]
+[2025-03-23 21:49:25.900]: Info: Found cursor plane [53]
+[2025-03-23 21:49:25.902]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:49:25.902]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 21:49:25.902]: Info: Color depth: 10-bit
+[2025-03-23 21:49:25.902]: Info: Color range: JPEG
+[2025-03-23 21:49:26.333]: Info: 
+[2025-03-23 21:49:26.333]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 21:49:26.333]: Info: 
+[2025-03-23 21:49:26.333]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 21:49:26.333]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 21:49:26.335]: Error: Failed to create client: Daemon not running
+[2025-03-23 21:49:26.335]: Info: Configuration UI available at [https://localhost:47990]
+[2025-03-23 21:50:04.460]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 21:50:04.460]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 21:50:04.460]: Info: Trying encoder [nvenc]
+[2025-03-23 21:50:04.460]: Info: Screencasting with KMS
+[2025-03-23 21:50:04.460]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:04.460]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:04.460]: Info: Found connector ID [106]
+[2025-03-23 21:50:04.460]: Info: Found cursor plane [53]
+[2025-03-23 21:50:04.460]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:04.460]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:04.460]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:04.460]: Info: Found connector ID [106]
+[2025-03-23 21:50:04.461]: Info: Found cursor plane [53]
+[2025-03-23 21:50:04.497]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 21:50:04.497]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:04.497]: Info: Color depth: 8-bit
+[2025-03-23 21:50:04.497]: Info: Color range: JPEG
+[2025-03-23 21:50:04.922]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:04.922]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:04.922]: Info: Color depth: 8-bit
+[2025-03-23 21:50:04.922]: Info: Color range: JPEG
+[2025-03-23 21:50:05.345]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 21:50:05.345]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:05.345]: Info: Color depth: 8-bit
+[2025-03-23 21:50:05.346]: Info: Color range: JPEG
+[2025-03-23 21:50:05.446]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 21:50:05.446]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 21:50:05.761]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 21:50:05.761]: Info: Screencasting with KMS
+[2025-03-23 21:50:05.761]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:05.761]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:05.761]: Info: Found connector ID [106]
+[2025-03-23 21:50:05.761]: Info: Found cursor plane [53]
+[2025-03-23 21:50:05.761]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:05.761]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:05.761]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:05.762]: Info: Found connector ID [106]
+[2025-03-23 21:50:05.762]: Info: Found cursor plane [53]
+[2025-03-23 21:50:05.764]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:05.764]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 21:50:05.764]: Info: Color depth: 10-bit
+[2025-03-23 21:50:05.764]: Info: Color range: JPEG
+[2025-03-23 21:50:06.184]: Info: 
+[2025-03-23 21:50:06.184]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 21:50:06.184]: Info: 
+[2025-03-23 21:50:06.184]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 21:50:06.184]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 21:50:06.184]: Info: Executing [Desktop]
+[2025-03-23 21:50:10.379]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 21:50:10.379]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 21:50:10.379]: Info: Trying encoder [nvenc]
+[2025-03-23 21:50:10.379]: Info: Screencasting with KMS
+[2025-03-23 21:50:10.379]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:10.379]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:10.379]: Info: Found connector ID [106]
+[2025-03-23 21:50:10.379]: Info: Found cursor plane [53]
+[2025-03-23 21:50:10.379]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:10.379]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:10.379]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:10.379]: Info: Found connector ID [106]
+[2025-03-23 21:50:10.379]: Info: Found cursor plane [53]
+[2025-03-23 21:50:10.381]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 21:50:10.381]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:10.381]: Info: Color depth: 8-bit
+[2025-03-23 21:50:10.381]: Info: Color range: JPEG
+[2025-03-23 21:50:10.806]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:10.806]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:10.806]: Info: Color depth: 8-bit
+[2025-03-23 21:50:10.806]: Info: Color range: JPEG
+[2025-03-23 21:50:11.231]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 21:50:11.231]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:11.231]: Info: Color depth: 8-bit
+[2025-03-23 21:50:11.231]: Info: Color range: JPEG
+[2025-03-23 21:50:11.334]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 21:50:11.334]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 21:50:11.650]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 21:50:11.650]: Info: Screencasting with KMS
+[2025-03-23 21:50:11.650]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:11.650]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:11.651]: Info: Found connector ID [106]
+[2025-03-23 21:50:11.651]: Info: Found cursor plane [53]
+[2025-03-23 21:50:11.651]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:11.651]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:11.651]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:11.651]: Info: Found connector ID [106]
+[2025-03-23 21:50:11.651]: Info: Found cursor plane [53]
+[2025-03-23 21:50:11.653]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:11.653]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 21:50:11.653]: Info: Color depth: 10-bit
+[2025-03-23 21:50:11.653]: Info: Color range: JPEG
+[2025-03-23 21:50:12.083]: Info: 
+[2025-03-23 21:50:12.083]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 21:50:12.083]: Info: 
+[2025-03-23 21:50:12.083]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 21:50:12.083]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 21:50:12.099]: Error: Failed to verify RTSP message tag
+[2025-03-23 21:50:23.019]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 21:50:23.019]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 21:50:23.019]: Info: Trying encoder [nvenc]
+[2025-03-23 21:50:23.019]: Info: Screencasting with KMS
+[2025-03-23 21:50:23.019]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:23.019]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:23.019]: Info: Found connector ID [106]
+[2025-03-23 21:50:23.019]: Info: Found cursor plane [53]
+[2025-03-23 21:50:23.019]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:23.019]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:23.019]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:23.019]: Info: Found connector ID [106]
+[2025-03-23 21:50:23.019]: Info: Found cursor plane [53]
+[2025-03-23 21:50:23.021]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 21:50:23.021]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:23.021]: Info: Color depth: 8-bit
+[2025-03-23 21:50:23.021]: Info: Color range: JPEG
+[2025-03-23 21:50:23.446]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:23.446]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:23.447]: Info: Color depth: 8-bit
+[2025-03-23 21:50:23.447]: Info: Color range: JPEG
+[2025-03-23 21:50:23.867]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 21:50:23.867]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 21:50:23.867]: Info: Color depth: 8-bit
+[2025-03-23 21:50:23.867]: Info: Color range: JPEG
+[2025-03-23 21:50:23.969]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 21:50:23.969]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 21:50:24.285]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 21:50:24.286]: Info: Screencasting with KMS
+[2025-03-23 21:50:24.286]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:24.286]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:24.286]: Info: Found connector ID [106]
+[2025-03-23 21:50:24.286]: Info: Found cursor plane [53]
+[2025-03-23 21:50:24.286]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:24.286]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:24.286]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:24.286]: Info: Found connector ID [106]
+[2025-03-23 21:50:24.286]: Info: Found cursor plane [53]
+[2025-03-23 21:50:24.288]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:24.288]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 21:50:24.288]: Info: Color depth: 10-bit
+[2025-03-23 21:50:24.288]: Info: Color range: JPEG
+[2025-03-23 21:50:24.710]: Info: 
+[2025-03-23 21:50:24.710]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 21:50:24.710]: Info: 
+[2025-03-23 21:50:24.710]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 21:50:24.710]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 21:50:24.799]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 21:50:24.861]: Info: CLIENT CONNECTED
+[2025-03-23 21:50:24.975]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:24.975]: Info: Found display [wayland-1]
+[2025-03-23 21:50:24.975]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 21:50:24.975]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 21:50:24.975]: Info: Resolution: 1920x1080
+[2025-03-23 21:50:24.975]: Info: Name: DP-1
+[2025-03-23 21:50:24.975]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 21:50:24.975]: Info: Offset: 0x0
+[2025-03-23 21:50:24.975]: Info: Logical size: 1920x1080
+[2025-03-23 21:50:24.975]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 21:50:24.975]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 21:50:24.975]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 21:50:24.975]: Info: Screencasting with KMS
+[2025-03-23 21:50:24.975]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:24.975]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:24.975]: Info: Found connector ID [106]
+[2025-03-23 21:50:24.975]: Info: Found cursor plane [53]
+[2025-03-23 21:50:24.976]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 21:50:24.976]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 21:50:24.976]: Info: Found monitor for DRM screencasting
+[2025-03-23 21:50:24.976]: Info: Found connector ID [106]
+[2025-03-23 21:50:24.976]: Info: Found cursor plane [53]
+[2025-03-23 21:50:25.013]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 21:50:25.013]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 21:50:25.013]: Info: Color depth: 8-bit
+[2025-03-23 21:50:25.013]: Info: Color range: MPEG
+[2025-03-23 21:50:25.269]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 21:50:25.327]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 22:08:23.197]: Info: CLIENT DISCONNECTED
+[2025-03-23 22:10:14.034]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 22:10:14.034]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 22:10:14.034]: Info: Trying encoder [nvenc]
+[2025-03-23 22:10:14.034]: Info: Screencasting with KMS
+[2025-03-23 22:10:14.034]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:14.034]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:10:14.034]: Info: Found connector ID [106]
+[2025-03-23 22:10:14.034]: Info: Found cursor plane [53]
+[2025-03-23 22:10:14.034]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:10:14.034]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:14.034]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:10:14.034]: Info: Found connector ID [106]
+[2025-03-23 22:10:14.034]: Info: Found cursor plane [53]
+[2025-03-23 22:10:14.036]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 22:10:14.036]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:10:14.036]: Info: Color depth: 8-bit
+[2025-03-23 22:10:14.036]: Info: Color range: JPEG
+[2025-03-23 22:10:14.449]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:10:14.449]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:10:14.449]: Info: Color depth: 8-bit
+[2025-03-23 22:10:14.449]: Info: Color range: JPEG
+[2025-03-23 22:10:14.862]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 22:10:14.862]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:10:14.862]: Info: Color depth: 8-bit
+[2025-03-23 22:10:14.862]: Info: Color range: JPEG
+[2025-03-23 22:10:14.959]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 22:10:14.959]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 22:10:15.271]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 22:10:15.272]: Info: Screencasting with KMS
+[2025-03-23 22:10:15.272]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:15.272]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:10:15.272]: Info: Found connector ID [106]
+[2025-03-23 22:10:15.272]: Info: Found cursor plane [53]
+[2025-03-23 22:10:15.272]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:10:15.272]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:15.272]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:10:15.272]: Info: Found connector ID [106]
+[2025-03-23 22:10:15.272]: Info: Found cursor plane [53]
+[2025-03-23 22:10:15.274]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:10:15.274]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:10:15.274]: Info: Color depth: 10-bit
+[2025-03-23 22:10:15.274]: Info: Color range: JPEG
+[2025-03-23 22:10:15.687]: Info: 
+[2025-03-23 22:10:15.687]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 22:10:15.687]: Info: 
+[2025-03-23 22:10:15.687]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 22:10:15.687]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 22:10:16.302]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 22:10:16.329]: Info: CLIENT CONNECTED
+[2025-03-23 22:10:16.589]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:16.590]: Info: Found display [wayland-1]
+[2025-03-23 22:10:16.590]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 22:10:16.590]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 22:10:16.590]: Info: Resolution: 1920x1080
+[2025-03-23 22:10:16.590]: Info: Name: DP-1
+[2025-03-23 22:10:16.590]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:10:16.590]: Info: Offset: 0x0
+[2025-03-23 22:10:16.590]: Info: Logical size: 1920x1080
+[2025-03-23 22:10:16.591]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 22:10:16.591]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:10:16.591]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 22:10:16.591]: Info: Screencasting with KMS
+[2025-03-23 22:10:16.591]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:16.591]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:10:16.591]: Info: Found connector ID [106]
+[2025-03-23 22:10:16.591]: Info: Found cursor plane [53]
+[2025-03-23 22:10:16.591]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:10:16.591]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:10:16.591]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:10:16.591]: Info: Found connector ID [106]
+[2025-03-23 22:10:16.591]: Info: Found cursor plane [53]
+[2025-03-23 22:10:16.601]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 22:10:16.631]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:10:16.631]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:10:16.631]: Info: Color depth: 8-bit
+[2025-03-23 22:10:16.631]: Info: Color range: MPEG
+[2025-03-23 22:10:16.661]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 22:14:51.988]: Info: CLIENT DISCONNECTED
+[2025-03-23 22:21:12.487]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 22:21:12.487]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 22:21:12.487]: Info: Trying encoder [nvenc]
+[2025-03-23 22:21:12.487]: Info: Screencasting with KMS
+[2025-03-23 22:21:12.487]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:12.487]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:21:12.487]: Info: Found connector ID [106]
+[2025-03-23 22:21:12.488]: Info: Found cursor plane [53]
+[2025-03-23 22:21:12.488]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:21:12.488]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:12.488]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:21:12.488]: Info: Found connector ID [106]
+[2025-03-23 22:21:12.488]: Info: Found cursor plane [53]
+[2025-03-23 22:21:12.490]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 22:21:12.490]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:21:12.490]: Info: Color depth: 8-bit
+[2025-03-23 22:21:12.490]: Info: Color range: JPEG
+[2025-03-23 22:21:12.914]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:21:12.914]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:21:12.914]: Info: Color depth: 8-bit
+[2025-03-23 22:21:12.914]: Info: Color range: JPEG
+[2025-03-23 22:21:13.347]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 22:21:13.347]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:21:13.347]: Info: Color depth: 8-bit
+[2025-03-23 22:21:13.347]: Info: Color range: JPEG
+[2025-03-23 22:21:13.452]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 22:21:13.452]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 22:21:13.771]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 22:21:13.772]: Info: Screencasting with KMS
+[2025-03-23 22:21:13.772]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:13.772]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:21:13.772]: Info: Found connector ID [106]
+[2025-03-23 22:21:13.772]: Info: Found cursor plane [53]
+[2025-03-23 22:21:13.772]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:21:13.772]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:13.772]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:21:13.772]: Info: Found connector ID [106]
+[2025-03-23 22:21:13.772]: Info: Found cursor plane [53]
+[2025-03-23 22:21:13.774]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:21:13.775]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:21:13.775]: Info: Color depth: 10-bit
+[2025-03-23 22:21:13.775]: Info: Color range: JPEG
+[2025-03-23 22:21:14.205]: Info: 
+[2025-03-23 22:21:14.205]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 22:21:14.205]: Info: 
+[2025-03-23 22:21:14.205]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 22:21:14.205]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 22:21:14.310]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 22:21:14.443]: Info: CLIENT CONNECTED
+[2025-03-23 22:21:14.528]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:14.528]: Info: Found display [wayland-1]
+[2025-03-23 22:21:14.528]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 22:21:14.528]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 22:21:14.528]: Info: Resolution: 1920x1080
+[2025-03-23 22:21:14.528]: Info: Name: DP-1
+[2025-03-23 22:21:14.528]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:21:14.528]: Info: Offset: 0x0
+[2025-03-23 22:21:14.528]: Info: Logical size: 1920x1080
+[2025-03-23 22:21:14.528]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 22:21:14.528]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:21:14.528]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 22:21:14.528]: Info: Screencasting with KMS
+[2025-03-23 22:21:14.528]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:14.528]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:21:14.528]: Info: Found connector ID [106]
+[2025-03-23 22:21:14.529]: Info: Found cursor plane [53]
+[2025-03-23 22:21:14.529]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:21:14.529]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:21:14.529]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:21:14.529]: Info: Found connector ID [106]
+[2025-03-23 22:21:14.529]: Info: Found cursor plane [53]
+[2025-03-23 22:21:14.571]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:21:14.571]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:21:14.571]: Info: Color depth: 8-bit
+[2025-03-23 22:21:14.571]: Info: Color range: MPEG
+[2025-03-23 22:21:14.770]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 22:21:14.833]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 22:50:24.056]: Info: CLIENT DISCONNECTED
+[2025-03-23 22:50:34.631]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 22:50:34.631]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 22:50:34.631]: Info: Trying encoder [nvenc]
+[2025-03-23 22:50:34.631]: Info: Screencasting with KMS
+[2025-03-23 22:50:34.631]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:34.631]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:34.631]: Info: Found connector ID [106]
+[2025-03-23 22:50:34.631]: Info: Found cursor plane [53]
+[2025-03-23 22:50:34.631]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:50:34.631]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:34.631]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:34.631]: Info: Found connector ID [106]
+[2025-03-23 22:50:34.631]: Info: Found cursor plane [53]
+[2025-03-23 22:50:34.634]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 22:50:34.634]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:50:34.634]: Info: Color depth: 8-bit
+[2025-03-23 22:50:34.634]: Info: Color range: JPEG
+[2025-03-23 22:50:35.059]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:50:35.059]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:50:35.059]: Info: Color depth: 8-bit
+[2025-03-23 22:50:35.059]: Info: Color range: JPEG
+[2025-03-23 22:50:35.488]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 22:50:35.488]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:50:35.488]: Info: Color depth: 8-bit
+[2025-03-23 22:50:35.488]: Info: Color range: JPEG
+[2025-03-23 22:50:35.591]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 22:50:35.591]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 22:50:35.909]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 22:50:35.910]: Info: Screencasting with KMS
+[2025-03-23 22:50:35.910]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:35.910]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:35.910]: Info: Found connector ID [106]
+[2025-03-23 22:50:35.910]: Info: Found cursor plane [53]
+[2025-03-23 22:50:35.910]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:50:35.910]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:35.910]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:35.910]: Info: Found connector ID [106]
+[2025-03-23 22:50:35.911]: Info: Found cursor plane [53]
+[2025-03-23 22:50:35.913]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:50:35.913]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:50:35.913]: Info: Color depth: 10-bit
+[2025-03-23 22:50:35.913]: Info: Color range: JPEG
+[2025-03-23 22:50:36.338]: Info: 
+[2025-03-23 22:50:36.338]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 22:50:36.338]: Info: 
+[2025-03-23 22:50:36.338]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 22:50:36.338]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 22:50:36.438]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 22:50:36.472]: Info: CLIENT CONNECTED
+[2025-03-23 22:50:36.624]: Info: CLIENT DISCONNECTED
+[2025-03-23 22:50:46.439]: Error: Initial Ping Timeout
+[2025-03-23 22:50:46.439]: Error: Initial Ping Timeout
+[2025-03-23 22:50:46.610]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 22:50:46.610]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 22:50:46.610]: Info: Trying encoder [nvenc]
+[2025-03-23 22:50:46.610]: Info: Screencasting with KMS
+[2025-03-23 22:50:46.610]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:46.610]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:46.610]: Info: Found connector ID [106]
+[2025-03-23 22:50:46.611]: Info: Found cursor plane [53]
+[2025-03-23 22:50:46.611]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:50:46.611]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:46.611]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:46.611]: Info: Found connector ID [106]
+[2025-03-23 22:50:46.611]: Info: Found cursor plane [53]
+[2025-03-23 22:50:46.613]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 22:50:46.613]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:50:46.613]: Info: Color depth: 8-bit
+[2025-03-23 22:50:46.613]: Info: Color range: JPEG
+[2025-03-23 22:50:47.039]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:50:47.039]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:50:47.039]: Info: Color depth: 8-bit
+[2025-03-23 22:50:47.039]: Info: Color range: JPEG
+[2025-03-23 22:50:47.462]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 22:50:47.462]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:50:47.462]: Info: Color depth: 8-bit
+[2025-03-23 22:50:47.462]: Info: Color range: JPEG
+[2025-03-23 22:50:47.566]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 22:50:47.566]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 22:50:47.882]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 22:50:47.883]: Info: Screencasting with KMS
+[2025-03-23 22:50:47.883]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:47.883]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:47.883]: Info: Found connector ID [106]
+[2025-03-23 22:50:47.883]: Info: Found cursor plane [53]
+[2025-03-23 22:50:47.883]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:50:47.883]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:47.883]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:47.883]: Info: Found connector ID [106]
+[2025-03-23 22:50:47.883]: Info: Found cursor plane [53]
+[2025-03-23 22:50:47.885]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:50:47.885]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:50:47.885]: Info: Color depth: 10-bit
+[2025-03-23 22:50:47.885]: Info: Color range: JPEG
+[2025-03-23 22:50:48.318]: Info: 
+[2025-03-23 22:50:48.318]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 22:50:48.318]: Info: 
+[2025-03-23 22:50:48.318]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 22:50:48.318]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 22:50:48.428]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 22:50:48.549]: Info: CLIENT CONNECTED
+[2025-03-23 22:50:48.633]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:48.633]: Info: Found display [wayland-1]
+[2025-03-23 22:50:48.633]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 22:50:48.633]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 22:50:48.633]: Info: Resolution: 1920x1080
+[2025-03-23 22:50:48.634]: Info: Name: DP-1
+[2025-03-23 22:50:48.634]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:50:48.634]: Info: Offset: 0x0
+[2025-03-23 22:50:48.634]: Info: Logical size: 1920x1080
+[2025-03-23 22:50:48.634]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 22:50:48.634]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:50:48.634]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 22:50:48.634]: Info: Screencasting with KMS
+[2025-03-23 22:50:48.634]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:48.634]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:48.634]: Info: Found connector ID [106]
+[2025-03-23 22:50:48.634]: Info: Found cursor plane [53]
+[2025-03-23 22:50:48.634]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:50:48.634]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:50:48.634]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:50:48.634]: Info: Found connector ID [106]
+[2025-03-23 22:50:48.634]: Info: Found cursor plane [53]
+[2025-03-23 22:50:48.671]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:50:48.671]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:50:48.671]: Info: Color depth: 8-bit
+[2025-03-23 22:50:48.671]: Info: Color range: MPEG
+[2025-03-23 22:50:48.890]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 22:50:48.962]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 22:55:02.105]: Info: CLIENT DISCONNECTED
+[2025-03-23 22:55:07.441]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 22:55:07.442]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 22:55:07.442]: Info: Trying encoder [nvenc]
+[2025-03-23 22:55:07.442]: Info: Screencasting with KMS
+[2025-03-23 22:55:07.442]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:07.442]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:07.442]: Info: Found connector ID [106]
+[2025-03-23 22:55:07.442]: Info: Found cursor plane [53]
+[2025-03-23 22:55:07.442]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:55:07.442]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:07.442]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:07.442]: Info: Found connector ID [106]
+[2025-03-23 22:55:07.442]: Info: Found cursor plane [53]
+[2025-03-23 22:55:07.444]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 22:55:07.444]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:55:07.444]: Info: Color depth: 8-bit
+[2025-03-23 22:55:07.444]: Info: Color range: JPEG
+[2025-03-23 22:55:07.873]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:55:07.873]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:55:07.873]: Info: Color depth: 8-bit
+[2025-03-23 22:55:07.873]: Info: Color range: JPEG
+[2025-03-23 22:55:08.295]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 22:55:08.295]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:55:08.295]: Info: Color depth: 8-bit
+[2025-03-23 22:55:08.295]: Info: Color range: JPEG
+[2025-03-23 22:55:08.394]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 22:55:08.394]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 22:55:08.708]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 22:55:08.708]: Info: Screencasting with KMS
+[2025-03-23 22:55:08.708]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:08.708]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:08.709]: Info: Found connector ID [106]
+[2025-03-23 22:55:08.709]: Info: Found cursor plane [53]
+[2025-03-23 22:55:08.709]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:55:08.709]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:08.709]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:08.709]: Info: Found connector ID [106]
+[2025-03-23 22:55:08.709]: Info: Found cursor plane [53]
+[2025-03-23 22:55:08.711]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:55:08.711]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:55:08.711]: Info: Color depth: 10-bit
+[2025-03-23 22:55:08.711]: Info: Color range: JPEG
+[2025-03-23 22:55:09.129]: Info: 
+[2025-03-23 22:55:09.129]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 22:55:09.129]: Info: 
+[2025-03-23 22:55:09.129]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 22:55:09.129]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 22:55:09.221]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 22:55:09.257]: Info: CLIENT CONNECTED
+[2025-03-23 22:55:09.307]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:09.307]: Info: Found display [wayland-1]
+[2025-03-23 22:55:09.307]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 22:55:09.307]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 22:55:09.307]: Info: Resolution: 1920x1080
+[2025-03-23 22:55:09.307]: Info: Name: DP-1
+[2025-03-23 22:55:09.307]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:55:09.307]: Info: Offset: 0x0
+[2025-03-23 22:55:09.307]: Info: Logical size: 1920x1080
+[2025-03-23 22:55:09.307]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 22:55:09.307]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:55:09.307]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 22:55:09.307]: Info: Screencasting with KMS
+[2025-03-23 22:55:09.307]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:09.307]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:09.307]: Info: Found connector ID [106]
+[2025-03-23 22:55:09.307]: Info: Found cursor plane [53]
+[2025-03-23 22:55:09.307]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:55:09.307]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:09.307]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:09.307]: Info: Found connector ID [106]
+[2025-03-23 22:55:09.307]: Info: Found cursor plane [53]
+[2025-03-23 22:55:09.343]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:55:09.343]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:55:09.343]: Info: Color depth: 8-bit
+[2025-03-23 22:55:09.343]: Info: Color range: MPEG
+[2025-03-23 22:55:09.704]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 22:55:09.781]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 22:55:19.900]: Info: CLIENT DISCONNECTED
+[2025-03-23 22:55:27.453]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 22:55:27.453]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 22:55:27.453]: Info: Trying encoder [nvenc]
+[2025-03-23 22:55:27.453]: Info: Screencasting with KMS
+[2025-03-23 22:55:27.453]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:27.453]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:27.453]: Info: Found connector ID [106]
+[2025-03-23 22:55:27.453]: Info: Found cursor plane [53]
+[2025-03-23 22:55:27.453]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:55:27.453]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:27.453]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:27.453]: Info: Found connector ID [106]
+[2025-03-23 22:55:27.453]: Info: Found cursor plane [53]
+[2025-03-23 22:55:27.456]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 22:55:27.456]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:55:27.456]: Info: Color depth: 8-bit
+[2025-03-23 22:55:27.456]: Info: Color range: JPEG
+[2025-03-23 22:55:27.879]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:55:27.879]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:55:27.879]: Info: Color depth: 8-bit
+[2025-03-23 22:55:27.879]: Info: Color range: JPEG
+[2025-03-23 22:55:28.315]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 22:55:28.315]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 22:55:28.315]: Info: Color depth: 8-bit
+[2025-03-23 22:55:28.315]: Info: Color range: JPEG
+[2025-03-23 22:55:28.420]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 22:55:28.420]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 22:55:28.735]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 22:55:28.736]: Info: Screencasting with KMS
+[2025-03-23 22:55:28.736]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:28.736]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:28.736]: Info: Found connector ID [106]
+[2025-03-23 22:55:28.736]: Info: Found cursor plane [53]
+[2025-03-23 22:55:28.736]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:55:28.736]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:28.736]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:28.737]: Info: Found connector ID [106]
+[2025-03-23 22:55:28.737]: Info: Found cursor plane [53]
+[2025-03-23 22:55:28.739]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:55:28.739]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:55:28.739]: Info: Color depth: 10-bit
+[2025-03-23 22:55:28.739]: Info: Color range: JPEG
+[2025-03-23 22:55:29.167]: Info: 
+[2025-03-23 22:55:29.167]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 22:55:29.167]: Info: 
+[2025-03-23 22:55:29.167]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 22:55:29.167]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 22:55:29.818]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 22:55:29.853]: Info: CLIENT CONNECTED
+[2025-03-23 22:55:30.116]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:30.116]: Info: Found display [wayland-1]
+[2025-03-23 22:55:30.116]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 22:55:30.116]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 22:55:30.116]: Info: Resolution: 1920x1080
+[2025-03-23 22:55:30.116]: Info: Name: DP-1
+[2025-03-23 22:55:30.116]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:55:30.116]: Info: Offset: 0x0
+[2025-03-23 22:55:30.116]: Info: Logical size: 1920x1080
+[2025-03-23 22:55:30.116]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 22:55:30.116]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 22:55:30.116]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 22:55:30.116]: Info: Screencasting with KMS
+[2025-03-23 22:55:30.116]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:30.116]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:30.116]: Info: Found connector ID [106]
+[2025-03-23 22:55:30.116]: Info: Found cursor plane [53]
+[2025-03-23 22:55:30.116]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 22:55:30.116]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 22:55:30.116]: Info: Found monitor for DRM screencasting
+[2025-03-23 22:55:30.116]: Info: Found connector ID [106]
+[2025-03-23 22:55:30.117]: Info: Found cursor plane [53]
+[2025-03-23 22:55:30.126]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 22:55:30.156]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 22:55:30.156]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 22:55:30.156]: Info: Color depth: 8-bit
+[2025-03-23 22:55:30.156]: Info: Color range: MPEG
+[2025-03-23 22:55:30.182]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 23:00:48.704]: Info: CLIENT DISCONNECTED
+[2025-03-23 23:00:57.607]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 23:00:57.607]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 23:00:57.607]: Info: Trying encoder [nvenc]
+[2025-03-23 23:00:57.607]: Info: Screencasting with KMS
+[2025-03-23 23:00:57.607]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:00:57.607]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:00:57.607]: Info: Found connector ID [106]
+[2025-03-23 23:00:57.607]: Info: Found cursor plane [53]
+[2025-03-23 23:00:57.607]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 23:00:57.607]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:00:57.607]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:00:57.607]: Info: Found connector ID [106]
+[2025-03-23 23:00:57.607]: Info: Found cursor plane [53]
+[2025-03-23 23:00:57.610]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 23:00:57.610]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 23:00:57.610]: Info: Color depth: 8-bit
+[2025-03-23 23:00:57.610]: Info: Color range: JPEG
+[2025-03-23 23:00:58.039]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 23:00:58.039]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 23:00:58.040]: Info: Color depth: 8-bit
+[2025-03-23 23:00:58.040]: Info: Color range: JPEG
+[2025-03-23 23:00:58.471]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 23:00:58.471]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 23:00:58.471]: Info: Color depth: 8-bit
+[2025-03-23 23:00:58.471]: Info: Color range: JPEG
+[2025-03-23 23:00:58.581]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 23:00:58.581]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 23:00:58.900]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 23:00:58.900]: Info: Screencasting with KMS
+[2025-03-23 23:00:58.900]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:00:58.900]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:00:58.901]: Info: Found connector ID [106]
+[2025-03-23 23:00:58.901]: Info: Found cursor plane [53]
+[2025-03-23 23:00:58.901]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 23:00:58.901]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:00:58.901]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:00:58.901]: Info: Found connector ID [106]
+[2025-03-23 23:00:58.901]: Info: Found cursor plane [53]
+[2025-03-23 23:00:58.903]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 23:00:58.903]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 23:00:58.903]: Info: Color depth: 10-bit
+[2025-03-23 23:00:58.903]: Info: Color range: JPEG
+[2025-03-23 23:00:59.333]: Info: 
+[2025-03-23 23:00:59.333]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 23:00:59.333]: Info: 
+[2025-03-23 23:00:59.333]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 23:00:59.333]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 23:00:59.759]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 23:00:59.798]: Info: CLIENT CONNECTED
+[2025-03-23 23:01:00.051]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:01:00.051]: Info: Found display [wayland-1]
+[2025-03-23 23:01:00.051]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 23:01:00.051]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 23:01:00.051]: Info: Resolution: 1920x1080
+[2025-03-23 23:01:00.052]: Info: Name: DP-1
+[2025-03-23 23:01:00.052]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 23:01:00.052]: Info: Offset: 0x0
+[2025-03-23 23:01:00.052]: Info: Logical size: 1920x1080
+[2025-03-23 23:01:00.052]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 23:01:00.052]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 23:01:00.052]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 23:01:00.052]: Info: Screencasting with KMS
+[2025-03-23 23:01:00.052]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:01:00.052]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:01:00.052]: Info: Found connector ID [106]
+[2025-03-23 23:01:00.052]: Info: Found cursor plane [53]
+[2025-03-23 23:01:00.052]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 23:01:00.052]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:01:00.052]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:01:00.052]: Info: Found connector ID [106]
+[2025-03-23 23:01:00.052]: Info: Found cursor plane [53]
+[2025-03-23 23:01:00.059]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 23:01:00.093]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 23:01:00.093]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 23:01:00.093]: Info: Color depth: 8-bit
+[2025-03-23 23:01:00.093]: Info: Color range: MPEG
+[2025-03-23 23:01:00.116]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 23:33:11.143]: Info: CLIENT DISCONNECTED
+[2025-03-23 23:37:45.056]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-23 23:37:45.056]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-23 23:37:45.056]: Info: Trying encoder [nvenc]
+[2025-03-23 23:37:45.056]: Info: Screencasting with KMS
+[2025-03-23 23:37:45.056]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:45.056]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:37:45.056]: Info: Found connector ID [106]
+[2025-03-23 23:37:45.056]: Info: Found cursor plane [53]
+[2025-03-23 23:37:45.056]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 23:37:45.056]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:45.056]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:37:45.056]: Info: Found connector ID [106]
+[2025-03-23 23:37:45.056]: Info: Found cursor plane [53]
+[2025-03-23 23:37:45.058]: Info: Creating encoder [h264_nvenc]
+[2025-03-23 23:37:45.058]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 23:37:45.058]: Info: Color depth: 8-bit
+[2025-03-23 23:37:45.058]: Info: Color range: JPEG
+[2025-03-23 23:37:45.506]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 23:37:45.506]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 23:37:45.506]: Info: Color depth: 8-bit
+[2025-03-23 23:37:45.506]: Info: Color range: JPEG
+[2025-03-23 23:37:45.941]: Info: Creating encoder [av1_nvenc]
+[2025-03-23 23:37:45.941]: Info: Color coding: SDR (Rec. 601)
+[2025-03-23 23:37:45.941]: Info: Color depth: 8-bit
+[2025-03-23 23:37:45.941]: Info: Color range: JPEG
+[2025-03-23 23:37:46.052]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-23 23:37:46.052]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-23 23:37:46.375]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-23 23:37:46.376]: Info: Screencasting with KMS
+[2025-03-23 23:37:46.376]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:46.376]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:37:46.376]: Info: Found connector ID [106]
+[2025-03-23 23:37:46.376]: Info: Found cursor plane [53]
+[2025-03-23 23:37:46.376]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 23:37:46.376]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:46.376]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:37:46.376]: Info: Found connector ID [106]
+[2025-03-23 23:37:46.376]: Info: Found cursor plane [53]
+[2025-03-23 23:37:46.378]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 23:37:46.378]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 23:37:46.378]: Info: Color depth: 10-bit
+[2025-03-23 23:37:46.378]: Info: Color range: JPEG
+[2025-03-23 23:37:46.815]: Info: 
+[2025-03-23 23:37:46.815]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-23 23:37:46.815]: Info: 
+[2025-03-23 23:37:46.815]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-23 23:37:46.815]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-23 23:37:46.972]: Info: New streaming session started [active sessions: 1]
+[2025-03-23 23:37:47.005]: Info: CLIENT CONNECTED
+[2025-03-23 23:37:47.237]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:47.238]: Info: Found display [wayland-1]
+[2025-03-23 23:37:47.238]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-23 23:37:47.238]: Info: Found interface: wl_output(53) version 4
+[2025-03-23 23:37:47.238]: Info: Resolution: 1920x1080
+[2025-03-23 23:37:47.238]: Info: Name: DP-1
+[2025-03-23 23:37:47.238]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 23:37:47.238]: Info: Offset: 0x0
+[2025-03-23 23:37:47.238]: Info: Logical size: 1920x1080
+[2025-03-23 23:37:47.238]: Info: -------- Start of KMS monitor list --------
+[2025-03-23 23:37:47.238]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-23 23:37:47.238]: Info: --------- End of KMS monitor list ---------
+[2025-03-23 23:37:47.238]: Info: Screencasting with KMS
+[2025-03-23 23:37:47.238]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:47.238]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:37:47.238]: Info: Found connector ID [106]
+[2025-03-23 23:37:47.238]: Info: Found cursor plane [53]
+[2025-03-23 23:37:47.238]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-23 23:37:47.238]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-23 23:37:47.238]: Info: Found monitor for DRM screencasting
+[2025-03-23 23:37:47.238]: Info: Found connector ID [106]
+[2025-03-23 23:37:47.238]: Info: Found cursor plane [53]
+[2025-03-23 23:37:47.281]: Info: Creating encoder [hevc_nvenc]
+[2025-03-23 23:37:47.281]: Info: Color coding: SDR (Rec. 709)
+[2025-03-23 23:37:47.282]: Info: Color depth: 8-bit
+[2025-03-23 23:37:47.282]: Info: Color range: MPEG
+[2025-03-23 23:37:47.410]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-23 23:37:47.482]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-23 23:54:56.699]: Info: CLIENT DISCONNECTED
+[2025-03-24 00:35:12.603]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-24 00:35:12.603]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-24 00:35:12.603]: Info: Trying encoder [nvenc]
+[2025-03-24 00:35:12.603]: Info: Screencasting with KMS
+[2025-03-24 00:35:12.603]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:12.603]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:35:12.603]: Info: Found connector ID [106]
+[2025-03-24 00:35:12.603]: Info: Found cursor plane [53]
+[2025-03-24 00:35:12.603]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 00:35:12.603]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:12.603]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:35:12.603]: Info: Found connector ID [106]
+[2025-03-24 00:35:12.603]: Info: Found cursor plane [53]
+[2025-03-24 00:35:12.605]: Info: Creating encoder [h264_nvenc]
+[2025-03-24 00:35:12.605]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 00:35:12.605]: Info: Color depth: 8-bit
+[2025-03-24 00:35:12.605]: Info: Color range: JPEG
+[2025-03-24 00:35:13.034]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 00:35:13.035]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 00:35:13.035]: Info: Color depth: 8-bit
+[2025-03-24 00:35:13.035]: Info: Color range: JPEG
+[2025-03-24 00:35:13.458]: Info: Creating encoder [av1_nvenc]
+[2025-03-24 00:35:13.458]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 00:35:13.458]: Info: Color depth: 8-bit
+[2025-03-24 00:35:13.458]: Info: Color range: JPEG
+[2025-03-24 00:35:13.560]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-24 00:35:13.560]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-24 00:35:13.878]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-24 00:35:13.879]: Info: Screencasting with KMS
+[2025-03-24 00:35:13.879]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:13.879]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:35:13.879]: Info: Found connector ID [106]
+[2025-03-24 00:35:13.879]: Info: Found cursor plane [53]
+[2025-03-24 00:35:13.879]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 00:35:13.879]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:13.879]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:35:13.879]: Info: Found connector ID [106]
+[2025-03-24 00:35:13.879]: Info: Found cursor plane [53]
+[2025-03-24 00:35:13.881]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 00:35:13.881]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 00:35:13.881]: Info: Color depth: 10-bit
+[2025-03-24 00:35:13.881]: Info: Color range: JPEG
+[2025-03-24 00:35:14.313]: Info: 
+[2025-03-24 00:35:14.313]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-24 00:35:14.313]: Info: 
+[2025-03-24 00:35:14.313]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-24 00:35:14.313]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-24 00:35:14.399]: Info: New streaming session started [active sessions: 1]
+[2025-03-24 00:35:14.454]: Info: CLIENT CONNECTED
+[2025-03-24 00:35:14.530]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:14.530]: Info: Found display [wayland-1]
+[2025-03-24 00:35:14.530]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-24 00:35:14.530]: Info: Found interface: wl_output(53) version 4
+[2025-03-24 00:35:14.530]: Info: Resolution: 1920x1080
+[2025-03-24 00:35:14.530]: Info: Name: DP-1
+[2025-03-24 00:35:14.530]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 00:35:14.530]: Info: Offset: 0x0
+[2025-03-24 00:35:14.530]: Info: Logical size: 1920x1080
+[2025-03-24 00:35:14.530]: Info: -------- Start of KMS monitor list --------
+[2025-03-24 00:35:14.530]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 00:35:14.530]: Info: --------- End of KMS monitor list ---------
+[2025-03-24 00:35:14.530]: Info: Screencasting with KMS
+[2025-03-24 00:35:14.530]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:14.530]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:35:14.530]: Info: Found connector ID [106]
+[2025-03-24 00:35:14.530]: Info: Found cursor plane [53]
+[2025-03-24 00:35:14.530]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 00:35:14.530]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:35:14.530]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:35:14.530]: Info: Found connector ID [106]
+[2025-03-24 00:35:14.531]: Info: Found cursor plane [53]
+[2025-03-24 00:35:14.568]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 00:35:14.568]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 00:35:14.568]: Info: Color depth: 8-bit
+[2025-03-24 00:35:14.568]: Info: Color range: MPEG
+[2025-03-24 00:35:14.884]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-24 00:35:14.956]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-24 00:39:09.931]: Info: CLIENT DISCONNECTED
+[2025-03-24 00:53:10.565]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-24 00:53:10.565]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-24 00:53:10.565]: Info: Trying encoder [nvenc]
+[2025-03-24 00:53:10.565]: Info: Screencasting with KMS
+[2025-03-24 00:53:10.565]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:10.565]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:53:10.565]: Info: Found connector ID [106]
+[2025-03-24 00:53:10.565]: Info: Found cursor plane [53]
+[2025-03-24 00:53:10.565]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 00:53:10.566]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:10.566]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:53:10.566]: Info: Found connector ID [106]
+[2025-03-24 00:53:10.566]: Info: Found cursor plane [53]
+[2025-03-24 00:53:10.568]: Info: Creating encoder [h264_nvenc]
+[2025-03-24 00:53:10.568]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 00:53:10.568]: Info: Color depth: 8-bit
+[2025-03-24 00:53:10.568]: Info: Color range: JPEG
+[2025-03-24 00:53:10.993]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 00:53:10.994]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 00:53:10.994]: Info: Color depth: 8-bit
+[2025-03-24 00:53:10.994]: Info: Color range: JPEG
+[2025-03-24 00:53:11.418]: Info: Creating encoder [av1_nvenc]
+[2025-03-24 00:53:11.418]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 00:53:11.419]: Info: Color depth: 8-bit
+[2025-03-24 00:53:11.419]: Info: Color range: JPEG
+[2025-03-24 00:53:11.520]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-24 00:53:11.520]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-24 00:53:11.837]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-24 00:53:11.838]: Info: Screencasting with KMS
+[2025-03-24 00:53:11.838]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:11.838]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:53:11.838]: Info: Found connector ID [106]
+[2025-03-24 00:53:11.838]: Info: Found cursor plane [53]
+[2025-03-24 00:53:11.838]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 00:53:11.838]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:11.838]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:53:11.838]: Info: Found connector ID [106]
+[2025-03-24 00:53:11.838]: Info: Found cursor plane [53]
+[2025-03-24 00:53:11.840]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 00:53:11.840]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 00:53:11.840]: Info: Color depth: 10-bit
+[2025-03-24 00:53:11.840]: Info: Color range: JPEG
+[2025-03-24 00:53:12.272]: Info: 
+[2025-03-24 00:53:12.272]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-24 00:53:12.272]: Info: 
+[2025-03-24 00:53:12.272]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-24 00:53:12.272]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-24 00:53:12.342]: Info: New streaming session started [active sessions: 1]
+[2025-03-24 00:53:12.375]: Info: CLIENT CONNECTED
+[2025-03-24 00:53:12.454]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:12.454]: Info: Found display [wayland-1]
+[2025-03-24 00:53:12.454]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-24 00:53:12.454]: Info: Found interface: wl_output(53) version 4
+[2025-03-24 00:53:12.455]: Info: Resolution: 1920x1080
+[2025-03-24 00:53:12.455]: Info: Name: DP-1
+[2025-03-24 00:53:12.455]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 00:53:12.455]: Info: Offset: 0x0
+[2025-03-24 00:53:12.455]: Info: Logical size: 1920x1080
+[2025-03-24 00:53:12.455]: Info: -------- Start of KMS monitor list --------
+[2025-03-24 00:53:12.455]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 00:53:12.455]: Info: --------- End of KMS monitor list ---------
+[2025-03-24 00:53:12.455]: Info: Screencasting with KMS
+[2025-03-24 00:53:12.455]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:12.455]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:53:12.455]: Info: Found connector ID [106]
+[2025-03-24 00:53:12.455]: Info: Found cursor plane [53]
+[2025-03-24 00:53:12.455]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 00:53:12.455]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 00:53:12.455]: Info: Found monitor for DRM screencasting
+[2025-03-24 00:53:12.455]: Info: Found connector ID [106]
+[2025-03-24 00:53:12.455]: Info: Found cursor plane [53]
+[2025-03-24 00:53:12.491]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 00:53:12.492]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 00:53:12.492]: Info: Color depth: 8-bit
+[2025-03-24 00:53:12.492]: Info: Color range: MPEG
+[2025-03-24 00:53:12.831]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-24 00:53:12.893]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-24 01:07:13.496]: Info: CLIENT DISCONNECTED
+[2025-03-24 01:07:19.876]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-24 01:07:19.877]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-24 01:07:19.877]: Info: Trying encoder [nvenc]
+[2025-03-24 01:07:19.877]: Info: Screencasting with KMS
+[2025-03-24 01:07:19.877]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:19.877]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:07:19.877]: Info: Found connector ID [106]
+[2025-03-24 01:07:19.877]: Info: Found cursor plane [53]
+[2025-03-24 01:07:19.877]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:07:19.877]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:19.877]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:07:19.877]: Info: Found connector ID [106]
+[2025-03-24 01:07:19.877]: Info: Found cursor plane [53]
+[2025-03-24 01:07:19.879]: Info: Creating encoder [h264_nvenc]
+[2025-03-24 01:07:19.879]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:07:19.879]: Info: Color depth: 8-bit
+[2025-03-24 01:07:19.879]: Info: Color range: JPEG
+[2025-03-24 01:07:20.313]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:07:20.313]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:07:20.313]: Info: Color depth: 8-bit
+[2025-03-24 01:07:20.313]: Info: Color range: JPEG
+[2025-03-24 01:07:20.744]: Info: Creating encoder [av1_nvenc]
+[2025-03-24 01:07:20.744]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:07:20.744]: Info: Color depth: 8-bit
+[2025-03-24 01:07:20.744]: Info: Color range: JPEG
+[2025-03-24 01:07:20.847]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-24 01:07:20.848]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-24 01:07:21.168]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-24 01:07:21.169]: Info: Screencasting with KMS
+[2025-03-24 01:07:21.169]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:21.169]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:07:21.169]: Info: Found connector ID [106]
+[2025-03-24 01:07:21.169]: Info: Found cursor plane [53]
+[2025-03-24 01:07:21.169]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:07:21.169]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:21.169]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:07:21.169]: Info: Found connector ID [106]
+[2025-03-24 01:07:21.169]: Info: Found cursor plane [53]
+[2025-03-24 01:07:21.171]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:07:21.171]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 01:07:21.171]: Info: Color depth: 10-bit
+[2025-03-24 01:07:21.171]: Info: Color range: JPEG
+[2025-03-24 01:07:21.600]: Info: 
+[2025-03-24 01:07:21.600]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-24 01:07:21.600]: Info: 
+[2025-03-24 01:07:21.600]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-24 01:07:21.600]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-24 01:07:22.138]: Info: New streaming session started [active sessions: 1]
+[2025-03-24 01:07:22.461]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-24 01:07:22.517]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-24 01:07:22.526]: Info: CLIENT CONNECTED
+[2025-03-24 01:07:22.534]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:22.534]: Info: Found display [wayland-1]
+[2025-03-24 01:07:22.534]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-24 01:07:22.534]: Info: Found interface: wl_output(53) version 4
+[2025-03-24 01:07:22.534]: Info: Resolution: 1920x1080
+[2025-03-24 01:07:22.534]: Info: Name: DP-1
+[2025-03-24 01:07:22.534]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 01:07:22.534]: Info: Offset: 0x0
+[2025-03-24 01:07:22.534]: Info: Logical size: 1920x1080
+[2025-03-24 01:07:22.534]: Info: -------- Start of KMS monitor list --------
+[2025-03-24 01:07:22.534]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 01:07:22.534]: Info: --------- End of KMS monitor list ---------
+[2025-03-24 01:07:22.534]: Info: Screencasting with KMS
+[2025-03-24 01:07:22.534]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:22.534]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:07:22.534]: Info: Found connector ID [106]
+[2025-03-24 01:07:22.534]: Info: Found cursor plane [53]
+[2025-03-24 01:07:22.534]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:07:22.534]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:07:22.534]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:07:22.534]: Info: Found connector ID [106]
+[2025-03-24 01:07:22.534]: Info: Found cursor plane [53]
+[2025-03-24 01:07:22.576]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:07:22.576]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 01:07:22.576]: Info: Color depth: 8-bit
+[2025-03-24 01:07:22.576]: Info: Color range: MPEG
+[2025-03-24 01:10:28.329]: Info: CLIENT DISCONNECTED
+[2025-03-24 01:43:16.798]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-24 01:43:16.798]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-24 01:43:16.798]: Info: Trying encoder [nvenc]
+[2025-03-24 01:43:16.798]: Info: Screencasting with KMS
+[2025-03-24 01:43:16.798]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:43:16.798]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:43:16.798]: Info: Found connector ID [106]
+[2025-03-24 01:43:16.798]: Info: Found cursor plane [53]
+[2025-03-24 01:43:16.798]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:43:16.798]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:43:16.798]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:43:16.798]: Info: Found connector ID [106]
+[2025-03-24 01:43:16.798]: Info: Found cursor plane [53]
+[2025-03-24 01:43:16.800]: Info: Creating encoder [h264_nvenc]
+[2025-03-24 01:43:16.800]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:43:16.800]: Info: Color depth: 8-bit
+[2025-03-24 01:43:16.800]: Info: Color range: JPEG
+[2025-03-24 01:43:17.234]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:43:17.235]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:43:17.235]: Info: Color depth: 8-bit
+[2025-03-24 01:43:17.235]: Info: Color range: JPEG
+[2025-03-24 01:43:17.665]: Info: Creating encoder [av1_nvenc]
+[2025-03-24 01:43:17.665]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:43:17.665]: Info: Color depth: 8-bit
+[2025-03-24 01:43:17.665]: Info: Color range: JPEG
+[2025-03-24 01:43:17.775]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-24 01:43:17.775]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-24 01:43:18.094]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-24 01:43:18.095]: Info: Screencasting with KMS
+[2025-03-24 01:43:18.095]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:43:18.095]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:43:18.095]: Info: Found connector ID [106]
+[2025-03-24 01:43:18.095]: Info: Found cursor plane [53]
+[2025-03-24 01:43:18.095]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:43:18.095]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:43:18.095]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:43:18.095]: Info: Found connector ID [106]
+[2025-03-24 01:43:18.095]: Info: Found cursor plane [53]
+[2025-03-24 01:43:18.097]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:43:18.097]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 01:43:18.097]: Info: Color depth: 10-bit
+[2025-03-24 01:43:18.097]: Info: Color range: JPEG
+[2025-03-24 01:43:18.526]: Info: 
+[2025-03-24 01:43:18.526]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-24 01:43:18.526]: Info: 
+[2025-03-24 01:43:18.526]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-24 01:43:18.526]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-24 01:43:18.629]: Info: New streaming session started [active sessions: 1]
+[2025-03-24 01:43:18.662]: Info: CLIENT CONNECTED
+[2025-03-24 01:43:18.815]: Info: CLIENT DISCONNECTED
+[2025-03-24 01:43:28.630]: Error: Initial Ping Timeout
+[2025-03-24 01:43:28.630]: Error: Initial Ping Timeout
+[2025-03-24 01:51:32.949]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-24 01:51:32.949]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-24 01:51:32.949]: Info: Trying encoder [nvenc]
+[2025-03-24 01:51:32.949]: Info: Screencasting with KMS
+[2025-03-24 01:51:32.949]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:32.949]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:51:32.949]: Info: Found connector ID [106]
+[2025-03-24 01:51:32.949]: Info: Found cursor plane [53]
+[2025-03-24 01:51:32.949]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:51:32.949]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:32.949]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:51:32.949]: Info: Found connector ID [106]
+[2025-03-24 01:51:32.949]: Info: Found cursor plane [53]
+[2025-03-24 01:51:32.951]: Info: Creating encoder [h264_nvenc]
+[2025-03-24 01:51:32.951]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:51:32.951]: Info: Color depth: 8-bit
+[2025-03-24 01:51:32.951]: Info: Color range: JPEG
+[2025-03-24 01:51:33.385]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:51:33.386]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:51:33.386]: Info: Color depth: 8-bit
+[2025-03-24 01:51:33.386]: Info: Color range: JPEG
+[2025-03-24 01:51:33.823]: Info: Creating encoder [av1_nvenc]
+[2025-03-24 01:51:33.823]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 01:51:33.823]: Info: Color depth: 8-bit
+[2025-03-24 01:51:33.823]: Info: Color range: JPEG
+[2025-03-24 01:51:33.934]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-24 01:51:33.935]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-24 01:51:34.258]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-24 01:51:34.259]: Info: Screencasting with KMS
+[2025-03-24 01:51:34.259]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:34.259]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:51:34.259]: Info: Found connector ID [106]
+[2025-03-24 01:51:34.259]: Info: Found cursor plane [53]
+[2025-03-24 01:51:34.259]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:51:34.259]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:34.259]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:51:34.259]: Info: Found connector ID [106]
+[2025-03-24 01:51:34.259]: Info: Found cursor plane [53]
+[2025-03-24 01:51:34.262]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:51:34.262]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 01:51:34.262]: Info: Color depth: 10-bit
+[2025-03-24 01:51:34.262]: Info: Color range: JPEG
+[2025-03-24 01:51:34.705]: Info: 
+[2025-03-24 01:51:34.705]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-24 01:51:34.705]: Info: 
+[2025-03-24 01:51:34.705]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-24 01:51:34.705]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-24 01:51:34.933]: Info: New streaming session started [active sessions: 1]
+[2025-03-24 01:51:34.967]: Info: CLIENT CONNECTED
+[2025-03-24 01:51:35.050]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:35.050]: Info: Found display [wayland-1]
+[2025-03-24 01:51:35.050]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-24 01:51:35.050]: Info: Found interface: wl_output(53) version 4
+[2025-03-24 01:51:35.050]: Info: Resolution: 1920x1080
+[2025-03-24 01:51:35.050]: Info: Name: DP-1
+[2025-03-24 01:51:35.050]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 01:51:35.050]: Info: Offset: 0x0
+[2025-03-24 01:51:35.050]: Info: Logical size: 1920x1080
+[2025-03-24 01:51:35.050]: Info: -------- Start of KMS monitor list --------
+[2025-03-24 01:51:35.050]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 01:51:35.050]: Info: --------- End of KMS monitor list ---------
+[2025-03-24 01:51:35.050]: Info: Screencasting with KMS
+[2025-03-24 01:51:35.050]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:35.050]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:51:35.050]: Info: Found connector ID [106]
+[2025-03-24 01:51:35.050]: Info: Found cursor plane [53]
+[2025-03-24 01:51:35.050]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 01:51:35.050]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 01:51:35.050]: Info: Found monitor for DRM screencasting
+[2025-03-24 01:51:35.050]: Info: Found connector ID [106]
+[2025-03-24 01:51:35.050]: Info: Found cursor plane [53]
+[2025-03-24 01:51:35.088]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 01:51:35.088]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 01:51:35.088]: Info: Color depth: 8-bit
+[2025-03-24 01:51:35.088]: Info: Color range: MPEG
+[2025-03-24 01:51:35.411]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-24 01:51:35.463]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-24 01:55:07.242]: Info: CLIENT DISCONNECTED
+[2025-03-24 02:00:43.856]: Warning: Sunshine is configured to change resolution automatically, but the "Optimize game settings" is not set in the client! Resolution will not be changed.
+[2025-03-24 02:00:43.856]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-03-24 02:00:43.856]: Info: Trying encoder [nvenc]
+[2025-03-24 02:00:43.856]: Info: Screencasting with KMS
+[2025-03-24 02:00:43.856]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:43.856]: Info: Found monitor for DRM screencasting
+[2025-03-24 02:00:43.857]: Info: Found connector ID [106]
+[2025-03-24 02:00:43.857]: Info: Found cursor plane [53]
+[2025-03-24 02:00:43.857]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 02:00:43.857]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:43.857]: Info: Found monitor for DRM screencasting
+[2025-03-24 02:00:43.857]: Info: Found connector ID [106]
+[2025-03-24 02:00:43.857]: Info: Found cursor plane [53]
+[2025-03-24 02:00:43.859]: Info: Creating encoder [h264_nvenc]
+[2025-03-24 02:00:43.859]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 02:00:43.859]: Info: Color depth: 8-bit
+[2025-03-24 02:00:43.859]: Info: Color range: JPEG
+[2025-03-24 02:00:44.293]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 02:00:44.293]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 02:00:44.293]: Info: Color depth: 8-bit
+[2025-03-24 02:00:44.293]: Info: Color range: JPEG
+[2025-03-24 02:00:44.727]: Info: Creating encoder [av1_nvenc]
+[2025-03-24 02:00:44.727]: Info: Color coding: SDR (Rec. 601)
+[2025-03-24 02:00:44.727]: Info: Color depth: 8-bit
+[2025-03-24 02:00:44.727]: Info: Color range: JPEG
+[2025-03-24 02:00:44.833]: Warning: [av1_nvenc @ 0x7faf443d2ac0] Codec not supported
+[2025-03-24 02:00:44.833]: Error: [av1_nvenc @ 0x7faf443d2ac0] Provided device doesn't support required NVENC features
+[2025-03-24 02:00:45.151]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-03-24 02:00:45.152]: Info: Screencasting with KMS
+[2025-03-24 02:00:45.152]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:45.152]: Info: Found monitor for DRM screencasting
+[2025-03-24 02:00:45.152]: Info: Found connector ID [106]
+[2025-03-24 02:00:45.152]: Info: Found cursor plane [53]
+[2025-03-24 02:00:45.152]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 02:00:45.152]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:45.152]: Info: Found monitor for DRM screencasting
+[2025-03-24 02:00:45.152]: Info: Found connector ID [106]
+[2025-03-24 02:00:45.152]: Info: Found cursor plane [53]
+[2025-03-24 02:00:45.154]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 02:00:45.154]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 02:00:45.154]: Info: Color depth: 10-bit
+[2025-03-24 02:00:45.154]: Info: Color range: JPEG
+[2025-03-24 02:00:45.582]: Info: 
+[2025-03-24 02:00:45.582]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-03-24 02:00:45.582]: Info: 
+[2025-03-24 02:00:45.582]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-03-24 02:00:45.582]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-03-24 02:00:45.695]: Info: New streaming session started [active sessions: 1]
+[2025-03-24 02:00:45.736]: Info: CLIENT CONNECTED
+[2025-03-24 02:00:45.811]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:45.811]: Info: Found display [wayland-1]
+[2025-03-24 02:00:45.811]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-03-24 02:00:45.811]: Info: Found interface: wl_output(53) version 4
+[2025-03-24 02:00:45.811]: Info: Resolution: 1920x1080
+[2025-03-24 02:00:45.811]: Info: Name: DP-1
+[2025-03-24 02:00:45.811]: Info: Found monitor: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 02:00:45.811]: Info: Offset: 0x0
+[2025-03-24 02:00:45.811]: Info: Logical size: 1920x1080
+[2025-03-24 02:00:45.811]: Info: -------- Start of KMS monitor list --------
+[2025-03-24 02:00:45.811]: Info: Monitor 0 is DP-1: Microstep MSI G273 CA7A492110037 (DP-1)
+[2025-03-24 02:00:45.811]: Info: --------- End of KMS monitor list ---------
+[2025-03-24 02:00:45.811]: Info: Screencasting with KMS
+[2025-03-24 02:00:45.811]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:45.811]: Info: Found monitor for DRM screencasting
+[2025-03-24 02:00:45.811]: Info: Found connector ID [106]
+[2025-03-24 02:00:45.811]: Info: Found cursor plane [53]
+[2025-03-24 02:00:45.811]: Warning: Attempting to use NVENC without CUDA support. Reverting back to GPU -> RAM -> GPU
+[2025-03-24 02:00:45.811]: Info: /dev/dri/card1 -> nvidia-drm
+[2025-03-24 02:00:45.812]: Info: Found monitor for DRM screencasting
+[2025-03-24 02:00:45.812]: Info: Found connector ID [106]
+[2025-03-24 02:00:45.812]: Info: Found cursor plane [53]
+[2025-03-24 02:00:45.848]: Info: Creating encoder [hevc_nvenc]
+[2025-03-24 02:00:45.848]: Info: Color coding: SDR (Rec. 709)
+[2025-03-24 02:00:45.848]: Info: Color depth: 8-bit
+[2025-03-24 02:00:45.848]: Info: Color range: MPEG
+[2025-03-24 02:00:46.309]: Info: Found default monitor by name: alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo.monitor
+[2025-03-24 02:00:46.397]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-03-24 02:38:02.219]: Info: CLIENT DISCONNECTED

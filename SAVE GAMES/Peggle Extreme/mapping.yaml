@@ -1,0 +1,27 @@
+---
+name: Peggle Extreme
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:18.698194419Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/highscores.dat:
+        hash: 4c4cbdf92641e687215445e638d807154f6b2706
+        size: 363
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/stage1.sav:
+        hash: 7eb525ceb1a7e455b496a6f8fee02af3618350e0
+        size: 8895
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/stat_cum_677f1102.dat:
+        hash: d3b1ba578b176fc6fa1f3a92de706eeea27e90ed
+        size: 702
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/user1.dat:
+        hash: 21eb9faae5432b021d6b52e06c01396e3570cfbe
+        size: 327
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata/users.dat:
+        hash: bc195b7b1144058232003971c0e0428202ff8b00
+        size: 19
+    registry:
+      hash: ~
+    children: []

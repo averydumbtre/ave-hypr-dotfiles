@@ -1,0 +1,1 @@
+xfconf-query --create --type string -c displays -p /Schemes/Apply -s 6df7ab8dfd0e17a77af9842eafb11a93040d5dc7

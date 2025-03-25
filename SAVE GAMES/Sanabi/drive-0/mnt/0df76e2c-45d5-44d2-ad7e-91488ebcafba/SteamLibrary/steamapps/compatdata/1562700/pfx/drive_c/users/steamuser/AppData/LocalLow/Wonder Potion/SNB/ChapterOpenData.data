@@ -1,0 +1,116 @@
+{
+    "chapterOpenInfoList": [
+        {
+            "chapterName": "ChapterPoint_Chap1_01",
+            "isOpened": true
+        },
+        {
+            "chapterName": "ChapterPoint_Chap1_02",
+            "isOpened": true
+        },
+        {
+            "chapterName": "ChapterPoint_Chap1_03",
+            "isOpened": true
+        },
+        {
+            "chapterName": "ChapterPoint_Chap1_04",
+            "isOpened": true
+        },
+        {
+            "chapterName": "ChapterPoint_Chap2_01",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap2_02",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap2_03",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap2_04",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap3_01",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap3_02",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap3_03",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap3_04",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap3_05",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_01",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_02",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_03",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_04",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_05",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_06",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap4_07",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_01",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_02",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_03",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_04",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_05",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_06",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_07",
+            "isOpened": false
+        },
+        {
+            "chapterName": "ChapterPoint_Chap5_08",
+            "isOpened": false
+        }
+    ]
+}

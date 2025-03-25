@@ -1,0 +1,424 @@
+Mono path[0] = 'G:/Neon White/Neon White/Neon White_Data/Managed'
+Mono config path = 'G:/Neon White/Neon White/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path G:/Neon White/Neon White/Neon White_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   
+    VRAM:     12115 MB
+    Driver:   31.0.15.5186
+Begin MonoManager ReloadAssembly
+- Completed reload, in  5.355 seconds
+OnLevelWasLoaded was found on EditorFogHeightManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 0.971000 ms
+The referenced script on this Behaviour (Game Object 'DialogueBG Camera') is missing!
+
+The referenced script on this Behaviour (Game Object 'PlayerMouse_Player0') is missing!
+
+The referenced script on this Behaviour (Game Object 'Input') is missing!
+
+The referenced script on this Behaviour (Game Object 'Input') is missing!
+
+The referenced script on this Behaviour (Game Object 'Input') is missing!
+
+Animator.GotoState: State could not be found
+
+Invalid Layer Index '-1'
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuScreenOptionsPanel.OnEnable () [0x0000b] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_1
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_2
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_3
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_4
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_5
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_6
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_7
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_8
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_9
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_10
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_11
+
+SteamUserStats.GetAchievement failed for Achievement MISSIONCOMPLETE_12
+
+SteamUserStats.GetAchievement failed for Achievement BEATGAME
+
+SteamUserStats.GetAchievement failed for Achievement GOODENDING
+
+SteamUserStats.GetAchievement failed for Achievement STOMP
+
+SteamUserStats.GetAchievement failed for Achievement VENDOR
+
+SteamUserStats.GetAchievement failed for Achievement ALLMEMORIES
+
+SteamUserStats.GetAchievement failed for Achievement 100_PERCENT
+
+SteamUserStats.GetAchievement failed for Achievement RED_MEMORY
+
+SteamUserStats.GetAchievement failed for Achievement RED_RELATIONSHIP
+
+SteamUserStats.GetAchievement failed for Achievement RED_SIDEQUEST
+
+SteamUserStats.GetAchievement failed for Achievement YELLOW_MEMORY
+
+SteamUserStats.GetAchievement failed for Achievement YELLOW_RELATIONSHIP
+
+SteamUserStats.GetAchievement failed for Achievement YELLOW_SIDEQUEST
+
+SteamUserStats.GetAchievement failed for Achievement VIOLET_MEMORY
+
+SteamUserStats.GetAchievement failed for Achievement VIOLET_RELATIONSHIP
+
+SteamUserStats.GetAchievement failed for Achievement VIOLET_SIDEQUEST
+
+SteamUserStats.GetAchievement failed for Achievement MIKEY_RELATIONSHIP
+
+SteamUserStats.GetAchievement failed for Achievement RAZ_RELATIONSHIP
+
+SteamUserStats.GetAchievement failed for Achievement COIN
+
+SteamUserStats.GetAchievement failed for Achievement GREEN_RELATIONSHIP
+
+SteamUserStats.GetAchievement failed for Achievement ACE_FIRST
+
+SteamUserStats.GetAchievement failed for Achievement ACE_HALF
+
+SteamUserStats.GetAchievement failed for Achievement ACE_ALL
+
+SteamUserStats.GetAchievement failed for Achievement HEAVENLYDELIGHT_FIRST
+
+SteamUserStats.GetAchievement failed for Achievement HEAVENLYDELIGHT_ALL
+
+SteamUserStats.GetAchievement failed for Achievement TRIPWIRE
+
+SteamUserStats.GetAchievement failed for Achievement FIST
+
+SteamUserStats.GetAchievement failed for Achievement FIST_DEATH
+
+SteamUserStats.GetAchievement failed for Achievement BOSS_CLOCKTOWER
+
+SteamUserStats.GetAchievement failed for Achievement BOSS_CLOCKTOWER_EARLY
+
+SteamUserStats.GetAchievement failed for Achievement BOSS_TEMPLE
+
+SteamUserStats.GetAchievement failed for Achievement BOSS_TEMPLE_EARLY
+
+SteamUserStats.GetAchievement failed for Achievement BOSS_HANDOFGOD
+
+SteamUserStats.GetAchievement failed for Achievement BOOKOFLIFE
+
+SteamUserStats.GetAchievement failed for Achievement BOOKOFDEATH
+
+SteamUserStats.GetAchievement failed for Achievement GIFT_GIVE_FIRST
+
+SteamUserStats.GetAchievement failed for Achievement GIFT_COLLECT_HALF
+
+SteamUserStats.GetAchievement failed for Achievement GIFT_COLLECT_ALL
+
+SteamUserStats.GetAchievement failed for Achievement MIMIC_DEATH
+
+SteamUserStats.GetAchievement failed for Achievement MIMIC_BOOKOFLIFE
+
+SteamUserStats.GetAchievement failed for Achievement PARRY
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_WHITE_HEAVEN
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_WHITE_HELL
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_RED_HEAVEN
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_RED_HELL
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_VIOLET_HEAVEN
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_VIOLET_HELL
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_YELLOW_HEAVEN
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_YELLOW_HELL
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_MIKEY_HEAVEN
+
+SteamUserStats.GetAchievement failed for Achievement LEVELRUSH_MIKEY_HELL
+
+SteamUserStats.GetAchievement failed for Achievement IDIOTISLAND
+
+Failure setting steam achievement: ACE_FIRST
+
+Failure setting steam achievement: GIFT_COLLECT_ALL
+
+Failure setting steam achievement: GIFT_COLLECT_HALF
+
+Failure setting steam achievement: VENDOR
+
+Failure setting steam achievement: GREEN_RELATIONSHIP
+
+Failure setting steam achievement: RAZ_RELATIONSHIP
+
+Failure setting steam achievement: MIKEY_RELATIONSHIP
+
+Failure setting steam achievement: VIOLET_RELATIONSHIP
+
+Failure setting steam achievement: YELLOW_RELATIONSHIP
+
+Failure setting steam achievement: RED_RELATIONSHIP
+
+Failure setting steam achievement: VIOLET_MEMORY
+
+Failure setting steam achievement: YELLOW_MEMORY
+
+Failure setting steam achievement: RED_MEMORY
+
+Failure setting steam achievement: VIOLET_SIDEQUEST
+
+Failure setting steam achievement: YELLOW_SIDEQUEST
+
+Failure setting steam achievement: RED_SIDEQUEST
+
+Failure setting steam achievement: BOSS_HANDOFGOD
+
+Failure setting steam achievement: BOSS_TEMPLE
+
+Failure setting steam achievement: BOSS_CLOCKTOWER
+
+Failure setting steam achievement: BOOKOFLIFE
+
+Failure setting steam achievement: IDIOTISLAND
+
+Failure setting steam achievement: COIN
+
+Failure setting steam achievement: GIFT_GIVE_FIRST
+
+Failure setting steam achievement: PARRY
+
+Failure setting steam achievement: MIMIC_DEATH
+
+Failure setting steam achievement: MIMIC_BOOKOFLIFE
+
+Failure setting steam achievement: LEVELRUSH_VIOLET_HEAVEN
+
+Failure setting steam achievement: LEVELRUSH_RED_HEAVEN
+
+Failure setting steam achievement: HEAVENLYDELIGHT_ALL
+
+Failure setting steam achievement: HEAVENLYDELIGHT_FIRST
+
+Failure setting steam achievement: 100_PERCENT
+
+Failure setting steam achievement: GOODENDING
+
+Failure setting steam achievement: FIST_DEATH
+
+Failure setting steam achievement: FIST
+
+Failure setting steam achievement: STOMP
+
+Failure setting steam achievement: TRIPWIRE
+
+Failure setting steam achievement: BEATGAME
+
+Failure setting steam achievement: MISSIONCOMPLETE_12
+
+Failure setting steam achievement: MISSIONCOMPLETE_11
+
+Failure setting steam achievement: MISSIONCOMPLETE_10
+
+Failure setting steam achievement: MISSIONCOMPLETE_9
+
+Failure setting steam achievement: MISSIONCOMPLETE_8
+
+Failure setting steam achievement: MISSIONCOMPLETE_7
+
+Failure setting steam achievement: MISSIONCOMPLETE_6
+
+Failure setting steam achievement: MISSIONCOMPLETE_5
+
+Failure setting steam achievement: MISSIONCOMPLETE_4
+
+Failure setting steam achievement: MISSIONCOMPLETE_3
+
+Failure setting steam achievement: MISSIONCOMPLETE_2
+
+Failure setting steam achievement: MISSIONCOMPLETE_1
+
+Multiple audio items with name '!!! Enter Unique Audio ID Here !!!'
+
+Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+
+Unloading 60 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.939400 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 34243.
+Total: 89.950400 ms (FindLiveObjects: 3.622000 ms CreateObjectMapping: 2.205600 ms MarkObjects: 83.901100 ms  DeleteObjects: 0.221400 ms)
+
+Multiple audio items with name '!!! Enter Unique Audio ID Here !!!'
+
+Multiple audio items with name 'MISSION2_MIDDLE_0070_YELLOW_IDGIVEMYLEFTNUT'
+
+Multiple audio items with name 'MISSION2_MIDDLE_0080_YELLOW_IDONTBLAMEYOU'
+
+Multiple audio items with name 'BARK_WHITE_THEYREGONNADOATUTORIAL'
+
+Multiple audio items with name 'BARK_WHITE_MEMORIESMIGHTBEHAZY'
+
+Multiple audio items with name 'BARK_WHITE_ALRIGHTDEMONSSOULCARDS'
+
+Couldn't find level in GameData!
+
+DATA Couldn't find levelstats for HUB_HEAVEN
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.793700 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 33301.
+Total: 67.367500 ms (FindLiveObjects: 2.202500 ms CreateObjectMapping: 1.911200 ms MarkObjects: 62.814100 ms  DeleteObjects: 0.439400 ms)
+
+Attempting to play playlist from M_MISSION12. Current story status: CampaignComplete
+
+In mission 12, forcing continue level to be the first one, no matter what.
+
+Dialogue before level main.mission12_start
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672300 ms
+This level has a conversation before you play: main.mission12_start
+
+the scene name is: DialogueScene
+
+the scene path is: Assets/Content/Scenes/DialogueScene.unity
+
+ my env scene name is: Origin_Environment_Base
+
+Checking against: Origin_Environment_Base
+
+Checking against: TUT_ORIGIN
+
+
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 33365.
+Total: 86.396100 ms (FindLiveObjects: 2.238400 ms CreateObjectMapping: 2.120000 ms MarkObjects: 81.488600 ms  DeleteObjects: 0.548400 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428100 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 37819.
+Total: 79.816200 ms (FindLiveObjects: 2.212000 ms CreateObjectMapping: 1.103500 ms MarkObjects: 76.106900 ms  DeleteObjects: 0.393200 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 5758 -> priority: 1 
+  Thread -> id: 4af8 -> priority: 1 
+  Thread -> id: 50ec -> priority: 1 
+  Thread -> id: d8c -> priority: 1 
+  Thread -> id: 5424 -> priority: 1 
+  Thread -> id: 2480 -> priority: 1 
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+[Singleton] Instance 'UpdateManager' already destroyed on application quit. Won't create again - returning null.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AudioObjectAmbience.OnDisable () [0x00000] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+

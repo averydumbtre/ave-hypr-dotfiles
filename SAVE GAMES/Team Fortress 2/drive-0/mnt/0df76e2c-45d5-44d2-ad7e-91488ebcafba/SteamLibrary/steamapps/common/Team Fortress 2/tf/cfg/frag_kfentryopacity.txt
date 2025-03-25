@@ -1,0 +1,1 @@
+resource/hudlayout.res { huddeathnotice { basebackgroundcolor fragpaneltransparentdark80 } } 

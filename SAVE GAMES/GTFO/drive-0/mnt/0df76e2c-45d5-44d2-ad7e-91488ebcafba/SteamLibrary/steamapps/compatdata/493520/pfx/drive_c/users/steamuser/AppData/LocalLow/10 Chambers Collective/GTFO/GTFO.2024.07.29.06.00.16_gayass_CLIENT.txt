@@ -1,0 +1,101 @@
+06:00:16.661 - InControl (version 1.6.17 build 9143)
+06:00:17.066 - <size=13><color=red>TODO : Implement m_badPacketQuestion/m_badPacketAnswer and the SNet_BadPacketCatcher</color></size>
+06:00:17.067 - > GLOBAL SetupManagers, State : Dev HasNetwork: True
+06:00:17.068 - GameDataInit.Initialize
+06:00:19.612 - ------------------------------------------------------------  MusicManager. Loading soundbank for music! ------------------------------------------------------------ 
+06:00:36.593 - CM_PageCredits Setup Credits Page
+06:00:36.987 - Setting watermark revision to 34855
+06:00:37.824 - EnemyCostManager : Costs for Normal difficulty loaded
+06:00:37.826 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Inactive TO: Startup</color>
+06:00:37.827 - MusicManager - Setting music state to: StartUp
+06:00:37.887 - Steamworks.NET initilized
+06:00:37.927 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Startup TO: Offline</color>
+06:00:37.941 - MusicManager - Setting music state to: MainMenu
+06:00:37.941 - DropServerManager: Idle
+06:00:37.944 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+06:00:37.944 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+06:00:49.304 - SNET is Online, Woop!
+06:00:49.304 - Waiting for network.. DONE!
+06:00:49.306 - PlayFabManager.OnSteamInitialized
+06:00:49.472 - [163 - GetAuthSessionTicketResponse] - 2 -- k_EResultOK
+06:00:49.973 - PlayFabManager.OnLoginSuccess. NewlyCreated: False
+06:00:49.975 - PlayFabManager.RefreshGlobalTitleData
+06:00:50.011 - <color=purple>PlayFab.OnGetCurrentTime Monday, 29 July 2024</color>
+06:00:50.420 - UpdateLocalPlayerData Done, result: 1 OnSuccess: System.Action
+06:00:50.421 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_35'...
+06:00:50.423 - PlayFabMatchMakingManager: Requesting list of QoS servers...
+06:00:50.441 - AchievementManager | <b>Achievement_ReadAllLogs</b> :: Initialized Data. Logs Read: 1 / 188 | IDs: [1892674022]
+06:00:50.446 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_35)' request
+06:00:50.447 - DropServerManager: Woke up
+06:00:50.447 - DropServerManager: Making 'rundown progression (rundown: Local_35)' request...
+06:00:50.450 - DropServerManager: Enqueueing 'get player inventory' request
+06:00:50.576 - DropServerManager: 'rundown progression (rundown: Local_35)' request completed successfully
+06:00:50.576 - DropServerManager: Sleeping for 2 seconds...
+06:00:50.577 - RundownManager: Got rundown progression from drop server
+06:00:50.578 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+06:00:50.578 - tier: TierA index: 0 EXPEDITION UNLOCKED
+06:00:50.579 - tier: TierA index: 1 EXPEDITION LOCKED
+06:00:50.579 - tier: TierA index: 2 EXPEDITION LOCKED
+06:00:50.580 - tier: TierA index: 3 EXPEDITION LOCKED
+06:00:50.580 - tier: TierB index: 0 EXPEDITION LOCKED
+06:00:50.580 - tier: TierB index: 1 EXPEDITION LOCKED
+06:00:50.581 - tier: TierB index: 2 EXPEDITION LOCKED
+06:00:50.581 - tier: TierB index: 3 EXPEDITION LOCKED
+06:00:50.582 - tier: TierC index: 0 EXPEDITION LOCKED
+06:00:50.582 - tier: TierC index: 1 EXPEDITION LOCKED
+06:00:50.582 - tier: TierC index: 2 EXPEDITION LOCKED
+06:00:50.583 - tier: TierC index: 3 EXPEDITION LOCKED
+06:00:50.583 - tier: TierD index: 0 EXPEDITION LOCKED
+06:00:50.584 - tier: TierD index: 1 EXPEDITION LOCKED
+06:00:50.584 - tier: TierD index: 2 EXPEDITION LOCKED
+06:00:50.584 - tier: TierD index: 3 EXPEDITION LOCKED
+06:00:50.585 - tier: TierE index: 0 EXPEDITION LOCKED
+06:00:50.585 - tier: TierE index: 1 EXPEDITION LOCKED
+06:00:50.586 - tier: TierE index: 2 EXPEDITION LOCKED
+06:00:50.586 - tier: TierE index: 3 EXPEDITION LOCKED
+06:00:50.586 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+06:00:52.575 - DropServerManager: Making 'get player inventory' request...
+06:00:52.674 - DropServerManager: 'get player inventory' request completed successfully
+06:00:52.674 - DropServerManager: Sleeping for 2 seconds...
+06:00:54.675 - DropServerManager: Idle
+06:01:06.973 - TODO : Skipping icon generation for the hacking tool. It crashes later while trying to construct the tool for rendering
+06:02:00.453 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:02.361 - GS_Offline.OnLocalPlayerPressStart!
+06:02:02.365 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Offline TO: NoLobby</color>
+06:02:02.377 - MusicManager - Setting music state to: Silence
+06:02:02.402 - tier: TierA index: 0 EXPEDITION UNLOCKED
+06:02:02.403 - tier: TierA index: 1 EXPEDITION LOCKED
+06:02:02.403 - tier: TierA index: 2 EXPEDITION LOCKED
+06:02:02.404 - tier: TierA index: 3 EXPEDITION LOCKED
+06:02:02.404 - tier: TierB index: 0 EXPEDITION LOCKED
+06:02:02.404 - tier: TierB index: 1 EXPEDITION LOCKED
+06:02:02.405 - tier: TierB index: 2 EXPEDITION LOCKED
+06:02:02.405 - tier: TierB index: 3 EXPEDITION LOCKED
+06:02:02.406 - tier: TierC index: 0 EXPEDITION LOCKED
+06:02:02.406 - tier: TierC index: 1 EXPEDITION LOCKED
+06:02:02.406 - tier: TierC index: 2 EXPEDITION LOCKED
+06:02:02.407 - tier: TierC index: 3 EXPEDITION LOCKED
+06:02:02.407 - tier: TierD index: 0 EXPEDITION LOCKED
+06:02:02.408 - tier: TierD index: 1 EXPEDITION LOCKED
+06:02:02.408 - tier: TierD index: 2 EXPEDITION LOCKED
+06:02:02.409 - tier: TierD index: 3 EXPEDITION LOCKED
+06:02:02.409 - tier: TierE index: 0 EXPEDITION LOCKED
+06:02:02.409 - tier: TierE index: 1 EXPEDITION LOCKED
+06:02:02.410 - tier: TierE index: 2 EXPEDITION LOCKED
+06:02:02.410 - tier: TierE index: 3 EXPEDITION LOCKED
+06:02:02.411 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+06:02:02.412 - Pagerundown GOT RundownTimerData from playfab.
+06:02:05.116 - TryGetMaterialGroup : Missing material on Cylinder
+06:02:05.117 - TryGetMaterialGroup : Missing material on Cylinder (1)
+06:02:05.117 - TryGetMaterialGroup : Missing material on cone_1x1m
+06:02:05.117 - TryGetMaterialGroup : Missing material on TextMeshPro
+06:02:05.118 - TryGetMaterialGroup : Missing material on TextMeshPro
+06:02:09.959 - OnBtnPress, ID: 0 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:10.595 - OnBtnPress, ID: 287 GO: CM_ButtonFramed(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:12.716 - OnBtnPress, ID: 0 GO: CM_TimedSingleRowButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:16.110 - OnBtnPress, ID: 314 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:16.110 - CellSettingsManager: Saving settings to C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+06:02:16.111 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+06:02:17.852 - OnBtnPress, ID: 206 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:19.248 - OnBtnPress, ID: 202 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+06:02:19.367 - OnApplicationQuit

@@ -1,0 +1,190 @@
+10:21:34.701: Command Line Arguments: --startreplaybuffer --minimize-to-tray --disable-shutdown-check
+10:21:34.701: Platform: Wayland
+10:21:34.701: CPU Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+10:21:34.701: CPU Speed: 4000.669MHz
+10:21:34.701: Physical Cores: 6, Logical Cores: 12
+10:21:34.701: Physical Memory: 15857MB Total, 11036MB Free
+10:21:34.701: Kernel Version: Linux 6.13.5-x64v3-xanmod1-1-bore
+10:21:34.701: Distribution: "Arch Linux" Unknown
+10:21:34.701: Desktop Environment: Hyprland (Hyprland)
+10:21:34.701: Session Type: wayland
+10:21:34.703: Qt Version: 6.8.2 (runtime), 6.8.1 (compiled)
+10:21:34.704: Portable mode: false
+10:21:34.735: OBS 31.0.1 (linux)
+10:21:34.735: ---------------------------------
+10:21:34.736: ---------------------------------
+10:21:34.736: audio settings reset:
+10:21:34.736: 	samples per sec: 48000
+10:21:34.736: 	speakers:        2
+10:21:34.736: 	max buffering:   960 milliseconds
+10:21:34.736: 	buffering type:  dynamically increasing
+10:21:34.738: ---------------------------------
+10:21:34.738: Initializing OpenGL...
+10:21:34.738: Using EGL/Wayland
+10:21:34.800: Initialized EGL 1.5
+10:21:34.874: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+10:21:34.874: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.124.04, shading language 3.30 NVIDIA via Cg compiler
+10:21:34.911: ---------------------------------
+10:21:34.912: video settings reset:
+10:21:34.912: 	base resolution:   1920x1080
+10:21:34.912: 	output resolution: 1920x1080
+10:21:34.912: 	downscale filter:  Bicubic
+10:21:34.912: 	fps:               60/1
+10:21:34.912: 	format:            NV12
+10:21:34.912: 	YUV mode:          Rec. 709/Partial
+10:21:34.912: NV12 texture support enabled
+10:21:34.912: P010 texture support not available
+10:21:34.969: Audio monitoring device:
+10:21:34.969: 	name: Default
+10:21:34.969: 	id: default
+10:21:34.976: ---------------------------------
+10:21:34.984: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:21:34.992: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:21:34.999: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:21:34.999: Failed to initialize module 'decklink.so'
+10:21:35.162: [pipewire] Available capture sources:
+10:21:35.162: [pipewire]     - Monitor source
+10:21:35.162: [pipewire]     - Window source
+10:21:35.180: v4l2loopback not installed, virtual camera not registered
+10:21:35.187: [linux-vkcapture] plugin loaded successfully (version 1.5.1)
+10:21:35.287: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+10:21:35.288: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+10:21:35.288: FFmpeg VAAPI H264 encoding not supported
+10:21:35.288: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+10:21:35.288: FFmpeg VAAPI AV1 encoding not supported
+10:21:35.288: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+10:21:35.288: FFmpeg VAAPI HEVC encoding not supported
+10:21:35.996: [obs-nvenc] NVENC version: 12.2 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+10:21:36.089: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+10:21:36.089: 
+10:21:36.092: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+10:21:36.092: 
+10:21:36.092: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+10:21:36.119: ---------------------------------
+10:21:36.119:   Loaded Modules:
+10:21:36.119:     text-freetype2.so
+10:21:36.119:     rtmp-services.so
+10:21:36.119:     obs-x264.so
+10:21:36.119:     obs-webrtc.so
+10:21:36.119:     obs-vst.so
+10:21:36.119:     obs-transitions.so
+10:21:36.119:     obs-qsv11.so
+10:21:36.119:     obs-outputs.so
+10:21:36.119:     obs-nvenc.so
+10:21:36.119:     obs-libfdk.so
+10:21:36.119:     obs-filters.so
+10:21:36.119:     obs-ffmpeg.so
+10:21:36.119:     linux-vkcapture.so
+10:21:36.119:     linux-v4l2.so
+10:21:36.119:     linux-pulseaudio.so
+10:21:36.119:     linux-pipewire.so
+10:21:36.119:     linux-pipewire-audio.so
+10:21:36.119:     linux-jack.so
+10:21:36.119:     linux-capture.so
+10:21:36.119:     linux-alsa.so
+10:21:36.119:     image-source.so
+10:21:36.119:     frontend-tools.so
+10:21:36.119:     decklink-output-ui.so
+10:21:36.119:     decklink-captions.so
+10:21:36.119: ---------------------------------
+10:21:36.119: ---------------------------------
+10:21:36.119: Available Encoders:
+10:21:36.119:   Video Encoders:
+10:21:36.119: 	- ffmpeg_svt_av1 (SVT-AV1)
+10:21:36.119: 	- ffmpeg_aom_av1 (AOM AV1)
+10:21:36.119: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+10:21:36.119: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+10:21:36.119: 	- obs_x264 (x264)
+10:21:36.119:   Audio Encoders:
+10:21:36.119: 	- ffmpeg_aac (FFmpeg AAC)
+10:21:36.119: 	- ffmpeg_opus (FFmpeg Opus)
+10:21:36.119: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+10:21:36.119: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+10:21:36.119: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+10:21:36.119: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+10:21:36.120: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+10:21:36.120: 	- libfdk_aac (libfdk AAC)
+10:21:36.120: ==== Startup complete ===============================================
+10:21:36.167: All scene data cleared
+10:21:36.167: ------------------------------------------------
+10:21:36.168: ext_screencopy_manager_v1 not available
+10:21:36.171: [pipewire] Created stream 0x5640923a60f0
+10:21:36.173: [pipewire] Created app capture sink 164 with 2 channels and position FL,FR
+10:21:36.175: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+10:21:36.175: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+10:21:36.175: pulse-input: Started recording from 'easyeffects_source'
+10:21:36.190: pulse-am: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+10:21:36.190: pulse-am: Audio format: s16le, 48000 Hz, 2 channels
+10:21:36.190: pulse-am: Started Monitoring in 'alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo'
+10:21:36.191: [pipewire] Created stream 0x564092bf42e0
+10:21:36.192: Switched to scene 'gamecapture'
+10:21:36.192: ------------------------------------------------
+10:21:36.192: Loaded scenes:
+10:21:36.192: - scene 'gamecapture':
+10:21:36.192:     - source: 'Game Capture' (vkcapture-source)
+10:21:36.192:     - source: 'MIC' (pulse_input_capture)
+10:21:36.193:         - monitoring: monitor and output
+10:21:36.193:     - source: 'TF2' (pipewire_audio_application_capture)
+10:21:36.193:     - source: 'All' (pipewire_audio_application_capture)
+10:21:36.193: ------------------------------------------------
+10:21:36.200: [pipewire] 0x5640923a60f0 Got format: rate 48000 - channels 2 - format 8
+10:21:36.203: [pipewire] Created app capture sink 196 with 2 channels and position FL,FR
+10:21:36.208: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: TF2)
+10:21:36.208: 
+10:21:36.269: [pipewire] 0x564092bf42e0 Got format: rate 48000 - channels 2 - format 8
+10:21:36.473: [obs-nvenc: 'advanced_video_recording'] settings:
+10:21:36.473: 	codec:        H264
+10:21:36.473: 	rate_control: CQP
+10:21:36.473: 	cqp:          20
+10:21:36.473: 	keyint:       250
+10:21:36.473: 	preset:       p4
+10:21:36.473: 	tuning:       hq
+10:21:36.473: 	multipass:    qres
+10:21:36.473: 	profile:      high
+10:21:36.473: 	width:        1920
+10:21:36.473: 	height:       1080
+10:21:36.473: 	b-frames:     2
+10:21:36.473: 	b-ref-mode:   0
+10:21:36.473: 	lookahead:    true (8 frames)
+10:21:36.473: 	aq:           true
+10:21:36.473: 
+10:21:36.523: ---------------------------------
+10:21:36.525: [FFmpeg flac encoder: 'Track1'] bitrate: 0, channels: 2, channel_layout: stereo, track: 1
+10:21:36.525: 
+10:21:36.525: ---------------------------------
+10:21:36.526: [FFmpeg flac encoder: 'Track2'] bitrate: 0, channels: 2, channel_layout: stereo, track: 2
+10:21:36.526: 
+10:21:36.526: ---------------------------------
+10:21:36.527: [FFmpeg flac encoder: 'Track3'] bitrate: 0, channels: 2, channel_layout: stereo, track: 3
+10:21:36.527: 
+10:21:36.528: ==== Replay Buffer Start ===========================================
+10:21:36.784: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: MIC)
+10:21:36.784: 
+10:34:18.264: [linux-vkcapture] Client 1 connected (pid=65183)
+10:34:23.280: [linux-vkcapture] Client 1 not responding, disconnecting...
+10:34:23.280: [linux-vkcapture] Client 1 disconnected
+10:36:40.097: [linux-vkcapture] Client 2 connected (pid=65183)
+10:36:45.112: [linux-vkcapture] Client 2 not responding, disconnecting...
+10:36:45.112: [linux-vkcapture] Client 2 disconnected
+10:36:49.298: [linux-vkcapture] Client 3 connected (pid=65183)
+10:36:50.312: [linux-vkcapture] Creating texture from dmabuf 1920x1080 modifier:216172782120099860
+10:36:50.312: [linux-vkcapture]  [0] fd:99 stride:7680 offset:0
+10:38:12.262: [linux-vkcapture] Creating texture from dmabuf 1900x1060 modifier:216172782120099860
+10:38:12.262: [linux-vkcapture]  [0] fd:152 stride:7616 offset:0
+10:38:12.346: [linux-vkcapture] Creating texture from dmabuf 1900x1060 modifier:216172782120099860
+10:38:12.346: [linux-vkcapture]  [0] fd:99 stride:7616 offset:0
+10:38:13.846: [linux-vkcapture] Creating texture from dmabuf 1912x1048 modifier:216172782120099860
+10:38:13.846: [linux-vkcapture]  [0] fd:152 stride:7680 offset:0
+10:38:18.012: [linux-vkcapture] Creating texture from dmabuf 1920x1080 modifier:216172782120099860
+10:38:18.012: [linux-vkcapture]  [0] fd:99 stride:7680 offset:0
+10:38:18.112: [linux-vkcapture] Creating texture from dmabuf 1920x1080 modifier:216172782120099860
+10:38:18.112: [linux-vkcapture]  [0] fd:152 stride:7680 offset:0
+10:39:04.897: [linux-vkcapture] Creating texture from dmabuf 1912x1048 modifier:216172782120099860
+10:39:04.897: [linux-vkcapture]  [0] fd:99 stride:7680 offset:0
+10:39:04.979: [linux-vkcapture] Creating texture from dmabuf 1912x1048 modifier:216172782120099860
+10:39:04.979: [linux-vkcapture]  [0] fd:152 stride:7680 offset:0
+10:39:05.547: [linux-vkcapture] Creating texture from dmabuf 1920x1080 modifier:216172782120099860
+10:39:05.547: [linux-vkcapture]  [0] fd:99 stride:7680 offset:0
+10:39:05.629: [linux-vkcapture] Creating texture from dmabuf 1920x1080 modifier:216172782120099860
+10:39:05.629: [linux-vkcapture]  [0] fd:152 stride:7680 offset:0
+10:48:27.125: [linux-vkcapture] Client 3 disconnected

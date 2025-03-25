@@ -1,0 +1,1 @@
+ddcutil setvcp 10 100 --display 1

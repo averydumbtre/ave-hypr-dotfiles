@@ -1,0 +1,1136 @@
+20:54:24.210 - InControl (version 1.6.17 build 9143)
+20:54:24.244 - <size=13><color=red>TODO : Implement m_badPacketQuestion/m_badPacketAnswer and the SNet_BadPacketCatcher</color></size>
+20:54:24.246 - > GLOBAL SetupManagers, State : Dev HasNetwork: True
+20:54:24.247 - GameDataInit.Initialize
+20:54:27.244 - ------------------------------------------------------------  MusicManager. Loading soundbank for music! ------------------------------------------------------------ 
+20:54:29.813 - <b>[SteamVR_Standalone Setup]</b> Generated you an editor app key of: application.generated.unity.gtfo.exe. This lets the editor tell SteamVR_Standalone what project this is. Has no effect on builds. This can be changed in Assets/SteamVR_Standalone/Resources/SteamVR_Settings
+20:54:29.952 - Is HMD here? True
+20:54:30.120 - <b>[SteamVR_Standalone]</b> Successfully loaded 26 actions from action manifest into SteamVR_Standalone (Z:/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/GTFO/GTFO_Data/StreamingAssets\SteamVR_Standalone\actions.json)
+20:54:30.122 - <b>[SteamVR_Standalone]</b> Initializing SteamVR_Standalone input...
+20:54:30.144 - Loading external plugin load function
+20:54:30.455 - Z:\mnt\9a51e46c-ef46-433a-b33c-9d051ba8fb01\SteamLibrary\steamapps\common\GTFO\GTFO.exe
+20:54:30.456 - C:\windows\system32\ntdll.dll
+20:54:30.456 - C:\windows\system32\kernel32.dll
+20:54:30.457 - C:\windows\system32\kernelbase.dll
+20:54:30.458 - Z:\mnt\9a51e46c-ef46-433a-b33c-9d051ba8fb01\SteamLibrary\steamapps\common\GTFO\UnityPlayer.dll
+20:54:30.631 - <b>[SteamVR_Standalone]</b> Initialized. Connected to lighthouse:LHR-70AF6EF0
+20:54:32.858 - CM_PageCredits Setup Credits Page
+20:54:33.022 - Setting watermark revision to 34855
+20:54:34.022 - Loading shaders from asset bundle...
+20:54:34.029 - assets/steamvr/resources/steamvr_blit.shader
+20:54:34.030 - assets/steamvr/resources/steamvr_blitflip.shader
+20:54:34.031 - assets/steamvr/resources/steamvr_fade.shader
+20:54:34.033 - assets/steamvr/resources/steamvr_hiddenarea.shader
+20:54:34.034 - assets/steamvr/resources/steamvr_overlay.shader
+20:54:34.775 - EnemyCostManager : Costs for Normal difficulty loaded
+20:54:34.778 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Inactive TO: Startup</color>
+20:54:34.780 - MusicManager - Setting music state to: StartUp
+20:54:34.850 - Steamworks.NET initilized
+20:54:34.892 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Startup TO: Offline</color>
+20:54:34.908 - MusicManager - Setting music state to: MainMenu
+20:54:34.909 - DropServerManager: Idle
+20:54:34.915 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+20:54:34.916 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+20:54:35.792 - SNET is Online, Woop!
+20:54:35.799 - Waiting for network.. DONE!
+20:54:35.802 - PlayFabManager.OnSteamInitialized
+20:54:36.045 - [163 - GetAuthSessionTicketResponse] - 3 -- k_EResultOK
+20:54:36.856 - PlayFabManager.OnLoginSuccess. NewlyCreated: False
+20:54:36.860 - PlayFabManager.RefreshGlobalTitleData
+20:54:37.053 - <color=purple>PlayFab.OnGetCurrentTime Sunday, 10 November 2024</color>
+20:54:37.225 - UpdateLocalPlayerData Done, result: 1 OnSuccess: System.Action
+20:54:37.227 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_35'...
+20:54:37.231 - PlayFabMatchMakingManager: Requesting list of QoS servers...
+20:54:37.255 - AchievementManager | <b>Achievement_ReadAllLogs</b> :: Initialized Data. Logs Read: 1 / 188 | IDs: [1892674022]
+20:54:37.267 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_35)' request
+20:54:37.268 - DropServerManager: Woke up
+20:54:37.269 - DropServerManager: Making 'rundown progression (rundown: Local_35)' request...
+20:54:37.275 - DropServerManager: Enqueueing 'get player inventory' request
+20:54:37.458 - RundownManager: Got rundown progression from drop server
+20:54:37.460 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+20:54:37.461 - tier: TierA index: 0 EXPEDITION UNLOCKED
+20:54:37.462 - tier: TierA index: 1 EXPEDITION LOCKED
+20:54:37.464 - tier: TierA index: 2 EXPEDITION LOCKED
+20:54:37.465 - tier: TierA index: 3 EXPEDITION LOCKED
+20:54:37.466 - tier: TierB index: 0 EXPEDITION LOCKED
+20:54:37.467 - tier: TierB index: 1 EXPEDITION LOCKED
+20:54:37.469 - tier: TierB index: 2 EXPEDITION LOCKED
+20:54:37.470 - tier: TierB index: 3 EXPEDITION LOCKED
+20:54:37.471 - tier: TierC index: 0 EXPEDITION LOCKED
+20:54:37.472 - tier: TierC index: 1 EXPEDITION LOCKED
+20:54:37.473 - tier: TierC index: 2 EXPEDITION LOCKED
+20:54:37.474 - tier: TierC index: 3 EXPEDITION LOCKED
+20:54:37.475 - tier: TierD index: 0 EXPEDITION LOCKED
+20:54:37.477 - tier: TierD index: 1 EXPEDITION LOCKED
+20:54:37.478 - tier: TierD index: 2 EXPEDITION LOCKED
+20:54:37.479 - tier: TierD index: 3 EXPEDITION LOCKED
+20:54:37.481 - tier: TierE index: 0 EXPEDITION LOCKED
+20:54:37.482 - tier: TierE index: 1 EXPEDITION LOCKED
+20:54:37.484 - tier: TierE index: 2 EXPEDITION LOCKED
+20:54:37.485 - tier: TierE index: 3 EXPEDITION LOCKED
+20:54:37.486 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+20:54:37.491 - DropServerManager: 'rundown progression (rundown: Local_35)' request completed successfully
+20:54:37.492 - DropServerManager: Sleeping for 2 seconds...
+20:54:37.997 - TODO : Skipping icon generation for the hacking tool. It crashes later while trying to construct the tool for rendering
+20:54:39.463 - DropServerManager: Making 'get player inventory' request...
+20:54:39.795 - DropServerManager: 'get player inventory' request completed successfully
+20:54:39.796 - DropServerManager: Sleeping for 2 seconds...
+20:54:41.797 - DropServerManager: Idle
+20:54:47.280 - TryGetMaterialGroup : Missing material on TextMeshPro
+20:55:15.321 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:16.981 - GS_Offline.OnLocalPlayerPressStart!
+20:55:16.985 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Offline TO: NoLobby</color>
+20:55:16.996 - MusicManager - Setting music state to: Silence
+20:55:17.024 - tier: TierA index: 0 EXPEDITION UNLOCKED
+20:55:17.025 - tier: TierA index: 1 EXPEDITION LOCKED
+20:55:17.027 - tier: TierA index: 2 EXPEDITION LOCKED
+20:55:17.028 - tier: TierA index: 3 EXPEDITION LOCKED
+20:55:17.029 - tier: TierB index: 0 EXPEDITION LOCKED
+20:55:17.036 - tier: TierB index: 1 EXPEDITION LOCKED
+20:55:17.037 - tier: TierB index: 2 EXPEDITION LOCKED
+20:55:17.039 - tier: TierB index: 3 EXPEDITION LOCKED
+20:55:17.040 - tier: TierC index: 0 EXPEDITION LOCKED
+20:55:17.041 - tier: TierC index: 1 EXPEDITION LOCKED
+20:55:17.042 - tier: TierC index: 2 EXPEDITION LOCKED
+20:55:17.044 - tier: TierC index: 3 EXPEDITION LOCKED
+20:55:17.045 - tier: TierD index: 0 EXPEDITION LOCKED
+20:55:17.048 - tier: TierD index: 1 EXPEDITION LOCKED
+20:55:17.049 - tier: TierD index: 2 EXPEDITION LOCKED
+20:55:17.051 - tier: TierD index: 3 EXPEDITION LOCKED
+20:55:17.052 - tier: TierE index: 0 EXPEDITION LOCKED
+20:55:17.054 - tier: TierE index: 1 EXPEDITION LOCKED
+20:55:17.055 - tier: TierE index: 2 EXPEDITION LOCKED
+20:55:17.057 - tier: TierE index: 3 EXPEDITION LOCKED
+20:55:17.058 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+20:55:17.061 - Pagerundown GOT RundownTimerData from playfab.
+20:55:27.348 - OnBtnPress, ID: 0 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:28.549 - OnBtnPress, ID: 517 GO: CM_ButtonFramed(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:30.847 - OnBtnPress, ID: 262 GO: CM_ButtonFramed(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:34.447 - OnBtnPress, ID: 0 GO: CM_TimedSingleRowButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:38.582 - OnBtnPress, ID: 285 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:38.583 - CellSettingsManager: Saving settings to C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+20:55:38.584 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+20:55:42.680 - OnBtnPress, ID: 517 GO: CM_ButtonFramed(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:55.313 - OnBtnPress, ID: 187 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:55.346 - Pagerundown GOT RundownTimerData from playfab.
+20:55:57.002 - OnBtnPress, ID: 42 GO: TutorialButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:58.869 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:55:58.870 - SNet : Session reset
+20:55:58.872 - Global.OnResetSession
+20:55:58.874 - <color=purple>PlayerManager OnResetSession >  m_playerAgentsInLevel.Count : 0</color>
+20:55:58.878 - SessionGUID set to 
+20:55:58.880 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : NoLobby TO: Lobby</color>
+20:55:58.882 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:55:58.884 - MusicManager - Setting music state to: Silence
+20:55:58.885 - Player [#442c21] gayass was added to session
+20:55:58.887 - DoCreateLobbyAndSelecteExpedition 1
+20:55:58.888 - waiting for lobby..
+20:55:59.012 - SNet_SessionHub : OnJoinedLobby True [#442c21] gayass False -1
+20:55:59.013 - SNet_MasterManager : SearchingForMaster
+20:55:59.036 - Searching for master...
+20:55:59.069 - MasterManager : [#442c21] gayass owns the lobby. IsLocal:True
+20:55:59.071 - SNet_MasterManager : Who's tha masta?! [#442c21] gayass! [#442c21] gayass!
+20:55:59.072 - SNET : OnFoundMaster > Master is Steam [#442c21] gayass Session summary > Master InSessionHub -1 -1 0 0   Profile summary > [#442c21] gayass : end
+20:55:59.073 - DoCreateLobbyAndSelecteExpedition 2
+20:55:59.074 - RundownManager.SetActiveExpedition, type:Local tier:TierA expIndex: 1
+20:55:59.075 - SessionGUID set to nQVNojRVkE6DsgGhYrE40g==
+20:55:59.080 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:55:59.083 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:55:59.098 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:55:59.108 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:55:59.134 - <color=#C84800>SelectActiveExpedition : Selected! Local Local_39 TierA 1 1049548572 1144376550  sessionGUID:SNetwork.SNetStructs+pSessionGUID FriendsData expID set to: Local_39,1,1 ActiveExpeditionUniqueKey: Local_39_TierA_1</color>
+20:55:59.135 - DoCreateLobbyAndSelecteExpedition 3
+20:55:59.136 - DoCreateLobbyAndSelecteExpedition 4
+20:55:59.166 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : Unassigned InSessionHub
+20:55:59.167 - SNET : OnMasterCommand : AssignSlot 0 False
+20:55:59.168 - OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerInSession  Reason : None isPlayerMaster : True
+20:55:59.281 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : InSessionHub OutOfSync
+20:55:59.282 - SNET : OnMasterCommand : PickAvatar 0 False
+20:55:59.284 - <color=green>SNET : We got character 0 assigned</color>
+20:55:59.285 - IsReadyToSync : PickAvatar agent sent to [#442c21] gayass
+20:55:59.294 - SNET : OnMasterCommand : InSessionHub_ReadyToGenerate 0 False
+20:55:59.295 - <color=green>SNET : Added [#442c21] gayass to PlayersInGame</color>
+20:55:59.297 - OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerIsSynced  Reason : None isPlayerMaster : True
+20:55:59.299 - SpawnPlayerModel, index: 0
+20:55:59.553 - <color=green>SNET : GS_Lobby has not implemented functionality for InSessionHub_ReadyToGenerate!</color>
+20:55:59.877 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : OutOfSync InSessionHub_ReadyToGenerate
+20:55:59.879 - <color=green>SNET : OnSessionPlayerAction : Spawning [#442c21] gayass's agent!  SpawnPlayerAgent</color>
+20:56:00.082 - OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : True
+20:56:00.725 - SNET : OnMasterCommand : StartGeneration 0 False
+20:56:00.727 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Lobby TO: Generating</color>
+20:56:00.732 - RundownManager: Starting new game session
+20:56:00.736 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:56:00.740 - DropServerManager: Enqueueing 'new session (sessionId: nQVNojRVkE6DsgGhYrE40g==, rundown: Local_39, expedition: A2, boosters: [])' request
+20:56:00.741 - DropServerManager: Woke up
+20:56:00.741 - DropServerManager: Making 'new session (sessionId: nQVNojRVkE6DsgGhYrE40g==, rundown: Local_39, expedition: A2, boosters: [])' request...
+20:56:00.743 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : InSessionHub_ReadyToGenerate GeneratingLevel
+20:56:00.757 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:56:01.142 - DropServerManager: 'new session (sessionId: nQVNojRVkE6DsgGhYrE40g==, rundown: Local_39, expedition: A2, boosters: [])' request completed successfully
+20:56:01.143 - DropServerManager: Sleeping for 2 seconds...
+20:56:02.878 - DropServerManager: Idle
+20:56:27.574 - <color=#C84800>>>>>>>>>>>>>> SetBuildSeed, forcedSeed: 0 exp: GameData.ExpeditionInTierData BuildRandom.Seed: 0</color>
+20:56:27.576 - <color=#C84800>>>>>>>>>>>>>> SetHostIDSeed, forcedSeed: 1049548572 exp: GameData.ExpeditionInTierData HostIDRandom.Seed: 1049548572</color>
+20:56:27.579 - <color=#C84800>>>>>>>>>>>>>> SetSessionIDSeed, forcedSeed: 1144376550 exp: GameData.ExpeditionInTierData SessionRandom.Seed: 1144376550</color>
+20:56:27.581 - Builder.Build, settings seeds, activeExp: GameData.ExpeditionInTierData buildSeed: 0 hostIDSeed: 1049548572 sessionSeed: 1144376550
+20:56:27.587 - <color=#C84800>Builder.Build, Start Building using BuildSeed: 0 HostIDSeed: 1049548572 SessionSeed: 1144376550</color>
+20:56:27.589 - <color=#C84800>>>>>>>>>>>>>> SetBuildSeed, forcedSeed: 0 exp: GameData.ExpeditionInTierData BuildRandom.Seed: 0</color>
+20:56:27.590 - <color=#C84800>SerialGenerator GENERATE! SessionRandom.seed: 1144376550</color>
+20:56:27.592 - >>>>>>>>>>>>> BuildFloor
+20:56:27.606 - <color=#C84800>LoadComplexResources complexResourceDataID: 54</color>
+20:56:27.628 - <color=#C84800>LG_LoadComplexDataSetResourcesJob.ComplexAssetBundleLoaded, ComplexResourceSetBlock: Complex_Tutorial</color>
+20:56:27.630 - DIMENSION: Setting sound ENVIRONMENT state to ORGANIC!
+20:56:27.661 - Last Batch: Setup
+		 Total Time: 0.090s Frames: 0 Ticks: 74
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: StaticLevel - Count: 0
+
+20:56:27.662 - Last Batch: StaticLevel
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: LoadResourcesShards_Level - Count: 1
+
+20:56:32.453 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:56:35.757 - Engine Started
+20:56:48.174 - Last Batch: LoadResourcesShards_Level
+		 Total Time: 20.349s Frames: 480 Ticks: 20516
+		 FrameTime (avg/max/ticks max): 42.4ms / 333.3ms / 587
+		 Jobs (started/looped): 1 / 480
+Next Batch: SetupFloor - Count: 1
+
+20:56:48.175 - <color=#C84800>LG_SetupFloor.Build</color>
+20:56:48.187 - <b>LG_Floor:</b> Setup() Setting up Base Dimension (0).
+20:56:48.210 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 70 with BuildFromZoneAlias70 zoneAliasStart: 70 aliasOffset: Zone_0</color>
+20:56:48.214 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 0 (Default), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.215 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 71 with BuildFromZoneAlias70 zoneAliasStart: 70 aliasOffset: Zone_1</color>
+20:56:48.217 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 0 (Default), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.218 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 72 with BuildFromZoneAlias71 zoneAliasStart: 70 aliasOffset: Zone_2</color>
+20:56:48.220 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 0 (Default), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.221 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 73 with BuildFromZoneAlias72 zoneAliasStart: 70 aliasOffset: Zone_3</color>
+20:56:48.224 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 2 (Defined), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.227 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 74 with BuildFromZoneAlias73 zoneAliasStart: 70 aliasOffset: Zone_4</color>
+20:56:48.229 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 0 (Default), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.230 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 75 with BuildFromZoneAlias74 zoneAliasStart: 70 aliasOffset: Zone_5</color>
+20:56:48.233 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 0 (Default), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.234 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 76 with BuildFromZoneAlias72 zoneAliasStart: 70 aliasOffset: Zone_6</color>
+20:56:48.237 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 0 (Default), <b>MarkerSubSeed:</b> 0 (Default), <b>LightSubSeed:</b> 0 (Default)
+20:56:48.238 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 77 with BuildFromZoneAlias76 zoneAliasStart: 70 aliasOffset: Zone_7</color>
+20:56:48.240 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 1793758047 (Defined), <b>MarkerSubSeed:</b> 248759617 (Defined), <b>LightSubSeed:</b> 163405774 (Defined)
+20:56:48.242 - <color=#C84800>>>>>>>>>------------->>>>>>>>>>>> LG_Floor.CreateZone, Alias: 78 with BuildFromZoneAlias77 zoneAliasStart: 70 aliasOffset: Zone_8</color>
+20:56:48.246 - <b>Zone Created</b> (New Game Object) in Reality MainLayer with 
+<b>SubSeed:</b> 1429813442 (Defined), <b>MarkerSubSeed:</b> 1002433032 (Defined), <b>LightSubSeed:</b> 720893310 (Defined)
+20:56:48.247 - Last Batch: SetupFloor
+		 Total Time: 0.000s Frames: 0 Ticks: 72
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: GenerateZones - Count: 9
+
+20:56:48.263 - <color=#C84800> ---- MainLayer ---- Picked build from area : Area_A</color>
+20:56:48.443 - Last Batch: GenerateZones
+		 Total Time: 0.246s Frames: 4 Ticks: 196
+		 FrameTime (avg/max/ticks max): 52.1ms / 90.7ms / 61
+		 Jobs (started/looped): 8 / 52
+Next Batch: PlaceAddonZones - Count: 0
+
+20:56:48.444 - Last Batch: PlaceAddonZones
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: PrepareZones - Count: 3
+
+20:56:48.460 - Adding culling jobs for zone New Game Object[SubSeed:0(0)] from dimension Reality
+20:56:48.506 - Adding culling jobs for zone New Game Object[SubSeed:0(0)] from dimension Reality
+20:56:48.508 - Adding culling jobs for zone New Game Object[SubSeed:0(0)] from dimension Reality
+20:56:48.509 - Adding culling jobs for zone New Game Object[SubSeed:2(2)] from dimension Reality
+20:56:48.511 - Adding culling jobs for zone New Game Object[SubSeed:0(0)] from dimension Reality
+20:56:48.511 - Adding culling jobs for zone New Game Object[SubSeed:0(0)] from dimension Reality
+20:56:48.512 - Adding culling jobs for zone New Game Object[SubSeed:0(0)] from dimension Reality
+20:56:48.514 - Adding culling jobs for zone New Game Object[SubSeed:1793758047(879)] from dimension Reality
+20:56:48.515 - Adding culling jobs for zone New Game Object[SubSeed:1429813442(694)] from dimension Reality
+20:56:48.532 - Last Batch: PrepareZones
+		 Total Time: 0.113s Frames: 2 Ticks: 88
+		 FrameTime (avg/max/ticks max): 25.2ms / 40.4ms / 71
+		 Jobs (started/looped): 1 / 10
+Next Batch: BuildFloors - Count: 1
+
+20:56:48.533 - LG_BuildNodeVolumes() bulding NodeClusterData array with length of dimension count (1).
+20:56:48.535 - Last Batch: BuildFloors
+		 Total Time: 0.000s Frames: 0 Ticks: 4
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: Geomorphs - Count: 10
+
+20:56:48.546 - Last Batch: Geomorphs
+		 Total Time: 0.000s Frames: 0 Ticks: 11
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 10 / 0
+Next Batch: Areas - Count: 17
+
+20:56:48.603 - Last Batch: Areas
+		 Total Time: 0.044s Frames: 1 Ticks: 52
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 11
+		 Jobs (started/looped): 16 / 1
+Next Batch: Plugs - Count: 19
+
+20:56:48.629 - Last Batch: Plugs
+		 Total Time: 0.042s Frames: 1 Ticks: 31
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 5
+		 Jobs (started/looped): 18 / 1
+Next Batch: Gates - Count: 22
+
+20:56:48.686 - Last Batch: Gates
+		 Total Time: 0.043s Frames: 1 Ticks: 56
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 17
+		 Jobs (started/looped): 21 / 1
+Next Batch: AreaNames - Count: 1
+
+20:56:48.712 - Last Batch: AreaNames
+		 Total Time: 0.051s Frames: 1 Ticks: 26
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 1
+		 Jobs (started/looped): 0 / 1
+Next Batch: WardenObjectivePrep - Count: 0
+
+20:56:48.713 - Last Batch: WardenObjectivePrep
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: DistributionSetup - Count: 1
+
+20:56:48.714 - Last Batch: DistributionSetup
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: TerminalDistribution - Count: 18
+
+20:56:48.715 - Last Batch: TerminalDistribution
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 18 / 0
+Next Batch: Distribution - Count: 1
+
+20:56:48.717 - <b>Artifacts:</b> Could NOT find a ArtifactDistributionDataBlock in layer: MainLayer, Using ArtifactDistribution.Default.
+20:56:48.718 - <b>Artifacts:</b> Allocated 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.720 - <b>Artifacts:</b> Zone 0 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.722 - <b>Artifacts:</b> Zone 1 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.723 - <b>Artifacts:</b> Zone 2 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.724 - <b>Artifacts:</b> Zone 3 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.725 - <b>Artifacts:</b> Zone 4 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.726 - <b>Artifacts:</b> Zone 5 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.727 - <b>Artifacts:</b> Zone 6 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.727 - <b>Artifacts:</b> Zone 7 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.728 - <b>Artifacts:</b> Zone 8 has 0 basic artifacts, 0 advanced artifacts and 0 specialized artifacts.
+20:56:48.731 - <color=purple>CreateKeyItemDistribution, keyItem: PublicName: KEY_YELLOW_707 SpawnedItem: KeyItemPickup_Core(Clone)_GateKeyItem:KEY_YELLOW_707_terminalKey: KEY_YELLOW_707 (KeyItemPickup_Core) placementData: DimensionIndex: Reality LocalIndex: Zone_1 ZonePlacementWeights, Start: 0 Middle: 0 End: 0</color>
+20:56:48.733 - <color=#C84800>>>>> CalcAreaWeights START: FindContainerFor PublicName: KEY_YELLOW_707 SpawnedItem: KeyItemPickup_Core(Clone)_GateKeyItem:KEY_YELLOW_707_terminalKey: KEY_YELLOW_707 (KeyItemPickup_Core) --- Zone: ZONE71, AreaCount: 2 half: 1 even: True ZonePlacementWeights, Start: 0 Middle: 0 End: 0</color>
+20:56:48.734 - <color=#C84800>>>>> CalcAreaWeights AREA RESULT: AreaIndex: 0 StartMul: 1 MiddleMul: 0 EndMul: 0 --- ZonePlacementWeights, Start: 0 Middle: 0 End: 0 Total area weight: 1</color>
+20:56:48.735 - <color=#C84800>>>>> CalcAreaWeights AREA RESULT: AreaIndex: 1 StartMul: 0 MiddleMul: 0 EndMul: 1 --- ZonePlacementWeights, Start: 0 Middle: 0 End: 0 Total area weight: 1</color>
+20:56:48.739 - >>>>>>>>>>>>>>> TryGetZoneFunctionDistribution returning FALSE!! We need more pre-allocated distribution data of function ResourceContainerWeak in dim Reality in layer MainLayer zone ZONE71! You need to instruct the zone to spawn more of function ResourceContainerWeak to be able to use the pre-allocated randomization.
+20:56:48.740 - LG_Distribute_ProgressionPuzzles.CreateKeyItemDistribution Had to create a new resourceContainer!!
+20:56:48.741 - SetupAsLockedNoKey, interactionText: <color=red>://ERROR: Door locked.</color> <color=orange>Lockdown release imminent</color>
+20:56:48.746 - SetupAsLockedNoKey, interactionText: <color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>
+20:56:48.747 - SetupAsLockedNoKey, interactionText: <color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>
+20:56:48.760 - <color=#C84800>------------------- LG_Distribute_WardenObjective, got objective for layer MainLayer: ClearAPath_Tutorial</color>
+20:56:48.761 - Last Batch: Distribution
+		 Total Time: 0.048s Frames: 1 Ticks: 46
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 33
+		 Jobs (started/looped): 97 / 1
+Next Batch: FunctionMarkers - Count: 9
+
+20:56:48.763 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.764 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.765 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.766 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.767 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.768 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.769 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.770 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.771 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.773 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.774 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.775 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.777 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.777 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.778 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.779 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.780 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.781 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.782 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.783 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.784 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.785 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 0_Area_A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.786 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.799 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.800 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.801 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.803 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.804 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.805 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.805 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 1_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.806 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.807 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.808 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.809 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.810 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.810 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 2_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.815 - <color=#C84800>Spawning KEYCARD (PublicName: KEY_YELLOW_707 SpawnedItem: KeyItemPickup_Core(Clone)_GateKeyItem:KEY_YELLOW_707_terminalKey: KEY_YELLOW_707 (KeyItemPickup_Core)) in countainer: LockerWeakLock(Clone)_terminalKey: LOCKER_125</color>
+20:56:48.817 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_container_locker_high_function_pot_200x300x50_tutorial(155) Producer: World (LG_Floor)/Root_Reality/geo_64x64_mining_storage_tutorial_VS_02(Clone)_ID_2_2/4_Area B (LevelGeneration.LG_Area)/TerminalMarker (9)
+20:56:48.880 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.882 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.883 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.884 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.885 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.886 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.887 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.888 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.889 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.890 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.891 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.892 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.893 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.894 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.895 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.896 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.897 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.898 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.899 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.900 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.901 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.903 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.934 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.936 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.937 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.938 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.939 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.940 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.941 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.942 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.943 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.944 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.945 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 5_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.947 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.948 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.949 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.950 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.951 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.952 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.953 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 6_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.954 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.955 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.956 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 7_Area C (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.957 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.989 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.990 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 8_Area D (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.992 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.993 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.994 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 9_Area E (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:48.997 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_container_locker_high_function_pot_200x300x50_tutorial(155) Producer: World (LG_Floor)/Root_Reality/geo_64x64_mining_storage_tutorial_VS_04(Clone)_ID_4_4/10_Area A (LevelGeneration.LG_Area)/LockerMarkers/LockerMarker (3)
+20:56:49.003 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_container_locker_high_function_pot_200x300x50_tutorial(155) Producer: World (LG_Floor)/Root_Reality/geo_64x64_mining_storage_tutorial_VS_04(Clone)_ID_4_4/10_Area A (LevelGeneration.LG_Area)/LockerMarkers/LockerMarker
+20:56:49.007 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_container_locker_high_function_pot_200x300x50_tutorial(155) Producer: World (LG_Floor)/Root_Reality/geo_64x64_mining_storage_tutorial_VS_04(Clone)_ID_4_4/10_Area A (LevelGeneration.LG_Area)/LockerMarkers/LockerMarker (2)
+20:56:49.010 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_container_locker_high_function_pot_200x300x50_tutorial(155) Producer: World (LG_Floor)/Root_Reality/geo_64x64_mining_storage_tutorial_VS_04(Clone)_ID_4_4/10_Area A (LevelGeneration.LG_Area)/LockerMarkers/LockerMarker (1)
+20:56:49.011 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.013 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.015 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.059 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.060 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.061 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.063 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 10_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.064 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 10_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.065 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 10_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.066 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.068 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.069 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.070 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.071 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.073 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:2(2)] (LevelGeneration.LG_Zone), Assigned area: 11_Area B (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.074 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.075 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.076 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.077 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.078 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.079 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: ResourceContainerWeak. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.080 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.081 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.083 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.083 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.101 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.102 - BuildBothFunctionAndPropMarkerAndRemoveSurplus generated no deepestSpawner! function: SmallPickupItem. Assigned zone: New Game Object[SubSeed:0(0)] (LevelGeneration.LG_Zone), Assigned area: 12_Area A (LevelGeneration.LG_Area) (LevelGeneration.LG_Area), Distribution marker seed offset: 0
+20:56:49.214 - Last Batch: FunctionMarkers
+		 Total Time: 0.448s Frames: 8 Ticks: 453
+		 FrameTime (avg/max/ticks max): 53.1ms / 78.7ms / 68
+		 Jobs (started/looped): 9 / 215
+Next Batch: FunctionMarkerLeftovers - Count: 9
+
+20:56:49.220 - Last Batch: FunctionMarkerLeftovers
+		 Total Time: 0.000s Frames: 0 Ticks: 6
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 9 / 0
+Next Batch: Markers - Count: 1
+
+20:56:49.573 - Last Batch: Markers
+		 Total Time: 0.361s Frames: 8 Ticks: 351
+		 FrameTime (avg/max/ticks max): 43.1ms / 50.5ms / 51
+		 Jobs (started/looped): 1 / 132
+Next Batch: PrefabSpawners - Count: 15188
+
+20:56:51.415 - Last Batch: PrefabSpawners
+		 Total Time: 1.835s Frames: 32 Ticks: 1844
+		 FrameTime (avg/max/ticks max): 45.3ms / 166.6ms / 231
+		 Jobs (started/looped): 15187 / 15189
+Next Batch: LateMarkerCleanup - Count: 0
+
+20:56:51.416 - Last Batch: LateMarkerCleanup
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: MarkerLoop - Count: 1
+
+20:56:51.417 - Last Batch: MarkerLoop
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: LateGeomorphScan - Count: 10
+
+20:56:53.065 - Last Batch: LateGeomorphScan
+		 Total Time: 1.650s Frames: 10 Ticks: 1647
+		 FrameTime (avg/max/ticks max): 156.9ms / 197.5ms / 206
+		 Jobs (started/looped): 10 / 40
+Next Batch: Pillars - Count: 0
+
+20:56:53.066 - Last Batch: Pillars
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: AIGraph_UnityAIGraph - Count: 1
+
+20:56:53.222 - CollectNavMeshSources : From 10 roots and 88747 possible sources, 24975 vas valid
+20:56:53.223 - CollectNavMeshSources : NotStatic:0 NotActive:1437
+20:56:53.224 - CollectNavMeshSources : WrongLayer:2030 NoCollider:61740 WasTrigger:2 MissingMesh:0 BadColliderType:0
+20:56:53.225 - NavmeshUtils.NavMeshSourceCollector : 24975 valid NavMesh sources found!
+20:56:54.863 - ---------------------------------------------------------
+20:56:54.864 - Navmesh done! time: 1.767334
+20:56:54.865 - ---------------------------------------------------------
+20:56:54.866 - Last Batch: AIGraph_UnityAIGraph
+		 Total Time: 1.776s Frames: 13 Ticks: 1800
+		 FrameTime (avg/max/ticks max): 121.5ms / 224.2ms / 168
+		 Jobs (started/looped): 1 / 610438
+Next Batch: AIGraph_Prepare - Count: 10
+
+20:56:55.169 - Last Batch: AIGraph_Prepare
+		 Total Time: 0.334s Frames: 2 Ticks: 303
+		 FrameTime (avg/max/ticks max): 149.9ms / 289.7ms / 283
+		 Jobs (started/looped): 8 / 2
+Next Batch: AIGraph_NodeVolumeJobs - Count: 1
+
+20:56:55.586 - Last Batch: AIGraph_NodeVolumeJobs
+		 Total Time: 0.415s Frames: 2 Ticks: 417
+		 FrameTime (avg/max/ticks max): 138.4ms / 266.9ms / 363
+		 Jobs (started/looped): 1 / 10878
+Next Batch: LadderAIGNodes - Count: 14
+
+20:56:55.597 - Last Batch: LadderAIGNodes
+		 Total Time: 0.000s Frames: 0 Ticks: 11
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 14 / 0
+Next Batch: AIGraph_LinkGates - Count: 16
+
+20:56:55.604 - Last Batch: AIGraph_LinkGates
+		 Total Time: 0.000s Frames: 0 Ticks: 7
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 16 / 0
+Next Batch: AIGraph_LinkPlugs - Count: 0
+
+20:56:55.605 - Last Batch: AIGraph_LinkPlugs
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: AIGRaph_SpecialNodesFindSource - Count: 2
+
+20:56:55.645 - Last Batch: AIGRaph_SpecialNodesFindSource
+		 Total Time: 0.067s Frames: 1 Ticks: 41
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 1
+		 Jobs (started/looped): 1 / 1
+Next Batch: AIGRaph_SpecialNodesLinkIntoVolume - Count: 2
+
+20:56:55.646 - Last Batch: AIGRaph_SpecialNodesLinkIntoVolume
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 2 / 0
+Next Batch: AIGraph_Start - Count: 10
+
+20:56:55.649 - Last Batch: AIGraph_Start
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 10 / 0
+Next Batch: AIGraph_CreateNodeClusters - Count: 17
+
+20:56:55.726 - Last Batch: AIGraph_CreateNodeClusters
+		 Total Time: 0.073s Frames: 1 Ticks: 77
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 26
+		 Jobs (started/looped): 16 / 115
+Next Batch: AIGraph_ScoreNodeClusters - Count: 17
+
+20:56:55.737 - Last Batch: AIGraph_ScoreNodeClusters
+		 Total Time: 0.000s Frames: 0 Ticks: 11
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 17 / 0
+Next Batch: AIGraph_End - Count: 10
+
+20:56:55.740 - Last Batch: AIGraph_End
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 10 / 0
+Next Batch: AIGraph_AirGraph - Count: 10
+
+20:56:55.838 - Populate grid created 32768 compound nodes and took ~128 KB and 92 ms
+20:56:55.990 - Populate grid created 32768 compound nodes and took ~128 KB and 46 ms
+20:56:56.120 - Populate grid created 32768 compound nodes and took ~128 KB and 54 ms
+20:56:56.241 - Populate grid created 32768 compound nodes and took ~128 KB and 62 ms
+20:56:56.358 - Populate grid created 32768 compound nodes and took ~128 KB and 35 ms
+20:56:56.536 - Populate grid created 32768 compound nodes and took ~128 KB and 62 ms
+20:56:56.700 - Populate grid created 32768 compound nodes and took ~128 KB and 66 ms
+20:56:56.818 - Populate grid created 32768 compound nodes and took ~128 KB and 44 ms
+20:56:56.932 - Populate grid created 32768 compound nodes and took ~128 KB and 53 ms
+20:56:57.048 - Populate grid created 32768 compound nodes and took ~128 KB and 42 ms
+20:56:57.076 - Last Batch: AIGraph_AirGraph
+		 Total Time: 1.276s Frames: 9 Ticks: 1337
+		 FrameTime (avg/max/ticks max): 122.3ms / 218.8ms / 180
+		 Jobs (started/looped): 1 / 9
+Next Batch: AIGraph_AirGraph_PostProcess - Count: 10
+
+20:56:57.096 - Last Batch: AIGraph_AirGraph_PostProcess
+		 Total Time: 0.100s Frames: 1 Ticks: 20
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 2
+		 Jobs (started/looped): 9 / 1
+Next Batch: SetGateAlwaysTraversable - Count: 16
+
+20:56:57.097 - Last Batch: SetGateAlwaysTraversable
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 16 / 16
+Next Batch: FunctionMarkerFallback - Count: 9
+
+20:56:57.117 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.118 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.120 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.122 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.151 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.152 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.153 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.154 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.155 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.157 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.160 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.161 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.162 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.163 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.177 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.178 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.195 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.197 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.198 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.200 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.201 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.202 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.203 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.206 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.207 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.208 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.211 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.212 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.215 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.217 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.219 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.221 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.272 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.273 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.274 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.276 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.277 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.279 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.280 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.282 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.283 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.285 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.286 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.287 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.289 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.291 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.293 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.295 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.298 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.300 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.335 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.336 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.338 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.339 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.340 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.343 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.344 - WARNING! LG_MarkerSpawner.SpawnRandomPrefab.Could not find composition with function: None in marker mining_function_fallback(66) Producer: 
+20:56:57.345 - LG_FunctionMarkerBuilder.BuildMarkerSpawnerRec Wanted to spawn floor fallback with function GroundSpawn but did not get any GO back, make sure the fallback marker is setup correctly.
+20:56:57.347 - Last Batch: FunctionMarkerFallback
+		 Total Time: 0.240s Frames: 4 Ticks: 249
+		 FrameTime (avg/max/ticks max): 57.8ms / 76.1ms / 80
+		 Jobs (started/looped): 9 / 29
+Next Batch: SetGateTraversableFromStart - Count: 16
+
+20:56:57.349 - Last Batch: SetGateTraversableFromStart
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 16 / 16
+Next Batch: Ladders - Count: 14
+
+20:56:57.412 - Last Batch: Ladders
+		 Total Time: 0.067s Frames: 1 Ticks: 60
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 12
+		 Jobs (started/looped): 13 / 1
+Next Batch: DoorLocks - Count: 11
+
+20:56:57.530 - Last Batch: DoorLocks
+		 Total Time: 0.117s Frames: 1 Ticks: 114
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 32
+		 Jobs (started/looped): 10 / 1
+Next Batch: Resources - Count: 1
+
+20:56:57.536 - Last Batch: Resources
+		 Total Time: 0.000s Frames: 0 Ticks: 11
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: CustomGeomorphBuildJob - Count: 0
+
+20:56:57.539 - Last Batch: CustomGeomorphBuildJob
+		 Total Time: 0.000s Frames: 0 Ticks: 5
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: CustomObjectCollection - Count: 9
+
+20:56:57.871 - Last Batch: CustomObjectCollection
+		 Total Time: 0.343s Frames: 2 Ticks: 332
+		 FrameTime (avg/max/ticks max): 148.7ms / 287.4ms / 282
+		 Jobs (started/looped): 7 / 2
+Next Batch: SpecificSpawning - Count: 27
+
+20:56:57.874 - Last Batch: SpecificSpawning
+		 Total Time: 0.000s Frames: 0 Ticks: 3
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 27 / 0
+Next Batch: EnemiesPlacement_Scoring - Count: 9
+
+20:56:57.875 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:0(0)]</color>
+20:56:57.876 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:0(0)]</color>
+20:56:57.877 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:0(0)]</color>
+20:56:57.878 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:2(2)]</color>
+20:56:57.879 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:0(0)]</color>
+20:56:57.880 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:0(0)]</color>
+20:56:57.882 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:0(0)]</color>
+20:56:57.882 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:1793758047(879)]</color>
+20:56:57.884 - <color=#C84800>DEBUG : No population data for zone New Game Object[SubSeed:1429813442(694)]</color>
+20:56:57.885 - Last Batch: EnemiesPlacement_Scoring
+		 Total Time: 0.000s Frames: 0 Ticks: 12
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 9 / 0
+Next Batch: StaticEnemiesPlacement - Count: 9
+
+20:56:57.925 - Last Batch: StaticEnemiesPlacement
+		 Total Time: 0.063s Frames: 1 Ticks: 39
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 2
+		 Jobs (started/looped): 8 / 1
+Next Batch: PreCulling - Count: 9
+
+20:56:57.997 - Last Batch: PreCulling
+		 Total Time: 0.064s Frames: 1 Ticks: 72
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 30
+		 Jobs (started/looped): 8 / 1
+Next Batch: Culling_Nodes - Count: 17
+
+20:56:58.445 - Last Batch: Culling_Nodes
+		 Total Time: 0.422s Frames: 4 Ticks: 447
+		 FrameTime (avg/max/ticks max): 91.7ms / 121.6ms / 122
+		 Jobs (started/looped): 13 / 4
+Next Batch: Culling_Portals - Count: 24
+
+20:56:58.503 - Last Batch: Culling_Portals
+		 Total Time: 0.090s Frames: 1 Ticks: 59
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 3
+		 Jobs (started/looped): 23 / 1
+Next Batch: Culling_Cullers - Count: 60
+
+20:56:58.507 - Last Batch: Culling_Cullers
+		 Total Time: 0.000s Frames: 0 Ticks: 4
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 60 / 0
+Next Batch: Culling_Lights - Count: 17
+
+20:56:59.763 - Last Batch: Culling_Lights
+		 Total Time: 1.180s Frames: 14 Ticks: 1255
+		 FrameTime (avg/max/ticks max): 87.7ms / 113.3ms / 119
+		 Jobs (started/looped): 3 / 14
+Next Batch: Culling_NodeInstanceSearch - Count: 17
+
+20:57:00.191 - Last Batch: Culling_NodeInstanceSearch
+		 Total Time: 0.501s Frames: 8 Ticks: 430
+		 FrameTime (avg/max/ticks max): 62.8ms / 103.1ms / 83
+		 Jobs (started/looped): 16 / 1059
+Next Batch: Culling_NodeClusterJobs - Count: 9
+
+20:57:00.533 - Last Batch: Culling_NodeClusterJobs
+		 Total Time: 0.333s Frames: 7 Ticks: 342
+		 FrameTime (avg/max/ticks max): 42.8ms / 56.6ms / 57
+		 Jobs (started/looped): 26 / 317476
+Next Batch: Culling_Cleanup - Count: 17
+
+20:57:00.536 - Last Batch: Culling_Cleanup
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 17 / 0
+Next Batch: Culling_GatherLightCulling - Count: 179
+
+20:57:00.567 - Last Batch: Culling_GatherLightCulling
+		 Total Time: 0.047s Frames: 1 Ticks: 32
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 4
+		 Jobs (started/looped): 178 / 1
+Next Batch: Culling_TrimPortalLists - Count: 18
+
+20:57:00.578 - Last Batch: Culling_TrimPortalLists
+		 Total Time: 0.000s Frames: 0 Ticks: 11
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 18 / 27066
+Next Batch: PostCulling - Count: 0
+
+20:57:00.579 - Last Batch: PostCulling
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: ZoneLights - Count: 10
+
+20:57:00.757 - <color=#C84800>#### LG_BuildCustomLightHandlerJob, number of iCustomLightHandler found on the floor: 0</color>
+20:57:00.758 - Last Batch: ZoneLights
+		 Total Time: 0.113s Frames: 2 Ticks: 178
+		 FrameTime (avg/max/ticks max): 35.7ms / 61.3ms / 61
+		 Jobs (started/looped): 8 / 2
+Next Batch: GenerateNavigationInfo - Count: 1
+
+20:57:01.167 - Last Batch: GenerateNavigationInfo
+		 Total Time: 0.435s Frames: 2 Ticks: 409
+		 FrameTime (avg/max/ticks max): 56.1ms / 102.2ms / 336
+		 Jobs (started/looped): 16 / 2
+Next Batch: DisplayNavigationInfo - Count: 15
+
+20:57:01.169 - Last Batch: DisplayNavigationInfo
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 15 / 0
+Next Batch: CustomGeomorphPostCullingJob - Count: 0
+
+20:57:01.170 - Last Batch: CustomGeomorphPostCullingJob
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: LateGeomorphBuildStep - Count: 10
+
+20:57:01.243 - Last Batch: LateGeomorphBuildStep
+		 Total Time: 0.122s Frames: 1 Ticks: 73
+		 FrameTime (avg/max/ticks max): 10.0ms / 20.0ms / 25
+		 Jobs (started/looped): 9 / 1
+Next Batch: LateRuntimeOptimizations - Count: 10
+
+20:57:01.354 - Last Batch: LateRuntimeOptimizations
+		 Total Time: 0.110s Frames: 2 Ticks: 111
+		 FrameTime (avg/max/ticks max): 27.2ms / 44.4ms / 42
+		 Jobs (started/looped): 10 / 90
+Next Batch: EnemiesPlacement - Count: 0
+
+20:57:01.355 - Last Batch: EnemiesPlacement
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: FixColliders - Count: 0
+
+20:57:01.356 - Last Batch: FixColliders
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: FinalGeomorphErrorCheck - Count: 0
+
+20:57:01.358 - Last Batch: FinalGeomorphErrorCheck
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: SpectatorJobs - Count: 0
+
+20:57:01.359 - Last Batch: SpectatorJobs
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 0 / 0
+Next Batch: LoadResourcesShards_Enemies - Count: 1
+
+20:57:01.359 - LG_LoadPopulationShards : Disabled, handled earlier by GS_Offline
+20:57:01.360 - Last Batch: LoadResourcesShards_Enemies
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: DebugJobs - Count: 1
+
+20:57:01.361 - Last Batch: DebugJobs
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: Culling_LateCleanup - Count: 1
+
+20:57:01.369 - Last Batch: Culling_LateCleanup
+		 Total Time: 0.000s Frames: 0 Ticks: 7
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 18 / 0
+Next Batch: Culling_PrepForInlevel - Count: 1
+
+20:57:01.370 - Last Batch: Culling_PrepForInlevel
+		 Total Time: 0.000s Frames: 0 Ticks: 1
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 1 / 0
+Next Batch: LateCustomObjectCollection - Count: 9
+
+20:57:01.371 - Last Batch: LateCustomObjectCollection
+		 Total Time: 0.000s Frames: 0 Ticks: 2
+		 FrameTime (avg/max/ticks max): 0.0ms / 0.0ms / 0
+		 Jobs (started/looped): 9 / 0
+Next Batch: FinalLogicLinking - Count: 10
+
+20:57:01.372 - GetWorldEventObjectsNonAlloc() found no matches for filter: Evt_WrongWay!
+20:57:01.373 - GetWorldEventObjectsNonAlloc() found no matches for filter: Evt_StealthRoom!
+20:57:01.376 - Factory Done : Last build: FinalLogicLinking
+20:57:01.376 - Factory : Built in 33.60921 seconds
+20:57:01.378 - FactoryDone :: TOTAL CHECKSUM: 3269535371531435710
+20:57:01.379 - BUILDER : BuildDone
+20:57:01.380 - >>>>>>>> GS_Generating.OnBuilderDone
+20:57:01.381 - Builder.CombinedCheckSum.Checksum: 3269535371531435710
+20:57:01.382 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Generating TO: ReadyToStopElevatorRide</color>
+20:57:01.385 - AchievementManager | <b>Achievement_CompleteNoDownedTeam</b> :: Achievement_CompleteNoDownedTeam | Too few players (need 4), not valid anymore.
+20:57:01.386 - <b>AchievementManager:</b> Achievement_CompleteNoDownedTeam | OnLevelSetup, currently not-valid. stopping tracking.
+20:57:01.396 - AchievementManager | <b>Achievement_CompleteOnlyShotguns</b> :: Had some non-shotgun item, not valid anymore.
+20:57:01.398 - AchievementManager | <b>Achievement_CompleteAloneWithPistols</b> :: Had some non-pistol item, not valid anymore.
+20:57:01.424 - WardenObjectiveManager.RegisterElevatorExitWinConditionItem, item: geo_32x32_elevator_shaft_mining_03_tutorial(Clone)_0 (ElevatorShaftLanding)
+20:57:01.429 - WardenObjectiveManager.RegisterCustomGeoExitWinConditionItem, item: geo_64x64_mining_exit_01_tutorial(Clone)_ID_6_6 (LevelGeneration.LG_LevelExitGeo)
+20:57:01.453 - SNET : OnMasterCommand : GetReadyToStartPlaying 0 False
+20:57:01.454 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : ReadyToStopElevatorRide TO: StopElevatorRide</color>
+20:57:01.456 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : GeneratingLevel ReadyToStartPlaying
+20:57:01.457 - SNET : OnMasterCommand : StartPlaying 0 False
+20:57:01.459 - <color=green>OnMasterCommand : GS_StopElevatorRide has not implemented functionality for StartPlaying!</color>
+20:57:01.461 - Detecting that the player has entered a new layer: MainLayer in  from NULL in 
+20:57:01.462 - WardenObjectiveManager, entered a new layer: MainLayer
+20:57:01.464 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: StartObjective newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:01.465 - WardenObjectiveManager.OnStateChange 
+----- OLD STATE: STATE pWardenObjectiveState, MAIN_STATUS: NotDiscovered MAIN_SUBOJ: FindLocationInfo MAIN_ITEM+1: 0 SECOND_STATUS: NotDiscovered SECOND_SUBOBJ: FindLocationInfo SECOND_ITEM+1: 0 THIRD_STATUS: NotDiscovered THIRD_SUBOBJ: FindLocationInfo main_itemIndexPlusOne: 0 
+----- NEW STATE: STATE pWardenObjectiveState, MAIN_STATUS: Started MAIN_SUBOJ: FindLocationInfo MAIN_ITEM+1: 0 SECOND_STATUS: NotDiscovered SECOND_SUBOBJ: FindLocationInfo SECOND_ITEM+1: 0 THIRD_STATUS: NotDiscovered THIRD_SUBOBJ: FindLocationInfo main_itemIndexPlusOne: 0
+20:57:01.466 - WardenObjectiveManager.CheckWardenObjectiveStatus, layer: MainLayer, status is diff! newStatus: Started | isRecall False
+20:57:01.468 - OBJECTIVE STARTED / ENTERED!
+20:57:01.481 - WardenObjectiveManager.OnLocalPlayerEnterZone, we are in CLEAR A PATH and the exit node is: AIGraph.AIG_CourseNode and incoming zone is: New Game Object[SubSeed:0(0)]_LightSettings:BlueToPink_1 (LevelGeneration.LG_Zone)
+20:57:01.507 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : ReadyToStartPlaying Playing
+20:57:23.463 - WardenObjectiveManager.CheckAndExecuteEventsOnTrigger, 4 trigger: None SNet.IsMaster: True Duration: 0
+20:57:23.474 - WardenObjectiveManager.ExecuteEvent BeginDelay, WardenObjectiveEventData, trigger: None type: PlaySound LocalIndex: Zone_0 Delay: 8.5 WardenIntel:  SNet.IsMaster: True with delay 8.5
+20:57:23.475 - WardenObjectiveManager.ExecuteEvent BeginDelay, WardenObjectiveEventData, trigger: None type: PlaySound LocalIndex: Zone_0 Delay: 15 WardenIntel:  SNet.IsMaster: True with delay 15
+20:57:23.477 - WardenObjectiveManager.ExecuteEvent BeginDelay, WardenObjectiveEventData, trigger: None type: UpdateCustomSubObjective LocalIndex: Zone_0 Delay: 16.5 WardenIntel: Find out what zone you are in SNet.IsMaster: True with delay 16.5
+20:57:23.478 - WardenObjectiveManager.ExecuteEvent BeginDelay, WardenObjectiveEventData, trigger: None type: PlaySound LocalIndex: Zone_0 Delay: 20 WardenIntel:  SNet.IsMaster: True with delay 20
+20:57:23.479 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  StartFogTransition Attempt
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:57:23.480 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  AttemptInteract Master (FoundPlayer=True)
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 25
+nFogStartTime: 0
+FogDuration: 1
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0.0003
+DensityNoiseSpeed: 0.0372
+DensityNoiseScale: 0.08
+DensityHeightAltitude: -4.65
+DensityHeightRange: 0.15
+DensityHeightMaxBoost: 0.02
+Infection: 0
+FogColor: RGBA(0.792, 0.730, 0.602, 0.000)
+DensityNoiseDirection: (0.5, 0.5, 0.5)
+
+20:57:23.482 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  OnStateChange (IsRecall=False)
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 25
+nFogStartTime: 0
+FogDuration: 1
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0.0003
+DensityNoiseSpeed: 0.0372
+DensityNoiseScale: 0.08
+DensityHeightAltitude: -4.65
+DensityHeightRange: 0.15
+DensityHeightMaxBoost: 0.02
+Infection: 0
+FogColor: RGBA(0.792, 0.730, 0.602, 0.000)
+DensityNoiseDirection: (0.5, 0.5, 0.5)
+
+20:57:23.483 - <b>EnvironmentStateManager:</b> fogDataId 25 duration: 1 fogblend: 0 expeditionTime: 0
+20:57:23.484 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : StopElevatorRide TO: ReadyToStartLevel</color>
+20:57:23.507 - SNET : OnMasterCommand : StartPlaying 0 False
+20:57:23.514 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.516 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.517 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.518 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.519 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.521 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.523 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.524 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: AddRequiredItem newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:23.528 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : ReadyToStartLevel TO: InLevel</color>
+20:57:23.530 - MusicManager - Setting music state to: ElevatorGoingDown
+20:57:23.532 - MusicManager - Setting music state to: Theme
+20:57:23.539 - <color=green>SNET : PlayerLocal(Clone)_32768 : [#442c21] gayass exits PLOC_InElevator, replicator key: 32768</color>
+20:57:24.521 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  Going idle
+ExpeditionProgressionTime: 1.014904
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 25
+nFogStartTime: 0
+FogDuration: 1
+FogBlend: 1
+
+<b>FogSettings:</b>
+FogDensity: 0.0003
+DensityNoiseSpeed: 0.0372
+DensityNoiseScale: 0.08
+DensityHeightAltitude: -4.65
+DensityHeightRange: 0.15
+DensityHeightMaxBoost: 0.02
+Infection: 0
+FogColor: RGBA(0.792, 0.730, 0.602, 0.000)
+DensityNoiseDirection: (0.5, 0.5, 0.5)
+
+20:57:31.990 - WardenObjectiveManager.ExecuteEvent EndDelay, WardenObjectiveEventData, trigger: None type: PlaySound LocalIndex: Zone_0 Delay: 8.5 WardenIntel:  SNet.IsMaster: True after delay 8.5
+20:57:38.468 - WardenObjectiveManager.ExecuteEvent EndDelay, WardenObjectiveEventData, trigger: None type: PlaySound LocalIndex: Zone_0 Delay: 15 WardenIntel:  SNet.IsMaster: True after delay 15
+20:57:39.963 - WardenObjectiveManager.ExecuteEvent EndDelay, WardenObjectiveEventData, trigger: None type: UpdateCustomSubObjective LocalIndex: Zone_0 Delay: 16.5 WardenIntel: Find out what zone you are in SNet.IsMaster: True after delay 16.5
+20:57:39.964 - WardenObjectiveManager.AttemptInteract, interaction: pWardenObjectiveInteraction, 
+type: CustomSubObjectiveUpdate newSubObj: FindLocationInfo forceUpdate: False itemIndexPlusOne: 0 inLayer: MainLayer
+20:57:39.966 - WardenObjectiveManager.OnStateChange 
+----- OLD STATE: STATE pWardenObjectiveState, MAIN_STATUS: Started MAIN_SUBOJ: FindLocationInfo MAIN_ITEM+1: 0 SECOND_STATUS: NotDiscovered SECOND_SUBOBJ: FindLocationInfo SECOND_ITEM+1: 0 THIRD_STATUS: NotDiscovered THIRD_SUBOBJ: FindLocationInfo main_itemIndexPlusOne: 0 
+----- NEW STATE: STATE pWardenObjectiveState, MAIN_STATUS: Started MAIN_SUBOJ: FindLocationInfo MAIN_ITEM+1: 0 SECOND_STATUS: NotDiscovered SECOND_SUBOBJ: FindLocationInfo SECOND_ITEM+1: 0 THIRD_STATUS: NotDiscovered THIRD_SUBOBJ: FindLocationInfo main_itemIndexPlusOne: 0
+20:57:43.485 - WardenObjectiveManager.ExecuteEvent EndDelay, WardenObjectiveEventData, trigger: None type: PlaySound LocalIndex: Zone_0 Delay: 20 WardenIntel:  SNet.IsMaster: True after delay 20

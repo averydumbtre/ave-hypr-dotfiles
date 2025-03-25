@@ -1,0 +1,21 @@
+---
+name: "No Man's Sky"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:18.759776851Z"
+    os: linux
+    files:
+      "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/No Man's Sky/Binaries/SETTINGS/GCUSERSETTINGSDATA.MXML":
+        hash: 314fe12a45085ddeb1ba84d26dbeda26b5e1115a
+        size: 27209
+      "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/No Man's Sky/Binaries/SETTINGS/TKGAMESETTINGS.MXML":
+        hash: 8062247ce12ec6645d124f4e156107c5dba4db3f
+        size: 1641
+      "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/common/No Man's Sky/Binaries/SETTINGS/TKGRAPHICSSETTINGS.MXML":
+        hash: 705ec93bd6c06aed50e669a8cfc9a29aa9ca533f
+        size: 3464
+    registry:
+      hash: ~
+    children: []

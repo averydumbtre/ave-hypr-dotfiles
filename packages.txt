@@ -1,0 +1,132 @@
+
+[Kernel]
+
+linux-xanmod-bore
+linux-xanmod-bore-headers
+
+[Hyprland]
+
+hyprland
+hyprgraphics
+hyprpaper
+hyprpicker
+hyprshot
+aquamarine
+
+[Yay]
+
+sudo pacman -Syu
+sudo pacman -S --needed base-devel git
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+
+[Chaotic-AUR]
+
+sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com
+sudo pacman-key --lsign-key 3056513887B78AEB
+sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'
+sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+sudo nano /etc/pacman.conf
+
+add:
+[chaotic-aur]
+Include = /etc/pacman.d/chaotic-mirrorlist
+
+[Required]
+
+cmake
+curl
+dkms
+ffmpeg
+git
+sl
+wget
+xorg-xwayland
+xwaylandvideobridge
+nvidia-dkms
+
+[Theme]
+
+adobe-source-code-pro-fonts
+adwaita-cursors
+adwaita-icon-theme
+arc-gtk-theme
+ttf-dejavu
+ttf-inconsolata-nerd
+ttf-input-nerd
+ttf-jetbrains-mono-nerd
+ttf-material-design-iconic-font
+
+[Utils]
+
+alacritty
+ark
+clamav
+downgrade
+easyeffects
+foobar2000
+galculator
+gamemode
+gimp
+gnome-disks
+gputest
+kate
+mangohud
+lib32-mangohud
+missioncenter
+ngw-look
+openssh (systemctl enable sshdgenkeys, systemctl enable sshd)
+pavucontrol
+qdirstat
+qview
+rkhunter
+solaar
+thunar
+wofi
+brightnessctl
+fastfetch
+huiontablet
+imagemagick
+libvirt
+qemu-desktop
+tofi
+swaync
+wine
+
+[Apps]
+
+android-file-transfer
+bottles
+clonehero
+eddie-ui-git
+firefox
+font-manager
+goverlay
+makemkv
+mpv
+obs-studio
+pika-backup
+qbittorrent
+spotify-launcher
+steam
+vesktop
+davinci-resolve-studio (
+cd /opt/resolve
+sudo perl -pi -e 's/\x03\x00\x89\x45\xFC\x83\x7D\xFC\x00\x74\x11\x48\x8B\x45\xC8\x8B/\x03\x00\x89\x45\xFC\x83\x7D\xFC\x00\xEB\x11\x48\x8B\x45\xC8\x8B/g' /opt/resolve/bin/resolve
+sudo perl -pi -e 's/\x74\x11\x48\x8B\x45\xC8\x8B\x55\xFC\x89\x50\x58\xB8\x00\x00\x00/\xEB\x11\x48\x8B\x45\xC8\x8B\x55\xFC\x89\x50\x58\xB8\x00\x00\x00/g' /opt/resolve/bin/resolve
+sudo echo -e "LICENSE blackmagic davinciresolvestudio 009599 permanent uncounted\nhostid=ANY issuer=AHH customer=AHH issued=03-Apr-2024\n akey=3148-9267-1853-4920-8173_ck=00 sig="00"\n" > .license/blackmagic.lic
+)
+eddie-ui-git
+krita
+lutris
+virt-manager
+
+[Goofy]
+
+catnip
+cbonsai
+cli-pride-flags
+cmatrix-git
+hyfetch
+trans-glxgears-git

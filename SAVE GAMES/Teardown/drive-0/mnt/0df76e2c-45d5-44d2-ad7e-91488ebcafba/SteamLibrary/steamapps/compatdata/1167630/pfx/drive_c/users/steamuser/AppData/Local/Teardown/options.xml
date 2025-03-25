@@ -1,0 +1,174 @@
+<registry version="1.5.5">
+	<options>
+		<display>
+			<index value="0"/>
+			<mode value="2"/>
+			<resolution value="0"/>
+		</display>
+		<gfx>
+			<fov value="118"/>
+			<gamma value="100"/>
+			<dof value="1"/>
+			<barrel value="1"/>
+			<motionblur value="1"/>
+			<quality value="3"/>
+			<particledensity value="1"/>
+			<renderscale value="100"/>
+			<vsync value="1"/>
+			<gfxapi value="1"/>
+			<d3d12support value="0"/>
+		</gfx>
+		<audio>
+			<soundvolume value="1"/>
+			<ambiencevolume value="100"/>
+			<musicvolume value="1"/>
+			<menumusic value="1"/>
+		</audio>
+		<input>
+			<controller_sensitivity_x value="100"/>
+			<zoom_sensitivity value="100"/>
+			<controller_sensitivity_y value="100"/>
+			<smoothing value="0"/>
+			<sensitivity value="37"/>
+			<invert value="0"/>
+			<toolsway value="1"/>
+			<headbob value="100"/>
+			<keymap>
+				<left value="a"/>
+				<right value="d"/>
+				<up value="w"/>
+				<down value="s"/>
+				<flashlight value="f"/>
+				<interact value="e"/>
+				<jump value="space"/>
+				<crouch value="ctrl"/>
+				<usetool value="lmb"/>
+				<grab value="rmb"/>
+				<vehicle_action value="space"/>
+				<vehicle_raise value="lmb"/>
+				<vehicle_lower value="rmb"/>
+				<handbrake value="space"/>
+				<map value="tab"/>
+				<pause value="esc"/>
+				<scroll_up value="wheel"/>
+				<scroll_down value="wheel"/>
+				<lmb value="lmb"/>
+				<mmb value="mmb"/>
+				<rmb value="rmb"/>
+				<menu_left value="leftarrow"/>
+				<menu_right value="rightarrow"/>
+				<menu_up value="uparrow"/>
+				<menu_down value="downarrow"/>
+				<menu_next value="pgdown"/>
+				<menu_prev value="pgup"/>
+				<menu_accept value="return"/>
+				<menu_cancel value="esc"/>
+			</keymap>
+			<gamepad>
+				<bindings>
+					<menu>
+						<gamepad_dpad_left value="menu_left 0 0"/>
+						<gamepad_dpad_right value="menu_right 0 0"/>
+						<gamepad_dpad_up value="menu_up 0 0"/>
+						<gamepad_dpad_down value="menu_down 0 0"/>
+						<gamepad_button_b value="menu_cancel 0 0"/>
+						<gamepad_button_a value="menu_accept 0 0"/>
+						<gamepad_button_y value="mmb 0 0"/>
+						<gamepad_button_x value="interact 0 0"/>
+						<gamepad_button_l1 value="menu_prev 0 0"/>
+						<gamepad_button_l2 value="rmb 0 0"/>
+						<gamepad_button_l3 value="zoom 0 0"/>
+						<gamepad_button_r1 value="menu_next 0 0"/>
+						<gamepad_button_r2 value="lmb 0 0"/>
+						<gamepad_button_back value="map 0 0"/>
+						<gamepad_button_menu value="pause 0 0"/>
+						<gamepad_left_stick_x value="mousex 0 0"/>
+						<gamepad_left_stick_y value="mousey 0 0"/>
+						<gamepad_right_stick_left value="left 0 0"/>
+						<gamepad_right_stick_right value="right 0 0"/>
+						<gamepad_right_stick_up value="up 0 0"/>
+						<gamepad_right_stick_down value="down 0 0"/>
+					</menu>
+					<player>
+						<gamepad_dpad_left value="tool_group_prev 0 0"/>
+						<gamepad_dpad_right value="tool_group_next 0 0"/>
+						<gamepad_dpad_up value="scroll_up 0 0"/>
+						<gamepad_dpad_down value="scroll_down 0 0"/>
+						<gamepad_button_b value="crouch 1 0"/>
+						<gamepad_button_a value="jump 0 0"/>
+						<gamepad_button_y value="flashlight 0 0"/>
+						<gamepad_button_x value="interact 0 0"/>
+						<gamepad_button_l1 value="scroll_up 0 0"/>
+						<gamepad_button_l2 value="grab 0 0"/>
+						<gamepad_button_l3 value="zoom 0 0"/>
+						<gamepad_button_r1 value="scroll_down 0 0"/>
+						<gamepad_button_r2 value="usetool 0 0"/>
+						<gamepad_button_back value="map 0 0"/>
+						<gamepad_button_menu value="pause 0 0"/>
+						<gamepad_left_stick_left value="left 0 0"/>
+						<gamepad_left_stick_right value="right 0 0"/>
+						<gamepad_left_stick_up value="up 0 0"/>
+						<gamepad_left_stick_down value="down 0 0"/>
+						<gamepad_right_stick_x value="camerax 0 0"/>
+						<gamepad_right_stick_y value="cameray 0 0"/>
+					</player>
+					<driving>
+						<gamepad_dpad_left value="extra4 0 0"/>
+						<gamepad_dpad_right value="extra5 0 0"/>
+						<gamepad_dpad_up value="scroll_up 0 0"/>
+						<gamepad_dpad_down value="scroll_down 0 0"/>
+						<gamepad_button_b value="extra6 0 0"/>
+						<gamepad_button_a value="handbrake 0 0"/>
+						<gamepad_button_y value="vehicle_action 0 0"/>
+						<gamepad_button_x value="interact 0 0"/>
+						<gamepad_button_l1 value="vehicle_lower 0 0"/>
+						<gamepad_button_l2 value="down 0 0"/>
+						<gamepad_button_r1 value="vehicle_raise 0 0"/>
+						<gamepad_button_r2 value="up 0 0"/>
+						<gamepad_button_back value="map 0 0"/>
+						<gamepad_button_menu value="pause 0 0"/>
+						<gamepad_left_stick_left value="left 0 0"/>
+						<gamepad_left_stick_right value="right 0 0"/>
+						<gamepad_right_stick_x value="camerax 0 0"/>
+						<gamepad_right_stick_y value="cameray 0 0"/>
+					</driving>
+				</bindings>
+				<stick>
+					<left>
+						<inner_deadzone value="12"/>
+						<outer_deadzone value="0"/>
+						<preset value="0"/>
+						<function value="radial"/>
+					</left>
+					<right>
+						<inner_deadzone value="12"/>
+						<outer_deadzone value="0"/>
+						<preset value="5"/>
+						<function value="radial"/>
+					</right>
+				</stick>
+				<trigger>
+					<left>
+						<inner_deadzone value="5"/>
+						<outer_deadzone value="0"/>
+						<preset value="0"/>
+					</left>
+					<right>
+						<inner_deadzone value="5"/>
+						<outer_deadzone value="0"/>
+						<preset value="0"/>
+					</right>
+				</trigger>
+				<vibration value="strong"/>
+				<triggereffects value="strong"/>
+			</gamepad>
+		</input>
+		<imgui>
+			<font_idx value="0"/>
+			<scale_idx value="4"/>
+			<scale_type value="0"/>
+		</imgui>
+		<language value="0"/>
+	</options>
+</registry>
+

@@ -1,0 +1,9 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"DuelTF Server 1"
+		"date"		"1626482716"
+		"addr"		"104.238.130.240:27015"
+	}
+}

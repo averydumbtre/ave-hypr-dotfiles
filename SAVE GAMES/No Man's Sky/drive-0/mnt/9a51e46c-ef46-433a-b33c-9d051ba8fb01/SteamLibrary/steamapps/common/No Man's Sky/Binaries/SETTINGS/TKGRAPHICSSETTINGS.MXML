@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data template="TkGraphicsSettings">
+	<Property name="Version" value="9" />
+	<Property name="FullScreen" value="false" />
+	<Property name="Borderless" value="true" />
+	<Property name="Monitor" value="1" />
+	<Property name="MonitorNames">
+		<Property name="MonitorNames" value="0|NVIDIA GeForce RTX 3060|Generic Non-PnP Monitor" />
+		<Property name="MonitorNames" value="1|NVIDIA GeForce RTX 3060|Generic Non-PnP Monitor" />
+	</Property>
+	<Property name="ResolutionWidth" value="2880" />
+	<Property name="ResolutionHeight" value="1620" />
+	<Property name="ResolutionScale" value="1.000000" />
+	<Property name="RetinaScaleIOS" value="1.000000" />
+	<Property name="VsyncEx" value="On" />
+	<Property name="GraphicsDetail" value="TkGraphicsDetailPreset.xml">
+		<Property name="TextureQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="AnimationQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="ShadowQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="PostProcessingEffects" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="ReflectionsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="VolumetricsQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="TerrainTessellation" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="PlanetQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="WaterQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="BaseQuality" value="TkGraphicsDetailTypes.xml">
+			<Property name="GraphicDetail" value="Ultra" />
+		</Property>
+		<Property name="DynamicResScalingSettings" value="TkDynamicResScalingSettings.xml" />
+		<Property name="AntiAliasing" value="DLSS" />
+		<Property name="UIQuality" value="4K" />
+		<Property name="AmbientOcclusion" value="GTAO_Ultra" />
+		<Property name="AnisotropyLevel" value="16" />
+		<Property name="NVIDIAReflexLowLatency" value="Off" />
+	</Property>
+	<Property name="MotionBlurStrength" value="33.000000" />
+	<Property name="VignetteAndScanlines" value="true" />
+	<Property name="FoVOnFoot" value="90.000000" />
+	<Property name="FoVInShip" value="90.000000" />
+	<Property name="Brightness" value="50" />
+	<Property name="MaxframeRate" value="66" />
+	<Property name="NumHighThreads" value="8" />
+	<Property name="NumLowThreads" value="8" />
+	<Property name="TextureStreamingVk" value="Auto" />
+	<Property name="ShowRequirementsWarnings" value="true" />
+	<Property name="RemoveBaseBuildingRestrictions" value="false" />
+	<Property name="MouseClickSpeedMultiplier" value="0.500000" />
+	<Property name="UseTerrainTextureCache" value="false" />
+	<Property name="UseArbSparseTexture" value="false" />
+	<Property name="HDRMode" value="Off" />
+	<Property name="AdapterName" value="NVIDIA GeForce RTX 3060" />
+	<Property name="AdapterIndex" value="0" />
+	<Property name="NumGraphicsThreadsBeta" value="3" />
+</Data>

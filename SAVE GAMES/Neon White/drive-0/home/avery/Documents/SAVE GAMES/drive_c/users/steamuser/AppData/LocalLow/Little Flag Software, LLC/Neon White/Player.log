@@ -1,0 +1,121 @@
+Mono path[0] = 'V:/9c1b5651-fb99-4525-9716-4137b631551a/Neon White/Neon White/Neon White_Data/Managed'
+Mono config path = 'V:/9c1b5651-fb99-4525-9716-4137b631551a/Neon White/Neon White/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path V:/9c1b5651-fb99-4525-9716-4137b631551a/Neon White/Neon White/Neon White_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   
+    VRAM:     12256 MB
+    Driver:   31.0.21902.5
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.285 seconds
+OnLevelWasLoaded was found on EditorFogHeightManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 0.495400 ms
+[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.
+
+The referenced script on this Behaviour (Game Object 'DialogueBG Camera') is missing!
+
+The referenced script on this Behaviour (Game Object 'PlayerMouse_Player0') is missing!
+
+The referenced script on this Behaviour (Game Object 'Input') is missing!
+
+The referenced script on this Behaviour (Game Object 'Input') is missing!
+
+The referenced script on this Behaviour (Game Object 'Input') is missing!
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Game.OnApplicationFocus (System.Boolean hasFocus) [0x00005] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Game.OnApplicationFocus (System.Boolean hasFocus) [0x00005] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Game.OnApplicationFocus (System.Boolean hasFocus) [0x00005] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+Animator.GotoState: State could not be found
+
+Invalid Layer Index '-1'
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuScreenOptionsPanel.OnEnable () [0x0000b] in <9a33565726af40e3a642f47cf4ae6b7a>:0 
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Material 'FlameUI(Clone)' with Shader 'Shader Graphs/FXFlameUGUI' doesn't have a texture property '_MainTex'
+
+Multiple audio items with name '!!! Enter Unique Audio ID Here !!!'
+
+Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+
+Unloading 60 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.010500 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 34043.
+Total: 75.094600 ms (FindLiveObjects: 2.518200 ms CreateObjectMapping: 1.559400 ms MarkObjects: 70.818500 ms  DeleteObjects: 0.197500 ms)
+
+Multiple audio items with name '!!! Enter Unique Audio ID Here !!!'
+
+Multiple audio items with name 'MISSION2_MIDDLE_0070_YELLOW_IDGIVEMYLEFTNUT'
+
+Multiple audio items with name 'MISSION2_MIDDLE_0080_YELLOW_IDONTBLAMEYOU'
+
+Multiple audio items with name 'BARK_WHITE_THEYREGONNADOATUTORIAL'
+
+Multiple audio items with name 'BARK_WHITE_MEMORIESMIGHTBEHAZY'
+
+Multiple audio items with name 'BARK_WHITE_ALRIGHTDEMONSSOULCARDS'
+
+Dialogue before level main.game_intro_narration
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.717200 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 33217.
+Total: 60.998500 ms (FindLiveObjects: 2.022800 ms CreateObjectMapping: 1.186500 ms MarkObjects: 57.268600 ms  DeleteObjects: 0.519600 ms)
+
+This level has a conversation before you play: main.game_intro_narration
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio).
+
+MaterialHelper incorrectly setup: null image
+
+CMD: Play Music: MUSIC_SUNSTROKE. Delay: 0
+
+the scene name is: DialogueScene
+
+the scene path is: Assets/Content/Scenes/DialogueScene.unity
+
+ my env scene name is: Origin_Environment_Underwater_Cutscene
+
+Checking against: Origin_Environment_Underwater_Cutscene
+
+Checking against: EmptyScene
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392700 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 33378.
+Total: 68.019700 ms (FindLiveObjects: 1.283600 ms CreateObjectMapping: 0.706500 ms MarkObjects: 65.751900 ms  DeleteObjects: 0.277000 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 2c8 -> priority: 1 
+  Thread -> id: 2d0 -> priority: 1 
+  Thread -> id: 2cc -> priority: 1 
+  Thread -> id: 2d4 -> priority: 1 
+  Thread -> id: 2c0 -> priority: 1 
+  Thread -> id: 2c4 -> priority: 1 

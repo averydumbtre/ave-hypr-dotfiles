@@ -1,0 +1,1 @@
+#base ../custom/fragmenthud/extd/_color/casual/73.res 

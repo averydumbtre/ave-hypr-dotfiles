@@ -1,0 +1,1 @@
+obs-gamecapture gamemoderun xonotic-glx

@@ -1,0 +1,138 @@
+---
+name: Titanfall 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:30.934720376Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/local/settings.cfg:
+        hash: a447436e7d10b746bce560dd64b9773c8f3bb677
+        size: 2149
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/local/videoconfig.txt:
+        hash: 3489bcc580cb64ccae2cbbb0cb8723585762a320
+        size: 1297
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/profile.cfg:
+        hash: 598746c41f10757f437dd5b2a23d6a0fd957a937
+        size: 3204
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/HOW TO USE.txt:
+        hash: 4443f92e8e2160325ec60165ce597fec5b2d3d01
+        size: 674
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/ark_viperfight.sav:
+        hash: ec213e09be4d749dc05a121b101fd569fc467e09
+        size: 25624698
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/b2_efc.sav:
+        hash: d0ff310fa1c5e6941bd032d80ec8da0bbfbf0f88
+        size: 25302750
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/b2_fastfans.sav:
+        hash: d7e207befe55d094e5845fdd3e270f2e562fa324
+        size: 25441652
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/b2_heatsink.sav:
+        hash: aa49ee271b808eba4255f416fe46b7aa09054d05
+        size: 25220518
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/b2_krs.sav:
+        hash: 7bf00fd6b100e8b708359578429b6f2303a958d3
+        size: 24780864
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/b3_sfb.sav:
+        hash: a229dcae1cabbe252e7f41da176cce6a852da231
+        size: 28765978
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/b3_zipless.sav:
+        hash: 51f250eca223ca4de096d4e7ef8619f779af7229
+        size: 30156392
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/bnr_controlroom.sav:
+        hash: 86191486e3e8d3e22c64f9e6ea0501aba9b215a0
+        size: 26638779
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/bnr_earlydisembark.sav:
+        hash: fa9c804b8376d01e9cb775fc55fe0147a1c9cf1d
+        size: 27079588
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/bnr_kanefight.sav:
+        hash: 9e5ef5134d2ec21f133bbbdbc7b6c7710ba3fd94
+        size: 26720131
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/bt_ravine.sav:
+        hash: 44ae27372e96518250912899e384be0f4e8ab473
+        size: 26922237
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/enc1_hallway.sav:
+        hash: 68be4125d4f4df6e3d4b0f8a6cc9dcf601dea983
+        size: 30565066
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/enc2_hrz.sav:
+        hash: 54dc797356044d7f2a9fa910784c37c735c6682a
+        size: 30358604
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/enc2_intro.sav:
+        hash: 47fa9bcd429463021b82327e279d81bf3cd54163
+        size: 28542657
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/enc2_log1.sav:
+        hash: d7f99e722adb974ade4c38dd8ef708e7ab3bec95
+        size: 29692594
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/enc2_log2.sav:
+        hash: a920828a2b3f63f049d0a27b8a5ab33994c45f7c
+        size: 29371166
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/enc3_outro.sav:
+        hash: f6df3cdc68da75938b76fdedd0e6a14bce821494
+        size: 32125108
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany1.sav:
+        hash: de559cbbf2df675dbea71caaba6e09458d31e940
+        size: 27041752
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany2.sav:
+        hash: 9328bc05226124f54fa4fcd9b9e8f8d8119bb450
+        size: 27311095
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany3.sav:
+        hash: aecbd9b6124eb78c6ab1111b68a7690cf565e363
+        size: 29348192
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany3SATCHEL.sav:
+        hash: f789abee6c283a6292588475ad23e0ddbbf04614
+        size: 29268153
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany4.sav:
+        hash: 34d0e064c1537e43806a20e4ee1ebb8c737d4059
+        size: 23820273
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany4FRAG.sav:
+        hash: 6e4d9ea4adf3b8d31ccdcb6bbea9fa2e76ce48b1
+        size: 23829997
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany4SATCHEL.sav:
+        hash: f919f746ef772e783bf3364996efe3cc86d4e5e8
+        size: 23810317
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany5.sav:
+        hash: 89178f73f49cb39b649208ac6f6338c17dbb8681
+        size: 28771135
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany6.sav:
+        hash: 6aa6813375a119c4f396d4a113e1d985309d9bf2
+        size: 27358139
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany7.sav:
+        hash: 1f3debcc89529c8efa9feece7367ccf451122887
+        size: 27038065
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany8.sav:
+        hash: b70d75caa9d3cdb3f5ba28336be3d21ae4131182
+        size: 28248035
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fastany9.sav:
+        hash: 52e132516ced37af10a744bdd6a7836a3333679a
+        size: 30621215
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fasthelms2.sav:
+        hash: 09b6f5bba0f956ac8fb4f788f57128cb21dff101
+        size: 27311082
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fasthelms5.sav:
+        hash: 9ea2a8299d0029573c79d0fef3781fd918184be4
+        size: 28564599
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fold_intro.sav:
+        hash: b2a3259e653137c9f949958c6e65fa2388f80732
+        size: 27985636
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/fold_slonefight.sav:
+        hash: 499aa7dd320311574c2cd45eaf2b9c0078a7eb31
+        size: 29016879
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/ita1_outro.sav:
+        hash: 990874392afdc8b99759881e9ea99ebe2bb127cb
+        size: 28928658
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/ita1_wallboost.sav:
+        hash: 2ef1d2ffee4334fa66453ffc7a91948e4bb4c8b4
+        size: 27873012
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/ita2_domelaunch.sav:
+        hash: 095f46ada4eab027adce159f1fa105085f0ecc3e
+        size: 39018482
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/save1.sav:
+        hash: e715816ff762d51d1916b015f0015eb0ac7c8626
+        size: 26581631
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1237970/pfx/drive_c/users/steamuser/Documents/Respawn/Titanfall2/profile/savegames/savegame.sav:
+        hash: eee98dee41f14062586cac16a7c7d587389641ff
+        size: 28936646
+    registry:
+      hash: ~
+    children: []

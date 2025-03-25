@@ -1,0 +1,8 @@
+bind "1" "Sentry"
+bind "2" "Dispenser"
+bind "3" "TeleEntry"
+bind "4" "TeleExit"
+alias "Sentry" "destroy 1 0; build 1 0"
+alias "TeleEntry" "destroy 1 0; build 1 0"
+alias "TeleExit" "destroy 1 1; build 1 1"
+alias "Dispenser" "destroy 0 0; build 0 0"

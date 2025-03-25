@@ -1,0 +1,21 @@
+---
+name: Beat Banger
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:22.330536384Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1813430/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Beat Banger/binds.sav:
+        hash: 87a50d492db5d8afc6fc763a9225739b422deb83
+        size: 275
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1813430/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Beat Banger/game.sav:
+        hash: 115ec8e6fa8ffb4b05c1736c11815d6a3e9a2069
+        size: 2175
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1813430/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/Beat Banger/settings.ini:
+        hash: 8f99907d3eef0c3635e1aeaff9bcb76c4f8872ae
+        size: 281
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,21 @@
+---
+name: Rounds
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:17.932568576Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1557740/pfx/system.reg:
+        hash: df33f510dac0e75a54e2fc0802d218f818422a56
+        size: 3708904
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1557740/pfx/user.reg:
+        hash: 271a25b3304fdad3a10324eabb5cb8992f4cc727
+        size: 53013
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1557740/pfx/userdef.reg:
+        hash: dcb46a77dd0ee2f9c390f730438f02597357a707
+        size: 4190
+    registry:
+      hash: ~
+    children: []

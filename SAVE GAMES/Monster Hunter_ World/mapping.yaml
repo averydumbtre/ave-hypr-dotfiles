@@ -1,0 +1,15 @@
+---
+name: "Monster Hunter: World"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T04:48:28.457712237Z"
+    os: linux
+    files:
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/Monster Hunter World/Monster Hunter World - Iceborne/graphics_option.ini:
+        hash: ffca19d3b790cb5b46fbb9bfc3b1055880c20de2
+        size: 813
+    registry:
+      hash: ~
+    children: []

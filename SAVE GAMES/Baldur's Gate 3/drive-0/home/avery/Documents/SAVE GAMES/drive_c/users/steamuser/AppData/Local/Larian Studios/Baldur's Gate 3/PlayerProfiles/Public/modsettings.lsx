@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="300"/>
+    <region id="ModuleSettings">
+        <node id="root">
+            <children>
+                <node id="Mods">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="GustavDev"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="GustavDev"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SkeletonRace_e7f8c032-dd2e-e758-f2b6-5a66d0b65bf5"/>
+                            <attribute id="MD5" type="LSString" value="922f1f07e305a137b6b7245b5e343a76"/>
+                            <attribute id="Name" type="LSString" value="SkeletonRace"/>
+                            <attribute id="PublishHandle" type="uint64" value="4535360"/>
+                            <attribute id="UUID" type="guid" value="e7f8c032-dd2e-e758-f2b6-5a66d0b65bf5"/>
+                            <attribute id="Version64" type="int64" value="36028797018963992"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Marauder_f245f25f-46c3-750a-07dc-70475cb996b4"/>
+                            <attribute id="MD5" type="LSString" value="f265eb78d40555c834494ccab386ec04"/>
+                            <attribute id="Name" type="LSString" value="Marauder"/>
+                            <attribute id="PublishHandle" type="uint64" value="4340413"/>
+                            <attribute id="UUID" type="guid" value="f245f25f-46c3-750a-07dc-70475cb996b4"/>
+                            <attribute id="Version64" type="int64" value="36028799166447616"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

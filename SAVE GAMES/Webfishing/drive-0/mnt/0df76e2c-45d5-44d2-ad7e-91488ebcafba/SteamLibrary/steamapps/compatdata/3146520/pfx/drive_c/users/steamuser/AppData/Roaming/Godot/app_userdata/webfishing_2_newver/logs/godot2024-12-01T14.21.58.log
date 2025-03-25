@@ -1,0 +1,356 @@
+Godot Engine v3.5.2.stable.custom_build.170ba337a - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+Async. shader compilation: OFF
+ 
+Loading Resources...
+547 Resoures Loaded from 32 Subdirectories.
+Creating Voice Bank...
+Generated Table lake with category fish
+Generated Table ocean with category fish
+Generated Table deep with category fish
+Generated Table prehistoric with category fish
+Generated Table rain with category fish
+Generated Table alien with category fish
+Generated Table void with category fish
+Generated Table water_trash with category fish
+Generated Table bush_bug with category bug
+Generated Table shoreline_bug with category bug
+Generated Table tree_bug with category bug
+Generated Table seashell with category none
+Generated Table trash with category none
+Generated Table metal with category fish
+Steam Active under username: [#442c21] gayass ID: 76561198974162714
+Loading Particles for Preloading...
+Particles Obtained
+Loading General Save
+Loading Save Slot 0
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Creature Already exists in journal.
+Checking for save migrations...
+Migrated save found.
+ERROR: (Node not found: "Viewport" (relative to "chalk_canvas").)
+   at: Node::get_node (scene\main\node.cpp:1477) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: ViewportTexture::setup_local_to_scene (scene\main\viewport.cpp:70) - Condition "!vpn" is true.
+ERROR: (Node not found: "Viewport" (relative to "chalk_canvas").)
+   at: Node::get_node (scene\main\node.cpp:1477) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: ViewportTexture::setup_local_to_scene (scene\main\viewport.cpp:70) - Condition "!vpn" is true.
+ERROR: (Node not found: "Viewport" (relative to "chalk_canvas").)
+   at: Node::get_node (scene\main\node.cpp:1477) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: ViewportTexture::setup_local_to_scene (scene\main\viewport.cpp:70) - Condition "!vpn" is true.
+ERROR: (Node not found: "Viewport" (relative to "chalk_canvas").)
+   at: Node::get_node (scene\main\node.cpp:1477) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: ViewportTexture::setup_local_to_scene (scene\main\viewport.cpp:70) - Condition "!vpn" is true.
+ERROR: (Node not found: "Viewport/main/ent_spawner" (relative to "/root/main_menu/world").)
+   at: Node::get_node (scene\main\node.cpp:1477) - Method failed. Returning: nullptr
+(1920, 1080) new (854, 480)
+NETWORK PROPMPT: -1
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 10
+Requesting a lobby list
+Searching filter 0
+50 Lobbies found for Filter -1
+Searching filter 1
+50 Lobbies found for Filter 0
+Searching filter 2
+50 Lobbies found for Filter 1
+Searching filter 3
+50 Lobbies found for Filter 2
+Searching filter 4
+50 Lobbies found for Filter 3
+Searching filter 5
+50 Lobbies found for Filter 4
+Searching filter 6
+50 Lobbies found for Filter 5
+Searching filter 7
+50 Lobbies found for Filter 6
+Searching filter 8
+50 Lobbies found for Filter 7
+Searching filter 9
+50 Lobbies found for Filter 8
+Searching filter 10
+50 Lobbies found for Filter 9
+Searching filter 11
+50 Lobbies found for Filter 10
+Searching filter 12
+50 Lobbies found for Filter 11
+Searching filter 13
+50 Lobbies found for Filter 12
+Searching filter 14
+45 Lobbies found for Filter 13
+Searching filter 15
+50 Lobbies found for Filter 14
+Searching filter 16
+50 Lobbies found for Filter 15
+Searching filter 17
+50 Lobbies found for Filter 16
+Searching filter 18
+50 Lobbies found for Filter 17
+Searching filter 19
+50 Lobbies found for Filter 18
+995 servers found.
+995 found.
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 4
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 4
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 17
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 2
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 19
+Remapped Keys: [[alt_primary, 16777220]]
+(1920, 1081) new (854, 481)
+Saving General Game
+Requesting a lobby list
+Searching filter 0
+50 Lobbies found for Filter -1
+Searching filter 1
+50 Lobbies found for Filter 0
+Searching filter 2
+50 Lobbies found for Filter 1
+Searching filter 3
+50 Lobbies found for Filter 2
+Searching filter 4
+50 Lobbies found for Filter 3
+Searching filter 5
+50 Lobbies found for Filter 4
+Searching filter 6
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+50 Lobbies found for Filter 5
+Searching filter 7
+50 Lobbies found for Filter 6
+Searching filter 8
+48 Lobbies found for Filter 7
+Searching filter 9
+50 Lobbies found for Filter 8
+Searching filter 10
+50 Lobbies found for Filter 9
+Searching filter 11
+50 Lobbies found for Filter 10
+Searching filter 12
+50 Lobbies found for Filter 11
+Searching filter 13
+50 Lobbies found for Filter 12
+Searching filter 14
+50 Lobbies found for Filter 13
+Searching filter 15
+50 Lobbies found for Filter 14
+Searching filter 16
+50 Lobbies found for Filter 15
+Searching filter 17
+50 Lobbies found for Filter 16
+Searching filter 18
+50 Lobbies found for Filter 17
+Searching filter 19
+50 Lobbies found for Filter 18
+998 servers found.
+998 found.
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 7
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 12
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 8
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Setting Server Browser Value to: 12
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+OWNED_ACTORS: 0
+TYPES: []
+Cannot Spawn Object: Not Game Master
+Cannot Spawn Ambient Object: Not Game Master
+Saving General Game
+Attempting to save the game...
+Saving Save Slot 0

@@ -1,0 +1,162 @@
+14:08:36.391: Command Line Arguments: --startreplaybuffer --minimize-to-tray --disable-shutdown-check
+14:08:36.391: Platform: Wayland
+14:08:36.391: CPU Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+14:08:36.391: CPU Speed: 3999.572MHz
+14:08:36.392: Physical Cores: 6, Logical Cores: 12
+14:08:36.392: Physical Memory: 15857MB Total, 11200MB Free
+14:08:36.392: Kernel Version: Linux 6.13.3-273-tkg-bore
+14:08:36.392: Distribution: "Arch Linux" Unknown
+14:08:36.392: Desktop Environment: Hyprland (Hyprland)
+14:08:36.392: Session Type: wayland
+14:08:36.393: Qt Version: 6.8.2 (runtime), 6.8.1 (compiled)
+14:08:36.393: Portable mode: false
+14:08:36.425: OBS 31.0.1 (linux)
+14:08:36.425: ---------------------------------
+14:08:36.426: ---------------------------------
+14:08:36.426: audio settings reset:
+14:08:36.426: 	samples per sec: 48000
+14:08:36.426: 	speakers:        2
+14:08:36.426: 	max buffering:   960 milliseconds
+14:08:36.426: 	buffering type:  dynamically increasing
+14:08:36.428: ---------------------------------
+14:08:36.428: Initializing OpenGL...
+14:08:36.428: Using EGL/Wayland
+14:08:36.503: Initialized EGL 1.5
+14:08:36.606: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+14:08:36.606: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.124.04, shading language 3.30 NVIDIA via Cg compiler
+14:08:36.639: ---------------------------------
+14:08:36.639: video settings reset:
+14:08:36.639: 	base resolution:   1920x1080
+14:08:36.639: 	output resolution: 1920x1080
+14:08:36.639: 	downscale filter:  Bicubic
+14:08:36.639: 	fps:               60/1
+14:08:36.639: 	format:            NV12
+14:08:36.639: 	YUV mode:          Rec. 709/Partial
+14:08:36.639: NV12 texture support enabled
+14:08:36.639: P010 texture support not available
+14:08:36.639: Audio monitoring device:
+14:08:36.639: 	name: Default
+14:08:36.639: 	id: default
+14:08:36.641: ---------------------------------
+14:08:36.647: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:08:36.653: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:08:36.659: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:08:36.659: Failed to initialize module 'decklink.so'
+14:08:36.788: [pipewire] Available capture sources:
+14:08:36.788: [pipewire]     - Monitor source
+14:08:36.788: [pipewire]     - Window source
+14:08:36.806: v4l2loopback not installed, virtual camera not registered
+14:08:36.813: [linux-vkcapture] plugin loaded successfully (version 1.5.1)
+14:08:36.904: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+14:08:36.904: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+14:08:36.904: FFmpeg VAAPI H264 encoding not supported
+14:08:36.904: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+14:08:36.904: FFmpeg VAAPI AV1 encoding not supported
+14:08:36.904: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+14:08:36.904: FFmpeg VAAPI HEVC encoding not supported
+14:08:37.539: [obs-nvenc] NVENC version: 12.2 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+14:08:37.619: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+14:08:37.619: 
+14:08:37.621: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+14:08:37.621: 
+14:08:37.621: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+14:08:37.646: ---------------------------------
+14:08:37.646:   Loaded Modules:
+14:08:37.646:     text-freetype2.so
+14:08:37.646:     rtmp-services.so
+14:08:37.646:     obs-x264.so
+14:08:37.646:     obs-webrtc.so
+14:08:37.646:     obs-vst.so
+14:08:37.646:     obs-transitions.so
+14:08:37.646:     obs-qsv11.so
+14:08:37.646:     obs-outputs.so
+14:08:37.646:     obs-nvenc.so
+14:08:37.646:     obs-libfdk.so
+14:08:37.646:     obs-filters.so
+14:08:37.646:     obs-ffmpeg.so
+14:08:37.646:     linux-vkcapture.so
+14:08:37.646:     linux-v4l2.so
+14:08:37.646:     linux-pulseaudio.so
+14:08:37.646:     linux-pipewire.so
+14:08:37.646:     linux-pipewire-audio.so
+14:08:37.646:     linux-jack.so
+14:08:37.646:     linux-capture.so
+14:08:37.646:     linux-alsa.so
+14:08:37.646:     image-source.so
+14:08:37.646:     frontend-tools.so
+14:08:37.646:     decklink-output-ui.so
+14:08:37.646:     decklink-captions.so
+14:08:37.646: ---------------------------------
+14:08:37.646: ---------------------------------
+14:08:37.646: Available Encoders:
+14:08:37.646:   Video Encoders:
+14:08:37.646: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:08:37.646: 	- ffmpeg_aom_av1 (AOM AV1)
+14:08:37.646: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+14:08:37.646: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+14:08:37.646: 	- obs_x264 (x264)
+14:08:37.646:   Audio Encoders:
+14:08:37.646: 	- ffmpeg_aac (FFmpeg AAC)
+14:08:37.647: 	- ffmpeg_opus (FFmpeg Opus)
+14:08:37.647: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:08:37.647: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:08:37.647: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+14:08:37.647: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:08:37.647: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:08:37.647: 	- libfdk_aac (libfdk AAC)
+14:08:37.647: ==== Startup complete ===============================================
+14:08:37.686: All scene data cleared
+14:08:37.686: ------------------------------------------------
+14:08:37.687: ext_screencopy_manager_v1 not available
+14:08:37.690: [pipewire] Created stream 0x5c05784c09b0
+14:08:37.693: [pipewire] Created app capture sink 164 with 2 channels and position FL,FR
+14:08:37.694: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+14:08:37.694: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+14:08:37.694: pulse-input: Started recording from 'easyeffects_source'
+14:08:37.707: pulse-am: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+14:08:37.707: pulse-am: Audio format: s16le, 48000 Hz, 2 channels
+14:08:37.707: pulse-am: Started Monitoring in 'alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo'
+14:08:37.708: [pipewire] Created stream 0x5c0578d05bf0
+14:08:37.709: Switched to scene 'gamecapture'
+14:08:37.709: ------------------------------------------------
+14:08:37.709: Loaded scenes:
+14:08:37.709: - scene 'gamecapture':
+14:08:37.709:     - source: 'Game Capture' (vkcapture-source)
+14:08:37.709:     - source: 'MIC' (pulse_input_capture)
+14:08:37.709:         - monitoring: monitor and output
+14:08:37.709:     - source: 'TF2' (pipewire_audio_application_capture)
+14:08:37.709:     - source: 'All' (pipewire_audio_application_capture)
+14:08:37.709: ------------------------------------------------
+14:08:37.714: [pipewire] 0x5c05784c09b0 Got format: rate 48000 - channels 2 - format 8
+14:08:37.719: [pipewire] Created app capture sink 196 with 2 channels and position FL,FR
+14:08:37.727: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: TF2)
+14:08:37.727: 
+14:08:37.765: [pipewire] 0x5c0578d05bf0 Got format: rate 48000 - channels 2 - format 8
+14:08:37.985: [obs-nvenc: 'advanced_video_recording'] settings:
+14:08:37.985: 	codec:        H264
+14:08:37.985: 	rate_control: CQP
+14:08:37.985: 	cqp:          20
+14:08:37.985: 	keyint:       250
+14:08:37.985: 	preset:       p4
+14:08:37.985: 	tuning:       hq
+14:08:37.985: 	multipass:    qres
+14:08:37.985: 	profile:      high
+14:08:37.985: 	width:        1920
+14:08:37.985: 	height:       1080
+14:08:37.985: 	b-frames:     2
+14:08:37.985: 	b-ref-mode:   0
+14:08:37.985: 	lookahead:    true (8 frames)
+14:08:37.985: 	aq:           true
+14:08:37.985: 
+14:08:38.027: ---------------------------------
+14:08:38.028: [FFmpeg flac encoder: 'Track1'] bitrate: 0, channels: 2, channel_layout: stereo, track: 1
+14:08:38.028: 
+14:08:38.028: ---------------------------------
+14:08:38.029: [FFmpeg flac encoder: 'Track2'] bitrate: 0, channels: 2, channel_layout: stereo, track: 2
+14:08:38.029: 
+14:08:38.029: ---------------------------------
+14:08:38.031: [FFmpeg flac encoder: 'Track3'] bitrate: 0, channels: 2, channel_layout: stereo, track: 3
+14:08:38.031: 
+14:08:38.046: ==== Replay Buffer Start ===========================================
+15:01:32.576: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: MIC)
+15:01:32.576: 

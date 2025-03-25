@@ -1,0 +1,147 @@
+---
+name: Disco Elysium
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:17.597345389Z"
+    os: linux
+    files:
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Bookstore, Day 1, 18-27(8_17_2023 6-03-51 PM).jpg":
+        hash: cdd33c47dfcdcf677bab5355d0be4d814b8deb80
+        size: 25623
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Bookstore, Day 1, 18-27(8_17_2023 6-03-51 PM).ntwtf.zip":
+        hash: 53aff14a8429bfc6a6b40fc917d6b78a19d963cb
+        size: 1022435
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 17-41(5_28_2023 2-26-25 PM).jpg":
+        hash: dd9cfb1ab65d37119cca1881f024c0296c372f26
+        size: 46732
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 17-41(5_28_2023 2-26-25 PM).ntwtf.zip":
+        hash: 0d3e0e207eeb138de93165d3575f3b38af02122a
+        size: 1022290
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 17-45(5_28_2023 2-35-34 PM).jpg":
+        hash: b89747d191bfddd6dd7090bc7f51211fad0ea83e
+        size: 41809
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 17-45(5_28_2023 2-35-34 PM).ntwtf.zip":
+        hash: 4b8477e788f9252a7837388c5b6d643163eb2f01
+        size: 1022778
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 22-18(8_17_2023 7-10-08 PM).jpg":
+        hash: d959ff2fa25f6f6a51401d29c625bca80305071b
+        size: 37317
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 22-18(8_17_2023 7-10-08 PM).ntwtf.zip":
+        hash: 0a0531015b43559928a545f1fa328d4b18b1b4a8
+        size: 1024171
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 22-31(8_17_2023 7-14-29 PM).jpg":
+        hash: fd7c3ff15dabc9951423b96fae1b52e21cf96b47
+        size: 27881
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Martinaise, Day 1, 22-31(8_17_2023 7-14-29 PM).ntwtf.zip":
+        hash: 74f2a27f16c22803a4ef468e868dd00486bafa80
+        size: 1024590
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Whirling-in-Rags, Day 2, 07-32(12_30_2023 2-21-51 PM).jpg":
+        hash: 927ac80c36ef2e557e146935e9e5727d3393297a
+        size: 40561
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Whirling-in-Rags, Day 2, 07-32(12_30_2023 2-21-51 PM).ntwtf.zip":
+        hash: ee8fae59beff51a07c21433ef8a7268786932acd
+        size: 1027055
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Whirling-in-Rags, Day 2, 07-32(5_18_2024 10-53-57 AM).jpg":
+        hash: 9ebc486d31c5662f87b4a024175b2d1391a263a3
+        size: 29643
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/AutoSave, Whirling-in-Rags, Day 2, 07-32(5_18_2024 10-53-57 AM).ntwtf.zip":
+        hash: c45164644a8c48e470e37f3e264545b70ebfd890
+        size: 1025741
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/CAPESIDE APARTMENTS, DAY 1, 14-08(12_31_2022 10-36-24 PM).jpg":
+        hash: 342485a36343a641428d1be3b2b5aa036700f106
+        size: 19180
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/CAPESIDE APARTMENTS, DAY 1, 14-08(12_31_2022 10-36-24 PM).ntwtf.zip":
+        hash: 3465952b316ffc377e048a5658ca661151a18087
+        size: 903582
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-00(1_21_2023 12-47-06 PM).jpg":
+        hash: a76ffb570f55a18f60fdbc27d9e9615d73610949
+        size: 49310
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-00(1_21_2023 12-47-06 PM).ntwtf.zip":
+        hash: 8281ff25a32446505bef5194e22b94c5624f51bb
+        size: 1018346
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-08(1_21_2023 1-04-54 PM).jpg":
+        hash: 025a0297b34e18f1e74bcdb2adeac431740f2a34
+        size: 43225
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-08(1_21_2023 1-04-54 PM).ntwtf.zip":
+        hash: e4a10a78110eda92245c3fb957b7e9b92a598f28
+        size: 1018434
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-29(1_21_2023 1-18-37 PM).jpg":
+        hash: 5f04f7107e36a7153efb8a0504b6bf33ebe07819
+        size: 37113
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-29(1_21_2023 1-18-37 PM).ntwtf.zip":
+        hash: 8a0078721dd057bf458fd1ca601f0bd0997a7f6f
+        size: 1018515
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-34(1_21_2023 1-21-08 PM).jpg":
+        hash: 2a2cdfea58adfb3f4262e563b94a7f65e8fe0ef0
+        size: 37110
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 16-34(1_21_2023 1-21-08 PM).ntwtf.zip":
+        hash: 38240f2d7f58863d54e15a11c61ea9230ac82331
+        size: 1018795
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 17-07(1_21_2023 1-47-22 PM).jpg":
+        hash: 27d137fe786a5e78de745521b8333d52f44285f2
+        size: 60066
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 17-07(1_21_2023 1-47-22 PM).ntwtf.zip":
+        hash: 04569c77c8c01f863a18420b3863032f4525b4c5
+        size: 1020194
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 17-45(5_28_2023 2-35-24 PM).jpg":
+        hash: 1ee617c8687c20e43048af8d322e78bd622f96c1
+        size: 40476
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 17-45(5_28_2023 2-35-24 PM).ntwtf.zip":
+        hash: 2233214ed09b31d100f52c63c9c50167d3870b6b
+        size: 1022666
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 18-28(8_17_2023 6-05-36 PM).jpg":
+        hash: 4de7878b0d13ecfc478de7c8dcf64429f868dce3
+        size: 52526
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 18-28(8_17_2023 6-05-36 PM).ntwtf.zip":
+        hash: f83995779b1c5dedd01104e25f519c01589ebef0
+        size: 1023043
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 19-14(8_17_2023 6-38-53 PM).jpg":
+        hash: 8c9e766e53a8cbd66d42bd34771ae3eec7ce4418
+        size: 44736
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 19-14(8_17_2023 6-38-53 PM).ntwtf.zip":
+        hash: 8f70dec26e9dae971b5fbc55f8aed6d37aa03ad5
+        size: 1023205
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 22-31(8_17_2023 7-14-23 PM).jpg":
+        hash: 4d5c7d1c3621a136458bed167a4efb87b5022c18
+        size: 26369
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/MARTINAISE, DAY 1, 22-31(8_17_2023 7-14-23 PM).ntwtf.zip":
+        hash: f98435c231395ba016752daf3e530bb988673cb0
+        size: 1024490
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/Quick Save (Backup)(1_21_2023 1-04-58 PM).jpg:
+        hash: 7f64bfe2a75e906fa750db72d2426da1fc0b3664
+        size: 43240
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/Quick Save (Backup)(1_21_2023 1-04-58 PM).ntwtf.zip:
+        hash: 4143988371d10c055f88f061ba61a3ef8655942e
+        size: 1018284
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/QuickSave(8_17_2023 6-38-42 PM).jpg:
+        hash: dc340873e9288cf4ae76943c191c902ef1f9abd1
+        size: 36866
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/QuickSave(8_17_2023 6-38-42 PM).ntwtf.zip:
+        hash: 3ac0bcdcc148242a9e3ddd0c1b95722eeafbf3b8
+        size: 1023058
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/WHIRLING-IN-RAGS, DAY 2, 07-32(12_30_2023 2-21-47 PM).jpg":
+        hash: 5d0c74997973be1f077e6a32d2e99eeea0f74159
+        size: 40510
+      "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/WHIRLING-IN-RAGS, DAY 2, 07-32(12_30_2023 2-21-47 PM).ntwtf.zip":
+        hash: 6d575cf4711089eb0de509cc770d610b2443d90f
+        size: 1026955
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/SaveGames/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/drive_c/users/steamuser/AppData/LocalLow/ZAUM Studio/Disco Elysium/Settings/Settings.json:
+        hash: 22ee7e9fa39581785ef8b359d130efadec0687e9
+        size: 12139
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/system.reg:
+        hash: b4cf16c0330153f2cf079d08946a23ebab78342c
+        size: 3766704
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/user.reg:
+        hash: b090bb19cbd954dffc94932ef0ad6a61f9ff7279
+        size: 70716
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/632470/pfx/userdef.reg:
+        hash: c3f6b1a218771507609a7be7ebe7a0ba2ae40c28
+        size: 4190
+    registry:
+      hash: ~
+    children: []

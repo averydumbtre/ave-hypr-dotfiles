@@ -1,0 +1,3182 @@
+Initialize engine version: 2019.4.21f1 (b76dac84db26)
+[Subsystems] Discovering subsystems at path Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   
+    VRAM:     12256 MB
+    Driver:   31.0.21902.5
+Shader 'Particles/FXVille Blood Fast': fallback shader 'Paricles/Alpha Blended' not found
+Shader 'Particles/FXVille Blood Matcap Lighting': fallback shader 'Paricles/Alpha Blended' not found
+Shader 'FX/FX_FXVilleFast': fallback shader 'Paricles/Alpha Blended' not found
+Shader 'Particles/FXVille Blood World Lighting': fallback shader 'Paricles/Alpha Blended' not found
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.494400 ms
+WwiseUnity: Initialize sound engine... basePath: GeneratedSoundBanks
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkInitializer:Initialize()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wwise defaultPoolSize: 16777216 AkSoundEngine.AK_SOUNDBANK_VERSION: 125
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkInitializer:Initialize()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+WwiseUnity: Sound engine initialized.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AkInitializer:Initialize()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+InControl (version 1.6.17 build 9143)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InControlManager:OnEnable()
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(T, Vector3, Quaternion)
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<size=13><color=red>TODO : Implement m_badPacketQuestion/m_badPacketAnswer and the SNet_BadPacketCatcher</color></size>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet:Setup(Int32, SNet_CoreType, GameObject)
+Globals.Global:StoreGlobalManagersReferences()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+> GLOBAL SetupManagers, State : Dev HasNetwork: True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GameDataInit.Initialize
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameData.GameDataInit:Initialize()
+GameData.GameDataInit:.cctor()
+GameData.GameDataManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+------------------------------------------------------------  MusicManager. Loading soundbank for music! ------------------------------------------------------------ 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MusicManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b>[SteamVR_Standalone Setup]</b> Generated you an editor app key of: application.generated.unity.gtfo.exe. This lets the editor tell SteamVR_Standalone what project this is. Has no effect on builds. This can be changed in Assets/SteamVR_Standalone/Resources/SteamVR_Settings
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Is HMD here? True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b>[SteamVR_Standalone]</b> Successfully loaded 26 actions from action manifest into SteamVR_Standalone (Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/StreamingAssets\SteamVR_Standalone\actions.json)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b>[SteamVR_Standalone]</b> Initializing SteamVR_Standalone input...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loading external plugin load function
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Z:\mnt\GD\SteamLibrary\steamapps\common\GTFO\GTFO.exe
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+C:\windows\system32\ntdll.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+C:\windows\system32\kernel32.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+C:\windows\system32\kernelbase.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Z:\mnt\GD\SteamLibrary\steamapps\common\GTFO\UnityPlayer.dll
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b>[SteamVR_Standalone]</b> Initialized. Connected to lighthouse:LHR-70AF6EF0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Resources:Load(String)
+GuiLayer:AddComp(String, GuiAnchor, Vector2, Transform)
+CrosshairGuiLayer:Setup(Transform, String)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+CM_PageCredits Setup Credits Page
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageCredits:Setup(MainMenuGuiLayer)
+MainMenuGuiLayer:AddPage(eCM_MenuPage, String)
+MainMenuGuiLayer:Setup(Transform, String)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Setting watermark revision to 34855
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PUI_Watermark:SetRevision(Int32)
+WatermarkGuiLayer:Setup(Transform, String)
+GuiManager:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loading shaders from asset bundle...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+assets/steamvr/resources/steamvr_blit.shader
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+assets/steamvr/resources/steamvr_blitflip.shader
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+assets/steamvr/resources/steamvr_fade.shader
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+assets/steamvr/resources/steamvr_hiddenarea.shader
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+assets/steamvr/resources/steamvr_overlay.shader
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+UnityEngine.GameObject:AddComponent()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+EnemyCostManager : Costs for Normal difficulty loaded
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+EnemyCostManager:LoadCostSetting(eDifficulty)
+Mastermind:Setup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Inactive TO: Startup</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:PostSetup()
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MusicManager - Setting music state to: StartUp
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MusicMachine:ChangeState(MUS_State)
+GS_Startup:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:PostSetup()
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Steamworks.NET initilized
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamManager:PostSetup()
+Globals.Global:SetupGlobalManager(GlobalManager, String, Boolean)
+Globals.Global:SetupManagers()
+Globals.Global:OnGlobalSceneManagerLinksLoaded(GlobalSceneManagerLinks)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Startup TO: Offline</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MusicManager - Setting music state to: MainMenu
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MusicMachine:ChangeState(MUS_State)
+GS_Offline:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Idle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DEBUG : Tried to Initialize the SteamAPI twice in one session
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_Core_STEAM:IsOnline()
+SNetwork.SNet_Core_STEAM:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DEBUG : Tried to Initialize the SteamAPI twice in one session
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_Core_STEAM:IsOnline()
+SNetwork.SNet:SNetUpdate()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b>[SteamVR_Standalone]</b> GetDigitalActionData error (/actions/default/in/PushToTalk): InvalidHandle handle: 1152957517907624594
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+InputMapper:GetButtonKeyMouseGamepad(InputAction, eFocusState)
+DelGetButton:Invoke(InputAction, eFocusState)
+PlayerChatManager:UpdateVoiceChat()
+PlayerChatManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET is Online, Woop!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNet_GlobalManager:OnPNetStateChange(SNet_State)
+System.Action`1:Invoke(T)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Waiting for network.. DONE!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<WaitForNetwork>d__24:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PlayFabManager.OnSteamInitialized
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayFabManager:OnSteamInitialized()
+Globals.Global:OnNetworkInitialized()
+<WaitForNetwork>d__24:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[163 - GetAuthSessionTicketResponse] - 2 -- k_EResultOK
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayFabManager:OnGetAuthSessionTicketResponse(GetAuthSessionTicketResponse_t)
+System.Action`1:Invoke(T)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PlayFabManager.OnLoginSuccess. NewlyCreated: False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayFabManager:OnLoginWithSteamSuccess(LoginResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PlayFabManager.RefreshGlobalTitleData
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayFabManager:OnLoginWithSteamSuccess(LoginResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=purple>PlayFab.OnGetCurrentTime Sunday, 10 November 2024</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c:<OnLoginWithSteamSuccess>b__53_0(GetTimeResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+UpdateLocalPlayerData Done, result: 1 OnSuccess: System.Action
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<>c__DisplayClass77_0:<RefreshLocalPlayerTitleData>b__0(GetUserDataResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RundownManager: Requesting rundown progression from drop server for rundown key 'Local_35'...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:UpdateRundownProgression(String, Boolean)
+System.Action:Invoke()
+PlayFabManager:CheckLoginSuccess()
+System.Action:Invoke()
+<>c__DisplayClass77_0:<RefreshLocalPlayerTitleData>b__0(GetUserDataResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PlayFabMatchMakingManager: Requesting list of QoS servers...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<UpdateRegionLatenciesAsync>d__52:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+PlayfabMatchmakingManager:UpdateRegionLatencies()
+PlayfabMatchmakingManager:OnPlayFabLoggedIn()
+System.Action:Invoke()
+PlayFabManager:CheckLoginSuccess()
+System.Action:Invoke()
+<>c__DisplayClass77_0:<RefreshLocalPlayerTitleData>b__0(GetUserDataResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AchievementManager | <b>Achievement_ReadAllLogs</b> :: Initialized Data. Logs Read: 1 / 188 | IDs: [1892674022]
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Achievement_ReadAllLogs:OnPlayFabLoginSuccess()
+System.Action:Invoke()
+PlayFabManager:CheckLoginSuccess()
+System.Action:Invoke()
+<>c__DisplayClass77_0:<RefreshLocalPlayerTitleData>b__0(GetUserDataResult)
+System.Action`1:Invoke(T)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Enqueueing 'rundown progression (rundown: Local_35)' request
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Woke up
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Making 'rundown progression (rundown: Local_35)' request...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Enqueueing 'get player inventory' request
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PlayFabMatchMakingManager: Checking region latencies...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<GetRegionLatenciesAsync>d__53:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:Start(TStateMachine&)
+PlayfabMatchmakingManager:GetRegionLatenciesAsync(Dictionary`2, CancellationToken)
+<UpdateRegionLatenciesAsync>d__52:MoveNext()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:RunOrScheduleAction(Action, Boolean, Task&)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+<VerifiedRequestAsync>d__37`2:MoveNext()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: 'rundown progression (rundown: Local_35)' request completed successfully
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Sleeping for 2 seconds...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RundownManager: Got rundown progression from drop server
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:OnRundownProgressionRequestDone(Task`1)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CM_PageRundown_New.OnRundownProgressionFileUpdated
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 0 EXPEDITION UNLOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:OnRundownProgressionFileUpdated()
+System.Action:Invoke()
+RundownManager:SetPlayerRundownProgression(RundownProgressionResponse)
+System.Action`1:Invoke(T)
+System.Threading.Tasks.ContinuationTaskFromResultTask`1:InnerInvoke()
+System.Threading.Tasks.Task:Execute()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.WaitCallback:Invoke(Object)
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Making 'get player inventory' request...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: 'get player inventory' request completed successfully
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Sleeping for 2 seconds...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Idle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PlayFabMatchMakingManager: Got no region latencies. Faked region latencies will be used during matchmaking.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+<GetRegionLatenciesAsync>d__53:MoveNext()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:RunOrScheduleAction(Action, Boolean, Task&)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+PlayFab.QoS.<GetRegionLatencies>d__4:MoveNext()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:RunOrScheduleAction(Action, Boolean, Task&)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Threading.Tasks.WhenAllPromise:Invoke(Task)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+PlayFab.QoS.<PingWorker>d__5:MoveNext()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:RunOrScheduleAction(Action, Boolean, Task&)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+PlayFab.QoS.<PingAsync>d__13:MoveNext()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:RunOrScheduleAction(Action, Boolean, Task&)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Threading.Tasks.CompleteOnInvokePromise:Invoke(Task)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Threading.Tasks.DelayPromise:Complete()
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.WaitCallback:Invoke(Object)
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+WindowsVideoMedia error 0xc00d36e6 while reading Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/resources.resource
+
+Context: Get video transform output sample count
+Error details: Attribute is not found.
+
+Track types:
+   Video Track [2560 x 1080], type: I420
+   Video Track [2560 x 1080], type: NV12
+   Video Track [2560 x 1080], type: YV12
+   Video Track [2560 x 1080], type: YUY2
+   Video Track [2560 x 1080], type: I420
+   Video Track [2560 x 1080], type: IYUV
+   Video Track [2560 x 1080], type: %15
+   Video Track [2560 x 1080], type: %16
+   Video Track [2560 x 1080], type:  
+ 
+(Filename:  Line: 3656)
+
+WindowsVideoMedia error 0xc00d36e6 while reading Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/resources.resource
+
+Context: Get video transform output sample count
+Error details: Attribute is not found.
+
+Track types:
+   Audio Track, type: %03
+   Audio Track, type: %01
+   Audio Track, type: %03
+   Video Track [700 x 700], type: I420
+   Video Track [700 x 700], type: NV12
+   Video Track [700 x 700], type: YV12
+   Video Track [700 x 700], type: YUY2
+   Video Track [700 x 700], type: I420
+   Video Track [700 x 700], type: IYUV
+   Video Track [700 x 700], type: %15
+   Video Track [700 x 700], type: %16
+   Video Track [700 x 700], type:  
+ 
+(Filename:  Line: 3656)
+
+TODO : Skipping icon generation for the hacking tool. It crashes later while trying to construct the tool for rendering
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Gear.GearManager:OnGearLoadingDone()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Couldn't create a Convex Mesh from source mesh "g_prop_generic_crate_weapon_002" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+WindowsVideoMedia error 0xc00d36e6 while reading Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/resources.resource
+
+Context: Get video transform output sample count
+Error details: Attribute is not found.
+
+Track types:
+   Video Track [2560 x 1080], type: I420
+   Video Track [2560 x 1080], type: NV12
+   Video Track [2560 x 1080], type: YV12
+   Video Track [2560 x 1080], type: YUY2
+   Video Track [2560 x 1080], type: I420
+   Video Track [2560 x 1080], type: IYUV
+   Video Track [2560 x 1080], type: %15
+   Video Track [2560 x 1080], type: %16
+   Video Track [2560 x 1080], type:  
+ 
+(Filename:  Line: 3656)
+
+Couldn't create a Convex Mesh from source mesh "g_prop_generic_crate_weapon_001" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "g_lid" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing! 
+(Filename:  Line: 334)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'g_Boss_Flyer') is missing!
+UnityEngine.Object:Instantiate(T)
+Enemies.EnemyPrefabManager:BuidlModelGO(ModelData, GameObject, GameObject&)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+Failed to create agent because there is no valid NavMesh
+Enemies.EnemyPrefabManager:CopyComponent(T, GameObject, Boolean)
+Enemies.EnemyPrefabManager:CopyComponents(GameObject, GameObject)
+Enemies.EnemyPrefabManager:BuildEnemyPrefab(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateEnemy(EnemyDataBlock)
+Enemies.EnemyPrefabManager:GenerateAllEnemyPrefabs()
+System.Action:Invoke()
+System.Action:Invoke()
+AssetShards.AssetShardManager:FireCallbackAndGetNewLoader()
+AssetShards.AssetShardManager:RegisterManifest(AssetShardManifest)
+
+[ line 634] 
+(Filename:  Line: 634)
+
+OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageIntro:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+WindowsVideoMedia error 0xc00d36e6 while reading Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/resources.resource
+
+Context: Get video transform output sample count
+Error details: Attribute is not found.
+
+Track types:
+   Video Track [2560 x 1080], type: I420
+   Video Track [2560 x 1080], type: NV12
+   Video Track [2560 x 1080], type: YV12
+   Video Track [2560 x 1080], type: YUY2
+   Video Track [2560 x 1080], type: I420
+   Video Track [2560 x 1080], type: IYUV
+   Video Track [2560 x 1080], type: %15
+   Video Track [2560 x 1080], type: %16
+   Video Track [2560 x 1080], type:  
+ 
+(Filename:  Line: 3656)
+
+GS_Offline.OnLocalPlayerPressStart!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GS_Offline:OnLocalPlayerPressStart()
+System.Action:Invoke()
+CellMenu.<Intro_AfterInject>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Offline TO: NoLobby</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MusicManager - Setting music state to: Silence
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MusicMachine:ChangeState(MUS_State)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 0 EXPEDITION UNLOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierA index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierB index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierC index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierD index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 0 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 1 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 2 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+tier: TierE index: 3 EXPEDITION LOCKED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:CheckTier(List`1, eRundownTier, RundownProgData)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:UpdateExpeditionIconProgression()
+CellMenu.CM_PageRundown_New:PlaceRundown(RundownDataBlock)
+CellMenu.CM_PageRundown_New:TryPlaceRundown()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pagerundown GOT RundownTimerData from playfab.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:GetPlayFabRundownTimer()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+GS_NoLobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Offline:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnBtnPress, ID: 0 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateButtonPress()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnBtnPress, ID: 517 GO: CM_ButtonFramed(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateButtonPress()
+CellMenu.CM_PageBase:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnBtnPress, ID: 587 GO: CM_SettingsItem(Clone) OnBtnPressCallback:  m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateButtonPress()
+CellMenu.CM_PageBase:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnBtnPress, ID: 187 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateButtonPress()
+CellMenu.CM_PageBase:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pagerundown GOT RundownTimerData from playfab.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PageRundown_New:GetPlayFabRundownTimer()
+CellMenu.CM_PageRundown_New:OnEnable()
+CellMenu.CM_PageRundown_New:SetPageActive(Boolean)
+MainMenuGuiLayer:ChangePage(eCM_MenuPage, Boolean)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateButtonPress()
+CellMenu.CM_PageBase:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnBtnPress, ID: 42 GO: TutorialButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateButtonPress()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNet : Session reset
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNet_GlobalManager:OnResetSessionEvent()
+System.Action:Invoke()
+SNetwork.SNet:ResetSession()
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Global.OnResetSession
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Globals.Global:OnResetSession()
+System.Action:Invoke()
+SNetwork.SNet:ResetSession()
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=purple>PlayerManager OnResetSession >  m_playerAgentsInLevel.Count : 0</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Player.PlayerManager:OnResetSession()
+Globals.Global:OnResetSession()
+System.Action:Invoke()
+SNetwork.SNet:ResetSession()
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SessionGUID set to 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:set_SessionGUID(String)
+Globals.Global:OnResetSession()
+System.Action:Invoke()
+SNetwork.SNet:ResetSession()
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : NoLobby TO: Lobby</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_NoLobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SessionHub:AddPlayerToSession(SNet_Player, Boolean)
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+EnvironmentStateManager:LogEnvironmentState(String)
+GS_Lobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_NoLobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SessionHub:AddPlayerToSession(SNet_Player, Boolean)
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MusicManager - Setting music state to: Silence
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MusicMachine:ChangeState(MUS_State)
+GS_Lobby:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_NoLobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SessionHub:AddPlayerToSession(SNet_Player, Boolean)
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Player [#442c21] gayass was added to session
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SessionHub:AddPlayerToSession(SNet_Player, Boolean)
+SNetwork.SNet_SessionHub:CreateHub(LobbyType, Boolean, eSessionType)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DoCreateLobbyAndSelecteExpedition 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+waiting for lobby..
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+CellMenu.CM_Utils:CreateLobbyAndSelectExpedition(eRundownTier, Int32, Boolean, Boolean)
+CellMenu.CM_ExpeditionWindow:<Setup>b__31_0(Int32)
+System.Action`1:Invoke(T)
+CellMenu.CM_Item:OnBtnPress(iCellMenuInputHandler)
+CellMenu.CM_TimedButton:OnHoverUpdate(iCellMenuInputHandler)
+CellMenu.CM_PageBase:UpdateCursorRaycast()
+CellMenu.CM_PageBase:Update()
+CellMenu.CM_PageRundown_New:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNet_SessionHub : OnJoinedLobby True [#442c21] gayass False -1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SessionHub:OnJoinedLobby(SNet_Player)
+SNetwork.SNet_Lobby_STEAM:PlayerJoined(SNet_Player, CSteamID)
+SNetwork.SNet_Lobby_STEAM:CollectCurrentPlayers()
+SNetwork.SNet_Core_STEAM:OnLobbyEntered(LobbyEnter_t)
+System.Action`1:Invoke(T)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNet_MasterManager : SearchingForMaster
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SessionHub:OnJoinedLobby(SNet_Player)
+SNetwork.SNet_Lobby_STEAM:PlayerJoined(SNet_Player, CSteamID)
+SNetwork.SNet_Lobby_STEAM:CollectCurrentPlayers()
+SNetwork.SNet_Core_STEAM:OnLobbyEntered(LobbyEnter_t)
+System.Action`1:Invoke(T)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Searching for master...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MasterManager : [#442c21] gayass owns the lobby. IsLocal:True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_MasterManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNet_MasterManager : Who's tha masta?! [#442c21] gayass! [#442c21] gayass!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_MasterManager:ThisIsTheMaster(SNet_Player)
+SNetwork.SNet_MasterManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : OnFoundMaster > Master is Steam [#442c21] gayass Session summary > Master InSessionHub -1 -1 0 0   Profile summary > [#442c21] gayass : end
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:OnFoundMaster()
+SNetwork.SNet_MasterManager:ThisIsTheMaster(SNet_Player)
+SNetwork.SNet_MasterManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DoCreateLobbyAndSelecteExpedition 2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RundownManager.SetActiveExpedition, type:Local tier:TierA expIndex: 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SessionGUID set to +XKrTJ1EzkmLG/k475Fegg==
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:set_SessionGUID(String)
+RundownManager:SetActiveExpedition(pActiveExpedition, ExpeditionInTierData, Boolean)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellJSON:SaveToDisk(String, T, JsonSerializerSettings)
+Gear.GearManager:SaveFavoritesData()
+Gear.GearManager:RegisterGearInSlotAsEquipped(String, InventorySlot)
+GS_Lobby:EquipPredefinedGearForSlot(InventorySlot)
+GS_Lobby:OnExpeditionSelected()
+RundownManager:SetActiveExpedition(pActiveExpedition, ExpeditionInTierData, Boolean)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellJSON:SaveToDisk(String, T, JsonSerializerSettings)
+Gear.GearManager:SaveFavoritesData()
+Gear.GearManager:RegisterGearInSlotAsEquipped(String, InventorySlot)
+GS_Lobby:EquipPredefinedGearForSlot(InventorySlot)
+GS_Lobby:OnExpeditionSelected()
+RundownManager:SetActiveExpedition(pActiveExpedition, ExpeditionInTierData, Boolean)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellJSON:SaveToDisk(String, T, JsonSerializerSettings)
+Gear.GearManager:SaveFavoritesData()
+Gear.GearManager:RegisterGearInSlotAsEquipped(String, InventorySlot)
+GS_Lobby:EquipPredefinedGearForSlot(InventorySlot)
+GS_Lobby:OnExpeditionSelected()
+RundownManager:SetActiveExpedition(pActiveExpedition, ExpeditionInTierData, Boolean)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellJSON:SaveToDisk(String, T, JsonSerializerSettings)
+Gear.GearManager:SaveFavoritesData()
+Gear.GearManager:RegisterGearInSlotAsEquipped(String, InventorySlot)
+GS_Lobby:EquipPredefinedGearForSlot(InventorySlot)
+RundownManager:SetActiveExpedition(pActiveExpedition, ExpeditionInTierData, Boolean)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#C84800>SelectActiveExpedition : Selected! Local Local_39 TierA 1 1049548572 809202078  sessionGUID:SNetwork.SNetStructs+pSessionGUID FriendsData expID set to: Local_39,1,1 ActiveExpeditionUniqueKey: Local_39_TierA_1</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:SetActiveExpedition(pActiveExpedition, ExpeditionInTierData, Boolean)
+RundownManager:MasterSelectActiveExpedition(eRundownKey, eRundownTier, Int32, String, UInt32)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DoCreateLobbyAndSelecteExpedition 3
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DoCreateLobbyAndSelecteExpedition 4
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.<DoCreateLobbyAndSelecteExpedition>d__5:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : Unassigned InSessionHub
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : OnMasterCommand : AssignSlot 0 False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerInSession  Reason : None isPlayerMaster : True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNet_GlobalManager:OnPlayerEvent(SNet_Player, SNet_PlayerEvent, SNet_PlayerEventReason)
+System.Action`3:Invoke(T1, T2, T3)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : InSessionHub OutOfSync
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : OnMasterCommand : PickAvatar 0 False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:IsReadyToSync(SNet_Player)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=green>SNET : We got character 0 assigned</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GS_Lobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:IsReadyToSync(SNet_Player)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+IsReadyToSync : PickAvatar agent sent to [#442c21] gayass
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:IsReadyToSync(SNet_Player)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : OnMasterCommand : InSessionHub_ReadyToGenerate 0 False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=green>SNET : Added [#442c21] gayass to PlayersInGame</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_PlayerSlotManager:AddToPlayersInGame(SNet_Player)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerIsSynced  Reason : None isPlayerMaster : True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNet_GlobalManager:OnPlayerEvent(SNet_Player, SNet_PlayerEvent, SNet_PlayerEventReason)
+System.Action`3:Invoke(T1, T2, T3)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SpawnPlayerModel, index: 0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CellMenu.CM_PlayerLobbyBar:SpawnPlayerModel(Int32)
+CellMenu.CM_PlayerLobbyBar:UpdatePlayer(SNet_Player)
+CellMenu.CM_PageLoadout:UpdatePlayerList()
+System.Action:Invoke()
+SNet_GlobalManager:OnPlayerEvent(SNet_Player, SNet_PlayerEvent, SNet_PlayerEventReason)
+System.Action`3:Invoke(T1, T2, T3)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=green>SNET : GS_Lobby has not implemented functionality for InSessionHub_ReadyToGenerate!</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GS_Lobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : OutOfSync InSessionHub_ReadyToGenerate
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=green>SNET : OnSessionPlayerAction : Spawning [#442c21] gayass's agent!  SpawnPlayerAgent</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNet_GlobalManager:OnSessionPlayerAction(SNet_Player, eSessionPlayerActionType)
+System.Action`2:Invoke(T1, T2)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : True
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNet_GlobalManager:OnPlayerEvent(SNet_Player, SNet_PlayerEvent, SNet_PlayerEventReason)
+System.Action`3:Invoke(T1, T2, T3)
+SNetwork.SNet_SyncManager:OnPlayerSpawnedAgent(SNet_Player)
+Player.PlayerManager:OnPlayerSpawned(pPlayerSpawnData, PlayerReplicator)
+Player.PlayerReplicationManager:OnSpawn(pPlayerSpawnData, PlayerReplicator)
+SNetwork.SNet_ReplicationManager`2:InternalSpawnCallback(T)
+Player.PlayerReplicationManager:InternalSpawnCallback(pPlayerSpawnData)
+SNetwork.SNet_ReplicationManager`2:Spawn(T)
+SNetwork.SNet_ReplicationManager`2:Spawn(UInt32, T)
+SNetwork.SNet_ReplicationManager`2:Spawn(GameObject, T)
+Player.PlayerManager:SpawnPlayer(SNet_Player, Int32, PLOC_State, Int32, Boolean)
+Player.PlayerManager:SpawnPlayer(SNet_Player, PLOC_State, Int32, Boolean)
+SNet_GlobalManager:OnSessionPlayerAction(SNet_Player, eSessionPlayerActionType)
+System.Action`2:Invoke(T1, T2)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CommandBuffer: built-in render texture type 15 not found while executing Custom Motion Vectors (SetRenderTarget color buffer) 
+(Filename:  Line: 0)
+
+SNET : OnMasterCommand : StartGeneration 0 False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:SessionCommand(eSessionCommandType, Int32)
+GS_Lobby:TryStartLevelTrigger()
+GS_Lobby:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Lobby TO: Generating</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Lobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:SessionCommand(eSessionCommandType, Int32)
+GS_Lobby:TryStartLevelTrigger()
+GS_Lobby:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RundownManager: Starting new game session
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RundownManager:NewGameSession()
+GS_Generating:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Lobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:SessionCommand(eSessionCommandType, Int32)
+GS_Lobby:TryStartLevelTrigger()
+GS_Lobby:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+EnvironmentStateManager:LogEnvironmentState(String)
+GS_Generating:Enter()
+GameStateManager:DoChangeState(eGameStateName)
+GameStateManager:ChangeState(eGameStateName)
+GS_Lobby:OnMasterCommand(pMasterCommand)
+SNet_GlobalManager:OnMasterCommand(pMasterCommand)
+System.Action`1:Invoke(T)
+SNetwork.SNet_SyncManager:OnMasterCommand(pMasterCommand)
+SNetwork.SNet_SyncManager:SendMasterCommand(SNet_Player, eMasterCommandType, Int32)
+SNetwork.SNet_SyncManager:SessionCommand(eSessionCommandType, Int32)
+GS_Lobby:TryStartLevelTrigger()
+GS_Lobby:Update()
+GameStateManager:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Enqueueing 'new session (sessionId: +XKrTJ1EzkmLG/k475Fegg==, rundown: Local_39, expedition: A2, boosters: [])' request
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Woke up
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Making 'new session (sessionId: +XKrTJ1EzkmLG/k475Fegg==, rundown: Local_39, expedition: A2, boosters: [])' request...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : InSessionHub_ReadyToGenerate GeneratingLevel
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SNetwork.SNet_SyncManager:MasterReplicationUpdate_Player(SNet_Player, eReplicationMode, SNet_Player)
+SNetwork.SNet_SyncManager:SNetUpdate()
+SNetwork.SNet:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+EnvironmentStateManager:LogEnvironmentState(String)
+PreLitVolume:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: 'new session (sessionId: +XKrTJ1EzkmLG/k475Fegg==, rundown: Local_39, expedition: A2, boosters: [])' request completed successfully
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Sleeping for 2 seconds...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+DropServerManager: Idle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TenCC.Utils.ConcurrentLogQueue:Flush()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+

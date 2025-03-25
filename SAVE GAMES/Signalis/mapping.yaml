@@ -1,0 +1,18 @@
+---
+name: Signalis
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T04:48:32.739267186Z"
+    os: linux
+    files:
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SIGNALIS/SIGNALIS_Data/save/01/lstr.replika:
+        hash: 05dd3e44a2e97ac8efefa316e0158cb4f576372f
+        size: 809
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SIGNALIS/SIGNALIS_Data/save/01/settings.ini:
+        hash: b4534f5bcfac89d77d50e42687098344503a453d
+        size: 566
+    registry:
+      hash: ~
+    children: []

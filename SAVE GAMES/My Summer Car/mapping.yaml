@@ -1,0 +1,45 @@
+---
+name: My Summer Car
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:18.534494483Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/defaultES2File.txt:
+        hash: a09988787f97e1ab1a3e7625fe653b55e8251a18
+        size: 65521
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/graveyard.txt:
+        hash: f2e5d3fdfee50e55fdfb0d3a52e64124775f3aa1
+        size: 245
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/items.txt:
+        hash: 60940b32f16982d415af01af1421ea8b69f5dc34
+        size: 7982
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/meshsave.txt:
+        hash: 8f1a8a6b8366e7bf23bead4b118e510467538c0e
+        size: 1712205
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/notepad.txt:
+        hash: 0319e0fd06726ce46ce5b3832879866787a542b1
+        size: 598
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/options.txt:
+        hash: 2c8bd3507c99a69d51ab8c08054444d9a8024ea4
+        size: 1540
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/drive_c/users/steamuser/AppData/LocalLow/Amistech/My Summer Car/trophies.txt:
+        hash: 91cf67486311f097925c6ac33702c416caeb61b8
+        size: 182
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/system.reg:
+        hash: bc81251902e702e99017aa8b5718845eef5866e0
+        size: 3782886
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/user.reg:
+        hash: b8c1689e8335aef0d1a3aa9e46a6041debcfc91d
+        size: 57275
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/516750/pfx/userdef.reg:
+        hash: 87d26dae8598d851436ca58465f9497454d5eca0
+        size: 4190
+    registry:
+      hash: ~
+    children: []

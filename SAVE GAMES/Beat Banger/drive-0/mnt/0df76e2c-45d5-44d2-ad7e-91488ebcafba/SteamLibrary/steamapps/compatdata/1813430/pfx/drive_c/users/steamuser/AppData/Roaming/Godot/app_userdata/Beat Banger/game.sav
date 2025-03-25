@@ -1,0 +1,129 @@
+[save]
+
+data={
+"acts": [{
+"act_id": "abf73747b51bbbd37090085aa6ffda6c",
+"act_name": "The Audition",
+"levels": [{
+"level_id": "d5fa8d7785928c13a10fe06cae87fb1b",
+"level_name": "Virgin Newbie",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 185,
+"score": 25490
+}, {
+"difficulty": "Normal",
+"grade": 5,
+"max_combo": 114,
+"score": 30754
+}, {
+"difficulty": "Expert",
+"grade": 5,
+"max_combo": 321,
+"score": 57679
+}]
+}, {
+"level_id": "5c25df208250770940cd1a450b54bd5c",
+"level_name": "She Doesnt Like You",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 226,
+"score": 28137
+}, {
+"difficulty": "Normal",
+"grade": 5,
+"max_combo": 181,
+"score": 39014
+}, {
+"difficulty": "Expert",
+"grade": 5,
+"max_combo": 89,
+"score": 28315
+}]
+}, {
+"level_id": "b35e7813335ed69b422217987ec2bf25",
+"level_name": "I Can Do It Better.",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 172,
+"score": 32467
+}, {
+"difficulty": "Normal",
+"grade": 5,
+"max_combo": 136,
+"score": 31066
+}, {
+"difficulty": "Expert",
+"grade": 5,
+"max_combo": 145,
+"score": 35757
+}]
+}, {
+"level_id": "8debd4ea8f12b0f256ba53943c6cec22",
+"level_name": "The Boss",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 5,
+"max_combo": 303,
+"score": 29062
+}, {
+"difficulty": "Normal",
+"grade": 5,
+"max_combo": 67,
+"score": 23960
+}, {
+"difficulty": "Expert",
+"grade": 5,
+"max_combo": 54,
+"score": 28014
+}]
+}, {
+"level_id": "15380fe9aa3d505d242645e1be9cc3b9",
+"level_name": "Secret Weapon",
+"scores": [{
+"difficulty": "Virgin",
+"grade": 6,
+"max_combo": 232,
+"score": 19867
+}]
+}],
+"levels_unlocked": 5
+}],
+"player": {
+"money": 20741,
+"shop_outfit": 5
+},
+"stats": [{
+"enum": 800,
+"value": 0
+}, {
+"enum": 801,
+"value": 4
+}, {
+"enum": 802,
+"value": 13
+}, {
+"enum": 807,
+"value": 4838
+}, {
+"enum": 808,
+"value": 116
+}, {
+"enum": 806,
+"value": 321
+}, {
+"enum": 803,
+"value": 4
+}],
+"unlocked_achievements": [1001, 1004, 1011, 1017, 1016],
+"unlocked_items": [600, 301, 601, 602, 311, 603, 316, 604, 300, 302, 303, 304, 305, 307, 308, 309, 310, 312, 313, 314, 315, 317, 318, 319, 1103, 1102, 1105, 1104, 1101, 200, 201, 202, 203, 204, 205, 206, 297, 400, 401, 402, 403, 306, 399]
+}
+
+[mods]
+
+data={
+"acts": []
+}

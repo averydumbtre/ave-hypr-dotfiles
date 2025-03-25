@@ -1,0 +1,14 @@
+These saves are meant to be practice saves additional to the already available NCS saves, I highly recommend getting those aswell if you don't have them already!
+
+WHAT YOU NEED BEFOREHAND:
+- a custom .cfg file in your game folder (Titanfall2/r2/cfg)
+- a working version of Icepick (titanfallmods.com)
+
+HOW TO INSTALL & USE:
+1. Drop all the .sav files into C:\Users\[USER]\Documents\Respawn\Titanfall2\profile\savegames
+
+2. Set up a bind to open up the console in your custom config file via: bind "KEY" "toggleconsole"
+
+3. Launch the game through Icepick (NOT SPEEDRUN LEGAL! ONLY FOR PRACTICE)
+
+4. Open up the console using your bind and enter: load [SAVENAME]

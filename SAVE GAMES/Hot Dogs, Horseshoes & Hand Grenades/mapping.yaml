@@ -1,0 +1,48 @@
+---
+name: "Hot Dogs, Horseshoes & Hand Grenades"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:22.382887072Z"
+    os: linux
+    files:
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/MF.txt:
+        hash: ae7e4dc137672dbd5d4e400ae7b8917fbad7795a
+        size: 367
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/MMF.txt:
+        hash: 8b4f627bd7e3209d3c506fb0bcf2210e481bfabd
+        size: 260
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/OmniScores.txt:
+        hash: e01a062a286cb2b65c0adeed717cb08c7bdcc2bb
+        size: 663
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/Options.txt:
+        hash: 6b22f2d7e5cd0e89decbda8b6aec01c65708f5b9
+        size: 3674
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/ROTRWv2.txt:
+        hash: 1f89c55df4bcb1ac6b9b1f0e2a60b6ae12d5c9dc
+        size: 144
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/Rewards.txt:
+        hash: d271fe5196f71f315a55d197026d38d085cf463a
+        size: 25
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/TAH.txt:
+        hash: 67a7205ff0dfba8e09ad428d0f03598ea575e384
+        size: 230
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/TNH_v2.txt:
+        hash: b362b6af36839391e0400f4e2131a0b8ff0196aa
+        size: 491
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/drive_c/users/steamuser/AppData/LocalLow/RUST LTD/Hot Dogs Horseshoes and Hand Grenades/WW.txt:
+        hash: 8bca6107c9961de10970a94703c5089c032be74f
+        size: 568
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/system.reg:
+        hash: faa2c955fe6a26c480d5d36ae18492b105edd3d6
+        size: 3895765
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/user.reg:
+        hash: 5bb4c2b4dbfa774e25943b1a7a1292c901428e10
+        size: 64473
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/450540/pfx/userdef.reg:
+        hash: dcb46a77dd0ee2f9c390f730438f02597357a707
+        size: 4190
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,384 @@
+---
+name: Team Fortress 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-18T02:28:06.531517277Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/userdata/1013896986/440/remote/cfg/config.cfg:
+        hash: dc0f81a1982079f2d3b651dde515a054edb5aa9b
+        size: 7236
+      /home/avery/.local/share/Steam/userdata/1013896986/440/remote/item_clientacks.txt:
+        hash: 6ff2f679b8f1feb178de1b7631fb5e19db3862ee
+        size: 23
+      /home/avery/.local/share/Steam/userdata/1013896986/440/remote/materials/vgui/logos/spray.vmt:
+        hash: 205b1e104794fdb223cd8714899f214a4d03dd1c
+        size: 130
+      /home/avery/.local/share/Steam/userdata/1013896986/440/remote/materials/vgui/logos/spray.vtf:
+        hash: 5c98bfef9f65a03f4621cf1637f28971e4416afc
+        size: 393280
+      /home/avery/.local/share/Steam/userdata/1013896986/440/remote/stamped_items_mru.txt:
+        hash: 859d3b0dd9bf412d09b93c22a7dd41ecf741f35f
+        size: 355
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/360controller-linux.cfg:
+        hash: 17d23c846b85cbd9b751745ebeeeb77125f92e90
+        size: 358
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/360controller.cfg:
+        hash: 75ead8c9e0aa9a1257ac8e5e02103548740c4fe5
+        size: 1114
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/banned_ip.cfg:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/chapter1.cfg:
+        hash: 7cade2269a2ab13a4403735fd5b3b50388cf459c
+        size: 28
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/chapter2.cfg:
+        hash: 42480ed3706f904741c9d16d9d80334915df3270
+        size: 32
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/chapter3.cfg:
+        hash: 1f3fd097909080dc3494e264a511536176981868
+        size: 27
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/config.cfg:
+        hash: dc0f81a1982079f2d3b651dde515a054edb5aa9b
+        size: 7236
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/config_default.cfg:
+        hash: 774dd19b4cf1502bd8883e19421c2a5079f5e224
+        size: 1954
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/engineer.cfg.txt:
+        hash: 7d42e76f7396b02bc9284e877aee6757ff4cf81d
+        size: 254
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_caccent.txt:
+        hash: 19fe89299a0535fa984abc83fd3abda988a40798
+        size: 55
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_ccasual.txt:
+        hash: 91202c329bed1c76a5fbdd76b960e31b98aee2e6
+        size: 55
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_ccommunity.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_ccompetitive.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cmvm.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cnegative.txt:
+        hash: a6c018a088e80adb176dd20b8f724bd82debeac2
+        size: 57
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpartymember1.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpartymember2.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpartymember3.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpartymember4.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpartymember5.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpartymember6.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cpositive.txt:
+        hash: d4db39a911677563cabc3e41a17638ec9b1a293e
+        size: 57
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_cprimary.txt:
+        hash: 833de250f4e87aad0a06cf92c59bbd0130eb981b
+        size: 56
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_csecondary.txt:
+        hash: 44b8d8c318b1e2ac3dd0aceb6d2cfc6bb4196cf1
+        size: 58
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_hitmarker.txt:
+        hash: ec3ae362cee11953949a348fef8a940920163cf3
+        size: 61
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_kfentryopacity.txt:
+        hash: 7cf5f6b4f81ca659951a4d90afe921c6b6bf6e3f
+        size: 94
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_kfmaxentries.txt:
+        hash: bdbd8319c88d215f0971953e7fc8ca5db52be61e
+        size: 65
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_mmenu_userbg.txt:
+        hash: ffef6d81dc32d89e0ef5dd66933fb2a4376d2a41
+        size: 58
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_oobe.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_oobe_dismissed.txt:
+        hash: f5efecf52e7c4bcd166f997202aefc1abf14e7af
+        size: 27
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_pc2dplayer.txt:
+        hash: bd72aeef1661edcc2640aa4744323fc8ea69cbe6
+        size: 107
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_pc3dplayer.txt:
+        hash: a99f97e375c9993ad2e0d96e4962de2365caa18a
+        size: 100
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_scoreboard_format.txt:
+        hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+        size: 0
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/frag_vrc.txt:
+        hash: 84ee65467b2e59e454df352e5760085d61cfa37b
+        size: 71
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/hud_has_run.txt:
+        hash: ece77b27fd32812ec21040ab5a2534148628be09
+        size: 26
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_beta_asteroid.txt:
+        hash: bbe8bd9e784f965deeacb1ba4a77d11839aaa6c1
+        size: 11
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_beta_cactus_canyon.txt:
+        hash: 171fec9eb4a43073f06b24d9b57e8274a8945e23
+        size: 15
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_beta_mannpower.txt:
+        hash: 826387641de76d27b5fdfb910328478c8fb7a6aa
+        size: 46
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_default.txt:
+        hash: a18829926bcd90e94beb4ee5481aaab5b2184693
+        size: 1040
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_doomsday_event_247.txt:
+        hash: c08271747666c7425674161dc92cb99b976d158b
+        size: 17
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_featured_maps.txt:
+        hash: 334031e736a0e751a8af1bd70329fbf32596545d
+        size: 55
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_halloween.txt:
+        hash: edb3cab0473aa93c1a936611a6cd8d9c73023a01
+        size: 194
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_halloween_event_247.txt:
+        hash: ab90ca4cab18b48c12b848b9cc119454bd036371
+        size: 77
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_hightower_event_247.txt:
+        hash: 8eebc974b697649dc4c199fc1435b21efb00f406
+        size: 19
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_invasion_maps.txt:
+        hash: 2a629fddf320f90f88a8ac22924625f5ea933026
+        size: 61
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_ladder.txt:
+        hash: 177d704243509bffec1b60b122a607b78a83f353
+        size: 137
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_lakeside_event_247.txt:
+        hash: 2e2351ee93aec017b41e666bfb5f49423f931f6b
+        size: 19
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_mannpower.txt:
+        hash: 826387641de76d27b5fdfb910328478c8fb7a6aa
+        size: 46
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_arena.txt:
+        hash: 8054908fd6ff7c3cbf1efc9ce1be95e5958e8122
+        size: 157
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_attackdefense.txt:
+        hash: ce223baff19f73f97391a66f31d194094f38ec7e
+        size: 111
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_cp.txt:
+        hash: f9b6e17fb019f922ea5a3a98fa1fe06827c107cb
+        size: 254
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_ctf.txt:
+        hash: 1094ee0cb582c7c789edcd41496f25de0ee8eeff
+        size: 98
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_koth.txt:
+        hash: dd32641860ca64d321455815a99031d6b1d6aff7
+        size: 150
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_misc.txt:
+        hash: ebd272c5e2cbaf66a791ab5d9752a290718a133f
+        size: 53
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_passtime.txt:
+        hash: f431ad1898c771498a4ab9c7fc9581c32aefc82c
+        size: 48
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_payload.txt:
+        hash: 31a87d0bac8fafd0b246a1ed8f1fadcca9d72261
+        size: 155
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mapcycle_quickplay_payloadrace.txt:
+        hash: 2d9180822e2b30de3c5db1d4fe3653c6374db587
+        size: 50
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/motd_default.txt:
+        hash: d8107278e3112db8819be20ad10600597be214e7
+        size: 674
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/motd_entries.txt:
+        hash: 62bf379c049284f2c6541f1ebfadb675909b0548
+        size: 556
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/motd_text_default.txt:
+        hash: d8107278e3112db8819be20ad10600597be214e7
+        size: 674
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/mtp.cfg:
+        hash: 9da7ef828e2e6977adf3d6d9b6fcbf92f6b4420f
+        size: 311
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/offlinepracticeconfig.vdf:
+        hash: d31b29e65723bed849ad6a1235120007ca3be188
+        size: 174
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/old_preloader.cfg:
+        hash: 6f80c6ac639b8b4127634194d77df0a9df0d6598
+        size: 477
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/old_preloaderwalkway.cfg:
+        hash: 9924068bf78e7dadfaa0446a1b4710b024affc60
+        size: 447
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/autoexec.cfg:
+        hash: 5471ef7cad62fd960de0928344e4b6691d054610
+        size: 858
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/custom.cfg:
+        hash: 5471ef7cad62fd960de0928344e4b6691d054610
+        size: 858
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/demoman.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/engineer.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/heavyweapons.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/medic.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/modules.cfg:
+        hash: 85612ca01c8ed8dd87ec74db1f1b562e7ced8531
+        size: 812
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/pyro.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/scout.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/sniper.cfg:
+        hash: 2455484437627eeaa81fb2b6368ca30fd797f3f4
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/soldier.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/overrides/spy.cfg:
+        hash: 5fa52e07af172e29144a0214621e164f93b93379
+        size: 36
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/preloader.cfg:
+        hash: 0c7c871e9377a0dca91ea64fad4975e968397847
+        size: 447
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/preloaderwalkway.cfg:
+        hash: c1e8f7598cd409fff5a63fc4bf8ddd108499a9e8
+        size: 439
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/pure_server_full.txt:
+        hash: 4f5033990ebf2c473017c269a799cafd1b5d9bae
+        size: 853
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/pure_server_minimal.txt:
+        hash: 6082cdd4ed686bbd946d971319378f213e9da5a5
+        size: 1389
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/pure_server_whitelist_example.txt:
+        hash: 56ca69f0a4ec107054ad756c0866b608c256e6b1
+        size: 2446
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/replay_example.cfg:
+        hash: cf31220a7613cdb6e8df9e64a41b6010103b095f
+        size: 3050
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_247_mannpower.cfg:
+        hash: 72b37e504f380ef075e777b6bceba02364e8be43
+        size: 118
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_247_rounds.cfg:
+        hash: e40015431b46fa86a0dce9200fda705102bc1a90
+        size: 93
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_blacklist.txt:
+        hash: 17b3dbd28281f8ba002784d70426dc8c77bd65c1
+        size: 123
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_bootcamp.cfg:
+        hash: 868e2914cd7384a2923163026fb2eb27a6962e13
+        size: 152
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_casual.cfg:
+        hash: 0c7d2dba8dbb6fa9ffaf91b1dc26ac60eecc79fd
+        size: 347
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_casual_max_rounds_win_conditions.cfg:
+        hash: 96619f748844fb5408ba7ee979e97cccdad8e786
+        size: 108
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_casual_max_rounds_win_conditions_custom.cfg:
+        hash: 92fb49f62f3411f23c1e5c67515a337e53016a19
+        size: 140
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_casual_max_rounds_win_conditions_mannpower.cfg:
+        hash: c3f72c08c896d0eaba79e7fe632014da812439d5
+        size: 124
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_casual_rounds_win_conditions.cfg:
+        hash: 227acdd579913fdbf1f2fb7fb1889aab8e666762
+        size: 103
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_casual_stopwatch_win_conditions.cfg:
+        hash: 92ba9710f19508ffa14263fb368a0cf742e9e03e
+        size: 123
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive.cfg:
+        hash: 6c71c1f196dc61373b1f5f6f157a96e13169826a
+        size: 343
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive_max_rounds_win_conditions.cfg:
+        hash: 96619f748844fb5408ba7ee979e97cccdad8e786
+        size: 108
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive_max_rounds_win_conditions_high_skill.cfg:
+        hash: 96619f748844fb5408ba7ee979e97cccdad8e786
+        size: 108
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive_rounds_win_conditions.cfg:
+        hash: 8649766c2075f1a2e29ba6e6b51d7b6a2a27a6fc
+        size: 112
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive_rounds_win_conditions_high_skill.cfg:
+        hash: 9697d8dba72684549db17132f3fd10a2ac78d86f
+        size: 123
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive_stopwatch_win_conditions.cfg:
+        hash: 3133e93101344f2dac3aa58759181eb3e6e061df
+        size: 128
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_competitive_stopwatch_win_conditions_high_skill.cfg:
+        hash: c0300d9774aca512842e775160535ee6774f4f17
+        size: 139
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_custom.cfg:
+        hash: ddca833577b7d0745e2425a4a681ee5f023cd9e3
+        size: 408
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_limited_rounds.cfg:
+        hash: d0d045f8fda88fac104e2477d26c4681ef04d47a
+        size: 94
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_limited_time.cfg:
+        hash: 896b6a99231ef842dd36fc6fdf4dea97e13352b3
+        size: 93
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_mannup.cfg:
+        hash: bb22a777ad84c75935e57a16559b0dffc082c480
+        size: 142
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_matchmaking_base.cfg:
+        hash: f3ddd06ed34cf89b9ccdc9503db54f87983a7294
+        size: 1131
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_mvm.cfg:
+        hash: 25bc0e5d3868b2c6cdba8758a21835fc192195a9
+        size: 201
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/server_net_chan_extend.cfg:
+        hash: efc4972f98b3b17d10842d5d91ffaa189c6aec79
+        size: 26
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/settings.scr:
+        hash: db1be85d05b7d6d262457a6909a95b267e563938
+        size: 3718
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/sfm_defaultanimationgroups.txt:
+        hash: 7088d4abe7c08862c11a314d3aa1c42ca85cb7b9
+        size: 3078
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/sixense_bindings.cfg:
+        hash: d99c441c1ca21d6c9597ab88ca6bd31e8b660bff
+        size: 1475
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/sourcevr_tf.cfg:
+        hash: db764bd7a3e7c2f632aa605ae9e2ce14d33e9adb
+        size: 102
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/tr_walkway/cvars.cfg:
+        hash: 702a98992e0a961ceac2229dcdd2da3e385eb55e
+        size: 15618
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/tr_walkway/games/gsoldier.cfg:
+        hash: 16ca11532fb3ac52737a239adcf677a06357e300
+        size: 13529
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/tr_walkway/help.cfg:
+        hash: 42ff51f037bcef928d9aa6f6b7ba24285f813977
+        size: 17087
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/tr_walkway_preloader.cfg:
+        hash: a82cefdb145d89184c508ece45bca3765d4419e1
+        size: 22
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/trusted_keys_base.txt:
+        hash: 94b526261c66314b771b1136be4aeb3eda90d586
+        size: 785
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/trusted_keys_example.txt:
+        hash: 0918fca29dfb7a93e5b44ee248c655a1e096b957
+        size: 1417
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/undo360controller.cfg:
+        hash: 77447a272ca02ae1ec58c1d21bd02e6efacfdeeb
+        size: 142
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/user.scr:
+        hash: f6c9fbb9d25cd90dabc9713be1a3cb613a16dcf8
+        size: 14066
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/vscript_convar_allowlist.txt:
+        hash: eaa1d44ed3e201613ac4980bada0cd1299616edd
+        size: 56467
+    registry:
+      hash: ~
+    children: []

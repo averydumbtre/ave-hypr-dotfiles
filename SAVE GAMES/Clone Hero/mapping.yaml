@@ -1,0 +1,945 @@
+---
+name: Clone Hero
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-18T02:28:06.321910547Z"
+    os: linux
+    files:
+      /home/avery/.clonehero/settings.ini:
+        hash: 42d9e3f1d76f1c272f92f6b573147e344b3ad7e0
+        size: 1729
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Player-prev.log:
+        hash: 53ecbda25386c73c998406f7cc07fa7a101b8071
+        size: 23194
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Player.log:
+        hash: 08ff17cf190f3bb8328d7ac7415b3aa1e9f61a16
+        size: 32922
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/RemoteConfigCache.json:
+        hash: 70e7ea714851dae12212d21cd7c270b6bfca31ac
+        size: 779
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Unity/6a71b681-68d0-4258-8322-b29c0382e355/Analytics/ArchivedEvents/174223497400002.9218c05c/c:
+        hash: 77de68daecd823babbb58edb1c8e14d7106e83bb
+        size: 1
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Unity/6a71b681-68d0-4258-8322-b29c0382e355/Analytics/ArchivedEvents/174223497400002.9218c05c/e:
+        hash: 666426701dc115f7f0653bf09bfe0bbb4ea6423e
+        size: 793
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Unity/6a71b681-68d0-4258-8322-b29c0382e355/Analytics/ArchivedEvents/174223497400002.9218c05c/g:
+        hash: da4b9237bacccdf19c0760cab7aec4a8359010b0
+        size: 1
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Unity/6a71b681-68d0-4258-8322-b29c0382e355/Analytics/ArchivedEvents/174223497400002.9218c05c/s:
+        hash: f30473aca8df026698cee1faa9246506c70ee42c
+        size: 430
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Unity/6a71b681-68d0-4258-8322-b29c0382e355/Analytics/config:
+        hash: 147228d4ee51a3dd12135fa24b9ef9eca4809c1b
+        size: 322
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/Unity/6a71b681-68d0-4258-8322-b29c0382e355/Analytics/values:
+        hash: e0955a3878380d88e480e23812c37827981fd0f5
+        size: 145
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Arty.png:
+        hash: 5d784b1c5ce8cce711fb67df390328fb787ba54d
+        size: 1291
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/BlackPawn.png:
+        hash: 8b40f517572288dfc4c801832f21ed22fb64aa42
+        size: 2077
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Bobby.png:
+        hash: a6bcbfcc1053a6a8d45c61a24ca22006908cb3e3
+        size: 3676
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM100.png:
+        hash: f54cac84d3d0f1ed329b223c121864687b5688ad
+        size: 1542
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM101.png:
+        hash: 8b28640543dce6fe2f88cb53eef79104733d12f5
+        size: 2682
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM102.png:
+        hash: 5a2149a4f30366cb7b2ef9091bcbbaf1cde2363d
+        size: 3420
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM103.png:
+        hash: 537b894404e9cddf2749fd95f0a788f6ec6e8399
+        size: 2894
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM104.png:
+        hash: 250dbfeec06e100e54ed5ea1cadc67d3f265a9b6
+        size: 4268
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM105.png:
+        hash: e17e9eb5f709711b6d3ec856425a48a413b0478a
+        size: 2981
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM106.png:
+        hash: 7c498b335e3921e1556881d46c558fd7fddb0173
+        size: 618
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM107.png:
+        hash: 89843ed50b59761a14ec1bab260b7b975ba7be3d
+        size: 2367
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM108.png:
+        hash: 7fc3641fc35c7f6f349f4a7a9a57543a2a2f2249
+        size: 1476
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM109.png:
+        hash: b3ee2f8eee9f312508853009ea0aedfbeaec4f8f
+        size: 2979
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM110.png:
+        hash: a549023c0659dbe88ba004bff5f9f0cd6955f144
+        size: 825
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM111.png:
+        hash: b34b9964d93bf9e36ca29f314c9739b5472325d5
+        size: 6586
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM112.png:
+        hash: d52e9e7629f8a080e7587deeb58f00675768f9b6
+        size: 2984
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM113.png:
+        hash: 24d2604037e356720c9d8f0d105c8ab5084a8ccd
+        size: 3104
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM114.png:
+        hash: fda08d666dc9a5655a4b3420bf43c9d140def90d
+        size: 2385
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM115.png:
+        hash: 5a4b1f28a25122ec13bfb207de12274696fae7a4
+        size: 3389
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM116.png:
+        hash: a217378907b3cd88b94635b2f3489d252ff38fb9
+        size: 7238
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM117.png:
+        hash: ef08ef3888e9d72b6f5e42c6066055e5dcbdc274
+        size: 2069
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM118.png:
+        hash: 8a6fc3efda55ba51e2b3ca2366bcd8178a347359
+        size: 4076
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM119.png:
+        hash: 7c29fb17ab69adc9b117d53aa1ce60e866cfe52d
+        size: 1066
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM120.png:
+        hash: bb46ffd46478f533e24c17b5d473311e376bc0dd
+        size: 1536
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CM121.png:
+        hash: d1cc50371bfe5eb82e621a4e36548536f75bde41
+        size: 4477
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/CTC.png:
+        hash: d6fb8c61b985d9022500eb78e21912db6109d710
+        size: 3357
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ChaosCH.png:
+        hash: 96b9308dd3fbe5cab9cdc2bf6916949f210121bb
+        size: 4435
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/DAoP.png:
+        hash: 4ee51b75ee0b66b9bb54728880e320da85fe5aef
+        size: 1476
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/DEGGB.png:
+        hash: f18621a50926c80cf7b426e8db89be94b95659af
+        size: 4615
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Downertwo.png:
+        hash: 60f5fe5d830716b3f5c9a2c0db6fdedb1e54d3e4
+        size: 1845
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Elitestar8829.png:
+        hash: 91318208513b548c913e68a9a054e3c35000deb7
+        size: 3062
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ElvinYell.png:
+        hash: f38b693a228aa71963584832bcd6700664c67e8d
+        size: 3606
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/EmApex.png:
+        hash: 2dcbaf0aa6d96e9a381bd197f3c965322bc7f039
+        size: 2272
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/GaaraL.png:
+        hash: ea5696ae9f0355c347f1e39ff6c2808717500f16
+        size: 3843
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Gal.png:
+        hash: 58298e611bcbb2958cb9b2685091dc19e206aae1
+        size: 1144
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Haggarduser.png:
+        hash: 7336314fc2aa519031bb5821c30b5a7a97a3a600
+        size: 3357
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/HiddeN.png:
+        hash: 470c0cd2480b2551eec575b8bfab57890c94a531
+        size: 8591
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Hilda.png:
+        hash: d8ee043c97c66bdd3484b50725e0021331716b9f
+        size: 1857
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Horizon.png:
+        hash: b2f295a45725c4e1286f77912818b0443881ddd2
+        size: 2461
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Hypnovia.png:
+        hash: c732ba3a54df7485289d573b1c5e9bc428bcd557
+        size: 3911
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/IconofDOOM.png:
+        hash: 29809bf5fd441e01a1d20a24114315a14140f89b
+        size: 3478
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ImPhanty.png:
+        hash: 898272109d5223e80ac3fa43b567e0750d766dac
+        size: 1263
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Infrarain.png:
+        hash: 8ee4f6b82034db82d8ffb03c88a2e358e2c04495
+        size: 941
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/JPG.png:
+        hash: 2bdece86e1b01db17e4dcbd5a31f17990f60b814
+        size: 3897
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/JTRock.png:
+        hash: 3e3d25d257c2623e9d8c85fce82cfc3c029132c5
+        size: 1142
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/JoMartineau.png:
+        hash: f00c480898496c5c9f450f676ff767fada57a6f3
+        size: 18498
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Kam.png:
+        hash: 903c4746b38ccc197d8f224104b3b26cafa001cc
+        size: 5567
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Kristenfatty.png:
+        hash: 5d11217bfe03172b7e8a3e4c74efee09206abac1
+        size: 1885
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Leanie.png:
+        hash: 24f6380b986d4b9761f150991fd4efd1f73907fb
+        size: 3584
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/LegoKeegan411.png:
+        hash: 363a5a99a265040be7b5ee6198e7d37c1c1ebc78
+        size: 5068
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Limitus.png:
+        hash: 3d627966a4038ba8e32c05963949277a6f65cc19
+        size: 4539
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Logokupat.png:
+        hash: ddfb4dda4c82fc60b9e2929d7b4ead792d74852d
+        size: 2172
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Mapsking.png:
+        hash: 49a1f61fdd03826660583f6b859ef203a38238f1
+        size: 4267
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Mathys.png:
+        hash: c3e87593f281a9b64725ed9b9757fb07caf20c4e
+        size: 4052
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/MurdrBurger.png:
+        hash: a55ccef77aa3a37ff318c2f0301cdfe815e7dfd3
+        size: 9842
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/NHBageL.png:
+        hash: bc753f45ac7c81a2ffa92a6e65755360a3bbe36a
+        size: 4130
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/OCBG0LD.png:
+        hash: 57192924574263561801b7b71866f2ddd06c56f4
+        size: 4251
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/OSTA.png:
+        hash: 78ee8bc2d15a6dee789c6ff6a0d01dbd4803f764
+        size: 372
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/PatttyKakes.png:
+        hash: 82b5d59af40170b449066451da51184501fcb65d
+        size: 3029
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/RLOMBARDI.png:
+        hash: 0c40bf9257a02125e6f6a1ca7c0a412a131dfad8
+        size: 2642
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/RahkshiBoi.png:
+        hash: 07a952a153fad06f1ab13f4434cb86443aa41176
+        size: 4382
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Ryanzba.png:
+        hash: 6653f672aaa7261c64c8d5aa449fdf9b859fc8c4
+        size: 3526
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Ryuman.png:
+        hash: e1a6c2a6abdf830513d7594f3fb193eb05dee134
+        size: 2415
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/SSC.png:
+        hash: 3341e72e1975dd4ff7cc1021221e8d09fc656c4c
+        size: 12289
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Schmooey.png:
+        hash: 141c64c81b80714683eaa971fe8c88bf6a4cc058
+        size: 3725
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/StAugust.png:
+        hash: 317342095a01ba295524722ed5342afcf8069025
+        size: 2213
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/SunnyCH.png:
+        hash: 1090c448fe7aa232100981db302fa7ddbd7026c3
+        size: 31323
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/Thingerthing.png:
+        hash: 03797c023a4f8c0e083ed10159b3504fef9dee55
+        size: 2924
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/TitanPolus.png:
+        hash: 83bc959a78ba62e509186a0665c411a9037ce788
+        size: 3414
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/a3d10n.png:
+        hash: 2bdaac25d705fe684fdcf302c34b3e0f5f64ddab
+        size: 932
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/abacus.png:
+        hash: 5dfcde608c129b3a73b3d6d362b8235e0c448794
+        size: 7127
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/acj.png:
+        hash: 98d54cfac0ef163b289b537462197e4714cc150d
+        size: 1907
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/acj2.png:
+        hash: 98d54cfac0ef163b289b537462197e4714cc150d
+        size: 1907
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/aksor.png:
+        hash: 709962536271812fa2e53500d4c431186a6af2f5
+        size: 1281
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/altquest.png:
+        hash: c58565344468804ced1f67d4a68bcc489b0d9673
+        size: 892
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/alz.png:
+        hash: 68b91730adf7dcb8856cfd2bcd6daa5fde264488
+        size: 1326
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/amber.png:
+        hash: d4386525811098f9dac26771bd4dc258e080d706
+        size: 4978
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/anic.png:
+        hash: adff88ebe2d9fa2fa58b7a14aeed9c11f7f2d05b
+        size: 36369
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/anray.png:
+        hash: 33fbcfccd627f85e6e10528ab3c7328bc2a80323
+        size: 4032
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/aray.png:
+        hash: 8f86ea7fe0a5acdcaffdb5df8eb616136812a0a3
+        size: 3137
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/arceus413.png:
+        hash: d79fb7f8a3557c264451bed05aedf84083eb51c3
+        size: 3932
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ardebitis.png:
+        hash: 98cdfdec8165d5798973db25185d2b6ec0f55a60
+        size: 677
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/asuka.png:
+        hash: de6cdabc4e099c16fd7ea2bfd0d13b42cd63dbe7
+        size: 10303
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/atsuko.png:
+        hash: a1cc00edef784e3af6c68b3db464070db42a62da
+        size: 2975
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/attentionspan.png:
+        hash: 3907611a9030f04358a0bb4292f37e1f565a01fb
+        size: 1370
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/axialgrind.png:
+        hash: af33d4606c2a89fd0887b1d52b51d06871c8acee
+        size: 4614
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/b0red2death.png:
+        hash: fa14813578b96400bb8a7f2a70798945de00ba32
+        size: 1190
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/b6.png:
+        hash: 25897f2e2eda03f7b5f228579016ae9cc2cc6c58
+        size: 3789
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ba3.png:
+        hash: dceefbcd4de2021e63735647c780b0c2aef8e606
+        size: 1183
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/based.png:
+        hash: 928ce721ba1e8faf8131312090c368288ae37a62
+        size: 4689
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/bb420.png:
+        hash: 3655b39c5716da8ed5b0ae1f935e83fcacd234fc
+        size: 7680
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/bloodline.png:
+        hash: 84cbc2369966455bdf71315e5db128743bbfa08b
+        size: 2054
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/btdblast.png:
+        hash: 36405263fd78d37cb05b578b0f22cfe3c0408d1b
+        size: 8392
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/bugsy.png:
+        hash: 56ac9fabf008d7843c302b5c7899ea5c67b08902
+        size: 4900
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/buldy.png:
+        hash: 1b7f66b28991281ab37fa524ad9ae625e5132929
+        size: 3648
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/bxb.png:
+        hash: c93334e673030839813bd65c61dddd2de2abc3ce
+        size: 4266
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/calvinball8.png:
+        hash: e898ea6d338c0fcc778aba06242690398d41ba3e
+        size: 4230
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/carsonbm.png:
+        hash: ed6b26c17c5b5e68da844199a2046de1a737aab6
+        size: 4000
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/casz.png:
+        hash: f14c2b6b21608e866d19d09c93b33dd9e4ee8180
+        size: 2193
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/chainsawoctopus.png:
+        hash: 5f004214b6d23cd2ebb624f465bed0f5d913ca00
+        size: 2546
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/chan.png:
+        hash: 378e95ddc93754a4e5b1603162a9bcd83631116c
+        size: 1813
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/charm.png:
+        hash: bc8ad429169040cc915aa30a944448ec69b9a380
+        size: 497
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cheddardyne.png:
+        hash: 6b06f9481c4e8c4a00ab04d3a851028afa67120d
+        size: 4263
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/chelhero.png:
+        hash: c584132f466cc8d39adeb5959a912aca8290a728
+        size: 2331
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cicadae.png:
+        hash: 8d41d46be52c63409f3420e506c59b60d81ade49
+        size: 4256
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cix.png:
+        hash: cae13bd7a83fb8c360a723635fbe69830071ac44
+        size: 8478
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/clc.png:
+        hash: aee8dadb373bfba529c42c3ccf2e10c907ed4cd5
+        size: 2098
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/clonmania.png:
+        hash: 20ad97df305a67aa9c25d261d594a414731d1d05
+        size: 2118
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cm20.png:
+        hash: 8c6c11d9cb3e77f576df38e095e7e3a69b422d2c
+        size: 674
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cm300.png:
+        hash: 6cdd6c9a9c32a7df76f11c1a49e4e5488c4b3420
+        size: 479
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cod.png:
+        hash: 71c625c544ee6218577affda0a55dba45583428e
+        size: 11771
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/comet.png:
+        hash: 3eb54dfa128883f1931edde89a6dabe33434337e
+        size: 1091
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cosmic.png:
+        hash: c422d5ada495650e78328a47be051dc50068bd3a
+        size: 4121
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/cyan.png:
+        hash: 0be64b29aed1e12cd398def8fe238042ed70b900
+        size: 2620
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/daintii.png:
+        hash: a0f54ec7028e0df29bc9533b0a79d7d33ea90df3
+        size: 4029
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/darkaivt.png:
+        hash: 5b44a380d340684c9c1d2ab01e22aa9ecad88a9c
+        size: 10420
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/darklyplays.png:
+        hash: 55c46acc940d9180fe3c1c8bce06cf2d5ca87a16
+        size: 3522
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/dcr.png:
+        hash: 0de7bead44334726390c2a0fd374029c3fc864cc
+        size: 2359
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/deltaom3ga.png:
+        hash: 267df8927d8b673847989db162f484167a1b49e5
+        size: 1604
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/dershel.png:
+        hash: 40376d8d84176a1d5df4adfdf0a6b4b1d015cd0f
+        size: 4551
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/dfret.png:
+        hash: de39148c35981e064d8c71b8680bc5a1f4228974
+        size: 6547
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/dhz.png:
+        hash: 472448ebda3b85a68014046b3c7f6a7375a74e26
+        size: 3962
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/disconext.png:
+        hash: 322063e1519727b1f32b2643a1a7139cea505c4b
+        size: 1168
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ditr.png:
+        hash: a1ec41e43ca982f604e6cea1ade5e2cfe8a5fd84
+        size: 4226
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/doll.png:
+        hash: 6a5d4d451e549c4167677f20220723ff473d8670
+        size: 10603
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/doomhero.png:
+        hash: 299af000b0639b04e1cf33f4c1e5e535030cb6fc
+        size: 2103
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/drumblood.png:
+        hash: b69f521a7346f7ccd7abf813a784167fac060f98
+        size: 820
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/duta.png:
+        hash: 748b320efea0aaaedae793973d9df4d6998b5710
+        size: 1455
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/dynamix.png:
+        hash: 25a5c49b086fdcd9c077492588d2861b01f47039
+        size: 1944
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/easyaccess.png:
+        hash: 1b9ae5c1d7942cc12c13d67fb668059bc5cc0ace
+        size: 2490
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/eggicon.png:
+        hash: 2e9e175245b3521eb38dd915ee967146fa3cfaa0
+        size: 1233
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/emilyfc.png:
+        hash: 31354d1acc49e1e30bdc0c564e1bd3c2adb9a682
+        size: 5970
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/emotion.png:
+        hash: b4e5468f9bfae986ec43a0cffb7b9d80c78b91a7
+        size: 4594
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/emperor.png:
+        hash: a5babfbb3345cbd89860235fdb57553bf33f59c5
+        size: 975
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/enderan_charter_icon.png:
+        hash: 95a166fd1c127b8e2f1695b77ec051860f0bc12e
+        size: 5225
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fh2.png:
+        hash: b02b924c11b0eeeb6e068ac3af1b8ff9dff02bde
+        size: 4806
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fig.png:
+        hash: 1cc7a015c1bc36df7f37914f292238883629fc36
+        size: 3207
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fin.png:
+        hash: 6a8feb7490345742e11f71a7beaec5125d5a880a
+        size: 1650
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/finngon.png:
+        hash: d063065d55b68bbc7bddabf3a55b9cc9463e1ff7
+        size: 1495
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/flt.png:
+        hash: 26679552ca783124a6c0e61f858b65983947cbe8
+        size: 2313
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fluker.png:
+        hash: 84ac6a2874a6194814f87000fa731c7923ee0373
+        size: 3273
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fluxie.png:
+        hash: 43e81faab7bda89a040c183dd745108ccc4c91cb
+        size: 3260
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fod.png:
+        hash: 76faeeda2b5b2ca43e5ec1b017cc16a4748345e1
+        size: 473
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fp2dh.png:
+        hash: e1d731b2df3740a845e39a45ef24062cec369fb7
+        size: 4071
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fruitsnacks.png:
+        hash: 9a47e20824e64026cad04de766a63dfaa24d7b52
+        size: 3081
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/fyighfreak.png:
+        hash: f90dfcc2c850c544c9b678817d2039389b17a852
+        size: 5531
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/gabrielkyurem.png:
+        hash: 1593fea66f0d75e5748be3261b5ec08aa4773759
+        size: 1275
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/gabsF.png:
+        hash: 08bbddb376edd73f0113fb756e6574c3e1b04e9a
+        size: 2767
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/gametal2.png:
+        hash: 3b2e476177ec61fac2885c45267c7061a173c68e
+        size: 3597
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/gdch.png:
+        hash: 13846e4098c38bec397cfaeafbf0956be08c008d
+        size: 7020
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ghostee.png:
+        hash: 3a0a3297e1cc00905b4815b703c04e1f824ce343
+        size: 4329
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ghult.png:
+        hash: 376151de45d1627dd9dd44d43982aaadc41a4b43
+        size: 1258
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/goorilla.png:
+        hash: 7bd052cacafa464a135a1dc7966d4e4a696f65b5
+        size: 3673
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/greens.png:
+        hash: 6db5b149828fd09e1c730d8abe948bf88f65f5be
+        size: 955
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/guitaravocado.png:
+        hash: d5f0290c80a749d5fcd9fdc22e4f900793f8da2b
+        size: 4727
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/hager.png:
+        hash: e97206dc32ae6cbd8bc7d81b1554395e9470dfcc
+        size: 2229
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/haki.png:
+        hash: 0c7b2d337f7057d5228e5113f7036e522d57f6d1
+        size: 3800
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/halfjew.png:
+        hash: 00a9f41b12fee014906f745d45dce93cbb3ee328
+        size: 12289
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/hedgecon.png:
+        hash: a4ef71d34100db35bc33c33f5f7d2be9269a0777
+        size: 2887
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/hourglass.png:
+        hash: 290735e89beb911a6a5b24386d8bb8cb01636c95
+        size: 708
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/hubbubble.png:
+        hash: 2fe635b2f15cb6a1f6439efc212646db452e29c6
+        size: 2470
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/hyenahero.png:
+        hash: a395d4b6b5fce0cf03423fad01437b199e9445e4
+        size: 3562
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/idta.png:
+        hash: 07f81753948b0724d0d7320c8549ed7d1a47d345
+        size: 17236
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/incoder.png:
+        hash: 70afb24a7f47f42eae7bfab834e55bddc71e2013
+        size: 1839
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/itzaidan.png:
+        hash: 38d034889a5faab2059d39d13b72e416331ede21
+        size: 1487
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/jrstank.png:
+        hash: ab36c07533f5ccd54a00d11f3fa0465eb88d01a2
+        size: 3770
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/junkins.png:
+        hash: 3da6e6e3ba5a9b5592ad1d335584d9ada26e3786
+        size: 3634
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/kaduzera.png:
+        hash: df0d8ba0ccc28f03e88f6ce65976d10c12b607b9
+        size: 3064
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/keva.png:
+        hash: 544f4d81e0cc54c839378de692e3ab432bb90040
+        size: 1327
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/khroma.png:
+        hash: 399c33cd4ad7f38aced2dc568ea850ef08ae0487
+        size: 4304
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/kikiwi.png:
+        hash: 03c682963394f401c80f45adb2c1206dadf943aa
+        size: 3038
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/kira.png:
+        hash: e0feefa48472015edb18968edd857df8de0a0c99
+        size: 7846
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/koval.png:
+        hash: 5e41bd71f613497055bb8661817934cb4c376ea9
+        size: 1513
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/krazy.png:
+        hash: 94b207eb8505442384ae35763a76904ef07e8d99
+        size: 3353
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/lanebreakers.png:
+        hash: 22f4410b9a7fb30c26e605c3ed7bbf72f5f6a47c
+        size: 1679
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/lbrb.png:
+        hash: 63a11e97889c702ff89583461d5f65fcb06e3f84
+        size: 3391
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/lexi.png:
+        hash: 442089683dc8be7c5eb0a2b0f210441ce3b719ae
+        size: 3520
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/lightthatisblue.png:
+        hash: 72ec2f5ecb3aff7080d7a6f937a442469851572b
+        size: 2399
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/lipidogo.png:
+        hash: 2e7aee898ec1c28c560137a25e5defef6523af5c
+        size: 754
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/madlc.png:
+        hash: 860774ff3056d95a8116292d27371ef12cbf218c
+        size: 2431
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/maevi.png:
+        hash: c80325fd1943b26942ebabf08680f52cfa5462f5
+        size: 1515
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/marie0llie.png:
+        hash: 744a7ca91456de73c06e0b7014742cd053799f25
+        size: 3333
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/martin.png:
+        hash: b38fe742bb6a04443911a14f34c28132fd200480
+        size: 1146
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mathery.png:
+        hash: edd85d823e74831ccb67adf9cc06156d173dd2a0
+        size: 706
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mathys.png:
+        hash: c3e87593f281a9b64725ed9b9757fb07caf20c4e
+        size: 4052
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/matt$.png:
+        hash: a6d12092251094ec8ad20a00ea9f4c2b097a2863
+        size: 4207
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mattmoney.png:
+        hash: a6d12092251094ec8ad20a00ea9f4c2b097a2863
+        size: 4207
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/maverick.png:
+        hash: 2a430a1745a225e738041ad0ec8311495fd2b991
+        size: 1016
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/meow.png:
+        hash: af474f64a44255631ab2cbaed50b087219c66670
+        size: 9908
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mickelmoose.png:
+        hash: f93689020133fa8d3ecd3aaaa537946eeabea5ae
+        size: 2882
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mirageluna.png:
+        hash: 6dd87d22c3c3a19ab09721d21a8383324673710d
+        size: 1216
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/miscgojira.png:
+        hash: 2e8eb4965477f126f4e14b9ce6e6e30db4540d1e
+        size: 7546
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/miscmetallica.png:
+        hash: b36e1000e8b2e95b98f3c32ecc8ab238a6b690e6
+        size: 2669
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mnicon.png:
+        hash: add365f2128b9919c93811428d0c224bfe499514
+        size: 3818
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/mniconalt.png:
+        hash: 9c0f20d64838375f6a77135b5d62812879453299
+        size: 3847
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/moopuns.png:
+        hash: 387793982c2c1b87014ac7b01ef75d98e6f3e67f
+        size: 2068
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/motabros.png:
+        hash: 3ac5a45330c9c5d328424d51dd2c9bd1ab8fd20f
+        size: 3942
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ms.png:
+        hash: 16f60c815973c08800709885f17cc69727c5580e
+        size: 2730
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/naku.png:
+        hash: a71a86dcf75387a814eb222adcdd3bcb1b59f056
+        size: 2554
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ncx.png:
+        hash: 508c6e039ad4111445ce0628e849dcdf5f44e292
+        size: 905
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/nebulagh.png:
+        hash: ed9efa663d2a33e079f8098bc5773a41f77948a9
+        size: 1594
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/nikkovanessa.png:
+        hash: 4618041a8f5c942c8b10b6eb1ca50fecbe76f1bc
+        size: 1717
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/niravioli.png:
+        hash: d74888cc2da1c8e8be0d39abe02922e3c7eb8ad2
+        size: 3636
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/nitro.png:
+        hash: e1e3debb96f19e73864e960fafa9c9faa9a15ad5
+        size: 4508
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/nowave.png:
+        hash: a75f24fb6b9f2facd82f1d490bfdc93eff1435fb
+        size: 3568
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/nsp.png:
+        hash: 6d2c8a50847e3bf9ad682e90e3f6c2c090927c83
+        size: 9737
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/nvb.png:
+        hash: 6ca96ea4d9eeb1c340df6afbe3937761e88dff02
+        size: 3180
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ohnoitsrobo.png:
+        hash: f7d5c87f5745194492393d2f8b2db63dc6b31f41
+        size: 1263
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/orionp.png:
+        hash: 3d00eafa9fc7bdc434a6e299a1e72b89030b0afa
+        size: 2566
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/pebblespaw.png:
+        hash: 8e97c7048d51609aa7e917823a3b5e84ba655912
+        size: 851
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/pedrila.png:
+        hash: 4ce42823df192556754e3d79b6faf765e33c7e65
+        size: 3304
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/peixe.png:
+        hash: 24269b4e356dc818f8b7e5e99ce516dd816f1088
+        size: 2808
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/pfn.png:
+        hash: 1c8457a389b2f439f028ce4f4adc1a13fce6c942
+        size: 3806
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/pix_.png:
+        hash: 078a2209f569a7e3e014c598789d1a929075254c
+        size: 1014
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/polkadot.png:
+        hash: 7d22cb3869d6e934cd088661cf8752eb6a702290
+        size: 2009
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/potatosoup.png:
+        hash: c44d691969aed712bdf23c1c5663d03d8a665d83
+        size: 1153
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/puellos.png:
+        hash: b9a225ef5a3854e805865379c1fdebba073835c5
+        size: 1687
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/puellos93.png:
+        hash: 7f1b4f1bd2b288eaf9513b04c1e3862749c574e9
+        size: 1740
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/python.png:
+        hash: a741df42678bde60812efb6050678035195b3644
+        size: 1618
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/quacky.png:
+        hash: d791089e93257af0df5dfa24a288aa0cd9736f62
+        size: 4789
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/quag.png:
+        hash: 0bc76494355aee88e449f34d3865f1d0ccf4fab3
+        size: 5670
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ramshtick.png:
+        hash: 712d48447df1aedefc2e61afe95062bb2dd33aa9
+        size: 1844
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ratpack.png:
+        hash: 96b2f4d786f98155f465884b65179b7e93c41aac
+        size: 3889
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/rch.png:
+        hash: 244489f6d153249516ab943f4648ecb3928708f0
+        size: 438
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/rdyd.png:
+        hash: 16e04bc063f88aaa4e00d8c476c7e9f19c98222a
+        size: 4017
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/reach17.png:
+        hash: 325130ba3184b4f2da5a0fd7927f14fc6580607b
+        size: 1069
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/reptarien.png:
+        hash: 38f1d8c80787a7ae20ff71c35014440856a3bb23
+        size: 7141
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/rirro.png:
+        hash: 851f71cc0b96cdcdb99a5bb0e644459c9b64564e
+        size: 6482
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/rogxsr.png:
+        hash: bdbdcbdb3d62df8ecee84cc07ffc519ade63411e
+        size: 3584
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/romanviking.png:
+        hash: cb3f21d6b64345c495db52ef11139901a92b30e4
+        size: 3806
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/roy.png:
+        hash: e0451773c884751313174ba1536dece8f53aa95c
+        size: 4042
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/rsj.png:
+        hash: d42d69cba5ebbe65979f6256106ec18b45eebf68
+        size: 4441
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/s2d4.png:
+        hash: 2e2b71fee58b341371751e795e4cc15f3973b7f2
+        size: 2016
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/s_hero2.png:
+        hash: 084aa28e3d8a9a2a5158d8c2ec0b3461f89bead8
+        size: 4106
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/saad.png:
+        hash: 4992708268af9e7a13345d3b17aa6ef02839c6fb
+        size: 1470
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sad_normie.png:
+        hash: 22547b0adea2ddd041631c4685bfa351d5e4d374
+        size: 1320
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/salt.png:
+        hash: 64edd2068611c708f7b9f3a5e8d9c0f1f1f0648e
+        size: 908
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/say.png:
+        hash: bf0b9ff5c8c8d5f39c8af81af76ee18b21b87804
+        size: 1602
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/scu.png:
+        hash: cc3c1aca7a5d1242d6b40aa2dccb17fb4f95609c
+        size: 2190
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/scufd.png:
+        hash: aec3c6b8136cdb020e99d5a9c951c95b992fcaba
+        size: 2974
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/seatbelticon.png:
+        hash: 1e40a19fb868f2a1771810b42f1c9f16ccc8e34d
+        size: 1847
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sheogor.png:
+        hash: e0aca1ecd9b2778f599bca083672ee453252bb9a
+        size: 3912
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sherm.png:
+        hash: 50818a257c517c21cb4459a703bc031eaba37eed
+        size: 870
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/shurikenhero.png:
+        hash: 06c0e61ed1b3f5f3a4b85fc9f29fd7ac6a351126
+        size: 1126
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sirmonkfish.png:
+        hash: e5e69a5bf8ce247cbcd9a0a1941efde79df79c2f
+        size: 3933
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/slidewhistle.png:
+        hash: b8e236fa2fa1f61929d43984592048b48b1755c4
+        size: 5070
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/soadrb.png:
+        hash: 94b963dba6e9fa8483ccac1029504dff3fc61788
+        size: 2100
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/soconfined.png:
+        hash: 8c3ef5bf975f5f81e39986291fe42a6341998f55
+        size: 2583
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/someguyb.png:
+        hash: c7a8a855746edcf9fd6b6004e85f8c1284351284
+        size: 1167
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/southgh.png:
+        hash: f240d3a12cfe3acd7eff40edaa1d30edd8af2e50
+        size: 3835
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sp33dy.png:
+        hash: 067c2e7b8c6c5eef5ffc946f2a00f16bc6c2a5b0
+        size: 3489
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/spanklie.png:
+        hash: f4a826b4e8e12bbf0107a4a9806a7d8cbff2e218
+        size: 4177
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/spiritfader.png:
+        hash: 5b2a7119b857a21e2443c50e44dc1cbc2e14d0be
+        size: 8872
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/srbruniko.png:
+        hash: 8d3f5e6b838d117d06b94c396cb965849c259764
+        size: 3539
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/steeb.png:
+        hash: bdbb2ed0779955291faa32469f0baf4626ce4543
+        size: 2237
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/stellurro.png:
+        hash: f5162cb47805cc4ea8586bf50c2eadbc4152c2f5
+        size: 1928
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/stripes.png:
+        hash: df6f1e78c762dd3a27842ec82e4729b201f76357
+        size: 3630
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sucremondes.png:
+        hash: d8931818791a4ae2a33dc74b29040afa8f1a9a63
+        size: 4509
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/superdott.png:
+        hash: 384ead27bdb2ab78c3beaaeaeb4772898d6c9ec6
+        size: 1411
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/sxpphxre.png:
+        hash: b4266b7e6ca49a2e74da130145452af39af79a42
+        size: 6958
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tails.png:
+        hash: cd3d8775880c2ec5704b2382e1df30e2fdb0a30a
+        size: 4631
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/taylor.png:
+        hash: 1ffee1d35e33e045bf7e8a6a1626e2484f631a35
+        size: 1673
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tboucher.png:
+        hash: 165418538c24ff541561158161ff7cc60896255d
+        size: 3537
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tcp.png:
+        hash: e9c9597ef0e14ad95ee9e02048f65dd1f2ec57b5
+        size: 2034
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tdc.png:
+        hash: 5e245230f3ef48b55623da28ff3c619f1e417799
+        size: 6048
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/thatwhichistragic.png:
+        hash: a2095b58955330462aca0862d527394827e499ae
+        size: 4060
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/theassman69.PNG:
+        hash: 743cbdba63fc0a53cfacc789595b7689725f847d
+        size: 3699
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/thehwdavis.png:
+        hash: bc3809425a8e98f1f466f0892f3af6d8f187ea74
+        size: 2572
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/thps12.png:
+        hash: 9526b16b7d9624945866b22e213e3fdbe9dbe091
+        size: 4142
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/timecard.png:
+        hash: ca69fba1667a65f382a91cf732aaa616608af812
+        size: 4451
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/toki.png:
+        hash: 2b5c909a7f2bfd9786a54c4d7332d98857555225
+        size: 7565
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tolcshow.png:
+        hash: dfdd2be30b24291e8cbc6373161207d5c1357bed
+        size: 3720
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tomato.png:
+        hash: 59564d50a505f55bb59664ba9c4a68f066b80304
+        size: 2969
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/treecon.png:
+        hash: ae4ece457d28c69ef054f950c690a1219702cf26
+        size: 3037
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/tro128.png:
+        hash: 4f6fd781b7d2810a4979b5e3b2cae937b4ff6e02
+        size: 12082
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/typeopositive.png:
+        hash: 3728c9dc8ab6ddeb9f6148f91da36e28f3e1a778
+        size: 1166
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/ulikander.png:
+        hash: cf992f4a46fbb6ccce44820ac92caafcc7ed0745
+        size: 1770
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/vechywrath.png:
+        hash: a24f168af4bb166a8a11ccd774d86fac1b724aba
+        size: 3970
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/villainess.png:
+        hash: 98b5df6aacf21e84db9bc794910cf120d6137395
+        size: 1754
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/wagsii.png:
+        hash: 0ac2f58dbc5fd2a1716f17183e73387efc68f504
+        size: 840
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/weebs.png:
+        hash: 2c75d9e32f8235bfa140531fed67bf188a7b5e06
+        size: 2240
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/wings023.png:
+        hash: f4da6b16d3afbe495e980b77a26e3ccb82236905
+        size: 3538
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/wxs.png:
+        hash: 357390f5ee036bf3fe19220a9f9c33e8361d5140
+        size: 2667
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/xxnicxx11.png:
+        hash: 51c5ea9f03264649f2310fd8092c9e564e718dbf
+        size: 3573
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/yorushika.png:
+        hash: abf2ca77147946cfd18e016415522378f8366a2f
+        size: 2866
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/yoshibyl.png:
+        hash: e778b0f7692a9f60a76de03a8fed0942072ac4ce
+        size: 2446
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/yoshiog.png:
+        hash: e778b0f7692a9f60a76de03a8fed0942072ac4ce
+        size: 2446
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/z.png:
+        hash: 85a48fdc8a321aac70f9a19815b0bb902237bca6
+        size: 3604
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zanzo.png:
+        hash: e1c4370831ebbf3cb225496004b37b5732e9a08d
+        size: 1173
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zar.png:
+        hash: 441c480f79a1544661a3818feb3fdd9dfb0073ae
+        size: 3229
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zch.png:
+        hash: 35d1412cf130055d75b8c7d1a2b30f1a871f4635
+        size: 1234
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zdrums.png:
+        hash: 74fdc67f702084abe172eca180c0f13505dc78d1
+        size: 2887
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zg3d.png:
+        hash: 12a19c5f4d7689f1f94dca185f22891579015044
+        size: 9108
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zp2k.png:
+        hash: 0d4443e54416bf820253b3d648854417068bd1be
+        size: 3321
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zpx.png:
+        hash: e418f79e240f38dd2ea45bb59edef274d0c604e1
+        size: 1887
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/iconCache/zuodo.png:
+        hash: a6a8426364f0e5b6cef846ab11600d27e5292da8
+        size: 4079
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/icons.json:
+        hash: bd1a9fb156c9476e756a60afcc68be44dddb5c4a
+        size: 57240
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/prefs:
+        hash: ef45bd2ede348a241a05fb047f3de79ae0eadc53
+        size: 57040
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/scoredata.bin:
+        hash: d85abeae02d984e63258f659a79dfb47829f16d7
+        size: 1304
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/songcache.bin:
+        hash: ee22099147c2f47f4128ec8f11a25f26eed64b83
+        size: 458352
+      /home/avery/.config/unity3d/srylain Inc_/Clone Hero/sources.txt:
+        hash: b8bb0bad1e996e8277f25a3459d61284f647fc79
+        size: 7032
+    registry:
+      hash: ~
+    children: []

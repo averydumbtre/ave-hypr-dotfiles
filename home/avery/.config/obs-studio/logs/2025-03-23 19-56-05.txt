@@ -1,0 +1,193 @@
+19:56:05.420: Command Line Arguments: --startreplaybuffer --minimize-to-tray --disable-shutdown-check
+19:56:05.420: Platform: Wayland
+19:56:05.420: CPU Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+19:56:05.420: CPU Speed: 4000.005MHz
+19:56:05.421: Physical Cores: 6, Logical Cores: 12
+19:56:05.421: Physical Memory: 15857MB Total, 11132MB Free
+19:56:05.421: Kernel Version: Linux 6.13.7-x64v3-xanmod1-1-bore
+19:56:05.421: Distribution: "Arch Linux" Unknown
+19:56:05.421: Desktop Environment: Hyprland (Hyprland)
+19:56:05.421: Session Type: wayland
+19:56:05.423: Qt Version: 6.8.2 (runtime), 6.8.1 (compiled)
+19:56:05.423: Portable mode: false
+19:56:05.466: OBS 31.0.1 (linux)
+19:56:05.466: ---------------------------------
+19:56:05.467: ---------------------------------
+19:56:05.467: audio settings reset:
+19:56:05.467: 	samples per sec: 48000
+19:56:05.467: 	speakers:        2
+19:56:05.467: 	max buffering:   960 milliseconds
+19:56:05.467: 	buffering type:  dynamically increasing
+19:56:05.470: ---------------------------------
+19:56:05.470: Initializing OpenGL...
+19:56:05.470: Using EGL/Wayland
+19:56:05.533: Initialized EGL 1.5
+19:56:05.609: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+19:56:05.609: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.133.07, shading language 3.30 NVIDIA via Cg compiler
+19:56:05.788: ---------------------------------
+19:56:05.788: video settings reset:
+19:56:05.788: 	base resolution:   1920x1080
+19:56:05.788: 	output resolution: 1920x1080
+19:56:05.788: 	downscale filter:  Bicubic
+19:56:05.788: 	fps:               60/1
+19:56:05.788: 	format:            NV12
+19:56:05.788: 	YUV mode:          Rec. 709/Partial
+19:56:05.788: NV12 texture support enabled
+19:56:05.788: P010 texture support not available
+19:56:05.837: Audio monitoring device:
+19:56:05.837: 	name: Default
+19:56:05.837: 	id: default
+19:56:05.844: ---------------------------------
+19:56:05.852: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:56:05.862: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:56:05.869: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:56:05.869: Failed to initialize module 'decklink.so'
+19:56:06.046: [pipewire] Available capture sources:
+19:56:06.046: [pipewire]     - Monitor source
+19:56:06.046: [pipewire]     - Window source
+19:56:06.085: [linux-vkcapture] plugin loaded successfully (version 1.5.1)
+19:56:06.217: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+19:56:06.468: VAAPI: API version 1.22
+19:56:06.545: FFmpeg VAAPI H264 encoding supported
+19:56:06.745: FFmpeg VAAPI AV1 encoding supported
+19:56:06.958: FFmpeg VAAPI HEVC encoding supported
+19:56:07.535: [obs-nvenc] NVENC version: 12.2 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+19:56:08.162: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+19:56:08.162: 
+19:56:08.165: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+19:56:08.165: 
+19:56:08.165: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+19:56:08.195: ---------------------------------
+19:56:08.195:   Loaded Modules:
+19:56:08.195:     text-freetype2.so
+19:56:08.195:     rtmp-services.so
+19:56:08.195:     obs-x264.so
+19:56:08.195:     obs-webrtc.so
+19:56:08.195:     obs-vst.so
+19:56:08.195:     obs-transitions.so
+19:56:08.195:     obs-qsv11.so
+19:56:08.195:     obs-outputs.so
+19:56:08.195:     obs-nvenc.so
+19:56:08.195:     obs-libfdk.so
+19:56:08.195:     obs-filters.so
+19:56:08.195:     obs-ffmpeg.so
+19:56:08.195:     linux-vkcapture.so
+19:56:08.195:     linux-v4l2.so
+19:56:08.195:     linux-pulseaudio.so
+19:56:08.195:     linux-pipewire.so
+19:56:08.195:     linux-pipewire-audio.so
+19:56:08.195:     linux-jack.so
+19:56:08.195:     linux-capture.so
+19:56:08.195:     linux-alsa.so
+19:56:08.195:     image-source.so
+19:56:08.195:     frontend-tools.so
+19:56:08.195:     decklink-output-ui.so
+19:56:08.195:     decklink-captions.so
+19:56:08.195: ---------------------------------
+19:56:08.195: ---------------------------------
+19:56:08.195: Available Encoders:
+19:56:08.195:   Video Encoders:
+19:56:08.195: 	- ffmpeg_svt_av1 (SVT-AV1)
+19:56:08.195: 	- ffmpeg_aom_av1 (AOM AV1)
+19:56:08.195: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+19:56:08.195: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+19:56:08.195: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+19:56:08.195: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+19:56:08.195: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+19:56:08.195: 	- obs_x264 (x264)
+19:56:08.195:   Audio Encoders:
+19:56:08.195: 	- ffmpeg_aac (FFmpeg AAC)
+19:56:08.195: 	- ffmpeg_opus (FFmpeg Opus)
+19:56:08.195: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:56:08.195: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:56:08.195: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+19:56:08.195: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:56:08.195: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:56:08.195: 	- libfdk_aac (libfdk AAC)
+19:56:08.195: ==== Startup complete ===============================================
+19:56:08.242: All scene data cleared
+19:56:08.242: ------------------------------------------------
+19:56:08.246: ext_screencopy_manager_v1 not available
+19:56:08.250: [pipewire] Created stream 0x557073957a20
+19:56:08.255: [pipewire] Created app capture sink 170 with 2 channels and position FL,FR
+19:56:08.255: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.1) 15.0.0'
+19:56:08.255: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+19:56:08.255: pulse-input: Started recording from 'easyeffects_source'
+19:56:08.271: pulse-am: Server name: 'PulseAudio (on PipeWire 1.4.1) 15.0.0'
+19:56:08.272: pulse-am: Audio format: s16le, 48000 Hz, 2 channels
+19:56:08.272: pulse-am: Started Monitoring in 'alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-stereo'
+19:56:08.273: [pipewire] Created stream 0x55707331ba40
+19:56:08.274: Switched to scene 'gamecapture'
+19:56:08.274: ------------------------------------------------
+19:56:08.274: Loaded scenes:
+19:56:08.274: - scene 'gamecapture':
+19:56:08.274:     - source: 'Game Capture' (vkcapture-source)
+19:56:08.274:     - source: 'MIC' (pulse_input_capture)
+19:56:08.274:         - monitoring: monitor and output
+19:56:08.274:     - source: 'TF2' (pipewire_audio_application_capture)
+19:56:08.274:     - source: 'All' (pipewire_audio_application_capture)
+19:56:08.274: ------------------------------------------------
+19:56:08.281: [pipewire] 0x557073957a20 Got format: rate 48000 - channels 2 - format 8
+19:56:08.283: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: TF2)
+19:56:08.283: 
+19:56:08.291: [pipewire] Created app capture sink 164 with 2 channels and position FL,FR
+19:56:08.345: [pipewire] 0x55707331ba40 Got format: rate 48000 - channels 2 - format 8
+19:56:08.390: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: All)
+19:56:08.390: 
+19:56:09.075: [obs-nvenc: 'advanced_video_recording'] settings:
+19:56:09.075: 	codec:        H264
+19:56:09.075: 	rate_control: CQP
+19:56:09.075: 	cqp:          20
+19:56:09.075: 	keyint:       250
+19:56:09.075: 	preset:       p4
+19:56:09.075: 	tuning:       hq
+19:56:09.075: 	multipass:    qres
+19:56:09.075: 	profile:      high
+19:56:09.075: 	width:        1920
+19:56:09.075: 	height:       1080
+19:56:09.075: 	b-frames:     2
+19:56:09.075: 	b-ref-mode:   0
+19:56:09.075: 	lookahead:    true (8 frames)
+19:56:09.075: 	aq:           true
+19:56:09.075: 
+19:56:09.123: ---------------------------------
+19:56:09.126: [FFmpeg flac encoder: 'Track1'] bitrate: 0, channels: 2, channel_layout: stereo, track: 1
+19:56:09.126: 
+19:56:09.126: ---------------------------------
+19:56:09.127: [FFmpeg flac encoder: 'Track2'] bitrate: 0, channels: 2, channel_layout: stereo, track: 2
+19:56:09.127: 
+19:56:09.127: ---------------------------------
+19:56:09.128: [FFmpeg flac encoder: 'Track3'] bitrate: 0, channels: 2, channel_layout: stereo, track: 3
+19:56:09.128: 
+19:56:09.129: ==== Replay Buffer Start ===========================================
+23:13:08.735: [pipewire] Could not connect port 305 of node 310 to app capture sink. No port of app capture sink has channel FC
+23:13:08.741: [pipewire] Could not connect port 312 of node 310 to app capture sink. No port of app capture sink has channel LFE
+23:13:08.741: [pipewire] Could not connect port 311 of node 310 to app capture sink. No port of app capture sink has channel RL
+23:13:08.741: [pipewire] Could not connect port 308 of node 310 to app capture sink. No port of app capture sink has channel RR
+23:13:08.806: [pipewire] Could not connect port 311 of node 310 to app capture sink. No port of app capture sink has channel FC
+23:13:08.806: [pipewire] Could not connect port 317 of node 310 to app capture sink. No port of app capture sink has channel LFE
+23:13:08.807: [pipewire] Could not connect port 312 of node 310 to app capture sink. No port of app capture sink has channel RL
+23:13:08.807: [pipewire] Could not connect port 316 of node 310 to app capture sink. No port of app capture sink has channel RR
+23:13:08.807: [pipewire] Could not connect port 305 of node 310 to app capture sink. No port of app capture sink has channel SL
+23:13:08.807: [pipewire] Could not connect port 315 of node 310 to app capture sink. No port of app capture sink has channel SR
+23:24:35.763: [pipewire] Could not connect port 316 of node 310 to app capture sink. No port of app capture sink has channel FC
+23:24:35.763: [pipewire] Could not connect port 308 of node 310 to app capture sink. No port of app capture sink has channel LFE
+23:24:35.763: [pipewire] Could not connect port 307 of node 310 to app capture sink. No port of app capture sink has channel RL
+23:24:35.763: [pipewire] Could not connect port 320 of node 310 to app capture sink. No port of app capture sink has channel RR
+23:24:35.828: [pipewire] Could not connect port 307 of node 310 to app capture sink. No port of app capture sink has channel FC
+23:24:35.828: [pipewire] Could not connect port 312 of node 310 to app capture sink. No port of app capture sink has channel LFE
+23:24:35.828: [pipewire] Could not connect port 308 of node 310 to app capture sink. No port of app capture sink has channel RL
+23:24:35.828: [pipewire] Could not connect port 329 of node 310 to app capture sink. No port of app capture sink has channel RR
+23:24:35.828: [pipewire] Could not connect port 316 of node 310 to app capture sink. No port of app capture sink has channel SL
+23:24:35.828: [pipewire] Could not connect port 324 of node 310 to app capture sink. No port of app capture sink has channel SR
+23:28:17.775: [pipewire] Could not connect port 329 of node 310 to app capture sink. No port of app capture sink has channel FC
+23:28:17.775: [pipewire] Could not connect port 320 of node 310 to app capture sink. No port of app capture sink has channel LFE
+23:28:17.775: [pipewire] Could not connect port 309 of node 310 to app capture sink. No port of app capture sink has channel RL
+23:28:17.775: [pipewire] Could not connect port 330 of node 310 to app capture sink. No port of app capture sink has channel RR
+23:28:17.867: [pipewire] Could not connect port 309 of node 310 to app capture sink. No port of app capture sink has channel FC
+23:28:17.867: [pipewire] Could not connect port 308 of node 310 to app capture sink. No port of app capture sink has channel LFE
+23:28:17.867: [pipewire] Could not connect port 320 of node 310 to app capture sink. No port of app capture sink has channel RL
+23:28:17.867: [pipewire] Could not connect port 319 of node 310 to app capture sink. No port of app capture sink has channel RR
+23:28:17.867: [pipewire] Could not connect port 329 of node 310 to app capture sink. No port of app capture sink has channel SL
+23:28:17.867: [pipewire] Could not connect port 326 of node 310 to app capture sink. No port of app capture sink has channel SR
+23:32:24.704: [pipewire] Could not connect port 319 of node 310 to app capture sink. No port of app capture sink has channel FC

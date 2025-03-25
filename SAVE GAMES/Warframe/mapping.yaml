@@ -1,0 +1,30 @@
+---
+name: Warframe
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:16.447178349Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/230410/pfx/drive_c/users/steamuser/AppData/Local/Warframe/E4B35A544A46BDA6D843F631BA862CFA/settings:
+        hash: 99f5c8f856b635bde47d6f1d2fd7fd7d03617afe
+        size: 24161
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/230410/pfx/drive_c/users/steamuser/AppData/Local/Warframe/EE.cfg:
+        hash: ee9ac2fe354c4568a00cd4a9a455b3dc5cc1526e
+        size: 39197
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/230410/pfx/drive_c/users/steamuser/AppData/Local/Warframe/EE.log:
+        hash: b0b8933855d1b2b7b09f60326eb94e6b6080c7c5
+        size: 3552768
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/230410/pfx/drive_c/users/steamuser/AppData/Local/Warframe/Editor.cfg:
+        hash: 3f09793726b68e2222fa45deb2d9fbacb92861e5
+        size: 450
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/230410/pfx/drive_c/users/steamuser/AppData/Local/Warframe/Launcher.log:
+        hash: ae14ae5f3956c0d2cfd70380c1dcbdc0c8e9ae0a
+        size: 838134
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/230410/pfx/drive_c/users/steamuser/AppData/Local/Warframe/Preprocess.log:
+        hash: f9805a199a288314ce0f659a21b5594bc20b28c6
+        size: 815104
+    registry:
+      hash: ~
+    children: []

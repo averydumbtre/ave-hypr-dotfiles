@@ -1,0 +1,443 @@
+{
+    "AUDIO": {
+        "VOICEOVERMODE": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "volumeAmbient": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.4,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "volumeDialogue": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.4,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "volumeMusic": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "volumeUI": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.4,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "volumeVoiceover": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.4,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "volumeWeather": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.4,
+            "boolValue": false,
+            "type": "FLOAT"
+        }
+    },
+    "GAME_STATS": {
+        "alcohol_usage": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "cigarettes_usage": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "hardcore_playthrough_completed": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "pyrolidon_usage": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "speed_usage": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "steps_travelled_amount": {
+            "intValue": 7923,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "tare_sold_key": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        }
+    },
+    "GRAPHICS": {
+        "ANTI-ALIASING": {
+            "intValue": 3,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "BRIGHTNESS": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 400.0,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "CHECKBOX": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "DISPLAY MODE": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "DYNAMIC SHADOWS": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "ENVIRONMENT FX": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "GAMMA CORRECTION": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 1.0,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "KEYBOARDMAPPING": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "OVERSCAN": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "FLOAT"
+        },
+        "SHADER QUALITY": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "SHADOWS": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "detectiveMode": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "dialogueFontSize": {
+            "intValue": 2,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "dialogueInputDelayToggle": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "highlightToggle": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "layoutProfile": {
+            "intValue": 1,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "resolutionHeight": {
+            "intValue": 1080,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "resolutionPreset": {
+            "intValue": 9,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "resolutionWidth": {
+            "intValue": 1920,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "streamerMode": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "tutorialEnabled": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": true,
+            "type": "BOOL"
+        },
+        "vibrationToggle": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": true,
+            "type": "BOOL"
+        }
+    },
+    "LANGUAGE": {
+        "Language": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "SwitchableLanguage": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        },
+        "dyslexicFont": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": true,
+            "type": "BOOL"
+        }
+    },
+    "LOGGING_CATEGORY": {
+        "ACHIEVEMENTS": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "CAMERA_SYSTEM": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "CHARACTER_SHEET": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "CONTROLLER": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "DIALOGUE": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "EXISTENTIAL_CHRISIS": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "JOURNAL": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "MOVEMENT": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "NOTIFICATION": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "ORB_SYSTEM": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "PERSISTENCE": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "PERSISTENCE_ERROR": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "SCHEDULER": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "SDK_GOG": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "TWITCH_INTEGRATION": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "VIEW_SYSTEM": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "VOICE_OVER": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "WEATHER_SYSTEM": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        },
+        "WHITE_CHECKS": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "BOOL"
+        }
+    },
+    "TUTORIAL_TRACKER": {
+        "TAB_TUTORIAL": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": true,
+            "type": "BOOL"
+        }
+    },
+    "WRITERS_TOOL": {
+        "LastConversation": {
+            "intValue": 0,
+            "stringValue": "WHIRLING F2 ORB / speed hangover",
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "STRING"
+        },
+        "Tab_Value": {
+            "intValue": 0,
+            "stringValue": null,
+            "floatValue": 0.0,
+            "boolValue": false,
+            "type": "INT"
+        }
+    }
+}

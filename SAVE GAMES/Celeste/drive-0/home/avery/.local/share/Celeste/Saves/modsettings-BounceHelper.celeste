@@ -1,0 +1,7 @@
+JellyfishDash:
+  Buttons:
+  - LeftShoulder
+  Keys:
+  - Space
+  MouseButtons: []
+ForceBounceMode: false

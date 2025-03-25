@@ -1,0 +1,375 @@
+---
+name: Celeste
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:17.098019704Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Celeste/Saves/0-modsave-CherryHelper.celeste:
+        hash: dd3f46df1977afe7e6860892b3db47bd51925e85
+        size: 255
+      /home/avery/.local/share/Celeste/Saves/0-modsave-CollabUtils2.celeste:
+        hash: 6fb09c45d0913d1eb204839d65136bd9339c4da7
+        size: 212306
+      /home/avery/.local/share/Celeste/Saves/0-modsave-CommunalHelper.celeste:
+        hash: 8524c180eff8f6a487b3875b0830680c008b3a62
+        size: 13
+      /home/avery/.local/share/Celeste/Saves/0-modsave-ContortHelper.celeste:
+        hash: 81aad558aab7c5d787ad2b87f1767b38f96d547e
+        size: 49
+      /home/avery/.local/share/Celeste/Saves/0-modsave-Everest.celeste:
+        hash: 58d5a14e227c46c83897fc6e4f20cca2fecafbcc
+        size: 20
+      /home/avery/.local/share/Celeste/Saves/0-modsave-FactoryHelper.celeste:
+        hash: 327e3d9450981cb535c40aa5d586acfd277234eb
+        size: 16
+      /home/avery/.local/share/Celeste/Saves/0-modsave-FlaglinesAndSuch.celeste:
+        hash: 5f36b2ea290645ee34d943220a14b54ee5ea5be5
+        size: 3
+      /home/avery/.local/share/Celeste/Saves/0-modsave-FrostHelper.celeste:
+        hash: 93d43903386a247d0b9680533bb32284c38bbf5a
+        size: 19
+      /home/avery/.local/share/Celeste/Saves/0-modsave-JackalHelper.celeste:
+        hash: b95e15b8279d5f239ff4135b49abd96d2d57f82d
+        size: 20
+      /home/avery/.local/share/Celeste/Saves/0-modsave-MaxHelpingHand.celeste:
+        hash: fd041a5811f3dfb04d6d4f32aa74d847ed336fd1
+        size: 34
+      /home/avery/.local/share/Celeste/Saves/0-modsave-StrawberryJam2021.celeste:
+        hash: f0d95739f75ccd2d6c0a606cf70cc4e8a721b798
+        size: 1482
+      /home/avery/.local/share/Celeste/Saves/0-modsave-VivHelper.celeste:
+        hash: 08c7a6d38841c2e35b1840c3596e5354c4c6ec0a
+        size: 12
+      /home/avery/.local/share/Celeste/Saves/0-modsave-XaphanHelper.celeste:
+        hash: e85d471583406f700a8d1aaf138d4280e1714501
+        size: 2986
+      /home/avery/.local/share/Celeste/Saves/0-modsavedata.celeste:
+        hash: 5e09a9a20d309f2e7dea012ac033f081a0981f97
+        size: 152500
+      /home/avery/.local/share/Celeste/Saves/0-modsession-AdventureHelper.celeste:
+        hash: b771a9c9cd7162be49a518533e191a3efb18d43f
+        size: 53
+      /home/avery/.local/share/Celeste/Saves/0-modsession-Anonhelper.celeste:
+        hash: 5a70b9b47737342fbe53733a723d2adbb9bfcc7b
+        size: 147
+      /home/avery/.local/share/Celeste/Saves/0-modsession-BGswitch.celeste:
+        hash: a7035fcf489ae64cbb960b9149c187cfa78ed9f6
+        size: 14
+      /home/avery/.local/share/Celeste/Saves/0-modsession-BrokemiaHelper.celeste:
+        hash: c3df8c2ffe79cd618587943baaf6df593090e44f
+        size: 39
+      /home/avery/.local/share/Celeste/Saves/0-modsession-CherryHelper.celeste:
+        hash: 036323d26a044e6d5110755f02773e0b3f0b533e
+        size: 64
+      /home/avery/.local/share/Celeste/Saves/0-modsession-CollabUtils2.celeste:
+        hash: e3f500f9e7f17c247e1ab5eecfea9611c63e039e
+        size: 140
+      /home/avery/.local/share/Celeste/Saves/0-modsession-CommunalHelper.celeste:
+        hash: 23d3274d1c7fa45f078e7d99ee54324906f1f0ba
+        size: 569
+      /home/avery/.local/share/Celeste/Saves/0-modsession-ContortHelper.celeste:
+        hash: 81aad558aab7c5d787ad2b87f1767b38f96d547e
+        size: 49
+      /home/avery/.local/share/Celeste/Saves/0-modsession-CrystallineHelper.celeste:
+        hash: 4b9e77b469c36b316ed6a1a1944ff45c61dcf1c4
+        size: 481
+      /home/avery/.local/share/Celeste/Saves/0-modsession-DJMapHelper.celeste:
+        hash: 7eec33f4c1305dcc0d0ffc437c0219110487a16a
+        size: 86
+      /home/avery/.local/share/Celeste/Saves/0-modsession-EeveeHelper.celeste:
+        hash: 55446dde998dfd69b742d72819b4aa01c9d78744
+        size: 14
+      /home/avery/.local/share/Celeste/Saves/0-modsession-Everest.celeste:
+        hash: 287c092abe375874141dacb47e65dd19f1667427
+        size: 43
+      /home/avery/.local/share/Celeste/Saves/0-modsession-ExtendedVariantMode.celeste:
+        hash: a85df4a3f5caf5dc036262708b13deae13cae879
+        size: 230
+      /home/avery/.local/share/Celeste/Saves/0-modsession-FactoryHelper.celeste:
+        hash: 507fede08236313898fead5420fc605d3b5aefbc
+        size: 113
+      /home/avery/.local/share/Celeste/Saves/0-modsession-FemtoHelper.celeste:
+        hash: 62650250c118dfbc0e1d9efd7981adeb2d7e6f7e
+        size: 292
+      /home/avery/.local/share/Celeste/Saves/0-modsession-FlaglinesAndSuch.celeste:
+        hash: d9bb64c6f68aa733223d5bc17c6218f27bb4fd68
+        size: 58
+      /home/avery/.local/share/Celeste/Saves/0-modsession-FrostHelper.celeste:
+        hash: f4984a3bfa9950c49d4221d7b5031c85f9f10fc4
+        size: 299
+      /home/avery/.local/share/Celeste/Saves/0-modsession-GravityHelper.celeste:
+        hash: ed414b1a1366fbdf626ede22cf3f0e6025c67518
+        size: 88
+      /home/avery/.local/share/Celeste/Saves/0-modsession-IsaGrabBag.celeste:
+        hash: a0f4bb64aec5e6b02bb5f0af8191f89e16e24a09
+        size: 48
+      /home/avery/.local/share/Celeste/Saves/0-modsession-JackalHelper.celeste:
+        hash: 9d83198a7a1df45b4f1743ddffeed4fba21ef0ca
+        size: 319
+      /home/avery/.local/share/Celeste/Saves/0-modsession-JungleHelper.celeste:
+        hash: b40929fa6f1f8417c5705f279e540043dbdd2311
+        size: 28
+      /home/avery/.local/share/Celeste/Saves/0-modsession-MaxHelpingHand.celeste:
+        hash: b17624afe8cbd04725da8f9d8d495ef449ddcee1
+        size: 349
+      /home/avery/.local/share/Celeste/Saves/0-modsession-MoreDasheline.celeste:
+        hash: 7be7a799c89beab574e8ca1a2a03f35b99352ee6
+        size: 23
+      /home/avery/.local/share/Celeste/Saves/0-modsession-ShroomHelper.celeste:
+        hash: 6748ac95c70356b706a9cd4cb707c9c945a46a07
+        size: 71
+      /home/avery/.local/share/Celeste/Saves/0-modsession-SpirialisHelper.celeste:
+        hash: 8b58de5d4cfb489d45bf2882a914a51d306f083f
+        size: 124
+      /home/avery/.local/share/Celeste/Saves/0-modsession-StrawberryJam2021.celeste:
+        hash: 00d6abac2598b0f588c4908ac801a01183608435
+        size: 369
+      /home/avery/.local/share/Celeste/Saves/0-modsession-TwigHelper.celeste:
+        hash: d0c23dbeaaaa733b12b584d1396b046435832369
+        size: 392
+      /home/avery/.local/share/Celeste/Saves/0-modsession-VivHelper.celeste:
+        hash: a4b485af7e45bc87ad9d87a2ddad880715f16f3a
+        size: 891
+      /home/avery/.local/share/Celeste/Saves/0-modsession-VortexHelper.celeste:
+        hash: ce4045a799e8a3c1adbeccfb7f6229aebb9aa383
+        size: 30
+      /home/avery/.local/share/Celeste/Saves/0-modsession-XaphanHelper.celeste:
+        hash: 976aba72a90b108719945c87f1d7df0f7589cdf5
+        size: 107
+      /home/avery/.local/share/Celeste/Saves/0-modsession-YetAnotherHelper.celeste:
+        hash: 1e693c7e40ab1836253775ccf03d2a28bca36977
+        size: 47
+      /home/avery/.local/share/Celeste/Saves/0.celeste:
+        hash: 6ab368e7acf5399e1c71e33e736c1450888e1432
+        size: 176802
+      /home/avery/.local/share/Celeste/Saves/1-modsave-CherryHelper.celeste:
+        hash: 1af4502069bbdcf3ef840d20d2daacfabf328ba2
+        size: 61
+      /home/avery/.local/share/Celeste/Saves/1-modsave-CollabUtils2.celeste:
+        hash: 05a332104bfd15fe922a1e6634d46fa526e0692c
+        size: 318
+      /home/avery/.local/share/Celeste/Saves/1-modsave-CommunalHelper.celeste:
+        hash: cdb41f8c7ae709b9d687e516799e3acf577dabda
+        size: 14
+      /home/avery/.local/share/Celeste/Saves/1-modsave-ContortHelper.celeste:
+        hash: d28ff66c547b4732876a1f6be5b5da4e6eb050e6
+        size: 53
+      /home/avery/.local/share/Celeste/Saves/1-modsave-Everest.celeste:
+        hash: 0cee977b773164078769c23fdd83aa3491302c92
+        size: 21
+      /home/avery/.local/share/Celeste/Saves/1-modsave-FactoryHelper.celeste:
+        hash: 01eba8b905e0458544729c9f58519417072c6797
+        size: 17
+      /home/avery/.local/share/Celeste/Saves/1-modsave-FlaglinesAndSuch.celeste:
+        hash: 3c957535345645dce7190b85eb10b39da96b2518
+        size: 4
+      /home/avery/.local/share/Celeste/Saves/1-modsave-FrostHelper.celeste:
+        hash: 7216a6a0d1d1abfb8a5cdacd3fe5e2ae511c5e88
+        size: 20
+      /home/avery/.local/share/Celeste/Saves/1-modsave-JackalHelper.celeste:
+        hash: d37ccf9818b56af0c77a2312d1afc298772367cb
+        size: 21
+      /home/avery/.local/share/Celeste/Saves/1-modsave-MaxHelpingHand.celeste:
+        hash: 792c383607c788410bedfebf3056691fe5f36c89
+        size: 35
+      /home/avery/.local/share/Celeste/Saves/1-modsave-StrawberryJam2021.celeste:
+        hash: a5fa68565ac049fef6aa9075c8f74931958e1564
+        size: 45
+      /home/avery/.local/share/Celeste/Saves/1-modsave-VivHelper.celeste:
+        hash: d9421add33ac8e388c4c5ed4890ea6f7a400d3f2
+        size: 13
+      /home/avery/.local/share/Celeste/Saves/1-modsave-XaphanHelper.celeste:
+        hash: d7f43bc03835d600e7eda327af4f8edb48865829
+        size: 2640
+      /home/avery/.local/share/Celeste/Saves/1-modsavedata.celeste:
+        hash: e2febf470cc45f9a44f30e331a7e2f62da5e5690
+        size: 153150
+      /home/avery/.local/share/Celeste/Saves/1-modsession-AdventureHelper.celeste:
+        hash: ee037de9933a61ba1c57624c024f8cd2e9d2e03c
+        size: 55
+      /home/avery/.local/share/Celeste/Saves/1-modsession-Anonhelper.celeste:
+        hash: a63b908eb0fa5d2ee4c82f5713a8b952d65e5db9
+        size: 154
+      /home/avery/.local/share/Celeste/Saves/1-modsession-BGswitch.celeste:
+        hash: 1d764b9ee7d3e1a022f68d9053927abbaa863d1a
+        size: 15
+      /home/avery/.local/share/Celeste/Saves/1-modsession-BrokemiaHelper.celeste:
+        hash: 67ccf21bdfb51a9b8cad9bd4695d55614aff4d5e
+        size: 28
+      /home/avery/.local/share/Celeste/Saves/1-modsession-CherryHelper.celeste:
+        hash: 583d650c16001630f30383540996aca319195712
+        size: 67
+      /home/avery/.local/share/Celeste/Saves/1-modsession-CollabUtils2.celeste:
+        hash: 7a96d046d36927e9a31523005d12f9cd6055724b
+        size: 147
+      /home/avery/.local/share/Celeste/Saves/1-modsession-CommunalHelper.celeste:
+        hash: f4c43f0e8a905cedfd95af6f3b992ecb7f095ec0
+        size: 247
+      /home/avery/.local/share/Celeste/Saves/1-modsession-ContortHelper.celeste:
+        hash: d28ff66c547b4732876a1f6be5b5da4e6eb050e6
+        size: 53
+      /home/avery/.local/share/Celeste/Saves/1-modsession-CrystallineHelper.celeste:
+        hash: 58ddc0f37da2c68c4a4ef5b194025406445a2945
+        size: 506
+      /home/avery/.local/share/Celeste/Saves/1-modsession-DJMapHelper.celeste:
+        hash: 45c06865123d417b2e5e9e8fb00dc250ab6b44ec
+        size: 90
+      /home/avery/.local/share/Celeste/Saves/1-modsession-EeveeHelper.celeste:
+        hash: 70903804c269976ae24303c5a9935a5c71236560
+        size: 15
+      /home/avery/.local/share/Celeste/Saves/1-modsession-Everest.celeste:
+        hash: b0716df3c6e9614ad5d541176cdf1d7f4312ae7a
+        size: 45
+      /home/avery/.local/share/Celeste/Saves/1-modsession-ExtendedVariantMode.celeste:
+        hash: 73005899ea9b6e6bfc3b75aafc8c470806f2a543
+        size: 236
+      /home/avery/.local/share/Celeste/Saves/1-modsession-FactoryHelper.celeste:
+        hash: e2e1e473f2303f4deba11566554d6de216c24dd3
+        size: 118
+      /home/avery/.local/share/Celeste/Saves/1-modsession-FemtoHelper.celeste:
+        hash: 3c957535345645dce7190b85eb10b39da96b2518
+        size: 4
+      /home/avery/.local/share/Celeste/Saves/1-modsession-FlaglinesAndSuch.celeste:
+        hash: d7d105efd8fa7bb297ed4fdb2d54b26fc48f2157
+        size: 61
+      /home/avery/.local/share/Celeste/Saves/1-modsession-FrostHelper.celeste:
+        hash: 3e66db97e03fcbf2c66ab0028b4bba3d31059a8f
+        size: 280
+      /home/avery/.local/share/Celeste/Saves/1-modsession-GravityHelper.celeste:
+        hash: 3f495b3e6c802014634b4d4bcb6363de77925f10
+        size: 92
+      /home/avery/.local/share/Celeste/Saves/1-modsession-IsaGrabBag.celeste:
+        hash: aa5abc4b25af66a66d2f53b300a2aa9cd89b190a
+        size: 60
+      /home/avery/.local/share/Celeste/Saves/1-modsession-JackalHelper.celeste:
+        hash: 4716bc6b1f7e3e5f9e336d2ae372caffb24a3b9e
+        size: 338
+      /home/avery/.local/share/Celeste/Saves/1-modsession-JungleHelper.celeste:
+        hash: 099029db08c240d0821ba23efeb5f3ceb03a8826
+        size: 30
+      /home/avery/.local/share/Celeste/Saves/1-modsession-MaxHelpingHand.celeste:
+        hash: 9dea57067dcf1984b3c450a96ff90d584d99669c
+        size: 362
+      /home/avery/.local/share/Celeste/Saves/1-modsession-MoreDasheline.celeste:
+        hash: d5b28034f94b05fb76b222a26dab0df20bc46a78
+        size: 24
+      /home/avery/.local/share/Celeste/Saves/1-modsession-ShroomHelper.celeste:
+        hash: 264b3bd49597cf84007275563b8ff54d1bd628d0
+        size: 75
+      /home/avery/.local/share/Celeste/Saves/1-modsession-SpirialisHelper.celeste:
+        hash: e587994f918faefea504875f83d17a02ce7cdecc
+        size: 132
+      /home/avery/.local/share/Celeste/Saves/1-modsession-StrawberryJam2021.celeste:
+        hash: 52bb4328c87b1d6f75c6647ffb6d2be3b1cbb78e
+        size: 386
+      /home/avery/.local/share/Celeste/Saves/1-modsession-TwigHelper.celeste:
+        hash: 506ed8d449dba3081c2a765ad3f5d8e1f4116971
+        size: 413
+      /home/avery/.local/share/Celeste/Saves/1-modsession-VivHelper.celeste:
+        hash: 4e4a1abc7e856c8930bde9f26eff29b24157d5e4
+        size: 7894
+      /home/avery/.local/share/Celeste/Saves/1-modsession-VortexHelper.celeste:
+        hash: 0cea4e8d8a88fd5785fb335f76acf7d96fa6d775
+        size: 31
+      /home/avery/.local/share/Celeste/Saves/1-modsession-XaphanHelper.celeste:
+        hash: e788dba61a3f05257592339423198f033413e187
+        size: 95
+      /home/avery/.local/share/Celeste/Saves/1-modsession-YetAnotherHelper.celeste:
+        hash: 7a85f75197f93305d1d18ea7169f93c18635554d
+        size: 49
+      /home/avery/.local/share/Celeste/Saves/1.celeste:
+        hash: b88c9c7814443b1c171404e59dc9f3b8a7791c3c
+        size: 171604
+      /home/avery/.local/share/Celeste/Saves/modsettings-BounceHelper.celeste:
+        hash: 85a4cbb3690f643d9905286c86b4bb9dd6111808
+        size: 103
+      /home/avery/.local/share/Celeste/Saves/modsettings-Cateline.celeste:
+        hash: 45fdda2736b3475786bfcf2cc3966dff4c19158b
+        size: 37
+      /home/avery/.local/share/Celeste/Saves/modsettings-CelesteNet.Client.celeste:
+        hash: 2f43b67ece69524ac814b67893cd5a46882bdc6d
+        size: 2817
+      /home/avery/.local/share/Celeste/Saves/modsettings-CollabUtils2.celeste:
+        hash: 88ee18e59637a096b358ff1616eabf3f8f4b492c
+        size: 547
+      /home/avery/.local/share/Celeste/Saves/modsettings-CommunalHelper.celeste:
+        hash: 13d7d4cb71517df8404ec889ba41fb2723db490a
+        size: 541
+      /home/avery/.local/share/Celeste/Saves/modsettings-ContortHelper.celeste:
+        hash: dfdb8bdaf5aa81b2779fe88e93c2ea178e2c9087
+        size: 208
+      /home/avery/.local/share/Celeste/Saves/modsettings-CrystallineHelper.celeste:
+        hash: 0af67899f4c615cbb0fa3bdf65d66be335a4cfc4
+        size: 70
+      /home/avery/.local/share/Celeste/Saves/modsettings-DisposableTheo.celeste:
+        hash: 9680069d0740ee55716413a1977bf6c8849e4c4d
+        size: 74
+      /home/avery/.local/share/Celeste/Saves/modsettings-EeveeHelper.celeste:
+        hash: 92a46a48624a41303fdb0a4d0b7404594839cfc9
+        size: 108
+      /home/avery/.local/share/Celeste/Saves/modsettings-Everest.celeste:
+        hash: deb08c56ec27a33f79f79ffe023b08dec7ac1e10
+        size: 2279
+      /home/avery/.local/share/Celeste/Saves/modsettings-Everest_MouseBindings.celeste:
+        hash: a61c897efe3b689c79bf641b167e77d97a816d91
+        size: 567
+      /home/avery/.local/share/Celeste/Saves/modsettings-ExtendedVariantMode.celeste:
+        hash: 09a1ea76050c132f2fc63263eb9a0a5480419b98
+        size: 413
+      /home/avery/.local/share/Celeste/Saves/modsettings-FlaglinesAndSuch.celeste:
+        hash: 7f1f44196101f59bd7b9bf04a66381debcfd4791
+        size: 86
+      /home/avery/.local/share/Celeste/Saves/modsettings-FrostHelper.celeste:
+        hash: cbf8904451a3e2588d4ffe54af395cce90e0637f
+        size: 86
+      /home/avery/.local/share/Celeste/Saves/modsettings-GravityHelper.celeste:
+        hash: 4277850eee49d040cc93d49347056b9458859259
+        size: 315
+      /home/avery/.local/share/Celeste/Saves/modsettings-HighFrameRateMod.celeste:
+        hash: 46d7d0dcdc0c3dbb72cf31809e299f2bc2d5bb29
+        size: 50
+      /home/avery/.local/share/Celeste/Saves/modsettings-HonlyHelper.celeste:
+        hash: 9e2fc0c882469946b07b2ac4421942775863939c
+        size: 60
+      /home/avery/.local/share/Celeste/Saves/modsettings-JackalHelper.celeste:
+        hash: 089eaea29607deb5c26e87b2d3d7c92b24eadb7c
+        size: 79
+      /home/avery/.local/share/Celeste/Saves/modsettings-MaxHelpingHand.celeste:
+        hash: b5c759dd505dc6a095adf7ba0f75466524506ad9
+        size: 104
+      /home/avery/.local/share/Celeste/Saves/modsettings-MoreDasheline.celeste:
+        hash: 73cd75c28a59bdf7e5a878654f54ac5304ada182
+        size: 95
+      /home/avery/.local/share/Celeste/Saves/modsettings-PrideHearts.celeste:
+        hash: 8a9cfca26fb1eff0bbcaee7dfd8e1bf2096a9941
+        size: 677
+      /home/avery/.local/share/Celeste/Saves/modsettings-SorbetHelper.celeste:
+        hash: e34119bdd02f019cf21ee9e0cc5b5075a6a0d002
+        size: 41
+      /home/avery/.local/share/Celeste/Saves/modsettings-SpirialisHelper.celeste:
+        hash: d04240e5443a42312bdfbcb81e62a87b48d5e120
+        size: 857
+      /home/avery/.local/share/Celeste/Saves/modsettings-StrawberryJam2021.celeste:
+        hash: 997db0fa521d71b20cf6bc990bede8cbae6d33e1
+        size: 99
+      /home/avery/.local/share/Celeste/Saves/modsettings-TwigHelper.celeste:
+        hash: fbbe0adc4087b588256e0a50a43fe5060123908b
+        size: 75
+      /home/avery/.local/share/Celeste/Saves/modsettings-VivHelper.celeste:
+        hash: c1961eaebff750d2c44ea6d065d05c33050f8fe7
+        size: 382
+      /home/avery/.local/share/Celeste/Saves/modsettings-XaphanHelper.celeste:
+        hash: f25f1940504679a45593adecf1a275cee19a2252
+        size: 1454
+      /home/avery/.local/share/Celeste/Saves/settings.celeste:
+        hash: cfe85530e3c4b9167720f2ce9c8e0943adfec1ad
+        size: 5097
+      /home/avery/.local/share/Celeste/Saves/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+    registry:
+      hash: ~
+    children: []

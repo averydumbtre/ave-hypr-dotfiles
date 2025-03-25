@@ -1,0 +1,48 @@
+0000 00:00:00.132412 INFO 7942 [Init] Platform available: 1
+0000 00:00:00.145699 INFO 7942 [Init] CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+Hardware threads: 12
+Physical memory: 15865 Mb
+Display resolution: 1920x1080
+Executable path: Z:/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Teardown/teardown.exe
+Working dir: Z:/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Teardown
+Appdata dir: C:/users/steamuser/AppData/Local
+Documents dir: C:/users/steamuser/Documents
+
+0000 00:00:01.701023 INFO 7942 [Init] Starting up in resolution: 1920x1080
+0000 00:00:02.216564 INFO 7942 [Init|Render] Graphics API: D3D12
+0000 00:00:02.822261 INFO 7942 [Init|Render] Vendor: Nvidia
+Renderer: NVIDIA GeForce RTX 3060
+Total VRAM: 12256 Mb
+Available VRAM: 8015 Mb
+
+0000 00:00:02.823742 INFO 7942 [Init|Render] GPU vendor: Nvidia
+Indirect arguments supported:
+  Draw
+  Draw indexed
+  Vertex buffer view
+  Index buffer view
+  Push CBV
+Bindless support: true
+Conservative depth support: true
+Compute shader support: true
+Constant buffer alignment: 256
+Frame memory alloc max size: 1048576
+Wave lane count num: 32
+Wave operations support: true
+Max 1D texture size: 16384
+Max 2D texture size: 16384
+Max 3D texture size: 2048
+Max cubemap texture size: 16384
+Max array texture layers: 2048
+
+0000 00:00:04.056090 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085597 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085600 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085601 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085602 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085603 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085604 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085605 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085606 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085607 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001
+0000 00:00:04.085608 ERROR 7942 [Init|Render] TCommandSignatureD3D12::TCommandSignatureD3D12:71 pDevice->CreateCommandSignature(&commandSignatureDesc, rootSignature, IID_GRAPHICS_PPV_ARGS(mCommandSignature.GetAddressOf())) return HRESULT=80004001

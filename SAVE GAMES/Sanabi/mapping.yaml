@@ -1,0 +1,60 @@
+---
+name: Sanabi
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:16.532190221Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/BranchData.data:
+        hash: 04feeeaac2431553d00bcd5ea4c135eafe109d9e
+        size: 86
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/BranchData_old.data:
+        hash: 04feeeaac2431553d00bcd5ea4c135eafe109d9e
+        size: 86
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/ChapterOpenData.data:
+        hash: 32d55ee74d91eee6a929fe10eefa193ca75bb47e
+        size: 2917
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/ChapterOpenData_old.data:
+        hash: 32d55ee74d91eee6a929fe10eefa193ca75bb47e
+        size: 2917
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/DifficultyInfo.data:
+        hash: 3c0372f3736aeb3e1fdb305a713a86e44f15da41
+        size: 28
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/PlayerInfo.data:
+        hash: 6725a04965a775cd6486f30c4fdbc5612128fade
+        size: 46
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/PlayerInfo_old.data:
+        hash: 6725a04965a775cd6486f30c4fdbc5612128fade
+        size: 46
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/Profile.data:
+        hash: ecf3f30090ec543507d8dad9bfad2a26ca7036be
+        size: 65
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/Profile_old.data:
+        hash: ecf3f30090ec543507d8dad9bfad2a26ca7036be
+        size: 65
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S02.data:
+        hash: 319ba4c0fc1e7e5562a9318dd930d024d0ef94eb
+        size: 10040
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S02_old.data:
+        hash: cadab088cb6e70b6bae9b76360cf1d8936d0998d
+        size: 10035
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S03.data:
+        hash: 0e39c9344f413b0e4e05a34fe33ca373ecc0d57c
+        size: 4626
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S04.data:
+        hash: 87f69493ca37efaa2d95830127927a5f789ddb43
+        size: 14245
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S04_old.data:
+        hash: 039593c0230efbc7f9c3fdcc204aad3c8a7745e7
+        size: 14232
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S05.data:
+        hash: f4220fd27b3e8c47d276775594aa4aed784b8316
+        size: 9457
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1562700/pfx/drive_c/users/steamuser/AppData/LocalLow/Wonder Potion/SNB/SceneInfoCHAP1_S05_old.data:
+        hash: 0d09fa933f3c0b101350755af4365891094cbd2c
+        size: 9458
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,18 @@
+---
+name: Warfork
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-08T01:23:22.120066811Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/userdata/1013896986/671610/remotecache.vdf:
+        hash: 4d11b71f7873e7a21d7b35af497c8d7fe5dee81b
+        size: 305
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/671610/pfx/drive_c/users/steamuser/Documents/My Games/Warfork 2.1/basewf/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+    registry:
+      hash: ~
+    children: []

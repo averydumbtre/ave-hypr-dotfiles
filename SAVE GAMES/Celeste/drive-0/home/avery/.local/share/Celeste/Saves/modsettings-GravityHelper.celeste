@@ -1,0 +1,14 @@
+AllowInAllMaps: false
+ControlScheme: Absolute
+FeatherControlScheme: Absolute
+VvvvvvMode: Default
+VvvvvvFlipSound: Default
+VvvvvvAllowGrabbing: Default
+VvvvvvAllowDashing: Default
+ReplaceRefills: false
+MHHUDJTCornerCorrection: true
+ToggleInvertGravity:
+  Buttons: []
+  Keys: []
+  MouseButtons: []
+SettingsVersion: 1

@@ -1,0 +1,21 @@
+---
+name: Monster Hunter Wilds
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-18T02:28:14.640665821Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/steamapps/common/MonsterHunterWilds/config.ini:
+        hash: 453b434cae0752f3d616dd48f3f93359c96ae897
+        size: 9251
+      /home/avery/.local/share/Steam/userdata/1013896986/2246340/remote/win64_save/data00-1.bin:
+        hash: 1bb6f40ba7e2a722f7dca0f019491e0641422600
+        size: 98988
+      /home/avery/.local/share/Steam/userdata/1013896986/2246340/remote/win64_save/data001Slot.bin:
+        hash: 73a035ae68b91613bc2050f3984f430caf55b18e
+        size: 197820
+    registry:
+      hash: ~
+    children: []

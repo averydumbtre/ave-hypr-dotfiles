@@ -1,0 +1,288 @@
+---
+name: "Baldur's Gate 3"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:28.149956840Z"
+    os: linux
+    files:
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/212/SYS_CC_I.lsf":
+        hash: cdb61315c6a27ceaf8c66d3cf6e9d2455c3c1077
+        size: 23649
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/212/SYS_Menuscreen_Camp_A.lsf":
+        hash: 91fafd7b0628b5f8781853bcdb7eec7c22f26fc7
+        size: 241274
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/212/WLD_Main_A.lsf":
+        hash: 7d03661957736da36e75426aae1623b100ca88e3
+        size: 12886461
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/292/SYS_CC_I.lsf":
+        hash: cdb61315c6a27ceaf8c66d3cf6e9d2455c3c1077
+        size: 23649
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/292/SYS_Menuscreen_Camp_A.lsf":
+        hash: 91fafd7b0628b5f8781853bcdb7eec7c22f26fc7
+        size: 241274
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/292/WLD_Main_A.lsf":
+        hash: 0467a8869a2789aaaafce39b1aa167b8d584b447
+        size: 12639794
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/296/SYS_CC_I.lsf":
+        hash: cdb61315c6a27ceaf8c66d3cf6e9d2455c3c1077
+        size: 23649
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/296/SYS_Menuscreen_Camp_A.lsf":
+        hash: 91fafd7b0628b5f8781853bcdb7eec7c22f26fc7
+        size: 241274
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/LevelCache/296/WLD_Main_A.lsf":
+        hash: 717779528625fb3402d9e00e79f76eb62e72149b
+        size: 12845010
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/Mods/marauder_f245f25f-46c3-750a-07-7iyo.pak":
+        hash: b0c1df73bae90568c06ba0f35c4d6da72596bf80
+        size: 22588104
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/Mods/skeletonrace_e7f8c032-dd2e-e75-cys5.pak":
+        hash: 34ff2c91015a95507552b9c4af77ece131fd5f6a
+        size: 8111573
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-102612431158__AutoSave_0/AutoSave_0.WebP":
+        hash: ae7f5fee5d1acbfe80444e4e6c96ce0cd4fabd7a
+        size: 9456
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-102612431158__AutoSave_0/AutoSave_0.lsv":
+        hash: 697468b33c05ffdc2f945330d652ba0d2d4e8b06
+        size: 8111084
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1226124221150__Blighted Village - 4h 31m/Blighted Village - 4h 31m.WebP":
+        hash: daa468dc2600642f421faa447951bcde3d2b837c
+        size: 149062
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1226124221150__Blighted Village - 4h 31m/Blighted Village - 4h 31m.lsv":
+        hash: 993df689855f8338bde12653abb542cd62fe9605
+        size: 15281080
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-15181251042__Campsite - 5h 22m/Campsite - 5h 22m.WebP":
+        hash: 1fd8f5e0b7e4aed73733079bd2ba16a1da5c411c
+        size: 30776
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-15181251042__Campsite - 5h 22m/Campsite - 5h 22m.lsv":
+        hash: 37ab70106dccdff2ce6f80992b873e905ee4b05f
+        size: 15268015
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1726124231154__Whispering Depths - 5h 05m/Whispering Depths - 5h 05m.WebP":
+        hash: 1d8a3c665348ae42819cd91c0ca924ceeb000d26
+        size: 41154
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1726124231154__Whispering Depths - 5h 05m/Whispering Depths - 5h 05m.lsv":
+        hash: 7a0585437cc05ea2748db66192ebe60faa872bbe
+        size: 15249337
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-17261248118__Makeshift Prison - 3h 05m/Makeshift Prison - 3h 05m.WebP":
+        hash: df7e010605d875abd63a3e03e6b4086937526a27
+        size: 39134
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-17261248118__Makeshift Prison - 3h 05m/Makeshift Prison - 3h 05m.lsv":
+        hash: dcd80175b269f34b33d05bf16858e632ca31177f
+        size: 15126582
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1826124231121__AutoSave_13/AutoSave_13.WebP":
+        hash: 54e0e743b87e302d3e2ceec5e2151e97cf36d56a
+        size: 33702
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1826124231121__AutoSave_13/AutoSave_13.lsv":
+        hash: a4e7323e0885ce21a5155376b5795d62af41cb27
+        size: 15244329
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1926124211138__AutoSave_10/AutoSave_10.WebP":
+        hash: 03ab5ae52fd52b456216aade7f41d9959a6c429a
+        size: 185556
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-1926124211138__AutoSave_10/AutoSave_10.lsv":
+        hash: 64410830432afa2ea036dcc052cfd6c5e02f004b
+        size: 15253545
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-2018125207__Blighted Village - 5h 40m/Blighted Village - 5h 40m.WebP":
+        hash: 8267aa88240e05f2c4f53d01b26a740757f3f484
+        size: 198668
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-2018125207__Blighted Village - 5h 40m/Blighted Village - 5h 40m.lsv":
+        hash: 4f377988add6f4872584f134dcd2c3f0fea4a902
+        size: 15378551
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-212612441115__AutoSave_5/AutoSave_5.WebP":
+        hash: 2e17863879cd86a832037b6b6bccac175eb16329
+        size: 214284
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-212612441115__AutoSave_5/AutoSave_5.lsv":
+        hash: 81218dbca42d41c18c0fa75f0b54c7f76b5304ba
+        size: 15154854
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-242612431141__AutoSave_1/AutoSave_1.WebP":
+        hash: 8afe1db800d41c598dd20a2158f6a097f299830d
+        size: 28198
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-242612431141__AutoSave_1/AutoSave_1.lsv":
+        hash: d830ae676728391fd2e5d2d1ec3466a075c1f712
+        size: 8140396
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-26261244118__AutoSave_6/AutoSave_6.WebP":
+        hash: eda260025c666179ad7b47dbf9c0245bba8894b6
+        size: 166800
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-26261244118__AutoSave_6/AutoSave_6.lsv":
+        hash: 2c036e775f4b9e0d90874e3755d379da68c7dd6b
+        size: 15100262
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-2718125303__The Risen Road - 6h 32m/The Risen Road - 6h 32m.WebP":
+        hash: 17441391bae066446ece9f9b7f9e7f74ef0bd5bc
+        size: 170364
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-2718125303__The Risen Road - 6h 32m/The Risen Road - 6h 32m.lsv":
+        hash: ab39da1a8e0e2b8f03f59b31255ea60a9ad2900a
+        size: 15387959
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-292612421147__AutoSave_0/AutoSave_0.WebP":
+        hash: 47e4fe072d5d0fd94a17beddc672bb9d81d0207f
+        size: 9152
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-292612421147__AutoSave_0/AutoSave_0.lsv":
+        hash: fa404e4aabb15b891bf8e7ab715c7ff6ca28daae
+        size: 8102252
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-3018125206__Forest - 5h 50m/Forest - 5h 50m.WebP":
+        hash: 0c23fc59001d1f11c03fc91741896f5e342e5343
+        size: 134554
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-3018125206__Forest - 5h 50m/Forest - 5h 50m.lsv":
+        hash: cb1a0b63259f6b851194c1ee6dc7f45a94448157
+        size: 15329198
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-302612431156__AutoSave_2/AutoSave_2.WebP":
+        hash: 645615ef9613cd90213b4e0f7e4025298590e28c
+        size: 10376
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-302612431156__AutoSave_2/AutoSave_2.lsv":
+        hash: f35058d3e1e492ae8cde9f69d5a4cf4db9ba30be
+        size: 8140717
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-3181253052__AutoSave_16/AutoSave_16.WebP":
+        hash: 18879fe6f90bc7e1e5ef432b7e12028021631666
+        size: 176814
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-3181253052__AutoSave_16/AutoSave_16.lsv":
+        hash: 385cef229ae9e41f27b4b5408fb45b355586c28e
+        size: 15392488
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-32612461139__AutoSave_8/AutoSave_8.WebP":
+        hash: 244b76e806dae93dba86b5458bca01981ca06e03
+        size: 150826
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-32612461139__AutoSave_8/AutoSave_8.lsv":
+        hash: 2b8bd6b5f330180170c2e643f460cf47bca59516
+        size: 15169894
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-34181252051__Forest - 5h 55m/Forest - 5h 55m.WebP":
+        hash: 9517cf93e99c6cfb56e6550b507ff195368be923
+        size: 187372
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-34181252051__Forest - 5h 55m/Forest - 5h 55m.lsv":
+        hash: f0a91f4070a4db0b4fff993cfa6892a1d6030484
+        size: 15345582
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-3726124231120__Whispering Depths - 5h 09m/Whispering Depths - 5h 09m.WebP":
+        hash: ec26e6e33ff542928aab29aae16abe8b3539c543
+        size: 34778
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-3726124231120__Whispering Depths - 5h 09m/Whispering Depths - 5h 09m.lsv":
+        hash: c3e00d5906895d092bf1535826420c66252f26ec
+        size: 15258936
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-4226124211128__AutoSave_11/AutoSave_11.WebP":
+        hash: 56d5e711c8e1f72a947c27fa387fd026d401d5bb
+        size: 19172
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-4226124211128__AutoSave_11/AutoSave_11.lsv":
+        hash: 51c6d3ecbb22313b3c267722dfc7581d48e376e9
+        size: 15131176
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-432612431125__AutoSave_3/AutoSave_3.WebP":
+        hash: e5880965b54791307db746ef277d1691803d4de6
+        size: 53526
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-432612431125__AutoSave_3/AutoSave_3.lsv":
+        hash: f6e369164c1c216784022c19789da3844205533f
+        size: 8186923
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-432612481125__AutoSave_9/AutoSave_9.WebP":
+        hash: b2ff607f3bb102e4e603248e13672a63a8001986
+        size: 148664
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-432612481125__AutoSave_9/AutoSave_9.lsv":
+        hash: d0cfb2d4a6a6af1e3ed456f271b049db84060023
+        size: 15236392
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-442612441124__AutoSave_7/AutoSave_7.WebP":
+        hash: 77415408ec499e28dbcf31f7b6059fb1a9edccee
+        size: 145066
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-442612441124__AutoSave_7/AutoSave_7.lsv":
+        hash: e363423d60e3f6311f3afbe7a8f08e357d3c9408
+        size: 15039910
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-442612471148__The Hollow - 2h 48m/The Hollow - 2h 48m.WebP":
+        hash: 1ce2a791304745b30e8a42edf99b00a531b7075e
+        size: 177250
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-442612471148__The Hollow - 2h 48m/The Hollow - 2h 48m.lsv":
+        hash: 6a2fda987d31e63d9dac19ed895483b7872ba7aa
+        size: 15232434
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-45181251044__AutoSave_14/AutoSave_14.WebP":
+        hash: b6037a55ac55e167efca1e0049a61aeea2209cec
+        size: 104358
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-45181251044__AutoSave_14/AutoSave_14.lsv":
+        hash: 41611d39b585afe85c2bbe3d7f029dca1e7f7e2c
+        size: 15297063
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-45181253040__The Risen Road - 6h 50m/The Risen Road - 6h 50m.WebP":
+        hash: 167d21f02bd6f82909267548627c51438ac8e254
+        size: 177862
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-45181253040__The Risen Road - 6h 50m/The Risen Road - 6h 50m.lsv":
+        hash: 0d59ca36d7756d8b65166a093f17eb2647454ee5
+        size: 15411575
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-462612481132__Campsite - 3h 34m/Campsite - 3h 34m.WebP":
+        hash: 696dbf650fce52303fd7a3b8ef02280499e111fe
+        size: 181946
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-462612481132__Campsite - 3h 34m/Campsite - 3h 34m.lsv":
+        hash: 9e75aba15c3aa918b74c7cc50291efccc1c544e3
+        size: 15270063
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-472612431149__AutoSave_4/AutoSave_4.WebP":
+        hash: ad9209aa0321276a809161dcc1d1f60df03dc25b
+        size: 104318
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-472612431149__AutoSave_4/AutoSave_4.lsv":
+        hash: 3b31a09b43bec37ec7be1ae046a110524a7b1b66
+        size: 14973416
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-48181252057__AutoSave_15/AutoSave_15.WebP":
+        hash: 3633826421923142deb5d220962779ed44067e0f
+        size: 164518
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-48181252057__AutoSave_15/AutoSave_15.lsv":
+        hash: 92248e4cf9b1932ba39bee5bb8c513bcd3a59d5c
+        size: 15340136
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-4826124221123__AutoSave_12/AutoSave_12.WebP":
+        hash: 9459e5d6427b71c4caf664a2caea585cd78b56bc
+        size: 34596
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-4826124221123__AutoSave_12/AutoSave_12.lsv":
+        hash: 307ebe34c1a84e87cf57b6875551945313e89fbe
+        size: 15220391
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-49181253023__Waukeens Rest - 6h 54m/Waukeens Rest - 6h 54m.WebP":
+        hash: d096297762eddc753b357de2abaa25c1ea1de5c7
+        size: 157978
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-49181253023__Waukeens Rest - 6h 54m/Waukeens Rest - 6h 54m.lsv":
+        hash: 5524a226bab36fa03ece9d2ff127e08c693a7c82
+        size: 15383478
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-5026124221137__Whispering Depths - 4h 58m/Whispering Depths - 4h 58m.WebP":
+        hash: cd2b6aca012e0da68442c4230c0f9feb1eff2180
+        size: 49498
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-5026124221137__Whispering Depths - 4h 58m/Whispering Depths - 4h 58m.lsv":
+        hash: fea9676980fb8e278b503d48f5e7f814a03e343e
+        size: 15220281
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-52181251013__Forest - 5h 30m/Forest - 5h 30m.WebP":
+        hash: 6f5a14059cc75b6e462076a27ed3e776f371e056
+        size: 145980
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-52181251013__Forest - 5h 30m/Forest - 5h 30m.lsv":
+        hash: 4b706d071c5d5e57f31d94996d6b0e9ce4a25a8f
+        size: 15284079
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-572612421112__Wilderness - 4h 15m/Wilderness - 4h 15m.WebP":
+        hash: 22d747af641ed909cd0f4d2755cd395df23177a0
+        size: 35896
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-572612421112__Wilderness - 4h 15m/Wilderness - 4h 15m.lsv":
+        hash: 18d3daa0bbd0fa4a598665aeadf15dddca622ad3
+        size: 15158834
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-582612461119__The Hollow - 2h 01m/The Hollow - 2h 01m.WebP":
+        hash: e9a1875c20a0fd55b201a495f093bc18ffcd66b2
+        size: 76260
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-582612461119__The Hollow - 2h 01m/The Hollow - 2h 01m.lsv":
+        hash: 15bed2c16a65c36878c09594ca67ee140b16c9e2
+        size: 15148083
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-6181251044__Blighted Village - 5h 13m/Blighted Village - 5h 13m.WebP":
+        hash: 887ddf1b07170b0221b68f6d2cc93ad1ce9c4098
+        size: 25422
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/Savegames/Story/Hrotj-6181251044__Blighted Village - 5h 13m/Blighted Village - 5h 13m.lsv":
+        hash: 59130addff183cb483067496bd46735d5436438f
+        size: 15241336
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/UILayout.lsx":
+        hash: 7b4bb1df59604daa5ab11503b33a1de39c900935
+        size: 317
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/config.lsf":
+        hash: 793e17ef3731f6d87dc28baa0d72aa097f2d4f06
+        size: 1687
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/modsettings.lsx":
+        hash: d482892f8776121ab78d04fe4e5cd298ff4a4481
+        size: 2377
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public/profile8.lsf":
+        hash: df7d58785bc921982f55b8b4f0f7905f471cd4bf
+        size: 5204
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/playerprofiles8.lsf":
+        hash: 2a23fab0f495d2a50519e2f148fab94b7ede07ba
+        size: 1190
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/analytics.lsx":
+        hash: 6458b8ab76a678dae36198d2fb2b7424836ced51
+        size: 273
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/graphicSettings.lsx":
+        hash: 5185083c75f892d15c15efe665c307d11744e7a9
+        size: 7142
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/pipelineCacheTimestampVk.bin":
+        hash: dd10114cf9fbea2cf0659e8a16665fad9449f92e
+        size: 8
+      "/home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/vkDeviceConfig.lsx":
+        hash: 0bdc32789207a8d355f96cbe11a75a41c54c82dc
+        size: 402
+    registry:
+      hash: ~
+    children: []

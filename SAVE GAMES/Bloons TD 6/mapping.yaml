@@ -1,0 +1,21 @@
+---
+name: Bloons TD 6
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:35.144052455Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/960090/pfx/system.reg:
+        hash: 5301c17609c58a5be4b779279480cbc9b089d068
+        size: 3721785
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/960090/pfx/user.reg:
+        hash: ce6eb693dc1f23ad210098ce4c6b2753d5546e20
+        size: 46861
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/960090/pfx/userdef.reg:
+        hash: ec13b340c37576997f00ddd17790a06ce73ea96c
+        size: 4190
+    registry:
+      hash: ~
+    children: []

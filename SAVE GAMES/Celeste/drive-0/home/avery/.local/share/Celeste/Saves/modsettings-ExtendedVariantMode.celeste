@@ -1,0 +1,17 @@
+MasterSwitch: true
+EnabledVariants: {}
+ChangeVariantsRandomly: false
+VariantSet: 3
+ChangeVariantsInterval: 0
+RandomizerEnabledVariants: {}
+RerollMode: false
+MaxEnabledVariants: 10
+RandoSetSeed: 
+Vanillafy: 0
+DisplayEnabledVariantsToScreen: false
+OnScreenDisplayTextOpacity: 1
+OnScreenDisplayBackgroundOpacity: 0.80000001192092896
+HotKey_DisplayEnabledVariantsToScreen:
+  Buttons: []
+  Keys: []
+  MouseButtons: []

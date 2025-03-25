@@ -1,0 +1,1 @@
+resource/ui/mainmenuoverride.res{valvercwarning{visible 0 enabled 0}} 

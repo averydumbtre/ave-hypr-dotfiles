@@ -1,0 +1,4 @@
+HookLazyLoading: false
+FastShapeDraw: false
+NoRespawnGC: false
+DebugMapCulling: false

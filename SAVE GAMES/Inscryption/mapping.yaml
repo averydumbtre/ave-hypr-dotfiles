@@ -1,0 +1,15 @@
+---
+name: Inscryption
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T04:48:38.423809183Z"
+    os: linux
+    files:
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/Inscryption/Inscryption/SaveFile.gwsave:
+        hash: 0d707274751d3b67c84985ab13352b4e375d3607
+        size: 220160
+    registry:
+      hash: ~
+    children: []

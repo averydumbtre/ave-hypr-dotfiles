@@ -1,0 +1,24 @@
+---
+name: Yakuza 0
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:20.849630005Z"
+    os: linux
+    files:
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/GOG.com/Galaxy/Applications/55966314534907843/Storage/Shared/Files/SaveData0000.sav:
+        hash: 0effc5f9e5e8df2064035f2f6a17e8d9a436b8b7
+        size: 167720
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/GOG.com/Galaxy/Applications/55966314534907843/Storage/Shared/Files/SaveData0001.sav:
+        hash: 1a60c78879c7e561e44db0cb04cd767eae5079c0
+        size: 167720
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/GOG.com/Galaxy/Applications/55966314534907843/Storage/Shared/Files/SaveData0002.sav:
+        hash: b40534718591b0c3d8ad98247c140167d420dfee
+        size: 167720
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Local/GOG.com/Galaxy/Applications/55966314534907843/Storage/Shared/Files/system.sys:
+        hash: e91b14a3d62eeeda5dbe7ab9e129dc45c53753b7
+        size: 1536
+    registry:
+      hash: ~
+    children: []

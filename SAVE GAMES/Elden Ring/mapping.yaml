@@ -1,0 +1,24 @@
+---
+name: Elden Ring
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:33.139115739Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/AppData/Roaming/EldenRing/76561198974162714/ER0000.sl2:
+        hash: 6c38c6157d369df906eee7efb971ef53eda12df8
+        size: 28967888
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/AppData/Roaming/EldenRing/76561198974162714/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/Application Data/EldenRing/76561198974162714/ER0000.sl2:
+        hash: 6eff25d2f35cb7770a5893fd948fb67c91b9da78
+        size: 28967888
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/compatdata/1245620/pfx/drive_c/users/steamuser/Application Data/EldenRing/76561198974162714/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+    registry:
+      hash: ~
+    children: []

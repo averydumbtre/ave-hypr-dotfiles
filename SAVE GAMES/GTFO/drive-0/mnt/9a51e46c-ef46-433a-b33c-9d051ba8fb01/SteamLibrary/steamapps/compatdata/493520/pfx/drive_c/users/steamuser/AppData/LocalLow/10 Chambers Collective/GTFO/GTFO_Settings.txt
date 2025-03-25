@@ -1,0 +1,1728 @@
+{
+  "Version": 0.16,
+  "Player": {
+    "SavedVersion": 0.11,
+    "PlayerColor": {
+      "Value": 0
+    },
+    "PreferedCharacter": {
+      "Value": 0
+    },
+    "LobbySlotPermissions": [
+      "Free",
+      "Free",
+      "Free"
+    ]
+  },
+  "Gameplay": {
+    "SavedVersion": 0.13,
+    "InvertMouse": {
+      "Value": false
+    },
+    "CrouchToggle": {
+      "Value": true
+    },
+    "RunToggle": {
+      "Value": false
+    },
+    "LeftHandMode": {
+      "Value": false
+    },
+    "AimToggle": {
+      "Value": false
+    },
+    "SeparateUse": {
+      "Value": false
+    },
+    "HideSyringeNeedle": {
+      "Value": false
+    },
+    "InertiaAmount": {
+      "Value": 1.0
+    },
+    "CameraShakeAmount": {
+      "Value": 1.0
+    },
+    "EnableLedFX": {
+      "Value": true
+    },
+    "WeaponRelaxPose": {
+      "Value": true
+    },
+    "CrouchTilt": {
+      "Value": true
+    },
+    "AutoReload": {
+      "Value": true
+    },
+    "HoldToShowComsList": {
+      "Value": true
+    },
+    "LookSpeed": {
+      "Value": 0.5
+    },
+    "LookSpeedMenu": {
+      "Value": 0.6
+    },
+    "LookSpeedAiming": {
+      "Value": 0.5
+    },
+    "GamepadLookSpeed": {
+      "Value": 0.5
+    },
+    "GamepadLookSpeedMenu": {
+      "Value": 0.35
+    },
+    "GamepadMaxAcc": {
+      "Value": 0.5
+    },
+    "StandWhenJumpToggle": {
+      "Value": false
+    },
+    "VoiceCommandsInChat": {
+      "Value": true
+    }
+  },
+  "Video": {
+    "SavedVersion": 0.2,
+    "PimaryDisplay": {
+      "Value": "0"
+    },
+    "Resolution": {
+      "Value": {
+        "x": 1920.0,
+        "y": 1080.0,
+        "normalized": {
+          "x": 0.871575534,
+          "y": 0.490261227,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2202.90723,
+        "sqrMagnitude": 4852800.0
+      }
+    },
+    "FullScreen": {
+      "Value": 1
+    },
+    "Fov": {
+      "Value": 55
+    },
+    "VerticalSync": {
+      "Value": false
+    },
+    "MotionBlur": {
+      "Value": 50
+    },
+    "SSAO": {
+      "Value": 1
+    },
+    "SSR": {
+      "Value": 2
+    },
+    "SubsurfaceScattering": {
+      "Value": true
+    },
+    "ContactShadows": {
+      "Value": true
+    },
+    "GIQuality": {
+      "Value": 1
+    },
+    "ShadowResolution": {
+      "Value": 2
+    },
+    "ShadowQuality": {
+      "Value": 1
+    },
+    "ShadowUpdatesPerFrame": {
+      "Value": 4
+    },
+    "PlayerShadows": {
+      "Value": false
+    },
+    "FogQuality": {
+      "Value": 2
+    },
+    "TextureSize": {
+      "Value": 2
+    },
+    "Antialiasing": {
+      "Value": 0
+    },
+    "AnisotropicFiltering": {
+      "Value": true
+    },
+    "MaxQueuedRenderFrames": {
+      "Value": 2
+    },
+    "ClusterBoundsCPUWorkLoad": {
+      "Value": 1
+    },
+    "DOFEnabled": {
+      "Value": true
+    },
+    "BloomEnabled": {
+      "Value": true
+    },
+    "TargetFramerate": {
+      "Value": 360
+    },
+    "SampleNoise": {
+      "Value": true
+    },
+    "Dithering": {
+      "Value": false
+    }
+  },
+  "Audio": {
+    "SavedVersion": 0.11,
+    "MasterVolume": {
+      "Value": 1.0
+    },
+    "SFXVolume": {
+      "Value": 0.75
+    },
+    "MusicVolume": {
+      "Value": 0.75
+    },
+    "DialogVolume": {
+      "Value": 0.75
+    },
+    "MuteInBackground": {
+      "Value": false
+    },
+    "MuteVoiceComLines": {
+      "Value": false
+    }
+  },
+  "VoiceChat": {
+    "SavedVersion": 0.2,
+    "Mode": {
+      "Value": 1
+    },
+    "VoiceVolume": {
+      "Value": 0.5
+    },
+    "MicrophoneVolume": {
+      "Value": 1.0
+    },
+    "MicrophoneName": {
+      "Value": "PulseAudio Input (PulseAudio Input)"
+    },
+    "PushToTalk_EnableSound": {
+      "Value": true
+    }
+  },
+  "HUD": {
+    "SavedVersion": 0.15,
+    "Player_Skewing": {
+      "Value": 1.0
+    },
+    "Player_PixelEffects": {
+      "Value": 1.0
+    },
+    "Player_HUDOpacity": {
+      "Value": 0.8
+    },
+    "Player_CrosshairOpacity": {
+      "Value": 0.8
+    },
+    "Player_HitIndicatorOpacity": {
+      "Value": 0.8
+    },
+    "Player_HitIndicatorShow": {
+      "Value": true
+    },
+    "Player_HUDFPSCounter": {
+      "Value": false
+    },
+    "Player_AlwaysShowTeammateInfo": {
+      "Value": true
+    },
+    "Player_GhostOpacity": {
+      "Value": 0.25
+    },
+    "Map_AutoCenterOnPlayer": {
+      "Value": true
+    },
+    "Compass_show": {
+      "Value": true
+    },
+    "Compass_scale": {
+      "Value": 1.0
+    },
+    "Inventory_show": {
+      "Value": true
+    },
+    "Inventory_scale": {
+      "Value": 1.0
+    },
+    "Chat_show": {
+      "Value": true
+    },
+    "Chat_scale": {
+      "Value": 1.0
+    },
+    "Statusbar_show": {
+      "Value": true
+    },
+    "Statusbar_scale": {
+      "Value": 1.0
+    },
+    "Subtitles_show": {
+      "Value": true
+    },
+    "Subtitles_scale": {
+      "Value": 1.0
+    },
+    "Intel_scale": {
+      "Value": 1.0
+    },
+    "Objective_show": {
+      "Value": true
+    },
+    "Objective_scale": {
+      "Value": 1.0
+    }
+  },
+  "Accessibility": {
+    "SavedVersion": 0.211,
+    "Language": {
+      "Value": 1
+    },
+    "PhotosensitivityWarning": {
+      "Value": true
+    },
+    "DisplayDataOnDiscord": {
+      "Value": true
+    }
+  },
+  "KeyBindings": {
+    "SavedVersion": 0.211,
+    "KeyMouseBindings": [
+      {
+        "action": "MoveHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "A",
+        "isNegativeAxisComp": true,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MoveHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "D",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MoveVertical",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "S",
+        "isNegativeAxisComp": true,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MoveVertical",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "W",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuMoveHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "LeftArrow",
+        "isNegativeAxisComp": true,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuMoveHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "RightArrow",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuMoveVertical",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "DownArrow",
+        "isNegativeAxisComp": true,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuMoveVertical",
+        "type": "AxisTwoInput",
+        "device": "Keyboard",
+        "keycode": "UpArrow",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "LookHorizontal",
+        "type": "Axis",
+        "device": "Mouse",
+        "keycode": "None",
+        "axisName": "MouseX",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "LookVertical",
+        "type": "Axis",
+        "device": "Mouse",
+        "keycode": "None",
+        "axisName": "MouseY",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Jump",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Space",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Use",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "E",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "UseOnAlly",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "T",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Reload",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "R",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Melee",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "C",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Aim",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 1,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Fire",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Run",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "LeftShift",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Crouch",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "LeftControl",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectMelee",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha1",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectStandard",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha2",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectSpecial",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha3",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectTool",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha4",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectResourcePack",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha5",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectConsumable",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha6",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectHackingTool",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Alpha7",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ScrollItems",
+        "type": "Axis",
+        "device": "Mouse",
+        "keycode": "None",
+        "axisName": "MouseScrollWheel",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleGear",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Y",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Flashlight",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "F",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleMap",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Tab",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleObjectives",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "O",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ImplantSmall",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Z",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ImplantBig",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "X",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalExit",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Escape",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalUp",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "UpArrow",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalDown",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "DownArrow",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalLeft",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "LeftArrow",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalRight",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "RightArrow",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalDel",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Delete",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalHome",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Home",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalEnd",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "End",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "DebugMenuToggle",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "F12",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuToggle",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Escape",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleCommunicationMenu",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Q",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectCommunicationMenu",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 2,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuClick",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuClickLeftHand",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 1,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuClickAlternate",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Return",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuExit",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Escape",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuScroll",
+        "type": "Axis",
+        "device": "Mouse",
+        "keycode": "None",
+        "axisName": "MouseScrollWheel",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuHoldScrollBtn",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 2,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "VoiceChatPushToTalk",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "LeftAlt",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TextChatOpenSend",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Return",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TextChatClose",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Escape",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "NavMarkerPing",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 2,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MapDrag",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 2,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MapZoom",
+        "type": "Axis",
+        "device": "Mouse",
+        "keycode": "None",
+        "axisName": "MouseScrollWheel",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "CreateUserReport",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "F10",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ShowTeammateInfo",
+        "type": "Button",
+        "device": "Mouse",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 3,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "FreeflightSpeedScroll",
+        "type": "Axis",
+        "device": "Mouse",
+        "keycode": "None",
+        "axisName": "MouseScrollWheel",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "FreeflightSpeedDouble",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "LeftShift",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "FreeflightTeleportPlayer",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "T",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "FreeflightToggleLegend",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Tab",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "FreeflightTogglePause",
+        "type": "Button",
+        "device": "Keyboard",
+        "keycode": "Space",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      }
+    ],
+    "GamepadBindings": [
+      {
+        "action": "MoveHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "LeftStickRight",
+        "axisNegGamepadInput": "LeftStickLeft",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MoveVertical",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "LeftStickUp",
+        "axisNegGamepadInput": "LeftStickDown",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuMoveHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "LeftStickRight",
+        "axisNegGamepadInput": "LeftStickLeft",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuMoveVertical",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "LeftStickUp",
+        "axisNegGamepadInput": "LeftStickDown",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "GamepadLookHorizontal",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "RightStickRight",
+        "axisNegGamepadInput": "RightStickLeft",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "GamepadLookVertical",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "RightStickUp",
+        "axisNegGamepadInput": "RightStickDown",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Jump",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Action1",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Use",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "RightBumper",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "UseOnAlly",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "RightBumper",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Reload",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Action3",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Aim",
+        "type": "AxisToButton",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "LeftTrigger",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.15,
+        "axisToButtonReleaseLength": 0.15,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Fire",
+        "type": "AxisToButton",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "RightTrigger",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.05,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "GamepadFireTrigger",
+        "type": "Axis",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "RightTrigger",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Run",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "LeftStickButton",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Crouch",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Action2",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleGear",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ScrollItems",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Flashlight",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "LeftBumper",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ImplantSmall",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "LeftBumper",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ImplantBig",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "RightBumper",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuClick",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Action1",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuClickLeftHand",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Action1",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuToggle",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Start",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MenuExit",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Start",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TerminalExit",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Start",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TextChatClose",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Start",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleMap",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "DPadRight",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "MapZoom",
+        "type": "AxisTwoInput",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "LeftBumper",
+        "axisNegGamepadInput": "RightBumper",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleObjectives",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "DPadLeft",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ToggleCommunicationMenu",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Back",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "SelectCommunicationMenu",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Back",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "VoiceChatPushToTalk",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "TextChatOpenSend",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "Action4",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "NavMarkerPing",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "RightStickButton",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "Melee",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "None",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ScrollItemRight",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "DPadDown",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      },
+      {
+        "action": "ScrollItemLeft",
+        "type": "Button",
+        "device": "Gamepad",
+        "keycode": "None",
+        "isNegativeAxisComp": false,
+        "gamepadInput": "DPadUp",
+        "axisPosGamepadInput": "None",
+        "axisNegGamepadInput": "None",
+        "mouseButtonIndex": 0,
+        "axisToButtonThreshold": 0.0,
+        "axisToButtonReleaseLength": 0.0,
+        "isNonAxisMouseHorizontal": false
+      }
+    ]
+  }
+}

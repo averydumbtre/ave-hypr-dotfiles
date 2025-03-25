@@ -1,0 +1,36 @@
+---
+name: Webfishing
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:34.961466613Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/logs/godot.log:
+        hash: eb8f69a7c062b1d22e82f6e8e549d8dec6e3f371
+        size: 2017492
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/logs/godot2024-11-17T16.40.21.log:
+        hash: 9b4abd4cef59b84b748ad06c40d460bafa5136ff
+        size: 3251213
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/logs/godot2024-11-17T19.21.34.log:
+        hash: ee8795667693b1de7228dec901fe101d696cacbb
+        size: 3081405
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/logs/godot2024-11-24T16.21.37.log:
+        hash: 93f5eaeddd6bfe8de38781c81f2a7f6caef653c3
+        size: 2337017
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/logs/godot2024-12-01T14.21.58.log:
+        hash: b85970c9e54a987b594bb059f5bba83ac2f0bca7
+        size: 11387
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/webfishing_backup_save_slot_0.backup:
+        hash: a83e15160316142fe17112c0ccd18677d24b5d1b
+        size: 34344
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/webfishing_general_data.sav:
+        hash: 591de289c6fa3f45a90a42288830cbcca1742b27
+        size: 724
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/3146520/pfx/drive_c/users/steamuser/AppData/Roaming/Godot/app_userdata/webfishing_2_newver/webfishing_save_slot_0.sav:
+        hash: a83e15160316142fe17112c0ccd18677d24b5d1b
+        size: 34344
+    registry:
+      hash: ~
+    children: []

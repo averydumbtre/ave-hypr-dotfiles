@@ -1,0 +1,333 @@
+---
+name: Teardown
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:17.313992292Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/imgui.ini:
+        hash: 39ca5d116eb3fb2f5fc69e8b97a32aefe43b8e9d
+        size: 66
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/log.txt:
+        hash: b34fba44dcdd52aa73ac4f7133aaccfb63be4250
+        size: 4038
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/mods.xml:
+        hash: d1a9a2ee4f7b473acd2ac70d5d4b9bcb084aed84
+        size: 3612
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/options.xml:
+        hash: d35f5fa4562e5b4c95b97210697f5e7bf7edb054
+        size: 5539
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo.txt:
+        hash: 5757127f28a64ec8970d3bf5ee70e4cf86e8d055
+        size: 44
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/enemy/basilisco.jpg:
+        hash: 7a117ea0fb9fef2d5ff2130cf4f02c1c2846954c
+        size: 36058
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/enemy/colossus.jpg:
+        hash: 0cba87ac6cbc205f5d94daddf786c7edb987b7ab
+        size: 55081
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/enemy/ketos.jpg:
+        hash: 8b0e8a3f977fd3974d3a9057f877df440438ebad
+        size: 130078
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/enemy/snake.jpg:
+        hash: 5cb584bb0bfea1ca80beee00ac7cbc15c543946d
+        size: 80142
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/enemy/tearex.jpg:
+        hash: 5b5704aeae89091cead1b578e6694574c699c7d0
+        size: 72396
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/enemy/zombies.jpg:
+        hash: c13d535cbdd5386e46e67407f9a4a9f161389745
+        size: 40307
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/accurate.jpg:
+        hash: 1a1ae0cb5ec64cbd6640ffe32ded9c33184efed6
+        size: 61584
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/chronos.jpg:
+        hash: 94dea1ddada0bd22ba55df43d2e847fda2eff35e
+        size: 52528
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/cosmonaut.jpg:
+        hash: 090afd79f2ea2f00164c36a09bd0cbc225d18a70
+        size: 38600
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/destructible.jpg:
+        hash: 13aa721cb62b502ea7f690ed0066cb988435d33e
+        size: 63101
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/fight.jpg:
+        hash: 43b46d8d821f4150f817df3cf3fdf4ee4c99fe44
+        size: 36136
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/forgotten.jpg:
+        hash: 43139d2031aa2d354491d259e71ebfd402691573
+        size: 47077
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/justrun.jpg:
+        hash: 840f3a2f6f91a075ab5d6f806eff2eef1178aeaa
+        size: 50846
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/lightbearer.jpg:
+        hash: 99aa2fff8e20fe3aa7edfaaeeb2fedca4757e83a
+        size: 42307
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/mors_longa.jpg:
+        hash: 5f8af3193a8d4f681f1c1ebe26177501a957049b
+        size: 82503
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/norway.jpg:
+        hash: 056c00ee6307f290d7d237566d0c3756a020f2a8
+        size: 80680
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/swatchwhip.jpg:
+        hash: 72b34848c8c4b290abc93455fd17e51730d1c47f
+        size: 40373
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/gameplay/touring.jpg:
+        hash: 44fe2f6a1bdafd9c5f286e0c4fadba7b0c4c326c
+        size: 47889
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/mini/cyberpunk_city.jpg:
+        hash: df1edda3c8529a5b2b675d199ea707a7aef5d1df
+        size: 76334
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/mini/micrometropolis.jpg:
+        hash: 2afbd9908922d3d9df1376e531dc8120e7ba2051
+        size: 63620
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/mini/miniworld.jpg:
+        hash: 814d1e7a6b440d1b7af0708a7512871b17fb1b8f
+        size: 75297
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/mini/newyork.jpg:
+        hash: f0bfc5dcdee46054d9682e6e55bb6978228ca72b
+        size: 62775
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/new/felltitan.jpg:
+        hash: d03ac479edb53347e9834e952a8414010cbe6c34
+        size: 126349
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/new/gnomezone.jpg:
+        hash: dde1c04e2a838d8db9e6eeba31574c80f60effe1
+        size: 127996
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/new/headcrabswarmap.jpg:
+        hash: 962fd0a6e5923be2db76d840bfa523f80a114d06
+        size: 161591
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/new/lightninggun.jpg:
+        hash: 924a78aeca4aa6d818581714d7d71052d0fa1d64
+        size: 143794
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/new/musicfestival.jpg:
+        hash: fee440f6289213fd9671279cc3f2b090732f8a92
+        size: 149949
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/promo.xml:
+        hash: 01821d02dfc0fcf5f55bc5838fad021a2905e0c3
+        size: 27837
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/WTDN12newsstudio.jpg:
+        hash: 995e7f3a7061c8e088c33587e1451392ff0cb953
+        size: 103067
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/armanty.jpg:
+        hash: f4b4cd363e25ba1d893bf09b9e5a07ebfe1a19e3
+        size: 67604
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/bluetidefactory.jpg:
+        hash: c29253ab18e0291cdf3d7c0c4fca74a84ae988f2
+        size: 128682
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/brightvalley.jpg:
+        hash: 5b5ae1a89486811f3d97a8805b10234289245fd7
+        size: 111779
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/california_house.jpg:
+        hash: e6e3da0edf255e5e5013efde1db85924b2fdd3b0
+        size: 99155
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/cliff_house.jpg:
+        hash: 674656c6639ff49a3a226917f811d960b5c01895
+        size: 52222
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/countryside.jpg:
+        hash: ee6e8aecaeba9a002a39eb7ef305e1c0aa277884
+        size: 66643
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/cyberdown.jpg:
+        hash: 612d155d05f08d018e31cd6f217ea0d309303c8f
+        size: 126383
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/invpyramid.jpg:
+        hash: dd8509e6f136cf57e0105ed2e4035f4bbbfdcf1e
+        size: 51980
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/junkyard.jpg:
+        hash: 6c8c9fc208b500946b56b221e99c49b0e21bdb10
+        size: 114523
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/library.jpg:
+        hash: a57fc474ef8b3f1dbca52347e857934f6d7dcb91
+        size: 54167
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/mexico.jpg:
+        hash: b9e9525383c39d4bc447e4b36f3753c1d04143a9
+        size: 160209
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/montagna.jpg:
+        hash: c12b1b6819ce80683e0ffadf7017d2d5c3b7a4d5
+        size: 78559
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/northpinemall.jpg:
+        hash: a1bcde14c0cf8afd1567c1dba5fb7645d4729685
+        size: 149815
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/oakvillage.jpg:
+        hash: 67b00ce86ec825f3c4f7bb594e3a6fd61c976f4e
+        size: 78407
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/offthegrid.jpg:
+        hash: 55cfe2da7dff1427c8ea9c15846aba9db2c33701
+        size: 70277
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/russiantown.jpg:
+        hash: fe1099e3fd5585144f3c2043ddcbf6f60ca3cc87
+        size: 86843
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/theblastfurnace.jpg:
+        hash: fdd96377f698f57199c0136e213e25c69dfd7422
+        size: 104926
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/sandbox/voxelplaza.jpg:
+        hash: 647b376f83bf0612274fea9adf82e64e70707611
+        size: 97768
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/scifi/abductizer.jpg:
+        hash: 8eedb6d35956f72e4c6226776ae730ebae7aac3b
+        size: 47258
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/scifi/sci-fi_asset_pack.jpg:
+        hash: 3502561a50b9d11c5889f4e67089c018319e9389
+        size: 35653
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/barricade.jpg:
+        hash: f1bf642530513eb67e18c8ada945cb7cfffee2bc
+        size: 58820
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/bikes.jpg:
+        hash: 4f9b7be1043079ef8dc5f14abfb87ff407327863
+        size: 70995
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/bridgelaunchersystem.jpg:
+        hash: 7bcea289b738d154e2c4700617c87a8fdd6afef8
+        size: 77619
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/catapult.jpg:
+        hash: 49095e27b5d819c9f4349f27fd6357832d80020d
+        size: 70324
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/crossbow.jpg:
+        hash: bddcf4870e6537bc33698fd14fc4a5b1100e5df0
+        size: 80432
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/friends.jpg:
+        hash: e78ec135a5d00e9f6c0e6bebc1a1ce269b18ed90
+        size: 78125
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/futuristic_car_pack.jpg:
+        hash: 632a17d911045e9a054e29cd2e4fa3ce8d7ce8e3
+        size: 95368
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/geardown.jpg:
+        hash: 7d0280d775d05ba501ba3d4eaa79551b0df85fc1
+        size: 62987
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/gore.jpg:
+        hash: 38a3c5d80437e78013a7078f6ba30a015fa7af07
+        size: 60232
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/movie.jpg:
+        hash: b2c5aad97a480497ca69140d85ef22f4b67bce7b
+        size: 40170
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/props.jpg:
+        hash: 017716ff46de127ce8a68a48894ed789527740b6
+        size: 53598
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/random.jpg:
+        hash: 9d6038273fbc01a74ac79001e1ff7d8cab659941
+        size: 69084
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/robotvehicle.jpg:
+        hash: 1fa57375cf5ae53c401ac894de485eb64f4e1dca
+        size: 76586
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/tiny.jpg:
+        hash: 81fdd242c2f5d6c6fc0c8756f7ac7f22b567cdcd
+        size: 43301
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/spawn/vortexesandtornadoes.jpg:
+        hash: 3f226da3f8353a56aee99ae37e058ff241a1649d
+        size: 129014
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/airstrike.jpg:
+        hash: 59d6cedf1659f8f79b9b3fc15133c6fca4d6a82f
+        size: 62163
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/attack-drone.jpg:
+        hash: ecd91c11b4c9fff591fd9c3e84681b0a7b771705
+        size: 54024
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/c4.jpg:
+        hash: 6cf310ce218f28e9c485214ee7a42cd015e83084
+        size: 72815
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/detcord.jpg:
+        hash: b6f90b339db8b062a3a1a8171a177212112d3733
+        size: 115295
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/everythingrevolver.jpg:
+        hash: 06966569ff3b37d212c25c0d72d599bb57266841
+        size: 139609
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/fire-hose.jpg:
+        hash: 20838c33a61e056985d61d15899a2de9030d3279
+        size: 71342
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/glare.jpg:
+        hash: 20b8f07924f803338f342c3c769ead31101d7384
+        size: 130989
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/hook-shotgun.jpg:
+        hash: 761ab48cef71d3c40c2481900898d353735e1078
+        size: 108066
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/iron.jpg:
+        hash: 16bb2e2c0958891a0518168cbb2cbe87585f311b
+        size: 72095
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/magnet.jpg:
+        hash: 4ebd69d16cbf15932d00cfba498cf26957dfaec4
+        size: 78724
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/piano.jpg:
+        hash: 08fbbaffd7e500388a2d1f5ba73ff6f852f9f0b4
+        size: 91149
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/remote-control.jpg:
+        hash: eb5fa94534d7adc049571ca00a299a4d5d2a1a50
+        size: 57955
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/smart_pistol.jpg:
+        hash: 5a81f5f3ec92383cd2dadf34cacc5fdcb0654f1c
+        size: 38204
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/thermite-cannon.jpg:
+        hash: e4e1db025fa3472982dd3e5d373f0ed42a69b200
+        size: 55769
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/vacuum.jpg:
+        hash: e825a7d6be26510406315862ae8648d844aeaac7
+        size: 63901
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/weld.jpg:
+        hash: 2bf3a352f0b51b9c4afa7a87cde4877cd670c523
+        size: 91094
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/tool/zenitka.jpg:
+        hash: 5ecba275a13e83c36506f6b5cb34d625b668c4f8
+        size: 27952
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/acid.jpg:
+        hash: 16b501f081d1901881dc7d7eaca60e415701ec94
+        size: 68612
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/airspray.jpg:
+        hash: ae7c9af583a94289b5d69b40b96afe0fb5a55397
+        size: 68798
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/birds.jpg:
+        hash: f3997f7ae41e2d661efe8300fa13d6c85e3cc79b
+        size: 169212
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/boys.jpg:
+        hash: 8f23db9921246ae588b080e27c8ec841b4f3f7a3
+        size: 64620
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/dog.jpg:
+        hash: 3d4a4d8a45f8c68474f3abb41631120815b6ba7f
+        size: 64508
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/drivable.jpg:
+        hash: 14ff75d2cabc33e888520163f20c37ef6ac3e80b
+        size: 43396
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/driveanything.jpg:
+        hash: 9db9e9ab4addc8a118dd71ae4fb8089215f9566d
+        size: 133610
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/fishlauncher.jpg:
+        hash: 89136c7c64e01b0498ddb6bc69c252b8097df1e5
+        size: 36934
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/flowerdemo.jpg:
+        hash: 3030bc6d2ac3eb559583bcdb28cfd12319ecd82f
+        size: 46845
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/hover.jpg:
+        hash: c91bbbd58947d0a635502c807a570cfc4e055797
+        size: 61979
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/instantcamera.jpg:
+        hash: 5c1f99683ca2a84eac4713c9f246b2a15cd210a5
+        size: 55376
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/naturalphenomena.jpg:
+        hash: 13fa27e8fd30b7fc2da0c917c0da15ed6da2533d
+        size: 149939
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/sphere.jpg:
+        hash: 0ada65aa5b601c1920b75b938cabb0a00f6bc1c5
+        size: 35932
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/spray.jpg:
+        hash: d2f82ae276a5c7a138ca1709823198b26eddfeb8
+        size: 47992
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/tvatimestick.jpg:
+        hash: ca923185649c40383319bdcca1385c4c0544d5a5
+        size: 146496
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/wacker.jpg:
+        hash: 09099ae61cc88eb2ab6359e48ef91a208caeedb9
+        size: 70138
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/promo/weird/weaponphysics.jpg:
+        hash: 923dd2f8589c7dcd2ea3b4ed33135e4ec36187ff
+        size: 71169
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/quicksave.bin:
+        hash: d16475bc7c8f7aa9fd9b7ffe096b94b6c793c43f
+        size: 29601955
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/savegame-backup-1.5.4.xml:
+        hash: 3d755f4d6f2f982d913f9ee1455bd88ddac00cec
+        size: 10828
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/savegame.xml:
+        hash: 0764ce26213675957d49054aa357da9982290fcc
+        size: 10828
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/compatdata/1167630/pfx/drive_c/users/steamuser/AppData/Local/Teardown/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+    registry:
+      hash: ~
+    children: []

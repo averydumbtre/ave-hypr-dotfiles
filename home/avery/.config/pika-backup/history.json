@@ -1,0 +1,216 @@
+{
+  "0f4daa6a-671d-4a77-96c0-001af9298446": {
+    "config_version": 2,
+    "run": [
+      {
+        "end": "2025-02-23T18:11:06.031765467-08:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 9361.794083,
+                "id": "358a581cd1c27ee8cd8861510dc19c97984798c3bba5dab2f964fa889a4c21a7",
+                "name": "a7dfcc-9bcb2adc",
+                "stats": {
+                  "compressed_size": 2641580946566,
+                  "deduplicated_size": 229284898940,
+                  "nfiles": 1318208,
+                  "original_size": 3077815234051
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "WARNING",
+              "name": "borg.archiver",
+              "message": "/home/avery/.nuget/.local/share/Trash/files/nvidia-oc.sh: open: [Errno 13] Permission denied: 'nvidia-oc.sh'",
+              "msgid": {
+                "Other": "BackupPermissionError"
+              }
+            }
+          }
+        ],
+        "include": [
+          "",
+          "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba",
+          "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01",
+          "/mnt/9c1b5651-fb99-4525-9716-4137b631551a"
+        ],
+        "exclude": [
+          "Caches",
+          "Trash"
+        ]
+      },
+      {
+        "end": "2025-02-01T18:45:56.701160132-08:00",
+        "outcome": {
+          "Aborted": {
+            "RepositoryNotAvailable": "UserCanceled"
+          }
+        },
+        "messages": [],
+        "include": [
+          "",
+          "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba",
+          "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01",
+          "/mnt/9c1b5651-fb99-4525-9716-4137b631551a"
+        ],
+        "exclude": [
+          "Caches",
+          "Trash"
+        ]
+      },
+      {
+        "end": "2025-01-14T09:13:29.989906613-08:00",
+        "outcome": {
+          "Completed": {
+            "stats": {
+              "archive": {
+                "duration": 39073.837649,
+                "id": "21b0af553d2b14eb4f108f72fb17ce8e5fb9059a01dded218259c7648610c399",
+                "name": "a7dfcc-6926c3be",
+                "stats": {
+                  "compressed_size": 2439968032862,
+                  "deduplicated_size": 1819726319398,
+                  "nfiles": 675909,
+                  "original_size": 2866074163624
+                }
+              }
+            }
+          }
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "passphrase supplied in BORG_PASSPHRASE, by BORG_PASSCOMMAND or via BORG_PASSPHRASE_FD is incorrect.",
+              "msgid": "PassphraseWrong"
+            }
+          },
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "passphrase supplied in BORG_PASSPHRASE, by BORG_PASSCOMMAND or via BORG_PASSPHRASE_FD is incorrect.",
+              "msgid": "PassphraseWrong"
+            }
+          },
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "passphrase supplied in BORG_PASSPHRASE, by BORG_PASSCOMMAND or via BORG_PASSPHRASE_FD is incorrect.",
+              "msgid": "PassphraseWrong"
+            }
+          }
+        ],
+        "include": [
+          "",
+          "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba",
+          "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01",
+          "/mnt/9c1b5651-fb99-4525-9716-4137b631551a"
+        ],
+        "exclude": [
+          "Caches",
+          "Trash"
+        ]
+      },
+      {
+        "end": "2025-01-13T15:56:52.561043028-08:00",
+        "outcome": {
+          "Aborted": "LeftRunning"
+        },
+        "messages": [],
+        "include": [],
+        "exclude": []
+      },
+      {
+        "end": "2025-01-13T15:56:24.646558549-08:00",
+        "outcome": {
+          "Aborted": "User"
+        },
+        "messages": [
+          {
+            "ParsedErr": {
+              "levelname": "ERROR",
+              "name": "borg.archiver",
+              "message": "Error: Got Ctrl-C / SIGINT.",
+              "msgid": {
+                "Other": "Error"
+              }
+            }
+          }
+        ],
+        "include": [
+          "",
+          "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba",
+          "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01",
+          "/mnt/9c1b5651-fb99-4525-9716-4137b631551a"
+        ],
+        "exclude": [
+          "Caches",
+          "Trash"
+        ]
+      }
+    ],
+    "running": null,
+    "last_completed": {
+      "end": "2025-02-23T18:11:06.031765467-08:00",
+      "outcome": {
+        "Completed": {
+          "stats": {
+            "archive": {
+              "duration": 9361.794083,
+              "id": "358a581cd1c27ee8cd8861510dc19c97984798c3bba5dab2f964fa889a4c21a7",
+              "name": "a7dfcc-9bcb2adc",
+              "stats": {
+                "compressed_size": 2641580946566,
+                "deduplicated_size": 229284898940,
+                "nfiles": 1318208,
+                "original_size": 3077815234051
+              }
+            }
+          }
+        }
+      },
+      "messages": [
+        {
+          "ParsedErr": {
+            "levelname": "WARNING",
+            "name": "borg.archiver",
+            "message": "/home/avery/.nuget/.local/share/Trash/files/nvidia-oc.sh: open: [Errno 13] Permission denied: 'nvidia-oc.sh'",
+            "msgid": {
+              "Other": "BackupPermissionError"
+            }
+          }
+        }
+      ],
+      "include": [
+        "",
+        "/mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba",
+        "/mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01",
+        "/mnt/9c1b5651-fb99-4525-9716-4137b631551a"
+      ],
+      "exclude": [
+        "Caches",
+        "Trash"
+      ]
+    },
+    "last_check": null,
+    "suggested_exclude": {
+      "PermissionDenied": []
+    }
+  },
+  "3df2b8b6-66d6-4b36-9925-ff74103303fa": {
+    "config_version": 2,
+    "run": [],
+    "running": null,
+    "last_completed": null,
+    "last_check": null,
+    "suggested_exclude": {}
+  }
+}

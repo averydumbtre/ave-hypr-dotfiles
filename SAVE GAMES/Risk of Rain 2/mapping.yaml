@@ -1,0 +1,96 @@
+---
+name: Risk of Rain 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-03-08T01:23:13.926608082Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/userdata/1013896986/632360/remote/UserProfiles/1589dc0c-7fb1-480a-8f25-9aa7ebc58dda.xml:
+        hash: 73e2ff307686b3a4ed6f1cffd6d8b30cbaf49293
+        size: 225395
+      /home/avery/.local/share/Steam/userdata/1013896986/632360/remote/UserProfiles/d5ad6d51-b050-4001-a5d3-ba125a3c5207.xml:
+        hash: 31cdc4d6805bbf9285baa190f9a2128030f2be19
+        size: 290945
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/autoexec.cfg:
+        hash: d46d60e0b857935419bb599ba55d73e5e193ec63
+        size: 65
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/config.cfg:
+        hash: aa6d2fc3c71dba34b1c9dd631a344ec52690cc03
+        size: 1993
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/create_broken_drones.cfg:
+        hash: 336ecb13900d561a263522e971f6f2cc11b1ba13
+        size: 610
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items.cfg:
+        hash: 0b21538a291cdbdc52195837a5376a4a7351a116
+        size: 530
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items1.cfg:
+        hash: f259cb55f73c3bc5a5061d1df50c7f5613674a5c
+        size: 172
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items2.cfg:
+        hash: 8096aac26d217d4b2af5aa8db120c6c965f60d6e
+        size: 398
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/dlc2items3.cfg:
+        hash: 1e339a2410d6195ddb2f2918c9f63d05ac0f40ba
+        size: 419
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/give_all.cfg:
+        hash: b3692adea72a50e13620da27fdb9c91276bdd308
+        size: 1052
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/give_heretic_items.cfg:
+        hash: 62ce7646dd29b7c597a10c9e4d672e8572931a0a
+        size: 146
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/goto_moon2_boss.cfg:
+        hash: 657ed0487e7b5a10bc06fd7bb26f84a9852ee22c
+        size: 34
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/goto_moon_boss.cfg:
+        hash: 5a2c269ac9f6a06931691eb23f2a53f4c419ad6e
+        size: 35
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/lategame.cfg:
+        hash: 0beb43661ba06436e6b935fd82934fb83dd0385d
+        size: 149
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/midgame.cfg:
+        hash: 3f0ce48b18c9f9e28dda6f8357f8dd2be1fc97bd
+        size: 144
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/peace.cfg:
+        hash: b9b312bea467c70a4b54b8938e02c712449d3a8e
+        size: 52
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/platformconfig ps4.cfg:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/platformconfig switch.cfg:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/platformconfig xb1.cfg:
+        hash: 57218c316b6921e2cd61027a2387edc31a2d9471
+        size: 3
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/prep_test.cfg:
+        hash: 838b544b690ae5bfe892b5b66b61eeb9a5d1058f
+        size: 106
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/scanner.cfg:
+        hash: 24a7a45c8c5ab0e31221008a9d567c41a4cfb3d4
+        size: 58
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/server_startup.cfg:
+        hash: 300dae6624bf0a6c39633a43303e5292cc36ba78
+        size: 1410
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/test.cfg:
+        hash: c56f551806211300fc9bae1f34d436d8d3d9d3ff
+        size: 179
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/testchef.cfg:
+        hash: 085fae60408baef8183dae877386a58c8cc5213e
+        size: 202
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Config/testproconkill.cfg:
+        hash: 158e81a52cee99eb2d5524f7351616913545f037
+        size: 322
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/compatdata/632360/pfx/system.reg:
+        hash: 2761450e23247fb6c9d074b9b2cf23dc4436ad1d
+        size: 3849758
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/compatdata/632360/pfx/user.reg:
+        hash: 12a4a30b83ef32ecebb7d1eeaefcb42b476f05cf
+        size: 75454
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/compatdata/632360/pfx/userdef.reg:
+        hash: 9ad901df4a9481a37b6c84570a41c32e10f362dc
+        size: 4190
+    registry:
+      hash: ~
+    children: []

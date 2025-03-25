@@ -1,0 +1,18 @@
+---
+name: "Armored Core VI: Fires of Rubicon"
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T04:48:28.730458447Z"
+    os: linux
+    files:
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Roaming/ArmoredCore6/76561199401953817/AC60000.sl2:
+        hash: f58d29fcd9b8d1d4fb4ea8ae4b96cb86cf46786e
+        size: 30819552
+      /home/avery/Documents/SAVE GAMES/drive_c/users/steamuser/AppData/Roaming/ArmoredCore6/GraphicsConfig.xml:
+        hash: 60f55219d14196bcc9fdb459838e2fe5c7adf52e
+        size: 2498
+    registry:
+      hash: ~
+    children: []

@@ -1,0 +1,17 @@
+"671610"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"-203"
+	".local/share/warfork-2.1/basewf/config.cfg"
+	{
+		"root"		"14"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"8"
+	}
+}

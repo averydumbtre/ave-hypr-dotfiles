@@ -1,0 +1,10 @@
+allSavedFlagsData:
+- campaignId: Celeste
+  savedFlags: {}
+- campaignId: StrawberryJam2021/0-Gyms
+  savedFlags:
+    darkMode: false
+- campaignId: StrawberryJam2021/1-Beginner
+  savedFlags: {}
+- campaignId: StrawberryJam2021/2-Intermediate
+  savedFlags: {}

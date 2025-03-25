@@ -1,0 +1,59 @@
+21:28:10.117 - InControl (version 1.6.17 build 9143)
+21:28:10.810 - <size=13><color=red>TODO : Implement m_badPacketQuestion/m_badPacketAnswer and the SNet_BadPacketCatcher</color></size>
+21:28:10.813 - > GLOBAL SetupManagers, State : Dev HasNetwork: True
+21:28:10.817 - GameDataInit.Initialize
+21:28:14.741 - ------------------------------------------------------------  MusicManager. Loading soundbank for music! ------------------------------------------------------------ 
+21:28:38.333 - CM_PageCredits Setup Credits Page
+21:28:38.876 - Setting watermark revision to 34855
+21:28:39.781 - EnemyCostManager : Costs for Normal difficulty loaded
+21:28:39.785 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Inactive TO: Startup</color>
+21:28:39.788 - MusicManager - Setting music state to: StartUp
+21:28:40.717 - Steamworks.NET initilized
+21:28:41.097 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Startup TO: Offline</color>
+21:28:41.111 - MusicManager - Setting music state to: MainMenu
+21:28:41.112 - DropServerManager: Idle
+21:28:41.136 - SNET is Online, Woop!
+21:28:41.137 - Waiting for network.. DONE!
+21:28:41.143 - PlayFabManager.OnSteamInitialized
+21:28:53.631 - [163 - GetAuthSessionTicketResponse] - 4 -- k_EResultOK
+21:28:54.346 - PlayFabManager.OnLoginSuccess. NewlyCreated: False
+21:28:54.349 - PlayFabManager.RefreshGlobalTitleData
+21:28:54.384 - <color=purple>PlayFab.OnGetCurrentTime Saturday, 09 November 2024</color>
+21:28:54.653 - UpdateLocalPlayerData Done, result: 1 OnSuccess: System.Action
+21:28:54.690 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_35'...
+21:28:54.765 - PlayFabMatchMakingManager: Requesting list of QoS servers...
+21:28:54.787 - AchievementManager | <b>Achievement_ReadAllLogs</b> :: Initialized Data. Logs Read: 1 / 188 | IDs: [1892674022]
+21:28:54.798 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_35)' request
+21:28:54.799 - DropServerManager: Woke up
+21:28:54.800 - DropServerManager: Making 'rundown progression (rundown: Local_35)' request...
+21:28:54.803 - DropServerManager: Enqueueing 'get player inventory' request
+21:28:54.807 - DropServerManager: 'rundown progression (rundown: Local_35)' request completed successfully
+21:28:54.808 - DropServerManager: Sleeping for 2 seconds...
+21:28:54.811 - RundownManager: Got rundown progression from drop server
+21:28:54.813 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+21:28:54.819 - tier: TierA index: 0 EXPEDITION UNLOCKED
+21:28:54.821 - tier: TierA index: 1 EXPEDITION LOCKED
+21:28:54.823 - tier: TierA index: 2 EXPEDITION LOCKED
+21:28:54.824 - tier: TierA index: 3 EXPEDITION LOCKED
+21:28:54.826 - tier: TierB index: 0 EXPEDITION LOCKED
+21:28:54.827 - tier: TierB index: 1 EXPEDITION LOCKED
+21:28:54.828 - tier: TierB index: 2 EXPEDITION LOCKED
+21:28:54.830 - tier: TierB index: 3 EXPEDITION LOCKED
+21:28:54.831 - tier: TierC index: 0 EXPEDITION LOCKED
+21:28:54.834 - tier: TierC index: 1 EXPEDITION LOCKED
+21:28:54.836 - tier: TierC index: 2 EXPEDITION LOCKED
+21:28:54.837 - tier: TierC index: 3 EXPEDITION LOCKED
+21:28:54.838 - tier: TierD index: 0 EXPEDITION LOCKED
+21:28:54.840 - tier: TierD index: 1 EXPEDITION LOCKED
+21:28:54.841 - tier: TierD index: 2 EXPEDITION LOCKED
+21:28:54.842 - tier: TierD index: 3 EXPEDITION LOCKED
+21:28:54.844 - tier: TierE index: 0 EXPEDITION LOCKED
+21:28:54.845 - tier: TierE index: 1 EXPEDITION LOCKED
+21:28:54.847 - tier: TierE index: 2 EXPEDITION LOCKED
+21:28:54.848 - tier: TierE index: 3 EXPEDITION LOCKED
+21:28:54.849 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+21:28:56.810 - DropServerManager: Making 'get player inventory' request...
+21:28:56.940 - DropServerManager: 'get player inventory' request completed successfully
+21:28:56.941 - DropServerManager: Sleeping for 2 seconds...
+21:28:59.450 - DropServerManager: Idle
+21:29:19.017 - TODO : Skipping icon generation for the hacking tool. It crashes later while trying to construct the tool for rendering

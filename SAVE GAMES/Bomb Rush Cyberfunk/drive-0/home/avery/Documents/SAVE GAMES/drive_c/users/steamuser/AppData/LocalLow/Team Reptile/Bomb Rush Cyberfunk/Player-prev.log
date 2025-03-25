@@ -1,0 +1,724 @@
+Mono path[0] = 'Z:/mnt/9c1b5651-fb99-4525-9716-4137b631551a/brcf/Bomb Rush Cyberfunk/Bomb Rush Cyberfunk_Data/Managed'
+Mono config path = 'Z:/mnt/9c1b5651-fb99-4525-9716-4137b631551a/brcf/Bomb Rush Cyberfunk/MonoBleedingEdge/etc'
+Fallback handler could not load library Z:/mnt/9c1b5651-fb99-4525-9716-4137b631551a/brcf/Bomb Rush Cyberfunk/Bomb Rush Cyberfunk_Data/MonoBleedingEdge/data-00000000632496A0.dll
+Fallback handler could not load library Z:/mnt/9c1b5651-fb99-4525-9716-4137b631551a/brcf/Bomb Rush Cyberfunk/Bomb Rush Cyberfunk_Data/MonoBleedingEdge/data-00000000696E0040.dll
+Initialize engine version: 2021.3.27f1 (ca3ffb99bcc6)
+[Subsystems] Discovering subsystems at path Z:/mnt/9c1b5651-fb99-4525-9716-4137b631551a/brcf/Bomb Rush Cyberfunk/Bomb Rush Cyberfunk_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12256 MB
+    Driver:   31.0.21902.5
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.075 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.205900 ms
+[Message:   BepInEx] BepInEx 5.4.21.0 - Bomb Rush Cyberfunk (8/18/2023 1:59:50 PM)
+[Info   :   BepInEx] Running under Unity v2021.3.27.13254651
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Debug  :   BepInEx] Skipping loading Z:\home\avery\.config\r2modmanPlus-local\BombRushCyberfunk\profiles\Default\BepInEx\plugins\NotNet-SlopCrew\SlopCrew.Plugin\GameNetworkingSockets.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Debug  :   BepInEx] Skipping loading Z:\home\avery\.config\r2modmanPlus-local\BombRushCyberfunk\profiles\Default\BepInEx\plugins\NotNet-SlopCrew\SlopCrew.Plugin\libcrypto-1_1-x64.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Debug  :   BepInEx] Skipping loading Z:\home\avery\.config\r2modmanPlus-local\BombRushCyberfunk\profiles\Default\BepInEx\plugins\NotNet-SlopCrew\SlopCrew.Plugin\libprotobuf-lite.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Debug  :   BepInEx] Skipping loading Z:\home\avery\.config\r2modmanPlus-local\BombRushCyberfunk\profiles\Default\BepInEx\plugins\NotNet-SlopCrew\SlopCrew.Plugin\libprotobuf.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Debug  :   BepInEx] Skipping loading Z:\home\avery\.config\r2modmanPlus-local\BombRushCyberfunk\profiles\Default\BepInEx\plugins\NotNet-SlopCrew\SlopCrew.Plugin\libprotoc.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Debug  :   BepInEx] Skipping loading Z:\home\avery\.config\r2modmanPlus-local\BombRushCyberfunk\profiles\Default\BepInEx\plugins\NotNet-SlopCrew\SlopCrew.Plugin\libssl-1_1-x64.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Info   :   BepInEx] 7 plugins to load
+[Info   :   BepInEx] Loading [Just sit 1.1.5]
+[Info   :  Just sit] PluginName: Just sit, VersionString: 1.1.5 is loading...
+[Info   :  Just sit] PluginName: Just sit, VersionString: 1.1.5 is loaded.
+[Info   :   BepInEx] Loading [SlopCrew 2.2.1]
+Fallback handler could not load library Z:/mnt/9c1b5651-fb99-4525-9716-4137b631551a/brcf/Bomb Rush Cyberfunk/Bomb Rush Cyberfunk_Data/MonoBleedingEdge/data-000000006F51D350.dll
+[Info   :   BepInEx] Loading [Wall Plant 2.5.7]
+[Info   :Wall Plant] Wall Plant 2.5.7 loaded!
+[Info   :   BepInEx] Loading [MovementPlus 2.0.0]
+[Info   :MovementPlus] MovementPlus has been loaded!
+[Info   :   BepInEx] Loading [DynamicCamera 1.0.3]
+[Info   :DynamicCamera] Plugin DynamicCamera is loaded!
+[Info   :   BepInEx] Loading [Speedometer 1.2.3]
+[Info   :Speedometer] Plugin Speedometer is loaded!
+[Info   :   BepInEx] Loading [ZenModeAlpha 1.0.0]
+[Info   :ZenModeAlpha] Plugin ZenModeAlpha is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
+Core.Awake(): Version: 1.0.19735
+Core.Awake(): Initial quality setting: Ultra
+Core.Awake(): Initial resolution: 1920 x 1080 @ 165Hz
+Core.Awake(): Initial language: English
+Core.Awake(): Platform data loaded: WindowsPlatformData
+[Debug  :  SlopCrew] Connection state changed from None to Connected
+Unloading 5 Unused Serialized files (Serialized files now loaded: 21)
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 9343.
+Total: 13.828400 ms (FindLiveObjects: 0.418700 ms CreateObjectMapping: 0.304800 ms MarkObjects: 13.003400 ms  DeleteObjects: 0.100800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 21)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 9343.
+Total: 12.935800 ms (FindLiveObjects: 0.466300 ms CreateObjectMapping: 0.335800 ms MarkObjects: 12.103300 ms  DeleteObjects: 0.029600 ms)
+
+[Info   :  Just sit] In Player Awake method Postfix.
+[Info   :  Just sit] In Player Awake method Prefix.
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/MuseumChallenge/BaseStructures_MuseumChallenge/MuseumChallenge/Tower_BRect_Edge (8)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/MuseumChallenge/BaseStructures_MuseumChallenge/MuseumChallenge/Tower_BRect_Edge (6)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/PM_PillarSmallMetalGreen (5)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl/PM_Shop4Side (12)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (12)/PM_PillarSmallMetalGreen (7)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (10)/PM_PlatformGreen (34)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (2)/PM_Shop4Side (12)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (8)/PM_Shop4Side (11)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (14)/PM_PlatformGreen (34)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (13)/PM_PlatformGreen (34)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (8)/PM_PillarSmallMetalGreen (1)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (3)/PM_Shop4Side (12)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (8)/PM_PlatformGreen (34)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/PM_PlatformGreen (35)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/Underground/Gameplay_Underground/SecretBoostBreakableGlassDoorBig (3)/SGBluePillarLeft"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/Boulevard/BackSection/BackBuildings_Boulevard/DH_BrownBox (33)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/Boulevard/GroundSection/BaseStructures_Boulevard/LowerBuildings/TStoreInstrumentsWindows (2)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (9)/PM_PlatformGreen (35)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (12)/PM_PillarSmallMetalGreen (5)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/BusTerminal2/Buildings_BusTerminal2/Tower_MusicStore_Base (2)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (7)/PM_Shop4Side (11)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (9)/PM_Shop4Side (12)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (7)/PM_PlatformGreen (34)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (9)/PM_PillarSmallMetalGreen (1)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/BusTerminal2/Props_BusTerminal2/KingFood (Bear)/SecretBoostBreakableGlassDoorBig/SGBluePillarLeft"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (9)/PM_PillarSmallMetalGreen (6)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/BarredOfficeBlue (69)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/BarredOfficeBlue (68)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/PM_PillarSmallMetalGreen (10)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (10)/PM_PillarSmallMetalGreen (3)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (7)/PM_PlatformGreen (38)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/PM_PillarSmallMetalGreen (7)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/TowerEntrance/Buildings_TowerEntrance/TowerIslandOutside/RocketSideBuilding/TowerControl (6)/PM_Shop1Back (10)"
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StageChunks/MuseumChallenge/BaseStructures_MuseumChallenge/MuseumChallenge/Tower_BRect_Edge (23)"
+[Info   :  Just sit] In Player Awake method Postfix.
+[Info   :  Just sit] In Player Awake method Prefix.
+[Info   :  Just sit] In Player Awake method Postfix.
+[Info   :  Just sit] In Player Awake method Prefix.
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :  Just sit] In Player Awake method Postfix.
+[Info   :  Just sit] In Player Awake method Prefix.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+ArgumentException: Requested value 'loc_scuffDefault_3' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+[Info   :WantedManagerPatch] PrefixPatch called
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_3' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_1' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_1' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_3' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_1' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_3' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_1' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+[Info   :  Just sit] Player_HUMAN0
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+[Info   :  Just sit] Player_HUMAN0
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_1' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_4' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_1' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+ArgumentException: Requested value 'loc_scuffDefault_3' was not found.
+  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind failure, System.String failureMessageID, System.Object failureMessageFormatArgument) [0x00023] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.TryParseEnum (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult& parseResult) [0x0017a] in <1c8569827291471e9db0dcd976e97952>:0 
+  at System.Enum.Parse (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010] in <1c8569827291471e9db0dcd976e97952>:0 
+  at Reptile.AnimationEventRelay.PlaySound (UnityEngine.AnimationEvent animationEvent) [0x0001f] in <3fb1eac75bc6409fbf28fe1cb2d35f31>:0 
+
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :  Just sit] In Player Awake method Postfix.
+[Info   :  Just sit] In Player Awake method Prefix.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :  Just sit] In Player Awake method Postfix.
+[Info   :  Just sit] In Player Awake method Prefix.
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+[Info   :WantedManagerPatch] PrefixPatch called
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 3 Unused Serialized files (Serialized files now loaded: 21)
+Unloading 3664 unused Assets to reduce memory usage. Loaded Objects now: 10012.
+Total: 28.063000 ms (FindLiveObjects: 0.911100 ms CreateObjectMapping: 1.156900 ms MarkObjects: 20.496900 ms  DeleteObjects: 5.497300 ms)
+
+Setting up 6 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 22637 frames, [1.0 KB-2.0 KB]: 623 frames, [2.0 KB-4.0 KB]: 2 frames, [4.0 KB-8.0 KB]: 8630 frames, [8.0 KB-16.0 KB]: 3 frames, [16.0 KB-32.0 KB]: 2 frames, [32.0 KB-64.0 KB]: 21416 frames, [64.0 KB-128.0 KB]: 694 frames, [128.0 KB-256.0 KB]: 1519 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 161235 frames, [1.0 MB-2.0 MB]: 26415 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.4 MB
+      Peak Allocated Bytes 4.2 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 127.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 508.9 KB
+      Overflow Count 19750
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 7.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 411 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 14.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 14.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 56.0 KB
+      Peak Allocated Bytes 52.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 7.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 13.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 4.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 396 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 8.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 108.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 5.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 9425
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 1562278
+        32B: 20 Subsections = 10240 buckets. Failed count: 1098174
+        48B: 29 Subsections = 9898 buckets. Failed count: 1283769
+        64B: 79 Subsections = 20224 buckets. Failed count: 914374
+        80B: 21 Subsections = 4300 buckets. Failed count: 754963
+        96B: 84 Subsections = 14336 buckets. Failed count: 190446
+        112B: 10 Subsections = 1462 buckets. Failed count: 112146
+        128B: 10 Subsections = 1280 buckets. Failed count: 251667
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 26975 frames, [16.0 MB-32.0 MB]: 2474 frames, [32.0 MB-64.0 MB]: 2460 frames, [64.0 MB-128.0 MB]: 211269 frames, [128.0 MB-256.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 9
+      Peak Allocated memory 129.2 MB
+      Peak Large allocation bytes 12.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 26460 frames, [32.0 MB-64.0 MB]: 2335 frames, [64.0 MB-128.0 MB]: 214384 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 8
+      Peak Allocated memory 123.7 MB
+      Peak Large allocation bytes 52.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 9
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 132
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 1562278
+        32B: 20 Subsections = 10240 buckets. Failed count: 1098174
+        48B: 29 Subsections = 9898 buckets. Failed count: 1283769
+        64B: 79 Subsections = 20224 buckets. Failed count: 914374
+        80B: 21 Subsections = 4300 buckets. Failed count: 754963
+        96B: 84 Subsections = 14336 buckets. Failed count: 190446
+        112B: 10 Subsections = 1462 buckets. Failed count: 112146
+        128B: 10 Subsections = 1280 buckets. Failed count: 251667
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 2196 frames, [64.0 KB-128.0 KB]: 2 frames, [16.0 MB-32.0 MB]: 29503 frames, [32.0 MB-64.0 MB]: 211478 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 50.1 MB
+      Peak Large allocation bytes 45.4 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 3 frames, [8.0 KB-16.0 KB]: 1767 frames, [128.0 KB-256.0 KB]: 2 frames, [256.0 KB-0.5 MB]: 24478 frames, [0.5 MB-1.0 MB]: 50 frames, [1.0 MB-2.0 MB]: 61 frames, [2.0 MB-4.0 MB]: 2360 frames, [4.0 MB-8.0 MB]: 344 frames, [8.0 MB-16.0 MB]: 130 frames, [16.0 MB-32.0 MB]: 1533 frames, [32.0 MB-64.0 MB]: 123 frames, [64.0 MB-128.0 MB]: 212328 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 9
+      Peak Allocated memory 127.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 1794
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 1562278
+        32B: 20 Subsections = 10240 buckets. Failed count: 1098174
+        48B: 29 Subsections = 9898 buckets. Failed count: 1283769
+        64B: 79 Subsections = 20224 buckets. Failed count: 914374
+        80B: 21 Subsections = 4300 buckets. Failed count: 754963
+        96B: 84 Subsections = 14336 buckets. Failed count: 190446
+        112B: 10 Subsections = 1462 buckets. Failed count: 112146
+        128B: 10 Subsections = 1280 buckets. Failed count: 251667
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 3059 frames, [4.0 MB-8.0 MB]: 28708 frames, [8.0 MB-16.0 MB]: 143 frames, [16.0 MB-32.0 MB]: 211269 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 5
+      Peak Allocated memory 23.1 MB
+      Peak Large allocation bytes 10.6 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 2 frames, [0.5 MB-1.0 MB]: 3 frames, [1.0 MB-2.0 MB]: 79 frames, [2.0 MB-4.0 MB]: 523 frames, [4.0 MB-8.0 MB]: 25424 frames, [8.0 MB-16.0 MB]: 48 frames, [16.0 MB-32.0 MB]: 2564 frames, [32.0 MB-64.0 MB]: 531 frames, [64.0 MB-128.0 MB]: 139 frames, [128.0 MB-256.0 MB]: 1069 frames, [256.0 MB-0.50 GB]: 212797 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 101
+      Peak Allocated memory 437.6 MB
+      Peak Large allocation bytes 89.1 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 1562278
+        32B: 20 Subsections = 10240 buckets. Failed count: 1098174
+        48B: 29 Subsections = 9898 buckets. Failed count: 1283769
+        64B: 79 Subsections = 20224 buckets. Failed count: 914374
+        80B: 21 Subsections = 4300 buckets. Failed count: 754963
+        96B: 84 Subsections = 14336 buckets. Failed count: 190446
+        112B: 10 Subsections = 1462 buckets. Failed count: 112146
+        128B: 10 Subsections = 1280 buckets. Failed count: 251667
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 2197 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 240981 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.9 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 4 frames, [0.5 MB-1.0 MB]: 195 frames, [1.0 MB-2.0 MB]: 913 frames, [2.0 MB-4.0 MB]: 27471 frames, [4.0 MB-8.0 MB]: 214595 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 5
+      Peak Allocated memory 8.0 MB
+      Peak Large allocation bytes 0 B

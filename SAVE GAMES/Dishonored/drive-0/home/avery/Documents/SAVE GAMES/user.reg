@@ -1,0 +1,1262 @@
+WINE REGISTRY Version 2
+;; All keys relative to REGISTRY\\User\\S-1-5-21-668791054-3894297218-1000-1000
+
+#arch=win64
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1735378179
+#time=1db590b04e58ce8
+@=""
+
+[Control Panel\\Accessibility\\AudioDescription] 1735378179
+#time=1db590b047e6568
+"Locale"=dword:00000000
+"On"="0"
+
+[Control Panel\\Accessibility\\Blind Access] 1735378179
+#time=1db590b047e6252
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1735378179
+#time=1db590b047e5d20
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1735378179
+#time=1db590b047e6356
+"On"="0"
+
+[Control Panel\\Colors] 1735378179
+#time=1db590b04effde0
+"ActiveBorder"="255 255 255"
+"ActiveTitle"="50 150 250"
+"AppWorkSpace"="128 128 128"
+"Background"="37 111 149"
+"ButtonAlternateFace"="255 255 255"
+"ButtonDkShadow"="106 106 106"
+"ButtonFace"="245 245 245"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="166 166 166"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="50 150 250"
+"GradientInactiveTitle"="128 128 128"
+"GrayText"="166 166 166"
+"Hilight"="48 150 250"
+"HilightText"="255 255 255"
+"HotTrackingColor"="224 224 224"
+"InactiveBorder"="255 255 255"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="200 200 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="255 255 255"
+"MenuBar"="255 255 255"
+"MenuHilight"="48 150 250"
+"MenuText"="0 0 0"
+"Scrollbar"="255 255 255"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="158 158 158"
+"WindowText"="0 0 0"
+
+[Control Panel\\Desktop] 1735378179
+#time=1db590b04f002b8
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,02,80,12,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1735378179
+#time=1db590b04f001e6
+"BorderWidth"="1"
+"CaptionFont"=hex:0a,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="25"
+"CaptionWidth"="18"
+"IconFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="18"
+"MenuWidth"="18"
+"MessageFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="0"
+"ScrollHeight"="17"
+"ScrollWidth"="17"
+"SmCaptionFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="17"
+"SmCaptionWidth"="17"
+"StatusFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[Control Panel\\International] 1735378179
+#time=1db590b04798f98
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"Locale"="00000409"
+"LocaleName"="en-US"
+"NumShape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM d, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sShortTime"="h:mm tt"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\International\\Geo] 1735378179
+#time=1db590b04798fd4
+"Name"="US"
+"Nation"="244"
+
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1735378179
+#time=1db590b04798c64
+"Currencies"="USD"
+
+[Control Panel\\Keyboard] 1735378179
+#time=1db590b047e5d66
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1735378179
+#time=1db590b047e6428
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1735378179
+#time=1db590b047e5528
+"Beep"="Yes"
+
+[Environment] 1735378179
+#time=1db590b04c2ae8a
+"TEMP"="C:\\users\\steamuser\\AppData\\Local\\Temp"
+"TMP"="C:\\users\\steamuser\\AppData\\Local\\Temp"
+
+[Keyboard Layout\\Preload] 1735378179
+#time=1db590b047e5118
+"1"="00000409"
+
+[Software\\Classes\\discord-349134787773988865] 1736824571
+#time=1db6632a947fe2c
+@="URL:Run game 349134787773988865 protocol"
+"URL Protocol"=""
+
+[Software\\Classes\\discord-349134787773988865\\DefaultIcon] 1736824571
+#time=1db6632a947fcf6
+@="V:\\9c1b5651-fb99-4525-9716-4137b631551a\\Baldur's Gate 3 (2023)\\Baldurs Gate 3\\bin\\bg3.exe"
+
+[Software\\Classes\\discord-349134787773988865\\shell\\open\\command] 1736824571
+#time=1db6632a947ffa8
+@="\"C:\\Program Files (x86)\\Steam\\Steam.exe\" steam://run/1086940"
+
+[Software\\Little Flag Software, LLC\\Neon White] 1736826073
+#time=1db663628eb8a9c
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000001
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000300
+"Screenmanager Resolution Height_h2627697771"=dword:00000438
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000400
+"Screenmanager Resolution Width_h182942802"=dword:00000780
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"unity.player_session_count_h922449978"=hex:31,00
+"unity.player_sessionid_h1351336811"=hex:35,34,31,35,39,39,35,32,32,34,30,33,\
+  38,31,35,34,36,36,34,00
+"UnitySelectMonitor_h17969598"=dword:00000000
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1735378179
+#time=1db590b04e467aa
+"Search Page"="https://www.google.com"
+"Start Page"="https://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1735378179
+#time=1db590b04b098a8
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1735378179
+#time=1db590b04e46822
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1735378179
+#time=1db590b04e58d24
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1735378180
+#time=1db590b054c5e82
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1735378180
+#time=1db590b054c5ee6
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1735378180
+#time=1db590b054c5f40
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1735378180
+#time=1db590b054c6364
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1735378180
+#time=1db590b054c63dc
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1735378180
+#time=1db590b054c644a
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\Certificates] 1736824571
+#time=1db6632a943008e
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\CRLs] 1736824571
+#time=1db6632a9430174
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\CTLs] 1736824571
+#time=1db6632a9430232
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1735378180
+#time=1db590b054c668e
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1735378180
+#time=1db590b054c66f2
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1735378180
+#time=1db590b054c674c
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1735378179
+#time=1db590b04e4dc58
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1735378179
+#time=1db590b04c2463e
+"Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\steamuser\\AppData\\Roaming"
+"Cache"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"="C:\\users\\steamuser\\Desktop"
+"Favorites"="C:\\users\\steamuser\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"="C:\\users\\steamuser\\AppData\\Local"
+"My Music"="C:\\users\\steamuser\\Music"
+"My Pictures"="C:\\users\\steamuser\\Pictures"
+"My Videos"="C:\\users\\steamuser\\Videos"
+"NetHood"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"="C:\\users\\steamuser\\Documents"
+"PrintHood"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\steamuser\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\steamuser\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\steamuser\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\steamuser\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\steamuser\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\steamuser\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1735378179
+#time=1db590b04c24666
+"__WineVistaPaths"=dword:00000001
+"Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
+"Cache"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\AppData\\Local"
+"My Music"=str(2):"%USERPROFILE%\\Music"
+"My Pictures"=str(2):"%USERPROFILE%\\Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\Videos"
+"NetHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"=str(2):"%USERPROFILE%\\Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1735378180
+#time=1db590b055330e0
+"ProxyEnable"=dword:00000000
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1735378179
+#time=1db590b04dd55dc
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1735378179
+#time=1db590b04dd553c
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1735378179
+#time=1db590b04dd547e
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1735378179
+#time=1db590b04dd55fa
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1735378179
+#time=1db590b04ddf82a
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1735378179
+#time=1db590b04dd7bf2
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1735378179
+#time=1db590b04dda5be
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1735378179
+#time=1db590b04ddceb8
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1735378179
+#time=1db590b04ddf758
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1735378179
+#time=1db590b04de2106
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1735378179
+#time=1db590b04e4dc9e
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1735378179
+#time=1db590b04efb0a6
+"ColorName"="Blue"
+"DllName"="C:\\windows\\resources\\themes\\light\\light.msstyles"
+"FlatMenu"=dword:00000000
+"GradientCaption"=dword:00000001
+"IconTitleFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"LoadedBefore"="1"
+"NonClientMetrics"=hex:f8,01,00,00,01,00,00,00,10,00,00,00,10,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,\
+  00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,\
+  ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,\
+  22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,\
+  00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00
+"SizeName"="NormalSize"
+"ThemeActive"="1"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1735378179
+#time=1db590b04efaf02
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"Background"="58 110 165"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="212 208 200"
+"MenuBar"="212 208 200"
+"MenuHilight"="10 36 106"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1736824571
+#time=1db6632a9a4a06e
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1735378179
+#time=1db590b04e59652
+"ProgId"="ftp"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1735378179
+#time=1db590b04e59882
+"ProgId"="http"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1735378179
+#time=1db590b04e59a9e
+"ProgId"="https"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1735378179
+#time=1db590b04e4dde8
+
+[Software\\rose-engine\\SIGNALIS] 1736824402
+#time=1db663244b96f7c
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000001
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000168
+"Screenmanager Resolution Height_h2627697771"=dword:00000438
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000280
+"Screenmanager Resolution Width_h182942802"=dword:00000780
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"unity.player_session_count_h922449978"=hex:31,00
+"unity.player_sessionid_h1351336811"=hex:34,32,31,36,32,39,37,33,39,36,38,34,\
+  34,31,31,35,30,32,00
+"UnitySelectMonitor_h17969598"=dword:00000000
+
+[Software\\Team Reptile\\Bomb Rush Cyberfunk] 1736825480
+#time=1db6634c7791672
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000000
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000000
+"Screenmanager Resolution Height Default_h1380706816"=dword:000002d0
+"Screenmanager Resolution Height_h2627697771"=dword:00000438
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000500
+"Screenmanager Resolution Width_h182942802"=dword:00000780
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"Screenmanager Window Position X_h4088080503"=dword:00000000
+"Screenmanager Window Position Y_h4088080502"=dword:00000000
+"unity.player_session_count_h922449978"=hex:31,00
+"unity.player_sessionid_h1351336811"=hex:35,32,31,31,38,38,35,37,33,38,35,36,\
+  31,35,39,36,39,36,30,00
+"UnityGraphicsQuality_h1669003810"=dword:00000000
+"UnitySelectMonitor_h17969598"=dword:00000000
+
+[Software\\Valve\\Steam] 1736829486
+#time=1db663e1af9326a
+"SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
+"SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Valve\\Steam\\ActiveProcess] 1736829484
+#time=1db663e199185f8
+"PID"=dword:0000fffe
+"SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
+"SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
+"SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1735378179
+#time=1db590b04e822be
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\BlackOps3.exe\\DllOverrides] 1735378179
+#time=1db590b04e815c6
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\DarkSoulsIII.exe\\X11 Driver] 1735378179
+#time=1db590b04e7f870
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\DIRT5.exe\\DllOverrides] 1735378179
+#time=1db590b04e819f4
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\ffxvi.exe\\DllOverrides] 1735378179
+#time=1db590b04e82c14
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\gotg.exe\\DllOverrides] 1735378179
+#time=1db590b04e81e54
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\GW2.Main_Win64_Retail.exe\\DllOverrides] 1735378179
+#time=1db590b04e826a6
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\h1_mp64_ship.exe\\DllOverrides] 1735378179
+#time=1db590b04e81256
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\h1_sp64_ship.exe\\DllOverrides] 1735378179
+#time=1db590b04e81080
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\iw7_ship.exe\\DllOverrides] 1735378179
+#time=1db590b04e81404
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\Maine-Win64-Shipping.exe\\DllOverrides] 1735378179
+#time=1db590b04e8020c
+"SpeechSynthWrapper"="disabled"
+
+[Software\\Wine\\AppDefaults\\msedgewebview2.exe] 1735378179
+#time=1db590b04e82106
+"Version"="win81"
+
+[Software\\Wine\\AppDefaults\\NFS16.exe\\DllOverrides] 1735378179
+#time=1db590b04e8179c
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\NieRAutomata.exe\\X11 Driver] 1735378179
+#time=1db590b04e7fc4e
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1736829486
+#time=1db663e1af9268a
+
+[Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1735378179
+#time=1db590b04e80018
+"SpeechSynthesisWrapper"="disabled"
+
+[Software\\Wine\\AppDefaults\\rayne1.exe\\DllOverrides] 1735378179
+#time=1db590b04e803d8
+"d3d8"="native"
+
+[Software\\Wine\\AppDefaults\\rayne2.exe\\DllOverrides] 1735378179
+#time=1db590b04e805a4
+"d3d8"="native"
+
+[Software\\Wine\\AppDefaults\\RDR2.exe\\DllOverrides] 1735378179
+#time=1db590b04e8077a
+"vulkan-1"="native"
+
+[Software\\Wine\\AppDefaults\\RelicCardinal.exe\\DllOverrides] 1735378179
+#time=1db590b04e8207a
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\RiftApart.exe\\DllOverrides] 1735378179
+#time=1db590b04e82a66
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\s2_mp64_ship.exe\\DllOverrides] 1735378179
+#time=1db590b04e80eb4
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\s2_sp64_ship.exe\\DllOverrides] 1735378179
+#time=1db590b04e80ce8
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\sekiro.exe\\X11 Driver] 1735378179
+#time=1db590b04e7fa5a
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\ShadowOfWar.exe\\DllOverrides] 1735378179
+#time=1db590b04e8180a
+"amd_ags_x64"="disabled"
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\SpellForce.exe\\X11 Driver] 1735378179
+#time=1db590b04e7fe42
+"LimitNumberOfResolutions"="16"
+
+[Software\\Wine\\AppDefaults\\Spider-Man.exe\\DllOverrides] 1735378179
+#time=1db590b04e82886
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\starwarssquadrons.exe\\DllOverrides] 1735378179
+#time=1db590b04e82494
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\TDUSC.exe\\DllOverrides] 1735378179
+#time=1db590b04e80b1c
+"xinput1_3"="native,builtin"
+
+[Software\\Wine\\Crypto\\RSA\\steamuser] 1736826587
+#time=1db66375b24d27e
+
+[Software\\Wine\\Debug] 1735378179
+#time=1db590b04e50b1a
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DirectInput] 1736824562
+#time=1db6632a4425f10
+"MouseWarpOverride"="enable"
+
+[Software\\Wine\\DllOverrides] 1735378179
+#time=1db590b04e7f67c
+"api-ms-win-crt-conio-l1-1-0"="native,builtin"
+"api-ms-win-crt-heap-l1-1-0"="native,builtin"
+"api-ms-win-crt-locale-l1-1-0"="native,builtin"
+"api-ms-win-crt-math-l1-1-0"="native,builtin"
+"api-ms-win-crt-runtime-l1-1-0"="native,builtin"
+"api-ms-win-crt-stdio-l1-1-0"="native,builtin"
+"api-ms-win-crt-time-l1-1-0"="native,builtin"
+"atiadlxx"="disabled"
+"atl100"="native,builtin"
+"atl110"="native,builtin"
+"atl120"="native,builtin"
+"atl140"="native,builtin"
+"concrt140"="native,builtin"
+"msvcp100"="native,builtin"
+"msvcp110"="native,builtin"
+"msvcp120"="native,builtin"
+"msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
+"msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
+"msvcr100"="native,builtin"
+"msvcr110"="native,builtin"
+"msvcr120"="native,builtin"
+"msvcr140"="native,builtin"
+"nvcuda"="disabled"
+"ucrtbase"="native,builtin"
+"vcomp100"="native,builtin"
+"vcomp110"="native,builtin"
+"vcomp120"="native,builtin"
+"vcomp140"="native,builtin"
+"vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_00_1f.3.analog-stereo] 1736824403
+#time=1db6632456e165c
+"guid"=hex:3d,74,dc,b4,82,0e,5a,48,97,d5,32,24,60,3f,2d,6f
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_01_00.1.hdmi-stereo] 1736824403
+#time=1db6632456e29da
+"guid"=hex:70,c7,47,7e,e1,4a,26,41,b0,0f,65,85,5c,fc,f8,ab
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Alpha_Imaging_Tech_HTC_Vive-02.analog-stereo] 1736824403
+#time=1db6632456dee98
+"guid"=hex:19,a4,75,2d,a7,88,ec,41,b9,54,ce,f9,37,0e,52,26
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo] 1736824403
+#time=1db6632456e01bc
+"guid"=hex:b7,24,8e,f3,ca,47,a3,47,80,66,b5,45,3a,ed,3b,91
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-surround-71] 1736824403
+#time=1db6632456e53e2
+"guid"=hex:ab,9a,51,25,1c,10,1f,45,a9,87,02,67,8a,e4,b7,25
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,easyeffects_sink] 1736824403
+#time=1db6632456e3d3a
+"guid"=hex:07,53,b1,3b,c4,ea,55,4b,b5,db,29,c5,f6,fd,d0,0a
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_00_1f.3.analog-stereo] 1736824403
+#time=1db6632456eef96
+"guid"=hex:7f,3f,3d,e4,95,50,89,45,b7,db,9b,c7,e2,b0,19,e5
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Alpha_Imaging_Tech_HTC_Vive-02.mono-fallback] 1736824403
+#time=1db6632456e8e2a
+"guid"=hex:e1,6f,1a,ad,59,b0,c2,46,b7,c4,22,9f,4f,cb,52,c4
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo] 1736824403
+#time=1db6632456ebd5a
+"guid"=hex:51,05,4c,55,80,f5,89,41,b9,2c,bd,c6,0e,6a,62,34
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.mono-fallback] 1736824403
+#time=1db6632456f7f7e
+"guid"=hex:96,b7,e3,49,55,93,dc,4e,bb,22,6d,ab,6c,99,f7,dd
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_00_1f.3.analog-stereo.monitor] 1736824403
+#time=1db6632456ed466
+"guid"=hex:59,62,b6,8a,40,4b,0a,42,9a,95,e7,63,d0,ae,29,ef
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor] 1736824403
+#time=1db6632456f0ad0
+"guid"=hex:43,88,c1,12,73,9a,9f,43,85,c6,98,80,3e,68,0c,18
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Alpha_Imaging_Tech_HTC_Vive-02.analog-stereo.monitor] 1736824403
+#time=1db6632456e780e
+"guid"=hex:bf,f9,a7,5a,bc,d6,1b,4a,91,b9,e5,5b,ba,e0,f2,f4
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo.monitor] 1736824403
+#time=1db6632456ea450
+"guid"=hex:45,45,7c,04,f0,9b,38,46,bf,18,57,f3,9c,34,c5,5b
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-surround-71.monitor] 1736824403
+#time=1db6632456f620a
+"guid"=hex:99,d2,07,50,43,81,33,4c,a8,4c,30,e9,09,1d,50,ba
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,easyeffects_sink.monitor] 1736824403
+#time=1db6632456f25c4
+"guid"=hex:39,04,a4,4b,35,77,57,40,8f,94,f8,a7,bb,fc,a7,84
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,easyeffects_source] 1736824403
+#time=1db6632456f440a
+"guid"=hex:48,78,76,0a,b2,87,4b,4b,b8,c9,18,a0,86,bf,29,ab
+
+[Software\\Wine\\Fonts] 1736829480
+#time=1db663e17a66f2e
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1736824393
+#time=1db66323f3b1384
+"C059-BdIta (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-BdIta.otf"
+"C059-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-Bold.otf"
+"C059-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-Italic.otf"
+"C059-Roman (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\C059-Roman.otf"
+"Cantarell Regular (TrueType)"="Z:\\run\\host\\fonts\\cantarell\\Cantarell-VF.otf"
+"D050000L (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\D050000L.otf"
+"DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSans-BoldOblique.ttf"
+"DejaVu Sans Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed.ttf"
+"DejaVu Sans Condensed Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed-Bold.ttf"
+"DejaVu Sans Condensed Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed-BoldOblique.ttf"
+"DejaVu Sans Condensed Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansCondensed-Oblique.ttf"
+"DejaVu Sans ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSans-ExtraLight.ttf"
+"DejaVu Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono-Bold.ttf"
+"DejaVu Sans Mono Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansMono-BoldOblique.ttf"
+"DejaVu Sans Mono Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSansMono-Oblique.ttf"
+"DejaVu Sans Oblique (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSans-Oblique.ttf"
+"DejaVu Serif (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif-Bold.ttf"
+"DejaVu Serif Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerif-BoldItalic.ttf"
+"DejaVu Serif Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed.ttf"
+"DejaVu Serif Condensed Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed-Bold.ttf"
+"DejaVu Serif Condensed Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed-BoldItalic.ttf"
+"DejaVu Serif Condensed Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerifCondensed-Italic.ttf"
+"DejaVu Serif Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuSerif-Italic.ttf"
+"DejaVuMathTeXGyre-Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\DejaVuMathTeXGyre.ttf"
+"Font Awesome 6 Brands Regular (TrueType)"="Z:\\run\\host\\fonts\\OTF\\Font Awesome 6 Brands-Regular-400.otf"
+"Font Awesome 6 Free Regular (TrueType)"="Z:\\run\\host\\fonts\\OTF\\Font Awesome 6 Free-Regular-400.otf"
+"Font Awesome 6 Free Solid (TrueType)"="Z:\\run\\host\\fonts\\OTF\\Font Awesome 6 Free-Solid-900.otf"
+"FreeMono (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMono.otf"
+"FreeMono Bold (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMonoBold.otf"
+"FreeMono Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMonoBoldOblique.otf"
+"FreeMono Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeMonoOblique.otf"
+"FreeSans (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSans.otf"
+"FreeSans Bold (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSansBold.otf"
+"FreeSans Bold Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSansBoldOblique.otf"
+"FreeSans Oblique (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSansOblique.otf"
+"FreeSerif (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerif.otf"
+"FreeSerif Bold (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerifBold.otf"
+"FreeSerif Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerifBoldItalic.otf"
+"FreeSerif Italic (TrueType)"="Z:\\run\\host\\fonts\\gnu-free\\FreeSerifItalic.otf"
+"InputMono Nerd Font (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Regular.ttf"
+"InputMono Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Black.ttf"
+"InputMono Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Bold.ttf"
+"InputMono Nerd Font Compressed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Compressed.ttf"
+"InputMono Nerd Font Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Condensed.ttf"
+"InputMono Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Italic.ttf"
+"InputMono Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Light.ttf"
+"InputMono Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Medium.ttf"
+"InputMono Nerd Font Narrow (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Narrow.ttf"
+"InputMono Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNerdFont-Thin.ttf"
+"InputMonoCompressed Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedNerdFont-Black.ttf"
+"InputMonoCompressed Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedNerdFont-Bold.ttf"
+"InputMonoCompressed Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedNerdFont-Italic.ttf"
+"InputMonoCompressed Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedNerdFont-Light.ttf"
+"InputMonoCompressed Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedNerdFont-Medium.ttf"
+"InputMonoCompressed Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedNerdFont-Thin.ttf"
+"InputMonoCompressedEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedExNerdFont-Light.ttf"
+"InputMonoCompressedExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedExItaNerdFont-Light.ttf"
+"InputMonoCompressedIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedItaNerdFont-Black.ttf"
+"InputMonoCompressedIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedItaNerdFont-Bold.ttf"
+"InputMonoCompressedIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedItaNerdFont-Light.ttf"
+"InputMonoCompressedIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedItaNerdFont-Medium.ttf"
+"InputMonoCompressedIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCompressedItaNerdFont-Thin.ttf"
+"InputMonoCondensed Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedNerdFont-Black.ttf"
+"InputMonoCondensed Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedNerdFont-Bold.ttf"
+"InputMonoCondensed Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedNerdFont-Italic.ttf"
+"InputMonoCondensed Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedNerdFont-Light.ttf"
+"InputMonoCondensed Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedNerdFont-Medium.ttf"
+"InputMonoCondensed Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedNerdFont-Thin.ttf"
+"InputMonoCondensedEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedExNerdFont-Light.ttf"
+"InputMonoCondensedExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedExItaNerdFont-Light.ttf"
+"InputMonoCondensedIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedItaNerdFont-Black.ttf"
+"InputMonoCondensedIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedItaNerdFont-Bold.ttf"
+"InputMonoCondensedIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedItaNerdFont-Light.ttf"
+"InputMonoCondensedIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedItaNerdFont-Medium.ttf"
+"InputMonoCondensedIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoCondensedItaNerdFont-Thin.ttf"
+"InputMonoEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoExNerdFont-Light.ttf"
+"InputMonoExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoExItaNerdFont-Light.ttf"
+"InputMonoIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoItaNerdFont-Black.ttf"
+"InputMonoIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoItaNerdFont-Bold.ttf"
+"InputMonoIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoItaNerdFont-Light.ttf"
+"InputMonoIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoItaNerdFont-Medium.ttf"
+"InputMonoIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoItaNerdFont-Thin.ttf"
+"InputMonoNarrow Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowNerdFont-Black.ttf"
+"InputMonoNarrow Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowNerdFont-Bold.ttf"
+"InputMonoNarrow Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowNerdFont-Italic.ttf"
+"InputMonoNarrow Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowNerdFont-Light.ttf"
+"InputMonoNarrow Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowNerdFont-Medium.ttf"
+"InputMonoNarrow Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowNerdFont-Thin.ttf"
+"InputMonoNarrowEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowExNerdFont-Light.ttf"
+"InputMonoNarrowExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowExItaNerdFont-Light.ttf"
+"InputMonoNarrowIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowItaNerdFont-Black.ttf"
+"InputMonoNarrowIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowItaNerdFont-Bold.ttf"
+"InputMonoNarrowIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowItaNerdFont-Light.ttf"
+"InputMonoNarrowIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowItaNerdFont-Medium.ttf"
+"InputMonoNarrowIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputMonoNarrowItaNerdFont-Thin.ttf"
+"InputSans Nerd Font (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Regular.ttf"
+"InputSans Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Black.ttf"
+"InputSans Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Bold.ttf"
+"InputSans Nerd Font Compressed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Compressed.ttf"
+"InputSans Nerd Font Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Condensed.ttf"
+"InputSans Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Italic.ttf"
+"InputSans Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Light.ttf"
+"InputSans Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Medium.ttf"
+"InputSans Nerd Font Narrow (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Narrow.ttf"
+"InputSans Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNerdFont-Thin.ttf"
+"InputSansCompressed Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedNerdFont-Black.ttf"
+"InputSansCompressed Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedNerdFont-Bold.ttf"
+"InputSansCompressed Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedNerdFont-Italic.ttf"
+"InputSansCompressed Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedNerdFont-Light.ttf"
+"InputSansCompressed Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedNerdFont-Medium.ttf"
+"InputSansCompressed Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedNerdFont-Thin.ttf"
+"InputSansCompressedEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedExNerdFont-Light.ttf"
+"InputSansCompressedExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedExItaNerdFont-Light.ttf"
+"InputSansCompressedIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedItaNerdFont-Black.ttf"
+"InputSansCompressedIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedItaNerdFont-Bold.ttf"
+"InputSansCompressedIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedItaNerdFont-Light.ttf"
+"InputSansCompressedIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedItaNerdFont-Medium.ttf"
+"InputSansCompressedIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCompressedItaNerdFont-Thin.ttf"
+"InputSansCondensed Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedNerdFont-Black.ttf"
+"InputSansCondensed Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedNerdFont-Bold.ttf"
+"InputSansCondensed Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedNerdFont-Italic.ttf"
+"InputSansCondensed Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedNerdFont-Light.ttf"
+"InputSansCondensed Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedNerdFont-Medium.ttf"
+"InputSansCondensed Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedNerdFont-Thin.ttf"
+"InputSansCondensedEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedExNerdFont-Light.ttf"
+"InputSansCondensedExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedExItaNerdFont-Light.ttf"
+"InputSansCondensedIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedItaNerdFont-Black.ttf"
+"InputSansCondensedIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedItaNerdFont-Bold.ttf"
+"InputSansCondensedIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedItaNerdFont-Light.ttf"
+"InputSansCondensedIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedItaNerdFont-Medium.ttf"
+"InputSansCondensedIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansCondensedItaNerdFont-Thin.ttf"
+"InputSansEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansExNerdFont-Light.ttf"
+"InputSansExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansExItaNerdFont-Light.ttf"
+"InputSansIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansItaNerdFont-Black.ttf"
+"InputSansIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansItaNerdFont-Bold.ttf"
+"InputSansIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansItaNerdFont-Light.ttf"
+"InputSansIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansItaNerdFont-Medium.ttf"
+"InputSansIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansItaNerdFont-Thin.ttf"
+"InputSansNarrow Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowNerdFont-Black.ttf"
+"InputSansNarrow Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowNerdFont-Bold.ttf"
+"InputSansNarrow Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowNerdFont-Italic.ttf"
+"InputSansNarrow Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowNerdFont-Light.ttf"
+"InputSansNarrow Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowNerdFont-Medium.ttf"
+"InputSansNarrow Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowNerdFont-Thin.ttf"
+"InputSansNarrowEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowExNerdFont-Light.ttf"
+"InputSansNarrowExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowExItaNerdFont-Light.ttf"
+"InputSansNarrowIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowItaNerdFont-Black.ttf"
+"InputSansNarrowIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowItaNerdFont-Bold.ttf"
+"InputSansNarrowIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowItaNerdFont-Light.ttf"
+"InputSansNarrowIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowItaNerdFont-Medium.ttf"
+"InputSansNarrowIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSansNarrowItaNerdFont-Thin.ttf"
+"InputSerif Nerd Font (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Regular.ttf"
+"InputSerif Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Black.ttf"
+"InputSerif Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Bold.ttf"
+"InputSerif Nerd Font Compressed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Compressed.ttf"
+"InputSerif Nerd Font Condensed (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Condensed.ttf"
+"InputSerif Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Italic.ttf"
+"InputSerif Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Light.ttf"
+"InputSerif Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Medium.ttf"
+"InputSerif Nerd Font Narrow (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Narrow.ttf"
+"InputSerif Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNerdFont-Thin.ttf"
+"InputSerifCompressed Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedNerdFont-Black.ttf"
+"InputSerifCompressed Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedNerdFont-Bold.ttf"
+"InputSerifCompressed Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedNerdFont-Italic.ttf"
+"InputSerifCompressed Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedNerdFont-Light.ttf"
+"InputSerifCompressed Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedNerdFont-Medium.ttf"
+"InputSerifCompressed Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedNerdFont-Thin.ttf"
+"InputSerifCompressedEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedExNerdFont-Light.ttf"
+"InputSerifCompressedExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedExItaNerdFont-Light.ttf"
+"InputSerifCompressedIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedItaNerdFont-Black.ttf"
+"InputSerifCompressedIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedItaNerdFont-Bold.ttf"
+"InputSerifCompressedIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedItaNerdFont-Light.ttf"
+"InputSerifCompressedIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedItaNerdFont-Medium.ttf"
+"InputSerifCompressedIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCompressedItaNerdFont-Thin.ttf"
+"InputSerifCondensed Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedNerdFont-Black.ttf"
+"InputSerifCondensed Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedNerdFont-Bold.ttf"
+"InputSerifCondensed Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedNerdFont-Italic.ttf"
+"InputSerifCondensed Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedNerdFont-Light.ttf"
+"InputSerifCondensed Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedNerdFont-Medium.ttf"
+"InputSerifCondensed Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedNerdFont-Thin.ttf"
+"InputSerifCondensedEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedExNerdFont-Light.ttf"
+"InputSerifCondensedExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedExItaNerdFont-Light.ttf"
+"InputSerifCondensedIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedItaNerdFont-Black.ttf"
+"InputSerifCondensedIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedItaNerdFont-Bold.ttf"
+"InputSerifCondensedIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedItaNerdFont-Light.ttf"
+"InputSerifCondensedIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedItaNerdFont-Medium.ttf"
+"InputSerifCondensedIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifCondensedItaNerdFont-Thin.ttf"
+"InputSerifEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifExNerdFont-Light.ttf"
+"InputSerifExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifExItaNerdFont-Light.ttf"
+"InputSerifIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifItaNerdFont-Black.ttf"
+"InputSerifIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifItaNerdFont-Bold.ttf"
+"InputSerifIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifItaNerdFont-Light.ttf"
+"InputSerifIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifItaNerdFont-Medium.ttf"
+"InputSerifIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifItaNerdFont-Thin.ttf"
+"InputSerifNarrow Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowNerdFont-Black.ttf"
+"InputSerifNarrow Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowNerdFont-Bold.ttf"
+"InputSerifNarrow Nerd Font Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowNerdFont-Italic.ttf"
+"InputSerifNarrow Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowNerdFont-Light.ttf"
+"InputSerifNarrow Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowNerdFont-Medium.ttf"
+"InputSerifNarrow Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowNerdFont-Thin.ttf"
+"InputSerifNarrowEx Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowExNerdFont-Light.ttf"
+"InputSerifNarrowExIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowExItaNerdFont-Light.ttf"
+"InputSerifNarrowIta Nerd Font Black (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowItaNerdFont-Black.ttf"
+"InputSerifNarrowIta Nerd Font Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowItaNerdFont-Bold.ttf"
+"InputSerifNarrowIta Nerd Font Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowItaNerdFont-Light.ttf"
+"InputSerifNarrowIta Nerd Font Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowItaNerdFont-Medium.ttf"
+"InputSerifNarrowIta Nerd Font Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\InputSerifNarrowItaNerdFont-Thin.ttf"
+"NimbusMonoPS-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-Bold.otf"
+"NimbusMonoPS-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-BoldItalic.otf"
+"NimbusMonoPS-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-Italic.otf"
+"NimbusMonoPS-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusMonoPS-Regular.otf"
+"NimbusRoman-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-Bold.otf"
+"NimbusRoman-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-BoldItalic.otf"
+"NimbusRoman-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-Italic.otf"
+"NimbusRoman-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusRoman-Regular.otf"
+"NimbusSans-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-Bold.otf"
+"NimbusSans-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-BoldItalic.otf"
+"NimbusSans-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-Italic.otf"
+"NimbusSans-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSans-Regular.otf"
+"NimbusSansNarrow-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-Bold.otf"
+"NimbusSansNarrow-BoldOblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-BoldOblique.otf"
+"NimbusSansNarrow-Oblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-Oblique.otf"
+"NimbusSansNarrow-Regular (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\NimbusSansNarrow-Regular.otf"
+"Orbitron Black (TrueType)"="W:\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Black.31.ttf"
+"Orbitron Bold (TrueType)"="W:\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Bold.31.ttf"
+"Orbitron ExtraBold (TrueType)"="W:\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_ExtraBold.31.ttf"
+"Orbitron Medium (TrueType)"="W:\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Medium.31.ttf"
+"Orbitron Regular (TrueType)"="W:\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_Regular.31.ttf"
+"Orbitron SemiBold (TrueType)"="W:\\.local\\share\\fonts\\Google Fonts\\Orbitron\\Orbitron_SemiBold.31.ttf"
+"P052-Bold (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-Bold.otf"
+"P052-BoldItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-BoldItalic.otf"
+"P052-Italic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-Italic.otf"
+"P052-Roman (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\P052-Roman.otf"
+"Source Code Pro (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Regular.otf"
+"Source Code Pro Black (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Black.otf"
+"Source Code Pro Black Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-BlackIt.otf"
+"Source Code Pro Bold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Bold.otf"
+"Source Code Pro Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-BoldIt.otf"
+"Source Code Pro ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-ExtraLight.otf"
+"Source Code Pro ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-ExtraLightIt.otf"
+"Source Code Pro Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-It.otf"
+"Source Code Pro Light (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Light.otf"
+"Source Code Pro Light Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-LightIt.otf"
+"Source Code Pro Medium (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Medium.otf"
+"Source Code Pro Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-MediumIt.otf"
+"Source Code Pro Semibold (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-Semibold.otf"
+"Source Code Pro Semibold Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodePro-SemiboldIt.otf"
+"SourceCodeVF (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Upright.otf"
+"SourceCodeVF Italic (TrueType)"="Z:\\run\\host\\fonts\\adobe-source-code-pro\\SourceCodeVF-Italic.otf"
+"Standard Symbols PS (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\StandardSymbolsPS.otf"
+"URWBookman-Demi (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-Demi.otf"
+"URWBookman-DemiItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-DemiItalic.otf"
+"URWBookman-Light (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-Light.otf"
+"URWBookman-LightItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWBookman-LightItalic.otf"
+"URWGothic-Book (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-Book.otf"
+"URWGothic-BookOblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-BookOblique.otf"
+"URWGothic-Demi (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-Demi.otf"
+"URWGothic-DemiOblique (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\URWGothic-DemiOblique.otf"
+"Z003-MediumItalic (TrueType)"="Z:\\run\\host\\fonts\\gsfonts\\Z003-MediumItalic.otf"
+
+[Software\\Wine\\Fonts\\Replacements] 1735378179
+#time=1db590b04e52bc2
+"Palatino Linotype"="Times New Roman"
+"Segoe UI"="Times New Roman"
+"Verdana"="Times New Roman"
+
+[Software\\Wine\\WineDbg] 1735378179
+#time=1db590b04e50b9c
+"ShowCrashDialog"=dword:00000000
+
+[Software\\Wine\\X11 Driver] 1735378179
+#time=1db590b048037da
+"KeyboardLayoutList"=str(7):"United States keyboard layout\0United States keyboard layout (phantom key version)\0United States keyboard layout (dvorak)\0United States International keyboard layout\0British keyboard layout\0German keyboard layout\0Swiss German keyboard layout\0Swiss French keyboard layout\0Swedish keyboard layout\0Estonian keyboard layout\0Norwegian keyboard layout\0Danish keyboard layout\0French keyboard layout\0Canadian French keyboard layout\0Canadian French keyboard layout (CA_fr)\0Canadian keyboard layout\0Belgian keyboard layout\0Portuguese keyboard layout\0Brazilian ABNT-2 keyboard layout\0Brazilian ABNT-2 keyboard layout ALT GR\0Finnish keyboard layout\0Bulgarian bds keyboard layout\0Bulgarian phonetic keyboard layout\0Belarusian keyboard layout\0Russian keyboard layout\0Russian keyboard layout (phantom key version)\0Russian keyboard layout KOI8-R\0Russian keyboard layout cp1251\0Russian phonetic keyboard layout\0Ukrainian keyboard layout KOI8-U\0Ukrainian keyboard layout (standard)\0Russian keyboard layout (standard)\0Spanish keyboard layout\0Italian keyboard layout\0Icelandic keyboard layout\0Hungarian keyboard layout\0Polish (programmer's) keyboard layout\0Slovenian keyboard layout\0Serbian keyboard layout sr\0Serbian keyboard layout us,sr\0Croatian keyboard layout\0Croatian keyboard layout (specific)\0Japanese 106 keyboard layout\0Japanese Mac keyboard layout\0Japanese pc98x1 keyboard layout\0Slovak keyboard layout\0Slovak and Czech keyboard layout without dead keys\0Czech keyboard layout\0Czech keyboard layout cz\0Czech keyboard layout cz_qwerty\0Latin American keyboard layout\0Lithuanian (Baltic) keyboard layout\0Turkish keyboard layout\0Turkish keyboard layout tr\0Turkish keyboard layout trf\0Israelian keyboard layout\0Israelian phonetic keyboard layout\0Israelian Saharon keyboard layout\0VNC keyboard layout\0Greek keyboard layout\0Thai (Kedmanee)  keyboard layout\0Dutch keyboard layout\0"
+
+[Volatile Environment] 1736824394
+#time=1db66323fb0575c
+"APPDATA"="C:\\users\\steamuser\\AppData\\Roaming"
+"CLIENTNAME"="Console"
+"HOMEDRIVE"="C:"
+"HOMEPATH"="\\users\\steamuser"
+"HOMESHARE"=""
+"LOCALAPPDATA"="C:\\users\\steamuser\\AppData\\Local"
+"LOGONSERVER"="\\\\AVERYS-PC"
+"SESSIONNAME"="Console"
+"USERDOMAIN"="AVERYS-PC"
+"USERNAME"="steamuser"
+"USERPROFILE"="C:\\users\\steamuser"

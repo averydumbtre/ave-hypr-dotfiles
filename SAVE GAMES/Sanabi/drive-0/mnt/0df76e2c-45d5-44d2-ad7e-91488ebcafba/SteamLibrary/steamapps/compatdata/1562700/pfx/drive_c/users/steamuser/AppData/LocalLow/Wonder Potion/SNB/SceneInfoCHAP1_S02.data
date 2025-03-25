@@ -1,0 +1,470 @@
+{
+    "layeredBGMIndex": -1,
+    "bgmNames": [
+        "AMBData_Chap1_Raining",
+        "BGMData_Chap1_Main"
+    ],
+    "savedObjectStates": [
+        {
+            "guid": [
+                108,
+                208,
+                230,
+                228,
+                75,
+                116,
+                151,
+                67,
+                170,
+                26,
+                93,
+                128,
+                53,
+                252,
+                195,
+                206
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                150,
+                31,
+                32,
+                138,
+                210,
+                105,
+                51,
+                75,
+                144,
+                63,
+                181,
+                3,
+                191,
+                34,
+                160,
+                53
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                152,
+                205,
+                165,
+                53,
+                237,
+                179,
+                86,
+                73,
+                158,
+                45,
+                82,
+                149,
+                58,
+                57,
+                255,
+                96
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                175,
+                86,
+                92,
+                6,
+                202,
+                220,
+                48,
+                66,
+                164,
+                40,
+                181,
+                52,
+                129,
+                74,
+                222,
+                39
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                171,
+                188,
+                111,
+                123,
+                211,
+                66,
+                138,
+                79,
+                187,
+                101,
+                89,
+                253,
+                109,
+                19,
+                106,
+                82
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                166,
+                176,
+                178,
+                197,
+                242,
+                33,
+                149,
+                68,
+                174,
+                228,
+                226,
+                145,
+                109,
+                87,
+                93,
+                198
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": true,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                121,
+                49,
+                31,
+                147,
+                199,
+                142,
+                16,
+                76,
+                185,
+                91,
+                32,
+                207,
+                184,
+                148,
+                109,
+                109
+            ],
+            "isActive": false,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                84,
+                50,
+                137,
+                224,
+                107,
+                131,
+                206,
+                74,
+                129,
+                46,
+                99,
+                184,
+                142,
+                53,
+                63,
+                181
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                66,
+                77,
+                113,
+                232,
+                180,
+                178,
+                217,
+                78,
+                128,
+                52,
+                22,
+                31,
+                152,
+                145,
+                243,
+                252
+            ],
+            "isActive": false,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                48,
+                48,
+                233,
+                254,
+                77,
+                204,
+                233,
+                73,
+                180,
+                69,
+                34,
+                130,
+                233,
+                215,
+                159,
+                35
+            ],
+            "isActive": false,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                213,
+                213,
+                204,
+                124,
+                195,
+                253,
+                163,
+                68,
+                137,
+                20,
+                16,
+                178,
+                74,
+                73,
+                100,
+                238
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                90,
+                252,
+                39,
+                119,
+                217,
+                117,
+                248,
+                79,
+                180,
+                26,
+                244,
+                159,
+                30,
+                73,
+                170,
+                18
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                223,
+                68,
+                94,
+                155,
+                208,
+                54,
+                151,
+                79,
+                144,
+                218,
+                236,
+                230,
+                13,
+                179,
+                79,
+                155
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                194,
+                226,
+                28,
+                14,
+                14,
+                4,
+                192,
+                69,
+                164,
+                129,
+                121,
+                166,
+                26,
+                103,
+                45,
+                227
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                150,
+                12,
+                250,
+                161,
+                125,
+                90,
+                179,
+                72,
+                140,
+                57,
+                84,
+                142,
+                183,
+                90,
+                169,
+                192
+            ],
+            "isActive": true,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "guid": [
+                25,
+                42,
+                60,
+                219,
+                196,
+                14,
+                185,
+                78,
+                178,
+                79,
+                129,
+                130,
+                192,
+                228,
+                79,
+                118
+            ],
+            "isActive": false,
+            "animationClipName": "",
+            "isFlip": false,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ],
+    "zoomScale": 1.2000000476837159,
+    "assetsPPU": 20,
+    "mariState": {
+        "saveState": 0
+    },
+    "savePointPos": {
+        "x": 442.04998779296877,
+        "y": 201.35000610351563
+    },
+    "respawnPointPos": {
+        "x": 442.04998779296877,
+        "y": 201.35000610351563
+    }
+}

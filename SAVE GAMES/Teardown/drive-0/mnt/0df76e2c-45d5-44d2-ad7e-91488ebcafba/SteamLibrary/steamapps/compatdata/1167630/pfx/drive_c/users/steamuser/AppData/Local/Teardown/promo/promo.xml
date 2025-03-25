@@ -1,0 +1,346 @@
+<promo>
+	<group title="September Featured" format="landscape" size="large">		
+		<item id="steam-3209546457" title="GNOME ZONE" author="[Barely Dysfunctional]" tags="map" image="new/gnomezone.jpg">
+			Hate gnomes? This mod’s got you covered! Fight off swarms of evil gnomes in the North American Midwest with fast-paced combat, a satisfying lever-action rifle, a wild boss fight, and a dramatic story set in eerie, gnome-infested lands.
+		</item>
+		<item id="steam-3324149490" title="FELL TITAN" author="gl8zed" tags="map" image="new/felltitan.jpg">
+			Explore a forgotten swamp where death and decay reign. Will you dare to enter the bunker? Uncover long-lost secrets, and if you're patient, you might stumble upon something bizarre in this eerie world.
+		</item>
+		<item id="steam-3173859813" title="Lightning gun" author="Dzage" tags="tool" image="new/lightninggun.jpg">
+			Shoot lightning that spreads like wildfire! This weapon obliterates anything in its path, creating fire and destruction. Incredible effects and design make it a must-try. Contributors are listed on Steam.
+
+			[LMB] - Shoot
+			[RMB] - Extinguish fire
+		</item>
+		<item id="steam-3271398359" title="Headcrab's War Map" author="0xBDD85F15" tags="map" image="new/headcrabswarmap.jpg">
+			Step into a dark battlefield filled with trenches, craters, and abandoned cars. The ominous atmosphere, paired with distant explosions, creates a chilling sense of fear and desperation. Not a place for the faint of heart.
+		</item>
+		<item id="steam-3304414432" title="Music Festival" author="404 Not Found" tags="map" image="new/musicfestival.jpg">
+			Become the ultimate stage tech! Customize light angles, colors, and pyrotechnics on this outdoor stage. With endless options for lights and fireworks, you're in control. Add your favorite tracks and get the party started!
+		</item>
+
+	</group>
+	
+	<group title="Essential Tools">
+		<item id="steam-3183943578" title="THE EVERYTHING REVOLVER" shorttitle="REVOLVER" author="Barely Dysfunctional" tags="tool" image="tool/everythingrevolver.jpg">
+			Experience the EVERYTHING REVOLVER by Barely Dysfunctional, a kaleidoscope of destruction with 38 unique ammunitions, from black holes to teleport bullets. A true marvel of creativity.
+			
+			[Map (Tab)] - Toggle Reload Menu
+			[R] - Reload Previous Chamber
+			[Q or E] - Load Ammo (drag and drop)
+		</item>
+		<item id="steam-3114561159" title="GLARE" author="KBD2" tags="tool" image="tool/glare.jpg">
+			The GLARE is a must have tool! This extremely powerful weapon cuts through anything like a knife through butter. Easy on the trigger is advised since over charging it would certainly get you pulverized.
+		</item>
+		<item id="steam-2412621869" title="Hook Shotgun" author="My Cresta" tags="tool" image="tool/hook-shotgun.jpg">
+			Why would anyone add a grapple hook to a shotgun? Because why not! Use the right mouse button to attach the grapple hook and then right mouse button again to pull in. You can use this both to swing between buildings and to pull objects.
+		</item>
+		<item id="steam-2539026789" title="Thermite Cannon" shorttitle="Thermite" author="el Boydo" tags="tool" image="tool/thermite-cannon.jpg">
+			The Thermite Cannon is by far the best way to set things on fire in Teardown. This is an incredibly powerful tool with masterful presentation.
+		</item>
+		<item id="steam-2625710852" title="Vacuum Cleaner" shorttitle="Vacuum" author="My Cresta" tags="tool" image="tool/vacuum.jpg">
+			With this vacuum cleaner you'll never find yourself tidying up debris ever again. Suck up small objects with ease and it gets even better - you can spit them back out with the right mouse button. Genius!
+		</item>
+		<item id="steam-2789549013" title="Fire Fighter" author="My Cresta" tags="tool" image="tool/fire-hose.jpg">
+			If you think the built-in fire extinguisher is a bit weak, this might be for you. Put out any fire with this massive fire hose, which will also affect dynamic objects in front of it.
+		</item>
+		<item id="steam-2401575709" title="AC130 Airstrike" shorttitle="Airstrike" author="My Cresta" tags="tool" image="tool/airstrike.jpg">
+			Feeling a little lazy? Call in an armored gunship to do the destruction for you. There is plenty of ammunition to choose from to cause just the right amount of destruction.
+		</item>
+		<item id="steam-2419814408" title="Attack Drone" author="My Cresta" tags="tool" image="tool/attack-drone.jpg">
+			This tool adds an autonomous drone that follows you around the level and does the shooting for you. This mod also offers first-person view from the drone if you desire.
+		</item>
+		<item id="steam-2417823738" title="Remote Control" author="pahapua" tags="tool" image="tool/remote-control.jpg">
+			Remote control any vehicle. Simply click on the vehicle you want to control and use J,K,L,I to drive. This mod is surprisingly useful and fun to play with!
+		</item>
+		<item id="steam-2415643616" title="C4" author="Punished Bernadetta, Slash by Zero" tags="tool" image="tool/c4.jpg">
+			Place C4 charges anywhere and detonate them all at once by pressing K. You can configure both the size of the explosion and the time in between explosions.
+		</item>
+		<item id="steam-2840497593" title="Welding tool" author="Dounut" tags="tool" image="tool/weld.jpg">
+			Make sure to protect your eyes when welding, with this welder you can even weld wood and metal together, now that is something!
+		</item>
+		<item id="steam-2797610758" title="Piano Fall" author="Jiffy UP" tags="spawnable, tool" image="tool/piano.jpg">
+			Grand pianos falling from the sky. There's not much more to it, but it's more than enough.
+		</item>
+		<item id="steam-2848237963" title="Cast Iron Revolver" author="Autumnatic" tags="tool" image="tool/iron.jpg">
+			If you have the ambition of becoming the best gunslinger in Löckelle this solid feel-good piece is for you.
+		</item>
+		<item id="steam-2839238216" title="Magnetizer" author="Mi1" tags="tool" image="tool/magnet.jpg">
+			A comically large magnet that can make any object magnetic, even wooden and plastic objects. Shift scroll to set attracting or repelling force.
+		</item>
+		<item id="steam-2953615853" title="Zenitka" author="Dzage, Deffcolony" tags="tool" image="tool/zenitka.jpg">
+			Did someone order a portable anti-aircraft cannon? The Zenitka by Dzage is EXTREMELY destructive. 
+			Just imagine, unlimited ammo and lots of explosions!
+			
+			Get your hands on this one-of-a-kind cannon!
+		</item>
+		<item id="steam-2932177081" title="Smart Pistol" author="Autumnatic" tags="tool" image="tool/smart_pistol.jpg">
+			Winner in the category best Sci-Fi gadget. 
+			
+			Never miss a shot again with this smart pistol that always hit the mark.
+
+			[Interact] - Energy Whip
+			[R] - Cycle Bullets
+			[Shift] - Focus
+			[Q] - Extend and Customize
+		</item>
+		<item id="steam-3046923786" title="Det Cord" author="El_ttio" tags="tool" image="tool/detcord.jpg">
+			Looking for a new and unique way to do damage? El_ttio’s explosive DET CORD tool carves up the landscape with surgical precision.
+		</item>
+	</group>
+	
+	<group title="Essential Sandbox Levels">
+		<item id="steam-3225819986" title="CYBERDOWN" author="tislericsm" tags="map, spawnable" image="sandbox/cyberdown.jpg">
+			Navigate through tislericsm's neon-infused, cyberpunk cityscape. Pilot hovercars, explore neon streets and alter the weather for a dynamic adventure!
+		</item>	
+		<item id="steam-3226979806" title="Mexico" author="wuppaj0953" tags="map" image="sandbox/mexico.jpg">
+			Stroll through wuppaj0953’s colorful Mexican village, bustling with life, surrounded by nature, and filled with beachfront play. A vibrant escape by the sea.
+		</item>
+		<item id="steam-2446494619" title="NorthPine Mall 2.0" shorttitle="NorthPine Mall" author="teamish" tags="map" image="sandbox/northpinemall.jpg">
+			Explore the dazzling Northpine Mall 2.0 by teamish! With its vibrant colors, concrete and glass elegance, and captivating atmosphere, it's an essential map to delve into. The BT café will ensure you stay well-hydrated.
+		</item>
+		<item id="steam-3105499404" title="The Blast Furnace: A Tribute" shorttitle="Blast Furnace" author="TurtleBravo85" tags="map, spawnable" image="sandbox/theblastfurnace.jpg">
+			Examine this massive and detailed Blast furnace industry made by TurtleBravo85. Detailed, eerie and absolutely stunning to look at and explore.
+		</item>
+		<item id="steam-2414968003" title="Inverted pyramid house" shorttitle="Inv Pyramid" author="gusono" tags="map" image="sandbox/invpyramid.jpg">
+			Beautiful map inspired by a real house in Spain. 
+		</item>
+		<item id="steam-2453693772" title="Russian Town 3" shorttitle="Russian Town"  author="Igor_AI88" tags="map" image="sandbox/russiantown.jpg">
+			Who are the agents on the roof? What's going on in the town hall and what really happened to the public school? Environmental storytelling at its best in this huge map.
+		</item>
+		<item id="steam-2481708623" title="Off the Grid Cabin" shorttitle="Off the Grid" author="Jack" tags="map" image="sandbox/offthegrid.jpg">
+			Sit back and relax in this beautiful cabin in the woods. Amazing attention to detail in this small map by Jack.
+		</item>
+		<item id="steam-2480490943" title="The Junkyard" shorttitle="Junkyard" author="BattleBob72" tags="map, spawnable" image="sandbox/junkyard.jpg">
+			Take the ShredDozer around BattleBob's Junkyard, crush vehicles and cause mayhem. This was one of the first mods for Teardown and still one of the most iconic!
+		</item>
+		<item id="steam-2465001487" title="Public Library" author="De-Alpha" tags="map" image="sandbox/library.jpg">
+			Ever gotten a fine for returning a book late? Looking for revenge? Then look no further, unleash your frustration by tearing down this library.
+		</item>
+		<item id="steam-2430961153" title="Voxel Plaza" author="o_O-r." tags="map, spawnable" image="sandbox/voxelplaza.jpg">
+			Large buildings and detailed architecture. This ambitious mod has a lot of customization options.
+		</item>
+		<item id="steam-2849415642" title="Montagna del Castello" shorttitle="Montagna" author="Klimber and Klumbart" tags="map" image="sandbox/montagna.jpg">
+			A beautiful mountain castle suited for a king, take a stroll by the windmill outside the walls or lock yourself up behind the drawbridge and gate to enjoy some peace and quiet.
+		</item>
+		<item id="steam-2849214479" title="Oak Village" author="Caffeine Power" tags="map" image="sandbox/oakvillage.jpg">
+			A beautiful village by the lake, visit the blacksmith, go to the market or dig in the fields.
+		</item>
+		<item id="steam-2889602163" title="A California House" author="eli" tags="map, spawnable" image="sandbox/california_house.jpg">
+			A house in sunny California, if you're used to the typical Löckelle weather you better remeber to put on sunscreen! Features both a well crafted sandbox experience and a heist mission!
+		</item>
+		<item id="steam-2902815293" title="Cliff House" author="gusono" tags="map, spawnable" image="sandbox/cliff_house.jpg">
+			From the creator of the Inverted Pyramid house, Cliff House is another well crafted map full of details! Drive up the winding mountain road and explore the cliff house, and of course, destroy it and make it fall into the ocean.
+		</item>
+		<item id="steam-2934316038" title="Armanty Space Station" author="Caffeine Power" tags="map" image="sandbox/armanty.jpg">
+			A mod specifically made to be used as your asset library when making a Sci-Fi themed mod!
+		</item>		
+		<item id="steam-2678285559" title="Countryside" author="Mr. Random" tags="map" image="sandbox/countryside.jpg">
+			Looking to get away from the hustle and bustle of the city?
+
+			Check out Mr. Randoms' SOKOL Countryside mod for those chill Sunday Drive vibes.
+		</item>
+		<item id="steam-3019638063" shorttitle="BT Factory" title="BlueTide Factory" author="Rinswent, EpicKeyboardPlayer" tags="map" image="sandbox/bluetidefactory.jpg">
+			Did you ever wonder where the secret BlueTide recipe was kept? Look no more but sneak into Rinswent's and EpicKeyboardPlayer's BlueTide factory and investigate offices, storage rooms, common areas and don't miss the BT production line.
+		</item>
+		<item id="steam-3047993521" shorttitle="Bright Valley CC" title="Bright Valley Correctional Center" author="WAY2GO" tags="map, spawnable" image="sandbox/brightvalley.jpg">
+			Dare to enter a max security prison? Explore this exceptional prison from WAY2GO but stay away from the patrolling guard and don't, just don't have a rest in THAT chair in Condemned Block.
+		</item>
+		<item id="steam-3085576265" title="WTDN 12 News Studio" author="ummm, i dont know :)" tags="map" image="sandbox/WTDN12newsstudio.jpg">
+			Have you ever wanted to work in the fast-paced world of broadcast journalism? This modern news studio comes with all the features to put you in the limelight.
+		</item>
+	</group>
+
+	<group title="Great Gameplay" format="landscape">
+		<item id="steam-2934211783" title="Forgotten" author="OD Studios" tags="map, spawnable" image="gameplay/forgotten.jpg">
+			Reactor damaged, emergency power activated. Figure out what happened to the mining vessle in this Sci-Fi horror mod.
+		</item>
+		<item id="steam-2933738609" title="Chronos" author="Dreieck" tags="map, spawnable" image="gameplay/chronos.jpg">
+			Neon, flying cars! The future is here but we need to go back in time to figure out how this all started!
+
+			Start the mod by pressing the options button.
+		</item>
+		<item id="steam-2934435754" title="COSMONAUT" author="Barely Dysfunctional" tags="map, spawnable" image="gameplay/cosmonaut.jpg">
+			The government project COSMONAUT has failed and as usual it's up to you, the video game protagonist, to set things straight and figure out what happened to your colleagues.
+		</item>
+		<item id="steam-2840915160" title="Swatch Whip" author="Autumnatic" tags="map" image="gameplay/swatchwhip.jpg">
+			Need to practice your driving skills? Then this vehicle puzzle mod is for you, steer your vehicle and vehicles towards victory.
+		</item>
+		<item id="steam-2668638370" shorttitle="Touring Cars" title="Teardown Touring Cars" author="el Boydo" tags="map" image="gameplay/touring.jpg">
+			Race against competing AI controlled cars on multiple tracks spread across Löckelle, see you at the Norrbotten Hills Raceway!
+		</item>
+		<item id="steam-2849604226" title="LIGHTBEARER" author="Barely Dysfunctional" tags="map" image="gameplay/lightbearer.jpg">
+			If you are into slaying bad guys and collecting loot in a procedurally generated world then this is the mod for you.
+		</item>
+		<item id="steam-2676258508" title="Destructible robots" author="DimasVoxel" tags="spawnable" image="gameplay/destructible.jpg">
+			The robots are on the rise and they are out to get you, survive wave after wave of menacing robots.
+		</item>
+		<item id="steam-2874873167" shorttitle="Representation Of Teardown Discord" title="Accurate Rep. Of Teardown Discord" author="Prop Guy" tags="map" image="gameplay/accurate.jpg">
+			Want to understand the jokes in this mod? Not a member of discord.gg/Teardown? Then join the community!
+		</item>
+		<item id="steam-2842953308" title="Medieval Fight" author="Zaap" tags="spawnable" image="gameplay/fight.jpg">
+			Pick an oversized axe, sword, spear or a hammer and go toe to toe with the enemies you encounter. Comes with a demo map or enable it and play in any other level.
+		</item>
+		<item id="steam-2906369984" title="Mors Longa" author="OD Studios" tags="map, spawnable" image="gameplay/mors_longa.jpg">
+			If you are into driving, looting and shooting then Mors Longa is for you. Try and get as far as possible and make sure you have enough food, water and ammo to take on the military, insurgents and anarchists and anyone else who tries to stop you from escaping Alashya.
+		</item>
+		<item id="steam-3001222959" title="Just Run!" author="Parking Meter" tags="map" image="gameplay/justrun.jpg">
+			The Just Run! mod is a legitimate game within a game, pretty challenging, and visually cool. 
+			
+			The music syncing up with the stage progression is a nice touch!
+		</item>
+	</group>
+
+	<group title="Object Spawning">	
+		<item id="steam-2983703634" title="Vortexes and Tornadoes" author="Rainbow" tags="tool" image="spawn/vortexesandtornadoes.jpg">
+			Rainbow sure brings a dynamic twist to Teardown with his Vortexes and Tornadoes mod. With a fully customizable menu there are no limits to how you can portrait disaster visually; size, speed, strength, element, colors and effects are some of the options you can play around with.
+
+			[L] - Menu
+		</item>
+		<item id="steam-2414764881" title="Mega Prop Pack" author="The Mafia" tags="map, spawnable" image="spawn/props.jpg">
+			You'll find just about any prop from the Teardown campaign recreated in this extensive prop pack!
+		</item>
+		<item id="steam-2842159100" title="Geardown" author="EuroRyder" tags="spawnable" image="spawn/geardown.jpg">
+			Need to flatten the driveway or head to the racetrack? Geardown has your back by providing a good variety of realistic vehicles from steamrollers to race cars.
+		</item>
+		<item id="steam-2800919393" shorttitle="Bikes & Ramps" title="Bikes, Ramps & Ragdolls" author="Jiffy UP" tags="spawnable" image="spawn/bikes.jpg">
+			Skate is not a crime and neither is riding these sweet bikes up and down the spawnable ramps.
+		</item>
+		<item id="steam-2782336916" shorttitle="GORE MOD 2" title="[SW's] ADVANCED GORE MOD 2" author="darren, SnakeyWakey, Offensive.PDF" tags="map, spawnable" image="spawn/gore.jpg">
+			Ever felt lonely in Teardown? Populate your world with some of these spawnable ragdolls!
+		</item>
+		<item id="steam-2846560581" shorttitle="Forest Friends" title="Spawnable Forest Friends" author="Parking Meter" tags="map, spawnable" image="spawn/friends.jpg">
+			Once I had a little frog and I loved that frog, very, very much, with this pack you can spawn your own Forg, Raddit and Mose.
+		</item>
+		<item id="steam-2755308994" shorttitle="Barricade Pack" title="Shuggy's Barricade Pack" author="Shuggy Radgers" tags="map, spawnable" image="spawn/barricade.jpg">
+			Feel a bit anti-social? Spawned too many enemies? Then this is the perfect pack to keep the neighbors and enemies away.
+		</item>
+		<item id="steam-2847877586" title="Film Gear" author="eli" tags="map, spawnable" image="spawn/movie.jpg">
+			Need a logical explanation to what is going on in your sandbox world? Just set up your movie set and start explaining the plot.
+		</item>		
+		<item id="steam-2673451391" title="Robot Vehicles" author="Cheejins" tags="map, spawnable" image="spawn/robotvehicle.jpg">
+			Pilot the basic robot or the Aeon robot, both equipped with heavy weapons for all your destruction needs.
+		</item>
+		<item id="steam-2616379809" title="Mr.Randoms Vehicles" shorttitle="Mr.Randoms" author="Mr.Random" tags="map, spawnable" image="spawn/random.jpg">
+			Want to escape the heist in a hot rod or combine harvester, this vehicle pack has you covered.
+		</item>
+		<item id="steam-2830245684" title="Catapult" author="DimasVoxel and Autumnatic" tags="spawnable" image="spawn/catapult.jpg">
+			Spawn in a catapult and hurl boulders of destruction across the map or why not be the ammunition yourself and take a shortcut over a wall.
+		</item>
+		<item id="steam-2823236249" title="Medieval Crossbow" author="DimasVoxel and Autumnatic" tags="spawnable" image="spawn/crossbow.jpg">
+			A fully functional ballistic launcher, spawn it outside a castle and load it up with exploding bolts to create a new entrance.
+		</item>
+		<item id="steam-2933294498" title="Futuristic Vehicle Pack" author="Zangik" tags="spawnable" image="spawn/futuristic_car_pack.jpg">
+			Some stellar rides, maybe even interstellar! Neon lights are a must in the future, that's since old!
+
+			Find them all from the spawn menu!
+		</item>
+		<item id="steam-2998330771" title="Bridge Launcher System" author="KhanKrum" tags="map, spawnable" image="spawn/bridgelaunchersystem.jpg">
+			Looking to bridge the gap in a quick pinch? KhanKrum has you covered with their fully mobile Bridge Launcher System, making tough traversal a thing of the past.
+		</item>
+	</group>
+
+	<group title="Miniature Landscapes" format="landscape">
+		<item id="steam-2631642003" title="New York" author="[symbols not supported by our engine]" tags="map" image="mini/newyork.jpg">
+			Skyscrapers to the left of me skyscrapers to the right, here I am, stuck in a miniature version of New York.
+		</item>
+		<item id="steam-2488185625" title="Miniature World" author="Spencer Johnson" tags="map" image="mini/miniworld.jpg">
+			Three miniature cities in this mod, an amusement park, snowy mountains and of course a drivable tornado to destroy it all.
+		</item>
+		<item id="steam-2606695330" title="Micro Metropolis" author="Parking Meter" tags="map, spawnable" image="mini/micrometropolis.jpg">
+			Be careful not to break anything as you explore this miniature city, or go all in and just blow it up.
+		</item>
+		<item id="steam-2799394588" shorttitle="Tiny cars" title="Spawnable Tiny Car(s)" author="Davvv!!!" tags="map, spawnable" image="spawn/tiny.jpg">
+			The perfect way of exploring the miniature worlds.
+		</item>
+		<item id="steam-2895580168" title="Cyberpunk City mini map" author="Apholito12" tags="map, spawnable" image="mini/cyberpunk_city.jpg">
+			A well crafted miniature city in a cuberpunk setting, with a dynamic highway running through it.
+		</item>
+	</group>
+
+	<group title="Dreadful Enemies" format="landscape">
+		<item id="steam-3165672155" title="Ketos" author="Fitne Por" tags="spawnable" image="enemy/ketos.jpg">
+			Dare to face the Ketos by Fitne Por, a near-indestructible aquatic terror. Its serpentine movements and lethal attacks make every encounter a thrilling challenge.
+		</item>
+		<item id="steam-2740693406" title="Basilisco V2" author="Fitne Por" tags="map, spawnable" image="enemy/basilisco.jpg">
+			Is it a bird? Is it a plane? No! It's the dreadful Basilisco V2 that will try and ram you, shoot you with lasers and mortars while it's soaring through the sky.
+		</item>
+		<item id="steam-2628628690" title="Colossus Attack" author="tislericsm" tags="map, spawnable" image="enemy/colossus.jpg">
+			A big mean walking machine that will try to both destroy everything in its path as well as eliminate you.
+		</item>
+		<item id="steam-2851033645" title="TeaREX" author="tislericsm" tags="map, spawnable" image="enemy/tearex.jpg">
+			To quote John Hammond, "We have a T-Rex!". This beast will try and bite your head off if you don't keep your distance.
+		</item>
+		<item id="steam-2843815456" title="Angry Snake" author="Danyadd" tags="spawnable" image="enemy/snake.jpg">
+			The angry snake is an enemy that will try to kill you but this mod also contains the friendly drivable snake.
+		</item>
+		<item id="steam-3011292197" title="Zombies [AUTUMNATIC]" author="Autumnatic" tags="spawnable" image="enemy/zombies.jpg">
+			Recycling is typically a good thing. Unless it's the recently departed. Zombies have a nasty track record of being cranky, and AUTUMNATIC's undead hordes are no exception to the rule. Lock & load, friends.
+		</item>
+	</group>
+
+	<group title="Weird and Wonderful" format="landscape">
+		<item id="steam-3261134951" title="Natural Phenomena" author="tislericsm" tags="tool" image="weird/naturalphenomena.jpg">
+			Experience the beauty and chaos of nature with stunning effects like the Aurora Borealis, avalanches, typhoons, and meteor showers. This mod transforms the environment into a detailed work of art that is both impressive and immersive.
+		</item>
+		<item id="steam-3137548950" title="Birds - Beta" author="Dima, Maciek, KBD2, YuLun, Thomasims" tags="spawnable" image="weird/birds.jpg">
+			Bring life to Teardown with the Birds mod. Transform any level with 19 fluttering species, adding a dynamic burst of nature to the static backdrops.
+		</item>
+		<item id="steam-3154976463" title="TVA Time Stick" author="One Thousand Volts" tags="tool" image="weird/tvatimestick.jpg">
+			Wield the power of erasure with the mysterious time stick by One Thousand Volts. Vanish objects with a flick, surrounded by magical sparks. The ultimate tool for creative destruction.
+			
+			[P] - Toggle particle effects
+			[L] - Cancel prune
+		</item>
+		<item id="steam-3130715283" title="Drive Anything" author="f1nniboy" tags="tool" image="weird/driveanything.jpg">
+			Even if you can manoevre a car, truck or bus, chances are small you can drive a church, gas tank or portaloo. f1nniboy's Drive Anything mod lets you do just that! Prepare for tons of exhilarating fun and unforgettable craziness!
+		</item>
+		<item id="steam-3011952015" title="Fish Launcher" author="Bingle" tags="tool" image="weird/fishlauncher.jpg">
+			Perhaps growing up, you had aspirations of being a professional fishmonger, or you just like seeing fish launch through the air with surprising accuracy. Creator Bingle has you covered.
+		</item>
+		<item id="steam-2812070512" title="Dog Companion" author="DimasVoxel" tags="tool" image="weird/dog.jpg">
+			Adorable dog companion that spawns next to you on any level. Pet your companion to make it happy! Follows you everywhere and can play fetch.
+		</item>
+		<item id="steam-2842089454" shorttitle="Airspray" title="Chemically Infused Airspray" author="Autumnatic" tags="tool" image="weird/airspray.jpg">
+			With an experimental point particle system you can mix and match properties in case you want to explosively redecorate your garage or bungalow.
+		</item>
+		<item id="steam-2689140429" title="Weed Wacker" author="Laz" tags="tool" image="weird/wacker.jpg">
+			Not all mods generate spectacular destruction, sometimes you just need a mod to take care of your lawn.
+		</item>
+		<item id="steam-2486435303" title="Boys_FromTheDistrict" author="mode_vis" tags="map" image="weird/boys.jpg">
+			Don't be up to no good and make trouble in the neighborhood, just chill with the boys from the district.
+		</item>
+		<item id="steam-2793116186" title="Driveable Wonders" author="EVGSTORE1" tags="map, spawnable" image="weird/drivable.jpg">
+			Do they have good handling? No. Are they among the fastest vehicles available? No. Are they durable? No, but they are quite cute.
+		</item>
+		<item id="steam-2826557844" shorttitle="Acid Gun" title="Acid Gun (voxels)" author="Laz" tags="tool" image="weird/acid.jpg">
+			Watch things disintegrate in front of you as you spray acidic voxels. Might be bad for the environment though.
+		</item>
+		<item id="steam-2873742700" title="Sphere" author="Laz" tags="map" image="weird/sphere.jpg">
+			It's a sphere in our voxel game! Thankfully Laz added controls to transform the sphere into a cube for all of us that aren't ready to give up the blockiness.
+		</item>
+		<item id="steam-2825561125" title="Medieval Weapons" author="SomeWhatSavageGaming" tags="tool" image="weird/weaponphysics.jpg">
+			They might not be the most effective since they all rely on in-game physics to do damage but they are silly.
+		</item>
+		<item id="steam-2933661546" title="Hover" author="Micro" tags="tool" image="weird/hover.jpg">
+			Turn any car into a hover car with the press of a button, more specifically the H button.
+
+			[H] - Hover/Unhover vehicle
+			[G] - Color Wheel (hold)
+			[O] - Unhover all
+
+			While driving:
+			[Shift] - Move faster
+			[Space] - Go up 
+		</item>
+		<item id="steam-2989485208" title="Spray" author="micro" tags="tool" image="weird/spray.jpg">
+			For the longest time, everything was just yellow, but now it's time to mark up your creations with some multicolored Graffiti using Spray by Micro.
+
+			Make some art today!
+		</item>
+		<item id="steam-2962385718" title="Instant Film Camera" author="Zooi" tags="tool" image="weird/instantcamera.jpg">
+			Live out your picture perfect world with the Instant Film Camera mod from Zooi and 404 Not Found.
+		</item>
+	</group>
+</promo>
+

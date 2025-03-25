@@ -1,0 +1,1694 @@
+WINE REGISTRY Version 2
+;; All keys relative to REGISTRY\\User\\S-1-5-21-668791054-3894297218-1000-1000
+
+#arch=win64
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1725481079
+#time=1daff078936b19c
+@=""
+
+[Console] 1731354177
+#time=1db3471e84f974e
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Control Panel\\Accessibility\\AudioDescription] 1725481077
+#time=1daff078840d8a8
+"Locale"=dword:00000000
+"On"="0"
+
+[Control Panel\\Accessibility\\Blind Access] 1725481077
+#time=1daff078840d1be
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1725481077
+#time=1daff078840c78c
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1725481077
+#time=1daff078840d3ee
+"On"="0"
+
+[Control Panel\\Colors] 1725481079
+#time=1daff07894dd70a
+"ActiveBorder"="255 255 255"
+"ActiveTitle"="50 150 250"
+"AppWorkSpace"="128 128 128"
+"Background"="37 111 149"
+"ButtonAlternateFace"="255 255 255"
+"ButtonDkShadow"="106 106 106"
+"ButtonFace"="245 245 245"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="166 166 166"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="50 150 250"
+"GradientInactiveTitle"="128 128 128"
+"GrayText"="166 166 166"
+"Hilight"="48 150 250"
+"HilightText"="255 255 255"
+"HotTrackingColor"="224 224 224"
+"InactiveBorder"="255 255 255"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="200 200 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="255 255 255"
+"MenuBar"="255 255 255"
+"MenuHilight"="48 150 250"
+"MenuText"="0 0 0"
+"Scrollbar"="255 255 255"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="158 158 158"
+"WindowText"="0 0 0"
+
+[Control Panel\\Desktop] 1725481079
+#time=1daff07894de09c
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,02,80,12,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1725481079
+#time=1daff07894ddfb6
+"BorderWidth"="1"
+"CaptionFont"=hex:0a,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="25"
+"CaptionWidth"="18"
+"IconFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="18"
+"MenuWidth"="18"
+"MessageFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="0"
+"ScrollHeight"="17"
+"ScrollWidth"="17"
+"SmCaptionFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="17"
+"SmCaptionWidth"="17"
+"StatusFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[Control Panel\\International] 1725481077
+#time=1daff078837d3fc
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"Locale"="00000409"
+"LocaleName"="en-US"
+"NumShape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM d, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sShortTime"="h:mm tt"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\International\\Geo] 1725481077
+#time=1daff078837d49c
+"Name"="US"
+"Nation"="244"
+
+[Control Panel\\International\\\xd83c\xdf0e\xd83c\xdf0f\xd83c\xdf0d] 1725481077
+#time=1daff078837ccae
+"Currencies"="USD"
+
+[Control Panel\\Keyboard] 1725481077
+#time=1daff078840c818
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1725481077
+#time=1daff078840d5ba
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1725481077
+#time=1daff078840b3e6
+"Beep"="Yes"
+
+[Environment] 1725481078
+#time=1daff0788e7c6a4
+"TEMP"="C:\\users\\steamuser\\Temp"
+"TMP"="C:\\users\\steamuser\\Temp"
+
+[Keyboard Layout\\Preload] 1725481077
+#time=1daff078840abd0
+"1"="00000409"
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1725481079
+#time=1daff0789349ccc
+"Search Page"="https://www.google.com"
+"Start Page"="https://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1725481078
+#time=1daff0788be0472
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1725481079
+#time=1daff0789349dda
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1725481079
+#time=1daff078936b250
+
+[Software\\Microsoft\\SQMClient] 1731354180
+#time=1db3471eaa13dd6
+"UserId"="{693DFFA5-B3C5-43F2-B737-5AA5737E9DFC}"
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1725481080
+#time=1daff078a235e16
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1725481080
+#time=1daff078a235ee8
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1725481080
+#time=1daff078a235fba
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1731354183
+#time=1db3471ec1f1e8a
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1731354183
+#time=1db3471ec1f1f5c
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1731354183
+#time=1db3471ec1f2010
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1725481080
+#time=1daff078a2364ba
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1725481080
+#time=1daff078a23658c
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1725481080
+#time=1daff078a23664a
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1731354183
+#time=1db3471ec1984c0
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1731354183
+#time=1db3471ec19857e
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1731354183
+#time=1db3471ec198632
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1725481080
+#time=1daff078a236b2c
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1725481080
+#time=1daff078a236bfe
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1725481080
+#time=1daff078a236cc6
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1725481079
+#time=1daff0789359a8c
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts] 1738521253
+#time=1db75a10e9e2d8c
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1725481078
+#time=1daff0788e6bd72
+"Administrative Tools"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\steamuser\\AppData\\Roaming"
+"Cache"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"="C:\\users\\steamuser\\Desktop"
+"Favorites"="C:\\users\\steamuser\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\steamuser\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"="C:\\users\\steamuser\\AppData\\Local"
+"My Music"="C:\\users\\steamuser\\Music"
+"My Pictures"="C:\\users\\steamuser\\Pictures"
+"My Videos"="C:\\users\\steamuser\\Videos"
+"NetHood"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"="C:\\users\\steamuser\\Documents"
+"PrintHood"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\steamuser\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\steamuser\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\steamuser\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\steamuser\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\steamuser\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\steamuser\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\steamuser\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1725481078
+#time=1daff0788e6bdc2
+"__WineVistaPaths"=dword:00000001
+"Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
+"Cache"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\AppData\\Local"
+"My Music"=str(2):"%USERPROFILE%\\Music"
+"My Pictures"=str(2):"%USERPROFILE%\\Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\Videos"
+"NetHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"=str(2):"%USERPROFILE%\\Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1738521291
+#time=1db75a12569122a
+"ProxyEnable"=dword:00000000
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1725481079
+#time=1daff078926f360
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1725481079
+#time=1daff078926f1da
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1725481079
+#time=1daff078926f018
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1725481079
+#time=1daff078926f3b0
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1725481079
+#time=1daff07892866fa
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1725481079
+#time=1daff0789275184
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1725481079
+#time=1daff078927a8f0
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1725481079
+#time=1daff078928032c
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1725481079
+#time=1daff0789286506
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1725481079
+#time=1daff078928bfba
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1725481079
+#time=1daff0789359b54
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1725481079
+#time=1daff07894d6e5a
+"ColorName"="Blue"
+"DllName"="C:\\windows\\resources\\themes\\light\\light.msstyles"
+"FlatMenu"=dword:00000000
+"GradientCaption"=dword:00000001
+"IconTitleFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"LoadedBefore"="1"
+"NonClientMetrics"=hex:f8,01,00,00,01,00,00,00,10,00,00,00,10,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,\
+  00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,\
+  ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,\
+  22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,00,90,01,00,00,00,00,00,01,00,00,00,22,54,00,61,00,68,00,6f,\
+  00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00
+"SizeName"="NormalSize"
+"ThemeActive"="1"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1725481079
+#time=1daff07894d6acc
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"Background"="58 110 165"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="212 208 200"
+"MenuBar"="212 208 200"
+"MenuHilight"="10 36 106"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1731354183
+#time=1db3471ec192cfa
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1725481079
+#time=1daff078936cb00
+"ProgId"="ftp"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1725481079
+#time=1daff078936d06e
+"ProgId"="http"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1725481079
+#time=1daff078936d5b4
+"ProgId"="https"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1725481079
+#time=1daff0789359f00
+
+[Software\\Valve\\Steam] 1741216960
+#time=1db8e257d321cd0
+"language"="english"
+"SteamExe"="C:\\Program Files (x86)\\Steam\\Steam.exe"
+"SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Valve\\Steam\\ActiveProcess] 1738521253
+#time=1db75a10ea43cd6
+"PID"=dword:0000fffe
+"SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
+"SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
+"SteamPath"="C:\\Program Files (x86)\\Steam"
+
+[Software\\Valve\\Steam\\Apps\\438100] 1731354199
+#time=1db3471f5d9801e
+"Installed"=dword:00000001
+"Running"=dword:00000001
+"Updating"=dword:00000000
+
+[Software\\VRChat\\VRChat] 1731368157
+#time=1db349275000d2a
+"14C4B06B824EC593239362517F538B29_h1518735675"=hex:74,50,39,6d,6d,77,70,36,30,\
+  4f,65,2b,54,4f,67,6c,6e,31,6e,6f,4e,51,3d,3d,00
+"5F4DCC3B5AA765D61D8327DEB882CF99_h997075211"=hex:2f,77,74,61,68,4a,70,72,41,\
+  31,63,5a,62,68,30,72,6a,69,4c,70,4c,77,3d,3d,00
+"785C2BDD2C43070A10BC35E5E687A467_h2366186322"=hex:57,39,41,36,7a,64,4c,79,33,\
+  70,32,57,76,53,75,69,4f,50,50,51,69,45,2b,63,54,6a,6e,36,69,66,61,53,43,48,\
+  67,51,6f,53,59,46,65,79,44,38,71,50,70,6c,65,6b,2b,31,77,4f,32,43,31,44,6f,\
+  50,53,74,47,30,7a,37,33,50,75,61,62,77,56,32,4d,53,59,54,69,6f,55,33,32,4c,\
+  31,72,55,77,55,2f,31,64,4f,66,57,33,53,54,38,48,4d,48,38,49,4d,33,42,31,34,\
+  4c,51,51,37,33,32,77,67,55,37,34,43,68,46,2b,5a,68,6f,69,2b,50,35,71,54,5a,\
+  4d,5a,53,7a,53,6a,2b,50,79,67,55,6b,47,57,49,6b,4e,42,54,41,78,35,49,49,49,\
+  65,32,49,68,76,48,42,6f,6b,72,64,32,4e,4a,58,47,57,7a,6e,54,61,71,64,70,79,\
+  6c,31,77,7a,4f,62,6e,34,44,48,58,76,7a,79,35,6c,39,62,56,76,45,6e,55,53,34,\
+  7a,49,45,6d,4a,74,7a,64,64,4d,57,62,75,77,56,76,68,79,30,2f,48,35,39,5a,30,\
+  42,65,58,4f,68,44,70,7a,30,43,35,4c,48,31,65,6f,73,43,41,35,4d,72,68,6a,7a,\
+  6a,36,55,45,32,67,61,61,61,42,4e,77,4a,54,36,6a,30,50,61,57,34,71,49,6f,2b,\
+  33,6f,50,74,58,63,77,72,6d,79,63,57,2f,49,42,46,47,49,50,34,4f,58,58,49,58,\
+  2f,4c,71,4e,33,59,34,6d,51,76,49,31,43,4a,6d,72,65,47,38,46,59,70,5a,4b,6b,\
+  6d,71,6e,61,58,6a,34,51,77,4f,4d,75,7a,70,75,71,79,7a,71,56,56,6a,42,38,33,\
+  30,71,6d,36,64,64,32,48,6d,48,36,50,63,71,38,34,6e,34,69,46,7a,73,6d,52,62,\
+  50,37,76,58,6e,79,41,6a,51,35,69,4d,75,52,66,6e,49,58,30,7a,77,59,6c,6e,55,\
+  36,38,43,44,35,47,48,53,72,39,66,64,36,2b,59,45,38,35,79,68,41,4d,42,4b,56,\
+  39,68,45,2b,35,71,39,32,6d,62,6c,61,69,53,59,61,46,31,31,78,4a,79,44,53,41,\
+  71,53,35,65,41,4e,75,58,5a,42,6d,50,64,44,4e,33,49,6c,33,52,4a,75,69,71,46,\
+  73,69,43,31,67,38,33,43,4f,78,46,68,48,61,46,65,47,33,35,6f,52,68,34,31,77,\
+  42,6a,79,5a,61,78,47,50,61,76,58,70,64,63,3d,00
+"93D3AE97F80BEDA8E396065DC4770A93_h1522417508"=hex:31,72,47,41,4c,56,55,71,78,\
+  75,4a,4d,79,7a,6a,53,79,5a,6d,61,45,31,6b,48,31,76,43,71,4c,63,78,65,00
+"_LastExpiredSubscription_h2460695364"=hex:00
+"AUDIO_GAME_AVATARS_ENABLED_h1043985701"=dword:00000001
+"AUDIO_GAME_AVATARS_h1193528447"=hex(4):00,00,00,40,33,33,d3,3f
+"AUDIO_GAME_SFX_ENABLED_h3370237354"=dword:00000001
+"AUDIO_GAME_SFX_h4252337136"=hex(4):00,00,00,a0,99,99,d9,3f
+"AUDIO_GAME_VOICE_ENABLED_h2864962737"=dword:00000001
+"AUDIO_GAME_VOICE_h821266155"=hex(4):00,00,00,40,33,33,e3,3f
+"AUDIO_MASTER_ENABLED_h3453344810"=dword:00000001
+"AUDIO_MASTER_h1232282224"=hex(4):00,00,00,00,00,00,f0,3f
+"AUDIO_UI_ENABLED_h2428663594"=dword:00000001
+"AUDIO_UI_h3270819184"=hex(4):00,00,00,00,00,00,f0,3f
+"AVATAR_WORN_HISTORY_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h299915554"=hex:7b,\
+  22,61,76,74,72,5f,38,66,61,32,62,66,36,37,2d,33,38,30,61,2d,34,30,63,31,2d,\
+  61,33,64,36,2d,63,37,38,32,61,66,63,65,36,35,62,63,22,3a,22,32,30,32,34,2d,\
+  31,31,2d,31,31,54,32,32,3a,34,38,3a,35,30,2e,34,33,36,30,30,31,34,5a,22,2c,\
+  22,61,76,74,72,5f,66,61,66,34,30,61,39,66,2d,63,65,33,39,2d,34,66,66,32,2d,\
+  61,30,36,39,2d,32,32,33,37,39,37,62,61,31,31,61,66,22,3a,22,32,30,32,34,2d,\
+  31,31,2d,31,31,54,32,32,3a,33,38,3a,34,34,2e,36,31,34,39,39,36,35,5a,22,2c,\
+  22,61,76,74,72,5f,37,66,35,36,66,39,37,38,2d,31,66,63,30,2d,34,32,66,62,2d,\
+  62,62,33,37,2d,36,33,35,37,33,38,63,65,65,65,39,32,22,3a,22,32,30,32,34,2d,\
+  31,31,2d,31,31,54,32,32,3a,34,38,3a,30,36,2e,39,39,32,32,30,32,35,5a,22,7d,\
+  00
+"AVATAR_WORN_HISTORY_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h1310811682"=hex:7b,\
+  22,61,76,74,72,5f,38,66,61,32,62,66,36,37,2d,33,38,30,61,2d,34,30,63,31,2d,\
+  61,33,64,36,2d,63,37,38,32,61,66,63,65,36,35,62,63,22,3a,22,32,30,32,34,2d,\
+  31,31,2d,31,31,54,31,39,3a,35,32,3a,34,31,2e,34,33,34,37,39,33,38,5a,22,7d,\
+  00
+"avatarProxyAlwaysShowExplicit_h3831300188"=dword:00000001
+"avatarProxyAlwaysShowFriends_h4183870315"=dword:00000001
+"avatarProxyShowAtRange_h3229000273"=hex(4):00,00,00,00,00,00,49,40
+"avatarProxyShowAtRangeToggle_h3274849731"=dword:00000000
+"avatarProxyShowMaxNumber_h171091884"=dword:0000001e
+"BACKGROUND_MATERIAL_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h4265431311"=hex:00
+"BACKGROUND_MATERIAL_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h4028850447"=hex:00
+"BCD9D91ED8D8F1926B20D3D620647C8E_h2167456022"=hex:39,70,51,51,75,44,6b,63,6e,\
+  66,74,36,56,42,79,4d,64,45,59,6e,6a,4b,4b,62,6d,5a,38,5a,4b,39,50,77,00
+"BD2E932A03A19217AB5A1DFB5AA93340_h1920873149"=hex:56,4a,35,4c,58,6a,75,4f,59,\
+  5a,62,47,76,7a,49,50,4d,51,57,58,42,75,79,7a,4f,4f,57,58,36,6f,31,2b,49,6b,\
+  35,52,4d,4f,4d,72,59,43,74,78,2b,77,65,49,4d,62,70,77,55,64,6e,41,37,73,75,\
+  74,57,34,4e,79,66,38,54,56,65,73,65,35,35,2b,49,3d,00
+"BestRegionCache_h195528817"=dword:00000000
+"COLOR_PALETTES_CURRENT_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h764291535"=hex:00
+"COLOR_PALETTES_CURRENT_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h2121300431"=hex:00
+"COLOR_PALETTES_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h1782296793"=hex:00
+"COLOR_PALETTES_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h3780430297"=hex:00
+"currentShowMaxNumberOfAvatarsEnabled_h1218052438"=dword:00000000
+"CustomTrustLevel_AdvancedTrustLevel1_CanSpeak_h3763947065"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseAnimatedEmoji_h2886526733"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseAvatarAudio_h4256062353"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseCustomAnimations_h3337768320"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseCustomAvatar_h4019586932"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseCustomShaders_h168543583"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseEmojiStickersSharing_h4033281752"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseParticleSystems_h1743590900"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseTriggers_h846144093"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel1_CanUseUserIcons_h2350386015"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanSpeak_h3560718042"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseAnimatedEmoji_h3705134862"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseAvatarAudio_h3781309970"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseCustomAnimations_h1661613411"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseCustomAvatar_h2790985623"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseCustomShaders_h3297944668"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseEmojiStickersSharing_h3212822779"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseParticleSystems_h3624546359"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseTriggers_h440405630"=dword:00000001
+"CustomTrustLevel_AdvancedTrustLevel2_CanUseUserIcons_h3748203228"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel1_CanSpeak_h3469223421"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel1_CanUseAnimatedEmoji_h925748169"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel1_CanUseAvatarAudio_h3089780821"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel1_CanUseCustomAnimations_h18504516"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel1_CanUseCustomAvatar_h3157635888"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel1_CanUseCustomShaders_h3218222107"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel1_CanUseEmojiStickersSharing_h1028214684"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel1_CanUseParticleSystems_h2677083824"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel1_CanUseTriggers_h2886381593"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel1_CanUseUserIcons_h2605731867"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel_CanSpeak_h1255185612"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel_CanUseAnimatedEmoji_h2703477208"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel_CanUseAvatarAudio_h2055107012"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel_CanUseCustomAnimations_h551221237"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel_CanUseCustomAvatar_h616828545"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel_CanUseCustomShaders_h3849841034"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel_CanUseEmojiStickersSharing_h178918381"=dword:00000001
+"CustomTrustLevel_BasicTrustLevel_CanUseParticleSystems_h1309549665"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel_CanUseTriggers_h3846697192"=dword:00000000
+"CustomTrustLevel_BasicTrustLevel_CanUseUserIcons_h10967690"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanSpeak_h1348479936"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseAnimatedEmoji_h1224270932"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseAvatarAudio_h2668824904"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseCustomAnimations_h160905209"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseCustomAvatar_h3979433357"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseCustomShaders_h2833000710"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseEmojiStickersSharing_h305271009"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseParticleSystems_h1253552877"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseTriggers_h737962724"=dword:00000001
+"CustomTrustLevel_DeveloperTrustLevel_CanUseUserIcons_h1109555974"=dword:00000001
+"CustomTrustLevel_Friend_CanSpeak_h1076804550"=dword:00000001
+"CustomTrustLevel_Friend_CanUseAnimatedEmoji_h1841941650"=dword:00000001
+"CustomTrustLevel_Friend_CanUseAvatarAudio_h3272095374"=dword:00000001
+"CustomTrustLevel_Friend_CanUseCustomAnimations_h2442825087"=dword:00000001
+"CustomTrustLevel_Friend_CanUseCustomAvatar_h3238784139"=dword:00000001
+"CustomTrustLevel_Friend_CanUseCustomShaders_h2830625984"=dword:00000001
+"CustomTrustLevel_Friend_CanUseEmojiStickersSharing_h2183515111"=dword:00000001
+"CustomTrustLevel_Friend_CanUseParticleSystems_h281854379"=dword:00000001
+"CustomTrustLevel_Friend_CanUseTriggers_h934581346"=dword:00000001
+"CustomTrustLevel_Friend_CanUseUserIcons_h1860207168"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanSpeak_h1176565206"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseAnimatedEmoji_h1117716610"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseAvatarAudio_h4212765342"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseCustomAnimations_h2413592431"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseCustomAvatar_h4241088155"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseCustomShaders_h2968004816"=dword:00000000
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseEmojiStickersSharing_h1375262199"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseParticleSystems_h2892802491"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseTriggers_h60494450"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel1_CanUseUserIcons_h1827811920"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanSpeak_h1379794229"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseAnimatedEmoji_h299108481"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseAvatarAudio_h392550429"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseCustomAnimations_h4089747340"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseCustomAvatar_h1174722168"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseCustomShaders_h4133571027"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseEmojiStickersSharing_h2195721172"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseParticleSystems_h1011847032"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseTriggers_h466232913"=dword:00000001
+"CustomTrustLevel_IntermediateTrustLevel2_CanUseUserIcons_h429994707"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanSpeak_h529273413"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanUseAnimatedEmoji_h2124802033"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanUseAvatarAudio_h1316703981"=dword:00000000
+"CustomTrustLevel_KnownTrustLevel_CanUseCustomAnimations_h1588360380"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanUseCustomAvatar_h472420744"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanUseCustomShaders_h2743984803"=dword:00000000
+"CustomTrustLevel_KnownTrustLevel_CanUseEmojiStickersSharing_h428198308"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanUseParticleSystems_h267795400"=dword:00000000
+"CustomTrustLevel_KnownTrustLevel_CanUseTriggers_h328568481"=dword:00000001
+"CustomTrustLevel_KnownTrustLevel_CanUseUserIcons_h153105955"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanSpeak_h515219031"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseAnimatedEmoji_h1482987171"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseAvatarAudio_h832871359"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseCustomAnimations_h1184402734"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseCustomAvatar_h2633444506"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseCustomShaders_h1446172145"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseEmojiStickersSharing_h1041849526"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseParticleSystems_h1335743258"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseTriggers_h2350696243"=dword:00000001
+"CustomTrustLevel_LegendTrustLevel_CanUseUserIcons_h1201635313"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanSpeak_h243867914"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseAnimatedEmoji_h3420779230"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseAvatarAudio_h1841594050"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseCustomAnimations_h2161804467"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseCustomAvatar_h4127243719"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseCustomShaders_h1889644300"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseEmojiStickersSharing_h1810816555"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseParticleSystems_h2356358631"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseTriggers_h4035079598"=dword:00000001
+"CustomTrustLevel_LocalPlayer_CanUseUserIcons_h2261467020"=dword:00000001
+"CustomTrustLevel_NegativeTrustLevel1_CanSpeak_h2069813380"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseAnimatedEmoji_h3935967248"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseAvatarAudio_h198134284"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseCustomAnimations_h3837572029"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseCustomAvatar_h2356867913"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseCustomShaders_h3068590274"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseEmojiStickersSharing_h1804956069"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseParticleSystems_h3820524969"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseTriggers_h2205354144"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel1_CanUseUserIcons_h4041133506"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanSpeak_h3810459495"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseAnimatedEmoji_h3019473939"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseAvatarAudio_h3934249103"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseCustomAnimations_h1474632030"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseCustomAvatar_h3323951018"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseCustomShaders_h1346165697"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseEmojiStickersSharing_h2931111686"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseParticleSystems_h3777366634"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseTriggers_h4088384771"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel2_CanUseUserIcons_h4130926145"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanSpeak_h772597077"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseAnimatedEmoji_h2585269473"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseAvatarAudio_h1603765245"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseCustomAnimations_h4136943532"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseCustomAvatar_h1380474008"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseCustomShaders_h4066056115"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseEmojiStickersSharing_h813935796"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseParticleSystems_h223698136"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseTriggers_h685335985"=dword:00000000
+"CustomTrustLevel_NegativeTrustLevel_CanUseUserIcons_h2084200243"=dword:00000000
+"CustomTrustLevel_TrustedTrustLevel_CanSpeak_h251570915"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseAnimatedEmoji_h2054426647"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseAvatarAudio_h1547181451"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseCustomAnimations_h2568844250"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseCustomAvatar_h1956533038"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseCustomShaders_h3778529477"=dword:00000000
+"CustomTrustLevel_TrustedTrustLevel_CanUseEmojiStickersSharing_h1982058114"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseParticleSystems_h3319727214"=dword:00000000
+"CustomTrustLevel_TrustedTrustLevel_CanUseTriggers_h1979213703"=dword:00000001
+"CustomTrustLevel_TrustedTrustLevel_CanUseUserIcons_h390707781"=dword:00000001
+"CustomTrustLevel_Untrusted_CanSpeak_h3561541626"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseAnimatedEmoji_h329675886"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseAvatarAudio_h231222002"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseCustomAnimations_h3535915395"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseCustomAvatar_h47678391"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseCustomShaders_h3257793852"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseEmojiStickersSharing_h2030089179"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseParticleSystems_h3087058583"=dword:00000001
+"CustomTrustLevel_Untrusted_CanUseTriggers_h2039985630"=dword:00000000
+"CustomTrustLevel_Untrusted_CanUseUserIcons_h532209980"=dword:00000001
+"CustomTrustLevel_VeryNegativeTrustLevel_CanSpeak_h1153197229"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseAnimatedEmoji_h155691801"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseAvatarAudio_h3757975173"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseCustomAnimations_h1948517652"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseCustomAvatar_h346242528"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseCustomShaders_h1768628299"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseEmojiStickersSharing_h70476108"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseParticleSystems_h751810528"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseTriggers_h1999113673"=dword:00000000
+"CustomTrustLevel_VeryNegativeTrustLevel_CanUseUserIcons_h1558057803"=dword:00000000
+"CustomTrustLevel_VeteranTrustLevel_CanSpeak_h299423817"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseAnimatedEmoji_h2970100605"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseAvatarAudio_h150073185"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseCustomAnimations_h2019714992"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseCustomAvatar_h531332996"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseCustomShaders_h1331804975"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseEmojiStickersSharing_h560691624"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseParticleSystems_h2206752580"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseTriggers_h1591068589"=dword:00000001
+"CustomTrustLevel_VeteranTrustLevel_CanUseUserIcons_h1134160815"=dword:00000001
+"DEFAULT_GROUP_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h1186532958"=hex:00
+"E1F946CE2FD302B954E26AD92C0B30BF_h577412776"=hex:4d,50,76,6f,34,38,71,68,67,\
+  4f,52,66,46,4c,44,63,64,75,72,58,30,67,3d,3d,00
+"FIELD_OF_VIEW_h2031753091"=hex(4):00,00,00,00,00,00,4e,40
+"FOLDOUT_STATES_h2348100881"=hex:31,32,34,32,32,34,35,35,33,36,00
+"ForceSettings_ClearFoldoutPrefKeys_h4157079793"=dword:00000001
+"ForceSettings_MicToggle_h3560290679"=dword:00000002
+"ForceSettings_MigrateMicSettings_h381240097"=dword:00000001
+"ForceSettings_Mixer_h3729000201"=dword:00000002
+"ForceSettings_WorldTooltipMode_h79299318"=dword:00000001
+"FPS_LIMIT_h3202401354"=dword:000000a5
+"FPSCapType_h2453803306"=dword:00000000
+"FPSType_h850469784"=dword:00000002
+"FRIEND_LAST_VISIT_HISTORY_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h2255403009"=hex:7b,\
+  7d,00
+"FRIEND_LAST_VISIT_HISTORY_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h3452143873"=hex:7b,\
+  7d,00
+"InQueueWidgetInfoShowcaseID_h185847275"=dword:00000000
+"LocationContext_h2266281351"=dword:00000000
+"LocationContext_World_h2703649242"=hex:00
+"LOD_QUALITY_h4091515664"=dword:00000001
+"LOGGING_ENABLED_h120798204"=dword:00000001
+"migrated-local-pmods-usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989-HideAvatar_h1290518454"=dword:00000001
+"migrated-local-pmods-usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989-ShowAvatar_h1377014325"=dword:00000001
+"migrated-local-pmods-usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27-HideAvatar_h666268598"=dword:00000001
+"migrated-local-pmods-usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27-ShowAvatar_h752764469"=dword:00000001
+"PARTICLE_PHYSICS_QUALITY_h1323555479"=dword:00000001
+"PersonalMirror.FaceMirrorOpacity_h864053611"=hex(4):00,00,00,00,00,00,f0,3f
+"PersonalMirror.FaceMirrorPosX_h1476246502"=hex(4):00,00,00,00,00,00,00,00
+"PersonalMirror.FaceMirrorPosY_h1476246503"=hex(4):00,00,00,00,00,00,49,40
+"PersonalMirror.FaceMirrorScale_h1462894506"=hex(4):00,00,00,00,00,00,e0,3f
+"PersonalMirror.Grabbable_h1518415444"=dword:00000001
+"PersonalMirror.ImmersiveMove_h2179321036"=dword:00000000
+"PersonalMirror.MirrorOpacity_h69462026"=hex(4):00,00,00,00,00,00,f0,3f
+"PersonalMirror.MirrorScaleX_h1013638771"=hex(4):00,00,00,00,00,00,f0,3f
+"PersonalMirror.MirrorScaleY_h1013638770"=hex(4):00,00,00,00,00,00,f0,3f
+"PersonalMirror.MirrorSnapping_h3804860783"=dword:00000000
+"PersonalMirror.MovementMode_h997156426"=dword:00000001
+"PersonalMirror.ShowBorder_h1746149253"=dword:00000001
+"PersonalMirror.ShowCalibrationMirror_h2508718650"=dword:00000000
+"PersonalMirror.ShowEnvironmentInMirror_h2340098914"=dword:00000001
+"PersonalMirror.ShowFaceMirror_h3365452145"=dword:00000000
+"PersonalMirror.ShowRemotePlayerInMirror_h3819163776"=dword:00000000
+"PersonalMirror.ShowUIInMirror_h1637241803"=dword:00000000
+"PIXEL_LIGHT_COUNT_h158099248"=dword:00000002
+"PlayerHeight_h2758831273"=hex(4):00,00,00,00,82,97,fb,3f
+"PREF_HAND_TRACKING_TUTORIAL_COMPLETED_h1338813193"=dword:00000000
+"RECENTLY_VISITED_HISTORY_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h900236153"=hex:7b,\
+  7d,00
+"RECENTLY_VISITED_HISTORY_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h2849225721"=hex:7b,\
+  22,75,73,72,5f,35,66,34,64,37,63,38,65,2d,34,62,63,61,2d,34,36,37,33,2d,38,\
+  66,31,37,2d,36,66,36,66,37,31,61,37,34,65,32,37,22,3a,22,32,30,32,34,2d,31,\
+  31,2d,31,31,54,32,32,3a,32,32,3a,32,39,2e,35,33,37,38,35,35,37,5a,22,7d,00
+"SavedWorldSearchesusr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h2910655189"=hex:00
+"SavedWorldSearchesusr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h100957141"=hex:00
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000003
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000003
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000300
+"Screenmanager Resolution Height_h2627697771"=dword:00000300
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000000
+"Screenmanager Resolution Width Default_h680557497"=dword:00000400
+"Screenmanager Resolution Width_h182942802"=dword:00000400
+"Screenmanager Resolution Window Height_h1684712807"=dword:00000300
+"Screenmanager Resolution Window Width_h2524650974"=dword:00000400
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"Screenmanager Window Position X_h4088080503"=dword:00000480
+"Screenmanager Window Position Y_h4088080502"=dword:000004e8
+"SeatedPlayEnabled_h2646878214"=dword:00000001
+"SeenIPS_SEEN_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h868797056"=hex:5b,22,\
+  69,70,73,5f,66,62,34,61,31,34,66,64,2d,38,37,36,33,2d,34,64,63,65,2d,39,35,\
+  63,32,2d,34,35,33,34,38,39,63,39,62,32,33,64,22,5d,00
+"SHADOW_QUALITY_h2860313905"=dword:00000002
+"SortSelection_AllFriends_h1381279904"=dword:00000000
+"SortSelection_FriendLocations_h3854527900"=dword:00000000
+"SortSelection_GroupActivity_h1622071570"=dword:00000000
+"SortSelection_InRoom_h195141176"=dword:00000000
+"SortSelection_Recent_Avatars_h1010646934"=dword:00000003
+"SortSelection_UGCAvatars_h76501747"=dword:00000000
+"SortSelection_UGCPlaylist1_h849225126"=dword:00000000
+"SortSelection_UGCPlaylist2_h849225125"=dword:00000000
+"SortSelection_UGCPlaylist3_h849225124"=dword:00000000
+"SortSelection_UGCPlaylist4_h849225123"=dword:00000000
+"SortSelection_UGCWorlds_h557164544"=dword:00000000
+"SortSelection_WorldInstances_h1863319032"=dword:00000000
+"timeFormatIs12hrs_migrated_h1732113561"=dword:00000000
+"UI.MenuPlacementZDepthVR_h1362588766"=hex(4):00,00,00,40,33,33,eb,3f
+"UI.MotionSmoothingEnabled_h896528046"=dword:00000001
+"UI.RecentlyUsedEmojis_h997835737"=hex:00
+"UI.RecentlyUsedStickers_h4029642252"=hex:00
+"UI.Settings.Osc_h1043380067"=dword:00000000
+"UI.usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989.WingState_h3583829142"=hex:30,5f,\
+  30,5f,31,5f,30,5f,45,78,70,6c,6f,72,65,5f,45,78,70,6c,6f,72,65,5f,45,78,70,\
+  6c,6f,72,65,5f,00
+"UI.usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27.WingState_h3486744086"=hex:30,5f,\
+  30,5f,31,5f,30,5f,45,78,70,6c,6f,72,65,5f,45,78,70,6c,6f,72,65,5f,45,78,70,\
+  6c,6f,72,65,5f,00
+"unity.cloud_userid_h2665564582"=hex:37,62,37,65,61,33,66,62,63,36,38,39,38,33,\
+  31,34,65,39,30,61,31,65,31,66,66,64,35,64,31,33,32,31,00
+"unity.player_session_count_h922449978"=hex:35,00
+"unity.player_sessionid_h1351336811"=hex:34,36,37,35,37,38,34,36,38,32,36,35,\
+  30,37,30,39,30,37,31,00
+"UnityGraphicsQuality_h1669003810"=dword:00000000
+"UnitySelectMonitor_h17969598"=dword:00000001
+"USER_CAMERA_RESOLUTION_h3942642307"=hex:00
+"USER_CAMERA_ROLL_WHILE_FLYING_h3681714588"=dword:00000001
+"USER_CAMERA_STREAM_RESOLUTION_h3118717280"=dword:00000001
+"USER_CAMERA_TRIGGER_TAKES_PHOTOS_h2533461762"=dword:00000000
+"UserId_h2934586105"=hex:30,38,30,32,37,30,37,31,00
+"usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_LastExpiredSubscription_h2270161259"=hex:00
+"usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_OpenedQuickMenu_h1469750006"=dword:0000000a
+"usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_OpenMenuHelpShownCount_h2238773773"=dword:00000003
+"usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_UI.RecentlyUsedEmojis_h659594601"=hex:7b,\
+  22,c3,8e,c3,8d,c3,8d,c3,8d,c3,8f,c3,8f,c3,8e,c3,8e,c3,8f,c3,8f,c3,8c,c3,8c,\
+  c3,8f,c3,8f,c3,8f,c3,8d,c3,8d,c3,8f,c3,8c,c3,8f,c3,8d,c3,8e,c3,8d,22,3a,5b,\
+  22,53,6e,6f,77,20,46,61,6c,6c,22,2c,22,54,68,75,6d,62,73,20,55,70,22,5d,7d,\
+  00
+"usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_UI.RecentlyUsedStickers_h2269162684"=hex:7b,\
+  22,c3,8e,c3,8d,c3,8d,c3,8d,c3,8f,c3,8f,c3,8e,c3,8e,c3,8f,c3,8f,c3,8c,c3,8c,\
+  c3,8f,c3,8f,c3,8f,c3,8d,c3,8d,c3,8f,c3,8c,c3,8f,c3,8d,c3,8e,c3,8d,22,3a,5b,\
+  5d,7d,00
+"usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_LastExpiredSubscription_h1836761195"=hex:00
+"usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_OpenedQuickMenu_h668889590"=dword:0000000a
+"usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_OpenMenuHelpShownCount_h1444737293"=dword:00000002
+"usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_PromotionData_h3793502390"=hex:00
+"usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_UI.RecentlyUsedEmojis_h114930793"=hex:7b,\
+  22,c3,8e,c3,8d,c3,8d,c3,8d,c3,8f,c3,8f,c3,8e,c3,8e,c3,8f,c3,8f,c3,8c,c3,8c,\
+  c3,8f,c3,8f,c3,8f,c3,8d,c3,8d,c3,8f,c3,8c,c3,8f,c3,8d,c3,8e,c3,8d,22,3a,5b,\
+  5d,7d,00
+"usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_UI.RecentlyUsedStickers_h1835762620"=hex:7b,\
+  22,c3,8e,c3,8d,c3,8d,c3,8d,c3,8f,c3,8f,c3,8e,c3,8e,c3,8f,c3,8f,c3,8c,c3,8c,\
+  c3,8f,c3,8f,c3,8f,c3,8d,c3,8d,c3,8f,c3,8c,c3,8f,c3,8d,c3,8e,c3,8d,22,3a,5b,\
+  5d,7d,00
+"VRC.UI.QuickMenu.ShowQMDebugInfo_h1745736838"=dword:00000001
+"VRC_ACTION_MENU_FLICK_SELECT_h2064861260"=dword:00000001
+"VRC_ACTION_MENU_L_MENU_OPACITY_h4016404086"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_ACTION_MENU_L_MENU_SIZE_PERCENTAGE_h3874913549"=hex(4):00,00,00,00,00,00,\
+  f0,3f
+"VRC_ACTION_MENU_ONE_HAND_MOVE_h3374115622"=dword:00000001
+"VRC_ACTION_MENU_R_HUD_ANGLE_X_h214254173"=hex(4):00,00,00,00,00,00,24,40
+"VRC_ACTION_MENU_R_HUD_ANGLE_Y_h214254172"=hex(4):00,00,00,00,00,00,24,40
+"VRC_ACTION_MENU_R_MENU_OPACITY_h2459220008"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_ACTION_MENU_R_MENU_SIZE_PERCENTAGE_h2895102035"=hex(4):00,00,00,00,00,00,\
+  f0,3f
+"VRC_ACTION_MENU_R_SHOW_ON_HUD_h578424486"=dword:00000000
+"VRC_ADVANCED_GRAPHICS_ANTIALIASING_h4197584722"=dword:00000004
+"VRC_ADVANCED_GRAPHICS_QUALITY_h811609915"=hex:4c,6f,77,00
+"VRC_AFK_ENABLED_h2146228555"=dword:00000000
+"VRC_ALLOW_AVATAR_COPYING_h4277277104"=dword:00000000
+"VRC_ALLOW_DIRECT_SHARES_h4236543863"=dword:00000001
+"VRC_ALLOW_FOCUS_VIEW_h3187532037"=dword:00000001
+"VRC_ALLOW_PEDESTAL_SHARES_h3228887076"=dword:00000001
+"VRC_ALLOW_UNTRUSTED_URL_h3795044449"=dword:00000001
+"VRC_ANDROID_MIC_MODE_h4010114242"=dword:00000000
+"VRC_ASK_TO_PORTAL_h1103353099"=dword:00000000
+"VRC_AV_INTERACT_LEVEL_h3923676462"=dword:00000001
+"VRC_AV_INTERACT_SELF_h1940689668"=dword:00000001
+"VRC_AVATAR_FALLBACK_HIDDEN_h1331196586"=dword:00000000
+"VRC_AVATAR_HAPTICS_ENABLED_h221340797"=dword:00000000
+"VRC_AVATAR_MAXIMUM_DOWNLOAD_SIZE_h514967114"=dword:0c800000
+"VRC_AVATAR_MAXIMUM_UNCOMPRESSED_SIZE_h1263307426"=dword:1f400000
+"VRC_AVATAR_PERFORMANCE_RATING_MINIMUM_TO_DISPLAY_h1859707483"=dword:00000005
+"VRC_BLOOM_INTENSITY_h3753063118"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_CHAT_BUBBLE_ABOVE_HEAD_V2_h380784334"=dword:00000000
+"VRC_CHAT_BUBBLE_AUDIO_ENABLED_h2657302513"=dword:00000000
+"VRC_CHAT_BUBBLE_AUDIO_VOLUME_h3897769468"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_CHAT_BUBBLE_AUTO_SEND_h669043409"=dword:00000001
+"VRC_CHAT_BUBBLE_OPACITY_h1582266244"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_CHAT_BUBBLE_POS_HEIGHT_h4224194065"=hex(4):00,00,00,00,00,00,e0,3f
+"VRC_CHAT_BUBBLE_PROFANITY_FILTER_h3200174242"=dword:00000001
+"VRC_CHAT_BUBBLE_SCALE_h399529285"=hex(4):00,00,00,00,00,00,f8,3f
+"VRC_CHAT_BUBBLE_SHOW_OWN_h3999066263"=dword:00000001
+"VRC_CHAT_BUBBLE_TIMEOUT_h2984719174"=hex(4):00,00,00,00,00,00,3e,40
+"VRC_CHAT_BUBBLE_VISIBILITY_h326857595"=dword:00000002
+"VRC_CLEAR_CACHE_ON_START_h1469307862"=dword:00000000
+"VRC_CLOCK_HOUR_MODE_h380910102"=dword:00000000
+"VRC_CLOCK_TIMEZONE_MODE_h1823781501"=dword:00000000
+"VRC_CLOCK_VARIANT_h1278072413"=dword:00000000
+"VRC_COLOR_BLINDNESS_SIMULATE_h1126230328"=dword:00000000
+"VRC_COLOR_FILTER_INTENSITY_h2776671055"=hex(4):00,00,00,00,00,00,d0,3f
+"VRC_COLOR_FILTER_SELECTION_h2218956640"=dword:00000000
+"VRC_COLOR_FILTER_TO_WORLD_h2345527878"=dword:00000000
+"VRC_COMFORT_MODE_h4074006575"=dword:00000000
+"VRC_COMFORT_MODE_PRE_HOLOPORT_h1923956789"=dword:00000000
+"VRC_CURRENT_LANGUAGE_h2382508793"=hex:65,6e,00
+"VRC_DESKTOP_RETICLE_h2017415952"=dword:00000001
+"VRC_DIRECT_SHARING_VISIBILITY_h3852670846"=dword:00000001
+"VRC_DISABLE_AVATAR_CLONING_ON_ENTER_WORLD_h2378047106"=dword:00000001
+"VRC_DOUBLE_TAP_MAIN_MENU_STEAMVR2_h2259292525"=dword:00000001
+"VRC_DOWNLOAD_PRIORITIZE_DISTANCE_ENABLED_h370907117"=dword:00000001
+"VRC_EARMUFF_MODE_AVATARS_h1388684338"=dword:00000001
+"VRC_EARMUFF_MODE_CONE_VALUE_h3536705187"=hex(4):00,00,00,00,00,00,00,00
+"VRC_EARMUFF_MODE_FALLOFF_h4143299544"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_EARMUFF_MODE_FOLLOW_HEAD_h1009145430"=dword:00000000
+"VRC_EARMUFF_MODE_h4050365647"=dword:00000000
+"VRC_EARMUFF_MODE_LOCK_ROTATION_h2094207696"=dword:00000000
+"VRC_EARMUFF_MODE_OFFSET_VALUE_h248834185"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_EARMUFF_MODE_RADIUS_h3767980936"=hex(4):00,00,00,00,00,00,08,40
+"VRC_EARMUFF_MODE_REDUCED_VOLUME_h3523741539"=hex(4):00,00,00,a0,99,99,c9,3f
+"VRC_EARMUFF_MODE_SHOW_ICON_IN_NAMEPLATE_h2773945451"=dword:00000001
+"VRC_EARMUFF_MODE_VISUAL_AIDE_h1038948562"=dword:00000001
+"VRC_FINGER_GRAB_SETTING_h3527088908"=dword:00000001
+"VRC_FINGER_HAPTIC_SENSITIVITY_h3615339142"=hex(4):00,00,00,00,00,00,e0,3f
+"VRC_FINGER_HAPTIC_STRENGTH_h3232094030"=hex(4):00,00,00,00,00,00,e0,3f
+"VRC_FINGER_JUMP_ENABLED_h3477451755"=dword:00000001
+"VRC_FINGER_WALK_SETTING_h2794929451"=dword:00000003
+"VRC_FINGERTRACKING_AVATARS_USE_h1326086178"=dword:00000001
+"VRC_FINGERTRACKING_SHOW_PINCHUI_h1008817888"=dword:00000001
+"VRC_FINGERTRACKING_USE_EXCLUSIVE_h3085905998"=dword:00000000
+"VRC_FINGERTRACKING_USE_GHOSTHAND_h1274811204"=dword:00000000
+"VRC_GESTURE_BAR_ENABLED_h2747941422"=dword:00000000
+"VRC_GROUP_ON_NAMEPLATE_h939169640"=hex:00
+"VRC_GROUP_ORDER_usr_0d24cfc1-e60d-4c3c-8cb1-89cc320cb989_h2630261795"=hex:5b,\
+  5d,00
+"VRC_GROUP_ORDER_usr_5f4d7c8e-4bca-4673-8f17-6f6f71a74e27_h1034151843"=hex:5b,\
+  5d,00
+"VRC_HANDS_MENU_OPEN_MODE_h2533652086"=dword:00000001
+"VRC_HIDE_NOTIFICATION_PHOTOS_h4294716079"=dword:00000000
+"VRC_HOME_ACCESS_TYPE_h350155342"=dword:00000003
+"VRC_HOME_REGION_h1998217749"=dword:ffffffff
+"VRC_HUD_ANCHOR_h3164134786"=dword:00000001
+"VRC_HUD_MIC_OPACITY_h3335237114"=hex(4):00,00,00,00,00,00,e0,3f
+"VRC_HUD_MODE_h3039617176"=dword:00000000
+"VRC_HUD_OPACITY_h1221709026"=hex(4):00,00,00,00,00,00,e0,3f
+"VRC_HUD_SMOOTHING_Desktop_h2589019796"=dword:00000000
+"VRC_HUD_SMOOTHING_VR_h2714590178"=dword:00000000
+"VRC_IK_AVATAR_MEASUREMENT_TYPE_h2850617027"=dword:00000000
+"VRC_IK_CALIBRATION_RANGE_h210545898"=hex(4):00,00,00,a0,99,99,d9,3f
+"VRC_IK_CALIBRATION_VIS_h4101902745"=dword:00000000
+"VRC_IK_DEBUG_LOGGING_h1722378125"=dword:00000000
+"VRC_IK_DISABLE_SHOULDER_TRACKING_h902380709"=dword:00000000
+"VRC_IK_FBT_CONFIRM_CALIBRATE_h265409733"=dword:00000000
+"VRC_IK_FBT_LOCOMOTION_h2043840926"=dword:00000001
+"VRC_IK_FBT_SPINE_MODE_h4000002034"=dword:00000000
+"VRC_IK_FREEZE_TRACKING_ON_DISCONNECT_h3383048186"=dword:00000000
+"VRC_IK_HEIGHT_RATIO_h3129706017"=hex(4):00,00,00,c0,6b,09,dd,3f
+"VRC_IK_KNEE_ANGLE_h3772330779"=hex(4):00,00,00,00,00,00,00,00
+"VRC_IK_LEGACY_CALIBRATION_h3326892512"=dword:00000000
+"VRC_IK_LEGACY_h1928383989"=dword:00000000
+"VRC_IK_ONE_HANDED_CALIBRATION_h1441143116"=dword:00000000
+"VRC_IK_PER_AVATAR_CALIBRATION_ADJUSTMENT_h3760727148"=dword:00000000
+"VRC_IK_SHOULDER_WIDTH_COMPENSATION_h2128578700"=dword:00000001
+"VRC_IK_TRACKER_MODEL_h2318382088"=dword:00000000
+"VRC_IK_USE_METRIC_HEIGHT_h3069935960"=dword:00000000
+"VRC_IK_WRIST_ANGLE_h3558076085"=hex(4):00,00,00,00,00,00,00,00
+"VRC_IMPOSTOR_WHEN_AVAILABLE_h287131121"=dword:00000001
+"VRC_INPUT_COMFORT_TURNING_h2182102264"=dword:00000000
+"VRC_INPUT_DAYDREAM_h413117399"=dword:00000001
+"VRC_INPUT_DISABLE_MIC_BUTTON_h1777337009"=dword:00000000
+"VRC_INPUT_EMBODIED_h369838749"=dword:00000001
+"VRC_INPUT_GAZE_h2077319149"=dword:00000000
+"VRC_INPUT_GENERIC_h1962514789"=dword:00000001
+"VRC_INPUT_HEAD_LOOK_WALK_h2397876010"=dword:00000001
+"VRC_INPUT_HPMOTION_h190123858"=dword:00000000
+"VRC_INPUT_LOCOMOTION_METHOD_h1414739397"=dword:00000000
+"VRC_INPUT_MIC_DEVICE_NAME_Desktop_h2596021377"=hex:00
+"VRC_INPUT_MIC_DEVICE_NAME_VR_h2729556311"=hex:56,69,76,65,20,4d,6f,6e,6f,20,\
+  28,56,69,76,65,20,4d,6f,6e,6f,29,00
+"VRC_INPUT_MIC_ENABLED_h1348812137"=dword:00000000
+"VRC_INPUT_MIC_LEVEL_DESK_h3150270844"=hex(4):00,00,00,a0,99,99,d9,3f
+"VRC_INPUT_MIC_LEVEL_VR_h1442437185"=hex(4):00,00,00,a0,99,99,e9,3f
+"VRC_INPUT_MIC_MODE_h2152931183"=dword:00000001
+"VRC_INPUT_MIC_NOISE_GATE_h1714811770"=hex(4):00,00,00,40,e1,7a,84,3f
+"VRC_INPUT_MIC_NOISE_SUPPRESSION_h2093770996"=dword:00000000
+"VRC_INPUT_MIC_ON_JOIN_h1952602480"=dword:00000000
+"VRC_INPUT_MOBILE_INTERACTION_MODE_h2241581933"=dword:00000000
+"VRC_INPUT_OPENXR_h3348095050"=dword:00000000
+"VRC_INPUT_OSC_h1104161515"=dword:00000001
+"VRC_INPUT_PERSONAL_SPACE_h2484208791"=dword:00000001
+"VRC_INPUT_QUEST_HANDS_h4125242269"=dword:00000001
+"VRC_INPUT_SELECTED_SAFETY_RANK_h2383440951"=hex:41,64,76,61,6e,63,65,64,54,72,\
+  75,73,74,4c,65,76,65,6c,31,00
+"VRC_INPUT_SHOW_TOOLTIPS_h2626405966"=dword:00000001
+"VRC_INPUT_STEAMVR2_h3800904780"=dword:00000001
+"VRC_INPUT_TALK_DEFAULT_ON_h3020434060"=dword:00000001
+"VRC_INPUT_TALK_TOGGLE_h4177681451"=dword:00000001
+"VRC_INPUT_THIRD_PERSON_ROTATION_h1300348630"=dword:00000000
+"VRC_INPUT_TOUCH_h4109827025"=dword:00000001
+"VRC_INPUT_VALVE_INDEX_h3652608509"=dword:00000000
+"VRC_INPUT_VIVE_ADVANCED_h1503440857"=dword:00000000
+"VRC_INPUT_VIVE_h2076719896"=dword:00000000
+"VRC_INPUT_VOICE_PRIORITIZATION_h33056792"=dword:00000001
+"VRC_INPUT_WAVE_h2076745073"=dword:00000000
+"VRC_INTERACT_HAPTICS_ENABLED_h3393058910"=dword:00000001
+"VRC_INVERTED_MOUSE_h371555472"=dword:00000000
+"VRC_LANDSCAPE_FOV_h3103793630"=hex(4):00,00,00,00,00,00,4e,40
+"VRC_LIMIT_PARTICLE_SYSTEMS_h1481531850"=dword:00000001
+"VRC_MAIN_MENU_MOVEMENT_LOCKED_h1046269715"=dword:00000000
+"VRC_MIC_ICON_VISIBILITY_h2339236183"=dword:00000001
+"VRC_MIC_TOGGLE_VOLUME_h863439808"=hex(4):00,00,00,00,00,00,e0,3f
+"VRC_MIRROR_RESOLUTION_h4279880629"=dword:00000000
+"VRC_MM_FREE_PLACEMENT_ENABLED_h18715258"=dword:00000000
+"VRC_MOBILE_AUTO_HOLD_ENABLED_h4020356327"=dword:00000001
+"VRC_MOBILE_AUTO_WALK_ENABLED_h3465067929"=dword:00000001
+"VRC_MOBILE_DPI_SCALING_h3654096573"=hex(4):00,00,00,00,00,00,49,40
+"VRC_MOBILE_NOTIFICATIONS_SERVICE_ENABLED_h1282430308"=dword:00000001
+"VRC_MOBILE_PERFORMANCE_SECONDARY_UI_ENABLED_h1810506022"=dword:00000000
+"VRC_MOBILE_QUICK_SELECT_ENABLED_h4199380106"=dword:00000000
+"VRC_MOUSE_SENSITIVITY_h864189870"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_NAMEPLATE_FALLBACK_ICON_VISIBLE_h1423137440"=dword:00000001
+"VRC_NAMEPLATE_MODE_h1996516522"=dword:00000000
+"VRC_NAMEPLATE_OPACITY_h3607418576"=hex(4):00,00,00,a0,99,99,e9,3f
+"VRC_NAMEPLATE_QUICK_MENU_INFO_h2920495537"=dword:00000001
+"VRC_NAMEPLATE_SCALE_V2_h191075274"=dword:00000002
+"VRC_NAMEPLATE_STATUS_MODE_h3911907425"=dword:00000000
+"VRC_ONLY_SHOW_FRIEND_JOIN_LEAVE_PORTAL_NOTIFICATIONS_h2041396875"=dword:00000001
+"VRC_PEDESTAL_SHARING_VISIBILITY_h1567854125"=dword:00000001
+"VRC_PLAY_NOTIFICATION_AUDIO_h3787789186"=dword:00000001
+"VRC_PLAYER_GESTURE_TOGGLE_h2603271707"=dword:00000000
+"VRC_PORTAL_MODE_V2_h1207488718"=dword:00000000
+"VRC_PORTRAIT_FOV_h2841329674"=hex(4):00,00,00,00,00,00,54,40
+"VRC_PRIORITIZE_DOWNLOAD_DISTANCE_h554120599"=hex(4):00,00,00,00,00,00,34,40
+"VRC_PRIORITIZE_FRIEND_DOWNLOADS_h2668632341"=dword:00000001
+"VRC_PRIORITIZE_MANUAL_DOWNLOADS_h627057341"=dword:00000000
+"VRC_SAFETY_LEVEL_h215562216"=dword:00000002
+"VRC_SCREEN_BRIGHTNESS_h779104839"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_SCREEN_CONTRAST_h3918435212"=hex(4):00,00,00,00,00,00,f0,3f
+"VRC_SELECTED_NETWORK_REGION_h4193729042"=dword:00000000
+"VRC_SHOW_COMMUNITY_LAB_WORLDS_IN_SEARCH_h2234095397"=dword:00000000
+"VRC_SHOW_COMMUNITY_LABS_h939850385"=dword:00000000
+"VRC_SHOW_COMPATIBILITY_WARNINGS_h1338583913"=dword:00000000
+"VRC_SHOW_FRIEND_REQUESTS_h4086929838"=dword:00000001
+"VRC_SHOW_GO_BUTTON_IN_LOAD_h2825223361"=dword:00000000
+"VRC_SHOW_GROUP_BADGE_TO_OTHERS_h3326692840"=dword:00000001
+"VRC_SHOW_GROUP_BADGES_h3905607703"=dword:00000001
+"VRC_SHOW_INVITES_NOTIFICATION_h2044224361"=dword:00000001
+"VRC_SHOW_JOIN_NOTIFICATIONS_h3231893122"=dword:00000001
+"VRC_SHOW_LEAVE_NOTIFICATIONS_h890489659"=dword:00000001
+"VRC_SHOW_PORTAL_NOTIFICATIONS_h3954406036"=dword:00000000
+"VRC_SHOW_SOCIAL_RANK_h197998419"=dword:00000001
+"VRC_SLIDER_SNAPPING_h372519771"=dword:00000001
+"VRC_STREAMER_MODE_ENABLED_h2220544112"=dword:00000000
+"VRC_TOUCH_AUTO_ROTATE_SPEED_h1407864758"=hex(4):00,00,00,00,00,00,2e,40
+"VRC_TOUCH_SENSITIVITY_h4266013482"=hex(4):00,00,00,e0,7a,14,be,3f
+"VRC_TRACKING_DISABLE_EYELIDTRACKING_h3930116433"=dword:00000000
+"VRC_TRACKING_DISABLE_EYELOOKTRACKING_h4116852663"=dword:00000000
+"VRC_TRACKING_DISABLE_EYETRACKING_ON_MUTE_h673004696"=dword:00000000
+"VRC_TRACKING_DISPLAY_EYETRACKING_DEBUG_h2989052272"=dword:00000000
+"VRC_TRACKING_FORCE_EYETRACKING_RAYCAST_h804437833"=dword:00000000
+"VRC_TRACKING_SEND_VR_SYSTEM_HEAD_AND_WRIST_OSC_DATA_h4205805416"=dword:00000000
+"VRC_TRACKING_SHOULD_SHOW_OSC_TRACKING_DATA_REMINDER_h1197116246"=dword:00000001
+"VRC_TRACKING_TRACKER_PREDICTION_h717710431"=hex(4):00,00,00,00,00,00,00,00
+"VRC_UI_HAPTICS_ENABLED_h3454413680"=dword:00000001
+"VRC_UI_HEADER_CLICK_SCROLL_RESET_ENABLED_h3974911282"=dword:00000001
+"VRC_USE_COLOR_FILTER_h409466403"=dword:00000000
+"VRC_USE_OUTLINE_MIC_ICON_h3135516813"=dword:00000000
+"VRC_USE_PIXEL_SHIFTING_HUD_h2883719856"=dword:00000000
+"VRC_VR_AUTO_HOLD_ENABLED_h4280497987"=dword:00000000
+"VRC_WING_PERSISTENCE_ENABLED_h2157755736"=dword:00000001
+"VRC_WORLD_TOOLTIP_MODE_h184416713"=dword:00000003
+"Wing_Left_Avatars_Category_h4154844228"=hex:46,61,76,6f,72,69,74,65,73,00
+"Wing_Left_Avatars_SortBy_h4288442773"=hex:4e,61,6d,65,00
+"Wing_Left_Emojis_Category_h3388070929"=hex:41,6c,6c,00
+"Wing_Left_Worlds_Category_h1783209111"=hex:52,65,63,65,6e,74,00
+"Wing_Left_Worlds_SortBy_h3229778758"=hex:54,69,74,6c,65,00
+
+[Software\\Wine\\AppDefaults\\Avengers.exe\\DllOverrides] 1725481079
+#time=1daff07893c28fc
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\BlackOps3.exe\\DllOverrides] 1725481079
+#time=1daff07893c1164
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\DarkSoulsIII.exe\\X11 Driver] 1725481079
+#time=1daff07893bda3c
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\DIRT5.exe\\DllOverrides] 1725481079
+#time=1daff07893c1948
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\ffxvi.exe\\DllOverrides] 1738521253
+#time=1db75a10ea437f4
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\gotg.exe\\DllOverrides] 1725481079
+#time=1daff07893c2122
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\GW2.Main_Win64_Retail.exe\\DllOverrides] 1725481079
+#time=1daff07893c3072
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\h1_mp64_ship.exe\\DllOverrides] 1725481079
+#time=1daff07893c0a70
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\h1_sp64_ship.exe\\DllOverrides] 1725481079
+#time=1daff07893c06b0
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\iw7_ship.exe\\DllOverrides] 1725481079
+#time=1daff07893c0dea
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\Maine-Win64-Shipping.exe\\DllOverrides] 1725481079
+#time=1daff07893bed24
+"SpeechSynthWrapper"="disabled"
+
+[Software\\Wine\\AppDefaults\\msedgewebview2.exe] 1725481079
+#time=1daff07893c2578
+"Version"="win81"
+
+[Software\\Wine\\AppDefaults\\NFS16.exe\\DllOverrides] 1725481079
+#time=1daff07893c14e8
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\NieRAutomata.exe\\X11 Driver] 1725481079
+#time=1daff07893be1e4
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\Paradox Launcher.exe] 1741216960
+#time=1db8e257d320f7e
+
+[Software\\Wine\\AppDefaults\\Pentiment.exe\\DllOverrides] 1725481079
+#time=1daff07893be946
+"SpeechSynthesisWrapper"="disabled"
+
+[Software\\Wine\\AppDefaults\\rayne1.exe\\DllOverrides] 1725481079
+#time=1daff07893bf0f8
+"d3d8"="native"
+
+[Software\\Wine\\AppDefaults\\rayne2.exe\\DllOverrides] 1725481079
+#time=1daff07893bf4c2
+"d3d8"="native"
+
+[Software\\Wine\\AppDefaults\\RDR2.exe\\DllOverrides] 1725481079
+#time=1daff07893bf864
+"vulkan-1"="native"
+
+[Software\\Wine\\AppDefaults\\RelicCardinal.exe\\DllOverrides] 1725481079
+#time=1daff07893c249c
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\RiftApart.exe\\DllOverrides] 1725481079
+#time=1daff07893c37d4
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\s2_mp64_ship.exe\\DllOverrides] 1725481079
+#time=1daff07893c02dc
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\s2_sp64_ship.exe\\DllOverrides] 1725481079
+#time=1daff07893bff62
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\sekiro.exe\\X11 Driver] 1725481079
+#time=1daff07893bddfc
+"LimitNumberOfResolutions"="32"
+
+[Software\\Wine\\AppDefaults\\ShadowOfWar.exe\\DllOverrides] 1725481079
+#time=1daff07893c15ba
+"amd_ags_x64"="disabled"
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\SpellForce.exe\\X11 Driver] 1725481079
+#time=1daff07893be5b8
+"LimitNumberOfResolutions"="16"
+
+[Software\\Wine\\AppDefaults\\Spider-Man.exe\\DllOverrides] 1725481079
+#time=1daff07893c3414
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\starwarssquadrons.exe\\DllOverrides] 1725481079
+#time=1daff07893c2c80
+"atiadlxx"="builtin"
+
+[Software\\Wine\\AppDefaults\\TDUSC.exe\\DllOverrides] 1738521253
+#time=1db75a10ea426ec
+"xinput1_3"="native,builtin"
+
+[Software\\Wine\\Debug] 1725481079
+#time=1daff078935ff90
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DllOverrides] 1725481079
+#time=1daff07893bd668
+"api-ms-win-crt-conio-l1-1-0"="native,builtin"
+"api-ms-win-crt-heap-l1-1-0"="native,builtin"
+"api-ms-win-crt-locale-l1-1-0"="native,builtin"
+"api-ms-win-crt-math-l1-1-0"="native,builtin"
+"api-ms-win-crt-runtime-l1-1-0"="native,builtin"
+"api-ms-win-crt-stdio-l1-1-0"="native,builtin"
+"api-ms-win-crt-time-l1-1-0"="native,builtin"
+"atiadlxx"="disabled"
+"atl100"="native,builtin"
+"atl110"="native,builtin"
+"atl120"="native,builtin"
+"atl140"="native,builtin"
+"concrt140"="native,builtin"
+"msvcp100"="native,builtin"
+"msvcp110"="native,builtin"
+"msvcp120"="native,builtin"
+"msvcp140"="native,builtin"
+"msvcp140_1"="native,builtin"
+"msvcp140_2"="native,builtin"
+"msvcp140_atomic_wait"="native,builtin"
+"msvcp140_codecvt_ids"="native,builtin"
+"msvcr100"="native,builtin"
+"msvcr110"="native,builtin"
+"msvcr120"="native,builtin"
+"msvcr140"="native,builtin"
+"nvcuda"="disabled"
+"ucrtbase"="native,builtin"
+"vcomp100"="native,builtin"
+"vcomp110"="native,builtin"
+"vcomp120"="native,builtin"
+"vcomp140"="native,builtin"
+"vcruntime140"="native,builtin"
+"vcruntime140_1"="native,builtin"
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_00_1f.3.analog-stereo] 1731354224
+#time=1db347204a0c72e
+"guid"=hex:e4,04,fb,21,58,43,4b,44,b7,6b,7b,0f,4b,c3,f2,a4
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.pci-0000_01_00.1.hdmi-stereo] 1731354224
+#time=1db347204a133b2
+"guid"=hex:a5,d8,9e,78,d5,b2,42,4d,88,ad,1c,b8,58,da,a1,b0
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Alpha_Imaging_Tech_HTC_Vive-02.analog-stereo] 1731354224
+#time=1db347204a0dd90
+"guid"=hex:a5,52,58,6c,20,65,fd,49,b0,ff,c4,8e,38,a2,50,a9
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo] 1731354224
+#time=1db347204a0f2e4
+"guid"=hex:04,d5,2d,d7,37,52,ce,46,b3,66,85,2c,70,2c,2e,1b
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-surround-71] 1731354224
+#time=1db347204a106e4
+"guid"=hex:69,51,37,19,60,5e,be,44,a1,7c,6c,d6,b7,ad,21,73
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\0,easyeffects_sink] 1731354224
+#time=1db347204a11dbe
+"guid"=hex:63,68,c0,7e,e5,0f,54,4e,9a,1b,e5,f0,d1,a6,05,5c
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.pci-0000_00_1f.3.analog-stereo] 1731354224
+#time=1db347204a17110
+"guid"=hex:a4,bf,df,3c,bd,53,e2,41,9f,1b,e7,0a,46,1f,7b,3d
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Alpha_Imaging_Tech_HTC_Vive-02.mono-fallback] 1731354224
+#time=1db347204a19f14
+"guid"=hex:fc,8c,6b,cc,a1,fb,ab,41,b5,eb,d4,3a,1b,4c,28,02
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo] 1731354224
+#time=1db347204a1ccd2
+"guid"=hex:77,ac,bf,74,b2,ed,0c,4f,b4,ca,76,fc,ce,d5,d1,58
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_input.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.mono-fallback] 1731354224
+#time=1db347204a1ff72
+"guid"=hex:ed,5d,f9,bc,35,26,ad,4f,9b,e7,18,03,37,57,4b,15
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_00_1f.3.analog-stereo.monitor] 1731354224
+#time=1db347204a1596e
+"guid"=hex:39,49,6f,42,4b,65,75,4d,88,f6,a6,00,2c,7b,14,d0
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor] 1731354224
+#time=1db347204a252d8
+"guid"=hex:ad,90,bb,51,f5,54,9e,45,8a,a4,ae,5d,e6,db,3e,d3
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Alpha_Imaging_Tech_HTC_Vive-02.analog-stereo.monitor] 1731354224
+#time=1db347204a18678
+"guid"=hex:a7,b3,15,13,e8,1d,f7,44,b1,e9,ba,ab,85,ff,fb,c7
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-BurrBrown_from_Texas_Instruments_USB_AUDIO_CODEC-00.analog-stereo.monitor] 1731354224
+#time=1db347204a1b4d6
+"guid"=hex:a4,df,56,74,91,6c,7b,4c,b2,28,53,66,e9,7a,50,16
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,alsa_output.usb-Kingston_HyperX_Cloud_II_Wireless_000000000001-00.analog-surround-71.monitor] 1731354224
+#time=1db347204a1e3ca
+"guid"=hex:81,9a,a6,75,09,40,20,43,a8,85,63,64,91,ef,70,43
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,easyeffects_sink.monitor] 1731354224
+#time=1db347204a2170a
+"guid"=hex:71,15,55,6c,54,c7,14,48,a5,03,82,66,00,bf,be,f6
+
+[Software\\Wine\\Drivers\\winepulse.drv\\devices\\1,easyeffects_source] 1731354224
+#time=1db347204a23410
+"guid"=hex:54,9b,76,75,ff,cd,b7,43,af,6d,44,c4,dd,c1,24,02
+
+[Software\\Wine\\Fonts] 1741216953
+#time=1db8e257917b164
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1741216953
+#time=1db8e25791b25e2
+"JetBrainsMono NF Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-Bold.ttf"
+"JetBrainsMono NF Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-BoldItalic.ttf"
+"JetBrainsMono NF ExtraBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-ExtraBold.ttf"
+"JetBrainsMono NF ExtraBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-ExtraBoldItalic.ttf"
+"JetBrainsMono NF ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-ExtraLight.ttf"
+"JetBrainsMono NF ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-ExtraLightItalic.ttf"
+"JetBrainsMono NF Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-Italic.ttf"
+"JetBrainsMono NF Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-Light.ttf"
+"JetBrainsMono NF Light Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-LightItalic.ttf"
+"JetBrainsMono NF Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-Medium.ttf"
+"JetBrainsMono NF Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-MediumItalic.ttf"
+"JetBrainsMono NF Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-Regular.ttf"
+"JetBrainsMono NF SemiBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-SemiBold.ttf"
+"JetBrainsMono NF SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-SemiBoldItalic.ttf"
+"JetBrainsMono NF Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-Thin.ttf"
+"JetBrainsMono NF Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFont-ThinItalic.ttf"
+"JetBrainsMono NFM Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-Bold.ttf"
+"JetBrainsMono NFM Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-BoldItalic.ttf"
+"JetBrainsMono NFM ExtraBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-ExtraBold.ttf"
+"JetBrainsMono NFM ExtraBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf"
+"JetBrainsMono NFM ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-ExtraLight.ttf"
+"JetBrainsMono NFM ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-ExtraLightItalic.ttf"
+"JetBrainsMono NFM Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-Italic.ttf"
+"JetBrainsMono NFM Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-Light.ttf"
+"JetBrainsMono NFM Light Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-LightItalic.ttf"
+"JetBrainsMono NFM Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-Medium.ttf"
+"JetBrainsMono NFM Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-MediumItalic.ttf"
+"JetBrainsMono NFM Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-Regular.ttf"
+"JetBrainsMono NFM SemiBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-SemiBold.ttf"
+"JetBrainsMono NFM SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-SemiBoldItalic.ttf"
+"JetBrainsMono NFM Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-Thin.ttf"
+"JetBrainsMono NFM Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontMono-ThinItalic.ttf"
+"JetBrainsMono NFP Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-Bold.ttf"
+"JetBrainsMono NFP Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-BoldItalic.ttf"
+"JetBrainsMono NFP ExtraBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-ExtraBold.ttf"
+"JetBrainsMono NFP ExtraBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-ExtraBoldItalic.ttf"
+"JetBrainsMono NFP ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-ExtraLight.ttf"
+"JetBrainsMono NFP ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-ExtraLightItalic.ttf"
+"JetBrainsMono NFP Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-Italic.ttf"
+"JetBrainsMono NFP Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-Light.ttf"
+"JetBrainsMono NFP Light Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-LightItalic.ttf"
+"JetBrainsMono NFP Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-Medium.ttf"
+"JetBrainsMono NFP Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-MediumItalic.ttf"
+"JetBrainsMono NFP Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-Regular.ttf"
+"JetBrainsMono NFP SemiBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-SemiBold.ttf"
+"JetBrainsMono NFP SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf"
+"JetBrainsMono NFP Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-Thin.ttf"
+"JetBrainsMono NFP Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNerdFontPropo-ThinItalic.ttf"
+"JetBrainsMonoNL NF Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-Bold.ttf"
+"JetBrainsMonoNL NF Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-BoldItalic.ttf"
+"JetBrainsMonoNL NF ExtraBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-ExtraBold.ttf"
+"JetBrainsMonoNL NF ExtraBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-ExtraBoldItalic.ttf"
+"JetBrainsMonoNL NF ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-ExtraLight.ttf"
+"JetBrainsMonoNL NF ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-ExtraLightItalic.ttf"
+"JetBrainsMonoNL NF Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-Italic.ttf"
+"JetBrainsMonoNL NF Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-Light.ttf"
+"JetBrainsMonoNL NF Light Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-LightItalic.ttf"
+"JetBrainsMonoNL NF Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-Medium.ttf"
+"JetBrainsMonoNL NF Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-MediumItalic.ttf"
+"JetBrainsMonoNL NF Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-Regular.ttf"
+"JetBrainsMonoNL NF SemiBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-SemiBold.ttf"
+"JetBrainsMonoNL NF SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-SemiBoldItalic.ttf"
+"JetBrainsMonoNL NF Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-Thin.ttf"
+"JetBrainsMonoNL NF Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFont-ThinItalic.ttf"
+"JetBrainsMonoNL NFM Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-Bold.ttf"
+"JetBrainsMonoNL NFM Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-BoldItalic.ttf"
+"JetBrainsMonoNL NFM ExtraBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-ExtraBold.ttf"
+"JetBrainsMonoNL NFM ExtraBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf"
+"JetBrainsMonoNL NFM ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-ExtraLight.ttf"
+"JetBrainsMonoNL NFM ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-ExtraLightItalic.ttf"
+"JetBrainsMonoNL NFM Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-Italic.ttf"
+"JetBrainsMonoNL NFM Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-Light.ttf"
+"JetBrainsMonoNL NFM Light Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-LightItalic.ttf"
+"JetBrainsMonoNL NFM Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-Medium.ttf"
+"JetBrainsMonoNL NFM Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-MediumItalic.ttf"
+"JetBrainsMonoNL NFM Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-Regular.ttf"
+"JetBrainsMonoNL NFM SemiBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-SemiBold.ttf"
+"JetBrainsMonoNL NFM SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-SemiBoldItalic.ttf"
+"JetBrainsMonoNL NFM Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-Thin.ttf"
+"JetBrainsMonoNL NFM Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontMono-ThinItalic.ttf"
+"JetBrainsMonoNL NFP Bold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-Bold.ttf"
+"JetBrainsMonoNL NFP Bold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-BoldItalic.ttf"
+"JetBrainsMonoNL NFP ExtraBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-ExtraBold.ttf"
+"JetBrainsMonoNL NFP ExtraBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.ttf"
+"JetBrainsMonoNL NFP ExtraLight (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-ExtraLight.ttf"
+"JetBrainsMonoNL NFP ExtraLight Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-ExtraLightItalic.ttf"
+"JetBrainsMonoNL NFP Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-Italic.ttf"
+"JetBrainsMonoNL NFP Light (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-Light.ttf"
+"JetBrainsMonoNL NFP Light Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-LightItalic.ttf"
+"JetBrainsMonoNL NFP Medium (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-Medium.ttf"
+"JetBrainsMonoNL NFP Medium Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-MediumItalic.ttf"
+"JetBrainsMonoNL NFP Regular (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-Regular.ttf"
+"JetBrainsMonoNL NFP SemiBold (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-SemiBold.ttf"
+"JetBrainsMonoNL NFP SemiBold Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-SemiBoldItalic.ttf"
+"JetBrainsMonoNL NFP Thin (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-Thin.ttf"
+"JetBrainsMonoNL NFP Thin Italic (TrueType)"="Z:\\run\\host\\fonts\\TTF\\JetBrainsMonoNLNerdFontPropo-ThinItalic.ttf"
+
+[Software\\Wine\\Fonts\\Replacements] 1725481079
+#time=1daff07893649dc
+"Palatino Linotype"="Times New Roman"
+"Segoe UI"="Times New Roman"
+"Verdana"="Times New Roman"
+
+[Software\\Wine\\WineDbg] 1725481079
+#time=1daff07893600bc
+"ShowCrashDialog"=dword:00000000
+
+[Software\\Wine\\X11 Driver] 1738521221
+#time=1db75a0fb920d76
+"KeyboardLayoutList"=str(7):"United States keyboard layout\0United States keyboard layout (phantom key version)\0United States keyboard layout (dvorak)\0United States International keyboard layout\0British keyboard layout\0German keyboard layout\0Swiss German keyboard layout\0Swiss French keyboard layout\0Swedish keyboard layout\0Estonian keyboard layout\0Norwegian keyboard layout\0Danish keyboard layout\0French keyboard layout\0Canadian French keyboard layout\0Canadian French keyboard layout (CA_fr)\0Canadian keyboard layout\0Belgian keyboard layout\0Portuguese keyboard layout\0Brazilian ABNT-2 keyboard layout\0Brazilian ABNT-2 keyboard layout ALT GR\0Finnish keyboard layout\0Bulgarian bds keyboard layout\0Bulgarian phonetic keyboard layout\0Belarusian keyboard layout\0Russian keyboard layout\0Russian keyboard layout (phantom key version)\0Russian keyboard layout KOI8-R\0Russian keyboard layout cp1251\0Russian phonetic keyboard layout\0Ukrainian keyboard layout KOI8-U\0Ukrainian keyboard layout (standard)\0Russian keyboard layout (standard)\0Spanish keyboard layout\0Italian keyboard layout\0Icelandic keyboard layout\0Hungarian keyboard layout\0Polish (programmer's) keyboard layout\0Slovenian keyboard layout\0Serbian keyboard layout sr\0Serbian keyboard layout us,sr\0Croatian keyboard layout\0Croatian keyboard layout (specific)\0Japanese 106 keyboard layout\0Japanese Mac keyboard layout\0Japanese pc98x1 keyboard layout\0Slovak keyboard layout\0Slovak and Czech keyboard layout without dead keys\0Czech keyboard layout\0Czech keyboard layout cz\0Czech keyboard layout cz_qwerty\0Latin American keyboard layout\0Lithuanian (Baltic) keyboard layout\0Turkish keyboard layout\0Turkish keyboard layout tr\0Turkish keyboard layout trf\0Israelian keyboard layout\0Israelian phonetic keyboard layout\0Israelian Saharon keyboard layout\0VNC keyboard layout\0Greek keyboard layout\0Thai (Kedmanee)  keyboard layout\0Dutch keyboard layout\0"
+
+[Volatile Environment] 1738521291
+#time=1db75a125684cb4
+"APPDATA"="C:\\users\\steamuser\\AppData\\Roaming"
+"CLIENTNAME"="Console"
+"HOMEDRIVE"="C:"
+"HOMEPATH"="\\users\\steamuser"
+"HOMESHARE"=""
+"LOCALAPPDATA"="C:\\users\\steamuser\\AppData\\Local"
+"LOGONSERVER"="\\\\AVERYS-PC"
+"SESSIONNAME"="Console"
+"USERDOMAIN"="AVERYS-PC"
+"USERNAME"="steamuser"
+"USERPROFILE"="C:\\users\\steamuser"

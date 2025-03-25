@@ -1,0 +1,1 @@
+env OBS_VKCAPTURE=1 gamemoderun  /usr/bin/vkquake

@@ -1,0 +1,224 @@
+19:57:40.485 - InControl (version 1.6.17 build 9143)
+19:57:41.230 - <size=13><color=red>TODO : Implement m_badPacketQuestion/m_badPacketAnswer and the SNet_BadPacketCatcher</color></size>
+19:57:41.232 - > GLOBAL SetupManagers, State : Dev HasNetwork: True
+19:57:41.235 - GameDataInit.Initialize
+19:57:44.830 - ------------------------------------------------------------  MusicManager. Loading soundbank for music! ------------------------------------------------------------ 
+19:57:50.099 - <b>[SteamVR_Standalone Setup]</b> Generated you an editor app key of: application.generated.unity.gtfo.exe. This lets the editor tell SteamVR_Standalone what project this is. Has no effect on builds. This can be changed in Assets/SteamVR_Standalone/Resources/SteamVR_Settings
+19:57:50.902 - Is HMD here? True
+19:57:51.094 - <b>[SteamVR_Standalone]</b> Successfully loaded 26 actions from action manifest into SteamVR_Standalone (Z:/mnt/GD/SteamLibrary/steamapps/common/GTFO/GTFO_Data/StreamingAssets\SteamVR_Standalone\actions.json)
+19:57:51.096 - <b>[SteamVR_Standalone]</b> Initializing SteamVR_Standalone input...
+19:57:51.122 - Loading external plugin load function
+19:57:51.375 - Z:\mnt\GD\SteamLibrary\steamapps\common\GTFO\GTFO.exe
+19:57:51.376 - C:\windows\system32\ntdll.dll
+19:57:51.377 - C:\windows\system32\kernel32.dll
+19:57:51.379 - C:\windows\system32\kernelbase.dll
+19:57:51.380 - Z:\mnt\GD\SteamLibrary\steamapps\common\GTFO\UnityPlayer.dll
+19:57:51.911 - <b>[SteamVR_Standalone]</b> Initialized. Connected to lighthouse:LHR-70AF6EF0
+19:58:23.047 - CM_PageCredits Setup Credits Page
+19:58:23.520 - Setting watermark revision to 34855
+19:58:25.273 - Loading shaders from asset bundle...
+19:58:25.281 - assets/steamvr/resources/steamvr_blit.shader
+19:58:25.283 - assets/steamvr/resources/steamvr_blitflip.shader
+19:58:25.284 - assets/steamvr/resources/steamvr_fade.shader
+19:58:25.285 - assets/steamvr/resources/steamvr_hiddenarea.shader
+19:58:25.286 - assets/steamvr/resources/steamvr_overlay.shader
+19:58:26.931 - EnemyCostManager : Costs for Normal difficulty loaded
+19:58:26.934 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Inactive TO: Startup</color>
+19:58:26.987 - MusicManager - Setting music state to: StartUp
+19:58:27.914 - Steamworks.NET initilized
+19:58:28.095 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Startup TO: Offline</color>
+19:58:28.111 - MusicManager - Setting music state to: MainMenu
+19:58:28.112 - DropServerManager: Idle
+19:58:28.126 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+19:58:28.128 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+19:58:44.505 - SNET is Online, Woop!
+19:58:44.513 - Waiting for network.. DONE!
+19:58:44.516 - PlayFabManager.OnSteamInitialized
+19:58:44.824 - [163 - GetAuthSessionTicketResponse] - 2 -- k_EResultOK
+19:58:46.401 - PlayFabManager.OnLoginSuccess. NewlyCreated: False
+19:58:46.406 - PlayFabManager.RefreshGlobalTitleData
+19:58:46.679 - <color=purple>PlayFab.OnGetCurrentTime Sunday, 10 November 2024</color>
+19:58:46.803 - UpdateLocalPlayerData Done, result: 1 OnSuccess: System.Action
+19:58:46.805 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_35'...
+19:58:46.809 - PlayFabMatchMakingManager: Requesting list of QoS servers...
+19:58:46.833 - AchievementManager | <b>Achievement_ReadAllLogs</b> :: Initialized Data. Logs Read: 1 / 188 | IDs: [1892674022]
+19:58:46.842 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_35)' request
+19:58:46.843 - DropServerManager: Woke up
+19:58:46.844 - DropServerManager: Making 'rundown progression (rundown: Local_35)' request...
+19:58:46.856 - DropServerManager: Enqueueing 'get player inventory' request
+19:58:46.931 - DropServerManager: 'rundown progression (rundown: Local_35)' request completed successfully
+19:58:46.932 - DropServerManager: Sleeping for 2 seconds...
+19:58:46.939 - RundownManager: Got rundown progression from drop server
+19:58:46.941 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+19:58:46.942 - tier: TierA index: 0 EXPEDITION UNLOCKED
+19:58:46.944 - tier: TierA index: 1 EXPEDITION LOCKED
+19:58:46.946 - tier: TierA index: 2 EXPEDITION LOCKED
+19:58:46.947 - tier: TierA index: 3 EXPEDITION LOCKED
+19:58:46.949 - tier: TierB index: 0 EXPEDITION LOCKED
+19:58:46.951 - tier: TierB index: 1 EXPEDITION LOCKED
+19:58:46.953 - tier: TierB index: 2 EXPEDITION LOCKED
+19:58:46.954 - tier: TierB index: 3 EXPEDITION LOCKED
+19:58:46.956 - tier: TierC index: 0 EXPEDITION LOCKED
+19:58:46.958 - tier: TierC index: 1 EXPEDITION LOCKED
+19:58:46.959 - tier: TierC index: 2 EXPEDITION LOCKED
+19:58:46.961 - tier: TierC index: 3 EXPEDITION LOCKED
+19:58:46.963 - tier: TierD index: 0 EXPEDITION LOCKED
+19:58:46.965 - tier: TierD index: 1 EXPEDITION LOCKED
+19:58:46.967 - tier: TierD index: 2 EXPEDITION LOCKED
+19:58:46.969 - tier: TierD index: 3 EXPEDITION LOCKED
+19:58:46.970 - tier: TierE index: 0 EXPEDITION LOCKED
+19:58:46.972 - tier: TierE index: 1 EXPEDITION LOCKED
+19:58:46.973 - tier: TierE index: 2 EXPEDITION LOCKED
+19:58:46.975 - tier: TierE index: 3 EXPEDITION LOCKED
+19:58:46.976 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+19:58:48.936 - DropServerManager: Making 'get player inventory' request...
+19:58:49.247 - DropServerManager: 'get player inventory' request completed successfully
+19:58:49.247 - DropServerManager: Sleeping for 2 seconds...
+19:58:51.565 - DropServerManager: Idle
+19:59:18.491 - TODO : Skipping icon generation for the hacking tool. It crashes later while trying to construct the tool for rendering
+20:00:49.668 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:00:51.303 - GS_Offline.OnLocalPlayerPressStart!
+20:00:51.307 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Offline TO: NoLobby</color>
+20:00:51.318 - MusicManager - Setting music state to: Silence
+20:00:51.344 - tier: TierA index: 0 EXPEDITION UNLOCKED
+20:00:51.345 - tier: TierA index: 1 EXPEDITION LOCKED
+20:00:51.347 - tier: TierA index: 2 EXPEDITION LOCKED
+20:00:51.348 - tier: TierA index: 3 EXPEDITION LOCKED
+20:00:51.349 - tier: TierB index: 0 EXPEDITION LOCKED
+20:00:51.351 - tier: TierB index: 1 EXPEDITION LOCKED
+20:00:51.352 - tier: TierB index: 2 EXPEDITION LOCKED
+20:00:51.356 - tier: TierB index: 3 EXPEDITION LOCKED
+20:00:51.358 - tier: TierC index: 0 EXPEDITION LOCKED
+20:00:51.359 - tier: TierC index: 1 EXPEDITION LOCKED
+20:00:51.360 - tier: TierC index: 2 EXPEDITION LOCKED
+20:00:51.361 - tier: TierC index: 3 EXPEDITION LOCKED
+20:00:51.362 - tier: TierD index: 0 EXPEDITION LOCKED
+20:00:51.363 - tier: TierD index: 1 EXPEDITION LOCKED
+20:00:51.365 - tier: TierD index: 2 EXPEDITION LOCKED
+20:00:51.366 - tier: TierD index: 3 EXPEDITION LOCKED
+20:00:51.367 - tier: TierE index: 0 EXPEDITION LOCKED
+20:00:51.369 - tier: TierE index: 1 EXPEDITION LOCKED
+20:00:51.370 - tier: TierE index: 2 EXPEDITION LOCKED
+20:00:51.371 - tier: TierE index: 3 EXPEDITION LOCKED
+20:00:51.373 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+20:00:51.375 - Pagerundown GOT RundownTimerData from playfab.
+20:01:27.622 - OnBtnPress, ID: 0 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:01:29.066 - OnBtnPress, ID: 517 GO: CM_ButtonFramed(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:01:53.910 - OnBtnPress, ID: 587 GO: CM_SettingsItem(Clone) OnBtnPressCallback:  m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:02:26.224 - OnBtnPress, ID: 187 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:02:26.301 - Pagerundown GOT RundownTimerData from playfab.
+20:02:28.007 - OnBtnPress, ID: 42 GO: TutorialButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:02:30.191 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+20:02:30.193 - SNet : Session reset
+20:02:30.195 - Global.OnResetSession
+20:02:30.196 - <color=purple>PlayerManager OnResetSession >  m_playerAgentsInLevel.Count : 0</color>
+20:02:30.200 - SessionGUID set to 
+20:02:30.203 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : NoLobby TO: Lobby</color>
+20:02:30.206 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:02:30.208 - MusicManager - Setting music state to: Silence
+20:02:30.210 - Player [#442c21] gayass was added to session
+20:02:30.220 - DoCreateLobbyAndSelecteExpedition 1
+20:02:30.221 - waiting for lobby..
+20:02:30.630 - SNet_SessionHub : OnJoinedLobby True [#442c21] gayass False -1
+20:02:30.631 - SNet_MasterManager : SearchingForMaster
+20:02:30.667 - Searching for master...
+20:02:30.701 - MasterManager : [#442c21] gayass owns the lobby. IsLocal:True
+20:02:30.702 - SNet_MasterManager : Who's tha masta?! [#442c21] gayass! [#442c21] gayass!
+20:02:30.703 - SNET : OnFoundMaster > Master is Steam [#442c21] gayass Session summary > Master InSessionHub -1 -1 0 0   Profile summary > [#442c21] gayass : end
+20:02:30.704 - DoCreateLobbyAndSelecteExpedition 2
+20:02:30.705 - RundownManager.SetActiveExpedition, type:Local tier:TierA expIndex: 1
+20:02:30.706 - SessionGUID set to +XKrTJ1EzkmLG/k475Fegg==
+20:02:30.710 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:02:30.716 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:02:30.721 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:02:30.725 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+20:02:30.756 - <color=#C84800>SelectActiveExpedition : Selected! Local Local_39 TierA 1 1049548572 809202078  sessionGUID:SNetwork.SNetStructs+pSessionGUID FriendsData expID set to: Local_39,1,1 ActiveExpeditionUniqueKey: Local_39_TierA_1</color>
+20:02:30.757 - DoCreateLobbyAndSelecteExpedition 3
+20:02:30.758 - DoCreateLobbyAndSelecteExpedition 4
+20:02:30.784 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : Unassigned InSessionHub
+20:02:30.785 - SNET : OnMasterCommand : AssignSlot 0 False
+20:02:30.786 - OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerInSession  Reason : None isPlayerMaster : True
+20:02:31.217 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : InSessionHub OutOfSync
+20:02:31.218 - SNET : OnMasterCommand : PickAvatar 0 False
+20:02:31.219 - <color=green>SNET : We got character 0 assigned</color>
+20:02:31.220 - IsReadyToSync : PickAvatar agent sent to [#442c21] gayass
+20:02:31.242 - SNET : OnMasterCommand : InSessionHub_ReadyToGenerate 0 False
+20:02:31.243 - <color=green>SNET : Added [#442c21] gayass to PlayersInGame</color>
+20:02:31.244 - OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerIsSynced  Reason : None isPlayerMaster : True
+20:02:31.246 - SpawnPlayerModel, index: 0
+20:02:38.918 - <color=green>SNET : GS_Lobby has not implemented functionality for InSessionHub_ReadyToGenerate!</color>
+20:02:38.953 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : OutOfSync InSessionHub_ReadyToGenerate
+20:02:38.954 - <color=green>SNET : OnSessionPlayerAction : Spawning [#442c21] gayass's agent!  SpawnPlayerAgent</color>
+20:02:39.661 - OnPlayerEvent : [#442c21] gayass  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : True
+20:02:40.285 - SNET : OnMasterCommand : StartGeneration 0 False
+20:02:40.286 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Lobby TO: Generating</color>
+20:02:40.290 - RundownManager: Starting new game session
+20:02:40.292 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:02:40.298 - DropServerManager: Enqueueing 'new session (sessionId: +XKrTJ1EzkmLG/k475Fegg==, rundown: Local_39, expedition: A2, boosters: [])' request
+20:02:40.299 - DropServerManager: Woke up
+20:02:40.300 - DropServerManager: Making 'new session (sessionId: +XKrTJ1EzkmLG/k475Fegg==, rundown: Local_39, expedition: A2, boosters: [])' request...
+20:02:40.302 - SNET : MasterReplicationUpdate_Player : [#442c21] gayass mode change : InSessionHub_ReadyToGenerate GeneratingLevel
+20:02:40.341 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+20:02:40.849 - DropServerManager: 'new session (sessionId: +XKrTJ1EzkmLG/k475Fegg==, rundown: Local_39, expedition: A2, boosters: [])' request completed successfully
+20:02:40.850 - DropServerManager: Sleeping for 2 seconds...
+20:02:42.583 - DropServerManager: Idle

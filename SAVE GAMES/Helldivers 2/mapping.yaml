@@ -1,0 +1,27 @@
+---
+name: Helldivers 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:18.951243140Z"
+    os: linux
+    files:
+      /home/avery/.local/share/Steam/userdata/1013896986/553850/remote/input_settings.config:
+        hash: 0d7d41436c1d65d12454a3715032125ac00bc1d4
+        size: 1276
+      /home/avery/.local/share/Steam/userdata/1013896986/553850/remote/testament_new.sav:
+        hash: c537d4fea31f942d6e67165404d27889326bc398
+        size: 5699
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/553850/pfx/drive_c/users/steamuser/AppData/Roaming/Arrowhead/Helldivers2/saves/3c94698bc87df47a_user_settings.config:
+        hash: 2e5a870bd24b3b795a23c66a8eafcae4c66b83e6
+        size: 1459
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/553850/pfx/drive_c/users/steamuser/AppData/Roaming/Arrowhead/Helldivers2/saves/3c94698bc87df47a_user_settings.config.old:
+        hash: 1826d2b989604edb58e2887a35b14cb0136428a8
+        size: 1459
+      /mnt/9a51e46c-ef46-433a-b33c-9d051ba8fb01/SteamLibrary/steamapps/compatdata/553850/pfx/drive_c/users/steamuser/AppData/Roaming/Arrowhead/Helldivers2/user_settings.config:
+        hash: c26190ca21a816103d9fb5efad6ec129bf895350
+        size: 6480
+    registry:
+      hash: ~
+    children: []

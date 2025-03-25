@@ -1,0 +1,21 @@
+---
+name: Dishonored
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T04:48:22.963240258Z"
+    os: linux
+    files:
+      /home/avery/Documents/SAVE GAMES/system.reg:
+        hash: 406933808e6766801fae74c8d3d3ebf26ac81706
+        size: 3767061
+      /home/avery/Documents/SAVE GAMES/user.reg:
+        hash: 3a4ea50cf318f8b7c3f2b34da852d901a02f1cfe
+        size: 64654
+      /home/avery/Documents/SAVE GAMES/userdef.reg:
+        hash: a15cc793a22935d776421f189bd5eab3dd81a5ff
+        size: 4190
+    registry:
+      hash: ~
+    children: []

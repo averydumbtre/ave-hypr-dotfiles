@@ -1,0 +1,596 @@
+12:59:33.499 - InControl (version 1.6.17 build 9143)
+12:59:33.875 - <size=13><color=red>TODO : Implement m_badPacketQuestion/m_badPacketAnswer and the SNet_BadPacketCatcher</color></size>
+12:59:33.877 - > GLOBAL SetupManagers, State : Dev HasNetwork: True
+12:59:33.878 - GameDataInit.Initialize
+12:59:36.252 - ------------------------------------------------------------  MusicManager. Loading soundbank for music! ------------------------------------------------------------ 
+12:59:48.037 - CM_PageCredits Setup Credits Page
+12:59:48.281 - Setting watermark revision to 34855
+12:59:48.805 - EnemyCostManager : Costs for Normal difficulty loaded
+12:59:48.807 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Inactive TO: Startup</color>
+12:59:48.808 - MusicManager - Setting music state to: StartUp
+12:59:48.941 - Steamworks.NET initilized
+12:59:49.027 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Startup TO: Offline</color>
+12:59:49.043 - MusicManager - Setting music state to: MainMenu
+12:59:49.044 - DropServerManager: Idle
+12:59:49.047 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+12:59:49.047 - DEBUG : Tried to Initialize the SteamAPI twice in one session
+12:59:58.123 - SNET is Online, Woop!
+12:59:58.124 - Waiting for network.. DONE!
+12:59:58.126 - PlayFabManager.OnSteamInitialized
+12:59:58.318 - [163 - GetAuthSessionTicketResponse] - 12 -- k_EResultOK
+12:59:58.761 - PlayFabManager.OnLoginSuccess. NewlyCreated: False
+12:59:58.763 - PlayFabManager.RefreshGlobalTitleData
+12:59:58.796 - <color=purple>PlayFab.OnGetCurrentTime Sunday, 28 July 2024</color>
+12:59:58.902 - UpdateLocalPlayerData Done, result: 0 OnSuccess: System.Action
+12:59:58.903 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_35'...
+12:59:58.905 - PlayFabMatchMakingManager: Requesting list of QoS servers...
+12:59:58.923 - AchievementManager | <b>Achievement_ReadAllLogs</b> :: Initialized Data. Logs Read: 0 / 188 | IDs: []
+12:59:58.928 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_35)' request
+12:59:58.928 - DropServerManager: Woke up
+12:59:58.928 - DropServerManager: Making 'rundown progression (rundown: Local_35)' request...
+12:59:58.930 - DropServerManager: Enqueueing 'get player inventory' request
+12:59:59.000 - DropServerManager: 'rundown progression (rundown: Local_35)' request completed successfully
+12:59:59.000 - DropServerManager: Sleeping for 2 seconds...
+12:59:59.001 - RundownManager: Got rundown progression from drop server
+12:59:59.002 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+12:59:59.003 - tier: TierA index: 0 EXPEDITION UNLOCKED
+12:59:59.003 - tier: TierA index: 1 EXPEDITION LOCKED
+12:59:59.004 - tier: TierA index: 2 EXPEDITION LOCKED
+12:59:59.004 - tier: TierA index: 3 EXPEDITION LOCKED
+12:59:59.005 - tier: TierB index: 0 EXPEDITION LOCKED
+12:59:59.005 - tier: TierB index: 1 EXPEDITION LOCKED
+12:59:59.005 - tier: TierB index: 2 EXPEDITION LOCKED
+12:59:59.006 - tier: TierB index: 3 EXPEDITION LOCKED
+12:59:59.006 - tier: TierC index: 0 EXPEDITION LOCKED
+12:59:59.007 - tier: TierC index: 1 EXPEDITION LOCKED
+12:59:59.008 - tier: TierC index: 2 EXPEDITION LOCKED
+12:59:59.008 - tier: TierC index: 3 EXPEDITION LOCKED
+12:59:59.009 - tier: TierD index: 0 EXPEDITION LOCKED
+12:59:59.009 - tier: TierD index: 1 EXPEDITION LOCKED
+12:59:59.010 - tier: TierD index: 2 EXPEDITION LOCKED
+12:59:59.010 - tier: TierD index: 3 EXPEDITION LOCKED
+12:59:59.011 - tier: TierE index: 0 EXPEDITION LOCKED
+12:59:59.011 - tier: TierE index: 1 EXPEDITION LOCKED
+12:59:59.012 - tier: TierE index: 2 EXPEDITION LOCKED
+12:59:59.012 - tier: TierE index: 3 EXPEDITION LOCKED
+12:59:59.013 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:00:01.001 - DropServerManager: Making 'get player inventory' request...
+13:00:01.101 - DropServerManager: 'get player inventory' request completed successfully
+13:00:01.101 - DropServerManager: Sleeping for 2 seconds...
+13:00:03.104 - DropServerManager: Idle
+13:00:14.565 - TODO : Skipping icon generation for the hacking tool. It crashes later while trying to construct the tool for rendering
+13:01:01.812 - TryGetMaterialGroup : Missing material on TextMeshPro
+13:01:13.201 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:01:14.804 - GS_Offline.OnLocalPlayerPressStart!
+13:01:14.807 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Offline TO: NoLobby</color>
+13:01:14.815 - MusicManager - Setting music state to: Silence
+13:01:14.836 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:14.837 - tier: TierA index: 1 EXPEDITION LOCKED
+13:01:14.838 - tier: TierA index: 2 EXPEDITION LOCKED
+13:01:14.838 - tier: TierA index: 3 EXPEDITION LOCKED
+13:01:14.839 - tier: TierB index: 0 EXPEDITION LOCKED
+13:01:14.839 - tier: TierB index: 1 EXPEDITION LOCKED
+13:01:14.839 - tier: TierB index: 2 EXPEDITION LOCKED
+13:01:14.840 - tier: TierB index: 3 EXPEDITION LOCKED
+13:01:14.840 - tier: TierC index: 0 EXPEDITION LOCKED
+13:01:14.841 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:14.841 - tier: TierC index: 2 EXPEDITION LOCKED
+13:01:14.841 - tier: TierC index: 3 EXPEDITION LOCKED
+13:01:14.842 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:14.842 - tier: TierD index: 1 EXPEDITION LOCKED
+13:01:14.843 - tier: TierD index: 2 EXPEDITION LOCKED
+13:01:14.843 - tier: TierD index: 3 EXPEDITION LOCKED
+13:01:14.844 - tier: TierE index: 0 EXPEDITION LOCKED
+13:01:14.844 - tier: TierE index: 1 EXPEDITION LOCKED
+13:01:14.844 - tier: TierE index: 2 EXPEDITION LOCKED
+13:01:14.845 - tier: TierE index: 3 EXPEDITION LOCKED
+13:01:14.845 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:14.847 - Pagerundown GOT RundownTimerData from playfab.
+13:01:28.549 - OnBtnPress, ID: 61 GO: Rundown_Surface_SelectionALT_R1 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:01:28.550 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_32'...
+13:01:28.574 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: False
+13:01:28.577 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_32)' request
+13:01:28.577 - DropServerManager: Woke up
+13:01:28.577 - DropServerManager: Making 'rundown progression (rundown: Local_32)' request...
+13:01:28.644 - DropServerManager: 'rundown progression (rundown: Local_32)' request completed successfully
+13:01:28.645 - DropServerManager: Sleeping for 2 seconds...
+13:01:28.645 - RundownManager: Got rundown progression from drop server
+13:01:28.646 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:28.646 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:28.647 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:28.647 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:28.647 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:28.648 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:28.648 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:28.649 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:28.649 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_31'...
+13:01:28.652 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_31)' request
+13:01:30.646 - DropServerManager: Making 'rundown progression (rundown: Local_31)' request...
+13:01:30.822 - DropServerManager: 'rundown progression (rundown: Local_31)' request completed successfully
+13:01:30.822 - DropServerManager: Sleeping for 2 seconds...
+13:01:30.822 - RundownManager: Got rundown progression from drop server
+13:01:30.823 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:30.823 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:30.824 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:30.824 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:30.825 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:30.825 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:30.825 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:30.826 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:30.826 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_33'...
+13:01:30.828 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_33)' request
+13:01:32.822 - DropServerManager: Making 'rundown progression (rundown: Local_33)' request...
+13:01:32.934 - RundownManager: Got rundown progression from drop server
+13:01:32.935 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:32.935 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:32.936 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:32.936 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:32.936 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:32.937 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:32.937 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:32.938 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:32.938 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_34'...
+13:01:32.941 - DropServerManager: 'rundown progression (rundown: Local_33)' request completed successfully
+13:01:32.941 - DropServerManager: Sleeping for 2 seconds...
+13:01:32.941 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_34)' request
+13:01:34.935 - DropServerManager: Making 'rundown progression (rundown: Local_34)' request...
+13:01:35.047 - DropServerManager: 'rundown progression (rundown: Local_34)' request completed successfully
+13:01:35.048 - DropServerManager: Sleeping for 2 seconds...
+13:01:35.048 - RundownManager: Got rundown progression from drop server
+13:01:35.049 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:35.049 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:35.050 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:35.050 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:35.051 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:35.051 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:35.051 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:35.052 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:35.053 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_37'...
+13:01:35.055 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_37)' request
+13:01:37.047 - DropServerManager: Making 'rundown progression (rundown: Local_37)' request...
+13:01:37.153 - DropServerManager: 'rundown progression (rundown: Local_37)' request completed successfully
+13:01:37.153 - DropServerManager: Sleeping for 2 seconds...
+13:01:37.154 - RundownManager: Got rundown progression from drop server
+13:01:37.154 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:37.155 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:37.155 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:37.156 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:37.156 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:37.157 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:37.157 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:37.158 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:37.159 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_38'...
+13:01:37.161 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_38)' request
+13:01:39.154 - DropServerManager: Making 'rundown progression (rundown: Local_38)' request...
+13:01:39.255 - DropServerManager: 'rundown progression (rundown: Local_38)' request completed successfully
+13:01:39.255 - DropServerManager: Sleeping for 2 seconds...
+13:01:39.256 - RundownManager: Got rundown progression from drop server
+13:01:39.256 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:39.257 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:39.257 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:39.258 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:39.258 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:39.259 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:39.259 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:39.260 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:39.260 - RundownManager: Requesting rundown progression from drop server for rundown key 'Local_41'...
+13:01:39.263 - DropServerManager: Enqueueing 'rundown progression (rundown: Local_41)' request
+13:01:41.105 - OnBtnPress, ID: 0 GO: CM_ExpeditionIcon_New(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:01:41.255 - DropServerManager: Making 'rundown progression (rundown: Local_41)' request...
+13:01:41.346 - DropServerManager: 'rundown progression (rundown: Local_41)' request completed successfully
+13:01:41.346 - DropServerManager: Sleeping for 2 seconds...
+13:01:41.347 - RundownManager: Got rundown progression from drop server
+13:01:41.347 - CM_PageRundown_New.OnRundownProgressionFileUpdated
+13:01:41.348 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:01:41.348 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:01:41.349 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:01:41.349 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:01:41.350 - tier: TierC index: 1 EXPEDITION LOCKED
+13:01:41.350 - tier: TierD index: 0 EXPEDITION LOCKED
+13:01:41.351 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:01:43.346 - DropServerManager: Idle
+13:01:50.372 - OnBtnPress, ID: 0 GO: CM_ExpeditionIcon_New(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:07.587 - OnGameLobbyJoinRequested : 109775242196025591 JD_sushi
+13:02:07.720 - SNet : Session reset
+13:02:07.721 - Global.OnResetSession
+13:02:07.721 - <color=purple>PlayerManager OnResetSession >  m_playerAgentsInLevel.Count : 0</color>
+13:02:07.721 - SessionGUID set to 
+13:02:07.866 - SNet_SessionHub : OnJoinedLobby False gayass False -1
+13:02:07.866 - SNet_MasterManager : SearchingForMaster
+13:02:07.867 - SNet_SessionHub : OnJoinedLobby False JD_sushi False -1
+13:02:11.661 - SNet_MasterManager : Who's tha masta?! JD_sushi! JD_sushi!
+13:02:11.661 - WARNING : GS_NoLobby has not implemented OnMasterChanged
+13:02:11.662 - SNET : OnFoundMaster > Master is Steam JD_sushi Session summary > Unassigned Unassigned -1 -1 0 0   Profile summary > JD_sushi : end
+13:02:11.663 - Sending slave session question WantsToJoin 
+13:02:12.050 - Player session data was discarded! Master InSessionHub_ReadyToGenerate 1 1 4167333007 7961540109447557968
+13:02:12.050 -  > we are not in a session hub yet!
+13:02:12.051 - <color=purple>OnPlayerGameStateChange : JD_sushi Lobby</color>
+13:02:12.051 - SessionGUID set to wlBfSoxSbUOy0gSNAcuCBQ==
+13:02:12.078 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:02:12.078 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:02:12.079 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:02:12.079 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:02:12.080 - tier: TierC index: 1 EXPEDITION LOCKED
+13:02:12.080 - tier: TierD index: 0 EXPEDITION LOCKED
+13:02:12.081 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:02:12.094 - <b>WardenObjectiveManager:</b> SetupWardenObjectiveLayer() Setting definition for MainLayer with HSU_FindTakeSample.
+13:02:12.095 - <color=#C84800>SelectActiveExpedition : Selected! Local Local_32 TierB 1 1049548572 988735489  sessionGUID:SNetwork.SNetStructs+pSessionGUID FriendsData expID set to: Local_32,2,1 ActiveExpeditionUniqueKey: Local_32_TierB_1</color>
+13:02:12.095 - OnPlayerChangedExpedition : Got valid pActiveExpedition from master : Local Local_32 TierB 1 1049548572 988735489  sessionGUID:SNetwork.SNetStructs+pSessionGUID
+13:02:12.095 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_sushi, player NOT slotted!
+13:02:12.096 - OnPlayerWardenObjectiveDataChanged, player: JD_sushi (SNetwork.SNet_Player) WinConditionSolved: False
+13:02:12.096 - Player session data was discarded! Bot InSessionHub_ReadyToGenerate 0 0 4167333007 0
+13:02:12.097 -  > we are not in a session hub yet!
+13:02:12.097 - Player session data was discarded! Bot InSessionHub_ReadyToGenerate 2 2 4167333007 0
+13:02:12.098 -  > we are not in a session hub yet!
+13:02:12.098 - <color=purple>OnPlayerGameStateChange : Hackett Inactive</color>
+13:02:12.117 - DEBUG : OnSessionMemberChange > gayass Joined isBot:False
+13:02:12.118 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : NoLobby TO: Lobby</color>
+13:02:12.119 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  SetFogSettingsLocal
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+13:02:12.119 - MusicManager - Setting music state to: Silence
+13:02:12.120 - Player gayass was added to session
+13:02:12.120 - DEBUG : OnMasterSessionAnswer AllowedToJoinHub
+13:02:12.121 - DEBUG : OnSessionMemberChange > JD_sushi Joined isBot:False
+13:02:12.121 - Player JD_sushi was added to session
+13:02:12.122 - DEBUG : OnSessionMemberChange > Dauda Joined isBot:True
+13:02:12.122 - Player Dauda was added to session
+13:02:12.123 - DEBUG : OnSessionMemberChange > Hackett Joined isBot:True
+13:02:12.123 - Player Hackett was added to session
+13:02:12.123 - DEBUG : OnSessionMemberChange > gayass Joined isBot:False
+13:02:12.124 - MasterManager : In session!
+13:02:12.181 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_sushi, player NOT slotted!
+13:02:12.198 - SNET : OnMasterCommand : AssignSlot 3 False
+13:02:12.198 - OnPlayerEvent : gayass  PlayerEvent : PlayerInSession  Reason : None isPlayerMaster : False
+13:02:12.245 - OnPlayerEvent : gayass PlayerInSession
+13:02:12.303 - OnPlayerEvent : Woods  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:02:12.306 - SpawnPlayerModel, index: 0
+13:02:14.586 - SpawnPlayerModel, index: 1
+13:02:14.590 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.594 - OnPlayerEvent : Hackett  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:02:14.597 - SpawnPlayerModel, index: 2
+13:02:14.601 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.601 - <color=purple>OnPlayerGameStateChange : Hackett Inactive</color>
+13:02:14.602 - OnPlayerEvent : Woods  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:02:14.603 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.603 - OnPlayerEvent : Hackett  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:02:14.604 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.604 - <color=purple>OnPlayerGameStateChange : Hackett Inactive</color>
+13:02:14.604 - <color=purple>OnPlayerGameStateChange : JD_sushi Lobby</color>
+13:02:14.605 - <color=purple>OnPlayerGameStateChange : Woods Inactive</color>
+13:02:14.605 - <color=purple>OnPlayerGameStateChange : Hackett Inactive</color>
+13:02:14.781 - SNET : OnMasterCommand : PickAvatar 3 False
+13:02:14.782 - <color=green>SNET : We got character 3 assigned</color>
+13:02:14.897 - SNET : OnMasterCommand : PickAvatar 3 False
+13:02:14.898 - <color=green>SNET : We got character 3 assigned</color>
+13:02:14.899 - SpawnPlayerModel, index: 3
+13:02:14.905 - SNET : OnMasterCommand : PickAvatar 3 False
+13:02:14.906 - <color=green>SNET : We got character 3 assigned</color>
+13:02:14.906 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : True
+13:02:14.907 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.907 - <color=purple>OnPlayerGameStateChange : JD_Sushi Lobby</color>
+13:02:14.908 - SessionGUID set to wlBfSoxSbUOy0gSNAcuCBQ==
+13:02:14.909 - <color=#C84800>SelectActiveExpedition : Selected! Local Local_32 TierB 1 1049548572 988735489  sessionGUID:SNetwork.SNetStructs+pSessionGUID FriendsData expID set to: Local_32,2,1 ActiveExpeditionUniqueKey: Local_32_TierB_1</color>
+13:02:14.909 - OnPlayerChangedExpedition : Got valid pActiveExpedition from master : Local Local_32 TierB 1 1049548572 988735489  sessionGUID:SNetwork.SNetStructs+pSessionGUID
+13:02:14.909 - OnPlayerWardenObjectiveDataChanged, player: SNet_Player_JD_Sushi (SNetwork.SNet_Player) WinConditionSolved: False
+13:02:14.910 - OnPlayerEvent : Woods  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:02:14.911 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.911 - <color=purple>OnPlayerGameStateChange : Woods Inactive</color>
+13:02:14.911 - OnPlayerEvent : Hackett  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:02:14.912 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:02:14.912 - <color=purple>OnPlayerGameStateChange : Hackett Inactive</color>
+13:02:14.913 - OnBufferCommand : StartReceive JoinedHub BufferID:210
+13:02:14.913 - OnReceiveBufferCompletion : valid buffer : JoinedHub  bufferID:210 0
+13:02:14.913 - RecallBuffer : type:JoinedHub isValid:True ID:210
+13:02:14.914 - <b>SNet_Capture:</b> Clock.ExpeditionProgressionTime is being synced set to 0
+13:02:14.914 - Global.OnPrepareForRecall
+13:02:14.915 - WardenObjectiveManager.StopAllWardenObjectiveEnemyWaves, Current.m_enemyWaveEventIDs: [Count: 0] 
+13:02:15.043 - OnPlayerEvent : Hackett  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:02:15.054 - OnPlayerEvent : Woods  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:02:15.065 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : True
+13:02:15.067 - WardenObjectiveManager.AddObjectiveItemAsRequiredForExitScan, item: iWardenObjectiveItem[] m_elevatorExitWinConditionItem:  m_customGeoExitWinConditionItem: 
+13:02:15.068 - WardenObjectiveManager.OnStateChange 
+----- OLD STATE: STATE pWardenObjectiveState, MAIN_STATUS: NotDiscovered MAIN_SUBOJ: FindLocationInfo MAIN_ITEM+1: 0 SECOND_STATUS: NotDiscovered SECOND_SUBOBJ: FindLocationInfo SECOND_ITEM+1: 0 THIRD_STATUS: NotDiscovered THIRD_SUBOBJ: FindLocationInfo main_itemIndexPlusOne: 0 
+----- NEW STATE: STATE pWardenObjectiveState, MAIN_STATUS: NotDiscovered MAIN_SUBOJ: FindLocationInfo MAIN_ITEM+1: 0 SECOND_STATUS: NotDiscovered SECOND_SUBOBJ: FindLocationInfo SECOND_ITEM+1: 0 THIRD_STATUS: NotDiscovered THIRD_SUBOBJ: FindLocationInfo main_itemIndexPlusOne: 0
+13:02:15.068 - WardenObjectiveManager.CheckWardenObjectiveStatus, layer: MainLayer, status is diff! newStatus: NotDiscovered | isRecall True
+13:02:15.069 - WardenObjectiveManager.CheckWardenObjectiveStatus, layer: SecondaryLayer, status is diff! newStatus: NotDiscovered | isRecall True
+13:02:15.069 - WardenObjectiveManager.CheckWardenObjectiveStatus, layer: ThirdLayer, status is diff! newStatus: NotDiscovered | isRecall True
+13:02:15.155 - <b><color=#00FF00FF>EnvironmentStateManager:</color></b>  OnStateChange (IsRecall=True)
+ExpeditionProgressionTime: 0
+<b>Lights</b>
+LightsEnabled: pEnvironmentLightStateDimension[]
+<b>Fog</b>
+FogDataID: 0
+nFogStartTime: 0
+FogDuration: 0
+FogBlend: 0
+
+<b>FogSettings:</b>
+FogDensity: 0
+DensityNoiseSpeed: 0
+DensityNoiseScale: 0
+DensityHeightAltitude: 0
+DensityHeightRange: 0
+DensityHeightMaxBoost: 0
+Infection: 0
+FogColor: RGBA(0.000, 0.000, 0.000, 0.000)
+DensityNoiseDirection: (0.0, 0.0, 0.0)
+
+13:02:15.156 - <b>EnvironmentStateManager:</b> fogDataId 0 duration: 0 fogblend: 0 expeditionTime: 0
+13:02:15.158 - PlayerVoiceManager.SetVoiceForDramaState. Warning, trying to set drama for a player ID (3) that is not registered. This might be OK in a transitional state until everybody is regestired but should not happend a lot.
+13:02:15.159 - OnRecallDone : JoinedHub   IsInDropIn : False   eReplicationMode : OutOfSync
+13:02:15.159 - SNET : OnMasterCommand : InSessionHub_ReadyToGenerate 0 True
+13:02:15.160 - <color=green>SNET : Added gayass to PlayersInGame</color>
+13:02:15.160 - OnPlayerEvent : gayass  PlayerEvent : PlayerIsSynced  Reason : None isPlayerMaster : False
+13:02:15.161 - <color=green>SNET : GS_Lobby has not implemented functionality for InSessionHub_ReadyToGenerate!</color>
+13:02:15.557 - OnPlayerEvent : gayass  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:02:15.560 - <color=green>GS_Lobby, player spawned but I'm in the hub/rundown page  so I won't care..</color>
+13:02:15.653 - <color=purple>OnPlayerGameStateChange : JD_Sushi Lobby</color>
+13:02:15.653 - SessionGUID set to wlBfSoxSbUOy0gSNAcuCBQ==
+13:02:15.654 - <color=#C84800>SelectActiveExpedition : Selected! Local Local_32 TierB 1 1049548572 988735489  sessionGUID:SNetwork.SNetStructs+pSessionGUID FriendsData expID set to: Local_32,2,1 ActiveExpeditionUniqueKey: Local_32_TierB_1</color>
+13:02:15.655 - OnPlayerChangedExpedition : Got valid pActiveExpedition from master : Local Local_32 TierB 1 1049548572 988735489  sessionGUID:SNetwork.SNetStructs+pSessionGUID
+13:02:15.655 - OnPlayerWardenObjectiveDataChanged, player: SNet_Player_JD_Sushi (SNetwork.SNet_Player) WinConditionSolved: False
+13:02:15.884 - TryGetMaterialGroup : Missing material on TextMeshPro
+13:02:30.098 - OnBtnPress, ID: 616 GO: Clothes Button OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:30.100 - Body toggle button found :o
+13:02:31.565 - OnBtnPress, ID: 5 GO: CM_LobbyScrolItem_Clothes(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:32.503 - OnBtnPress, ID: 0 GO: AcceptButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:32.503 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+13:02:33.256 - OnBtnPress, ID: 679 GO: Header2 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:33.259 -  hj log, rotation is now 0, or is it? 0
+13:02:34.003 - OnBtnPress, ID: 680 GO: Header3 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:34.006 -  hj log, rotation is now 0, or is it? 0
+13:02:34.456 - OnBtnPress, ID: 681 GO: Header4 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:34.460 -  hj log, rotation is now 0, or is it? 0
+13:02:35.037 - OnBtnPress, ID: 15 GO: CM_LobbyScrolItem_Clothes(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:35.828 - OnBtnPress, ID: 0 GO: AcceptButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:35.828 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+13:02:36.831 - OnBtnPress, ID: 38 GO: CM_LobbyScrolItem_Clothes(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:37.647 - OnBtnPress, ID: 0 GO: AcceptButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:37.648 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+13:02:38.293 - OnBtnPress, ID: 678 GO: Header OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:38.297 -  hj log, rotation is now 0, or is it? 0
+13:02:38.813 - OnBtnPress, ID: 679 GO: Header2 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:38.816 -  hj log, rotation is now 0, or is it? 0
+13:02:40.442 - OnBtnPress, ID: 682 GO: Header5 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:02:40.445 -  hj log, rotation is now 0, or is it? 0
+13:03:25.143 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+13:04:45.496 - DEBUG : OnMasterSessionAnswer MasterLeavingLobby
+13:04:45.497 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : True
+13:04:45.498 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:04:45.498 - On despawn! PlayerSynced(Clone)_32771 : JD_Sushi
+13:04:45.499 - <color=green>SNET : PlayerSynced(Clone)_32771 : JD_Sushi exits PLOC_InElevator, replicator key: 32771</color>
+13:04:45.500 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : True
+13:04:45.501 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:04:45.501 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerLeftSessionHub  Reason : None isPlayerMaster : True
+13:04:45.503 - DEBUG : Player JD_Sushi was removed from session
+13:04:45.503 - DEBUG : Closed connection with JD_Sushi
+13:04:45.505 - MigrateSession
+13:04:45.505 - Migration : JumpToState : FindMigrationMaster / searchingForMigrationMaster
+13:04:45.665 - WARNING : SNet > JD_Sushi left/is about to leave lobby!
+13:04:45.666 - DEBUG : PlayerLeftLobby > JD_Sushi left the steam lobby and was not in the session, closing connection with the player.
+13:04:45.666 - Closed connection with JD_Sushi
+13:04:45.866 - OnP2PSessionRequest : Unexpected session request from 76561199119343323 old session?
+13:04:46.003 - Migration : We have a unison MigrationMaster : gayass
+13:04:46.003 - Migration : JumpToState : FindMasterAndBuffer / migrationMaster
+13:04:46.008 - Migration : ProcessMigrationEvaluationData from gayass : vIsValid:False bTypeJoinedHub bProgressTime:0  :  Pings:-1/-1/-1/0
+13:04:46.016 - SNet_MasterManager : During Migration : Who's tha new masta?! gayass! gayass!
+13:04:46.018 - Woods was kicked from sessionHub! =(
+13:04:46.018 - OnPlayerEvent : Woods  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:04:46.019 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:04:46.019 - On despawn! PlayerSynced(Clone)_32774 : Woods
+13:04:46.020 - <color=green>SNET : PlayerSynced(Clone)_32774 : Woods exits PLOC_InElevator, replicator key: 32774</color>
+13:04:46.021 - OnPlayerEvent : Woods  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:04:46.021 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:04:46.022 - OnPlayerEvent : Woods  PlayerEvent : PlayerLeftSessionHub  Reason : None isPlayerMaster : False
+13:04:46.023 - DEBUG : Player Woods was removed from session
+13:04:46.023 - DEBUG : Closed connection with Woods
+13:04:46.023 - Hackett was kicked from sessionHub! =(
+13:04:46.024 - OnPlayerEvent : Hackett  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:04:46.024 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:04:46.025 - On despawn! PlayerSynced(Clone)_32776 : Hackett
+13:04:46.025 - <color=green>SNET : PlayerSynced(Clone)_32776 : Hackett exits PLOC_InElevator, replicator key: 32776</color>
+13:04:46.026 - OnPlayerEvent : Hackett  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:04:46.027 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:04:46.027 - OnPlayerEvent : Hackett  PlayerEvent : PlayerLeftSessionHub  Reason : None isPlayerMaster : False
+13:04:46.028 - DEBUG : Player Hackett was removed from session
+13:04:46.029 - DEBUG : Closed connection with Hackett
+13:04:46.029 - SNET : OnFoundNewMasterDuringMigration > New master is Steam gayass Session summary > Master InSessionHub_ReadyToGenerate 3 3 4167333007 0   Profile summary > gayass : end
+13:04:46.040 - Player Woods was added to session
+13:04:46.040 - OnPlayerEvent : Woods  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:04:46.041 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:04:46.042 - [PlayerManager.SpawnBot] 0, Woods
+13:04:46.042 - SNET : MasterReplicationUpdate_Player : gayass mode change : Unassigned InSessionHub_ReadyToGenerate
+13:04:46.042 - SNET : MasterReplicationUpdate_Player : Woods mode change : Unassigned InSessionHub
+13:04:46.043 - MasterBotCommand! Woods AssignSlot 0 IsInSessionHub:True
+13:04:46.043 - Woods session.mode change to OutOfSync
+13:04:46.044 - OnMigrationFinalized
+13:04:46.044 - Migration : We dont need to recall, we are not in expedition. InSessionHub_ReadyToGenerate
+13:04:46.892 - OnBtnPress, ID: 542 GO: PermissionButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:04:47.043 - SNET : MasterReplicationUpdate_Player : Woods mode change : InSessionHub OutOfSync
+13:04:47.043 - MasterBotCommand! Woods PickAvatar 0 IsInSessionHub:True
+13:04:47.044 - Woods session.mode change to OutOfSync
+13:04:47.044 - IsReadyToSync : PickAvatar agent sent to Woods
+13:04:48.044 - Woods : OutOfSync > Initiated
+13:04:48.045 - MasterBotCommand! Woods InSessionHub_ReadyToGenerate 0 IsInSessionHub:True
+13:04:48.045 - Woods session.mode change to InSessionHub_ReadyToGenerate
+13:04:49.045 - SNET : MasterReplicationUpdate_Player : Woods mode change : OutOfSync InSessionHub_ReadyToGenerate
+13:04:49.046 - <color=green>SNET : OnSessionPlayerAction : Spawning Woods's agent!  SpawnPlayerAgent</color>
+13:04:49.055 - OnPlayerEvent : Woods  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:04:49.081 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_BotFavorites.txt
+13:04:49.083 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_BotFavorites.txt
+13:04:49.089 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_BotFavorites.txt
+13:04:49.099 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_BotFavorites.txt
+13:04:49.101 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_BotFavorites.txt
+13:04:49.109 - Player Hackett was added to session
+13:04:49.109 - OnPlayerEvent : Hackett  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:04:49.110 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:04:49.110 - [PlayerManager.SpawnBot] 1, Hackett
+13:04:49.111 - SNET : MasterReplicationUpdate_Player : Hackett mode change : Unassigned InSessionHub
+13:04:49.111 - MasterBotCommand! Hackett AssignSlot 1 IsInSessionHub:True
+13:04:49.111 - Hackett session.mode change to OutOfSync
+13:04:49.326 - TryGetMaterialGroup : Missing material on TextMeshPro
+13:04:50.113 - SNET : MasterReplicationUpdate_Player : Hackett mode change : InSessionHub OutOfSync
+13:04:50.114 - MasterBotCommand! Dauda PickAvatar 1 IsInSessionHub:True
+13:04:50.114 - Dauda session.mode change to OutOfSync
+13:04:50.114 - IsReadyToSync : PickAvatar agent sent to Dauda
+13:04:50.931 - OnBtnPress, ID: 0 GO: CM_TimedSingleRowButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:04:50.932 - CellSettingsManager: Saving settings to C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+13:04:50.932 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+13:04:51.114 - Dauda : OutOfSync > Initiated
+13:04:51.115 - MasterBotCommand! Dauda InSessionHub_ReadyToGenerate 0 IsInSessionHub:True
+13:04:51.115 - Dauda session.mode change to InSessionHub_ReadyToGenerate
+13:04:51.709 - SpawnPlayerModel, index: 1
+13:04:51.743 - OnBtnPress, ID: 567 GO: PermissionButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:04:52.119 - SNET : MasterReplicationUpdate_Player : Dauda mode change : OutOfSync InSessionHub_ReadyToGenerate
+13:04:52.119 - <color=green>SNET : OnSessionPlayerAction : Spawning Dauda's agent!  SpawnPlayerAgent</color>
+13:04:52.128 - OnPlayerEvent : Dauda  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:04:52.176 - Player Bishop was added to session
+13:04:52.177 - OnPlayerEvent : Bishop  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:04:52.178 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:04:52.178 - [PlayerManager.SpawnBot] 2, Bishop
+13:04:52.178 - SNET : MasterReplicationUpdate_Player : Bishop mode change : Unassigned InSessionHub
+13:04:52.179 - MasterBotCommand! Bishop AssignSlot 2 IsInSessionHub:True
+13:04:52.179 - Bishop session.mode change to OutOfSync
+13:04:53.180 - SNET : MasterReplicationUpdate_Player : Bishop mode change : InSessionHub OutOfSync
+13:04:53.180 - MasterBotCommand! Hackett PickAvatar 2 IsInSessionHub:True
+13:04:53.180 - Hackett session.mode change to OutOfSync
+13:04:53.181 - IsReadyToSync : PickAvatar agent sent to Hackett
+13:04:53.821 - OnBtnPress, ID: 0 GO: CM_TimedSingleRowButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:04:53.822 - CellSettingsManager: Saving settings to C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+13:04:53.822 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Settings.txt
+13:04:54.182 - Hackett : OutOfSync > Initiated
+13:04:54.182 - MasterBotCommand! Hackett InSessionHub_ReadyToGenerate 0 IsInSessionHub:True
+13:04:54.183 - Hackett session.mode change to InSessionHub_ReadyToGenerate
+13:04:54.712 - SpawnPlayerModel, index: 2
+13:04:55.186 - SNET : MasterReplicationUpdate_Player : Hackett mode change : OutOfSync InSessionHub_ReadyToGenerate
+13:04:55.187 - <color=green>SNET : OnSessionPlayerAction : Spawning Hackett's agent!  SpawnPlayerAgent</color>
+13:04:55.197 - OnPlayerEvent : Hackett  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:04:56.614 - DEBUG : SNet > JD_Sushi joined lobby!
+13:04:56.615 - SNet_SessionHub : OnJoinedLobby False JD_Sushi False -1
+13:05:00.300 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.300 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.301 - <color=purple>OnPlayerGameStateChange : JD_Sushi NoLobby</color>
+13:05:00.301 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.333 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.334 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.334 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.381 - DEBUG : OnSlaveQuestion from JD_Sushi WantsToJoin
+13:05:00.382 - Player JD_Sushi was added to session
+13:05:00.383 - SlaveWantsToJoin : MasterSessionAnswerPacket sent to SNet_Player_JD_Sushi
+13:05:00.483 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:05:00.484 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:05:00.484 - <color=purple>OnPlayerGameStateChange : JD_Sushi Lobby</color>
+13:05:00.485 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.485 - OnPlayerWardenObjectiveDataChanged, player: SNet_Player_JD_Sushi (SNetwork.SNet_Player) WinConditionSolved: False
+13:05:00.485 - SNET : MasterReplicationUpdate_Player : JD_Sushi mode change : Unassigned InSessionHub
+13:05:00.486 - Kick player! Reason : Kick_Bot PlayerSummary : Steam Hackett Session summary > Bot InSessionHub_ReadyToGenerate 2 2 4167333007 0   Profile summary > Hackett : end    MasterSummary : Steam gayass Session summary > Master InSessionHub_ReadyToGenerate 3 3 4167333007 0   Profile summary > gayass : end
+13:05:00.486 - Hackett was kicked from sessionHub! =(
+13:05:00.486 - OnPlayerEvent : Hackett  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:05:00.487 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:05:00.488 - On despawn! PlayerSynced(Clone)_32780 : Hackett
+13:05:00.488 - <color=green>SNET : PlayerSynced(Clone)_32780 : Hackett exits PLOC_InElevator, replicator key: 32780</color>
+13:05:00.489 - OnPlayerEvent : Hackett  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:05:00.490 - OnPlayerEvent : GS_Lobby has not implemented PlayerAgentDeSpawned None
+13:05:00.490 - OnPlayerEvent : Hackett  PlayerEvent : PlayerLeftSessionHub  Reason : None isPlayerMaster : False
+13:05:00.491 - DEBUG : Player Hackett was removed from session
+13:05:00.491 - DEBUG : Closed connection with Hackett
+13:05:00.492 - SendMasterCommand to JD_Sushi type: AssignSlot refA: 2
+13:05:00.578 - <color=purple>OnPlayerGameStateChange : JD_Sushi Lobby</color>
+13:05:00.580 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.580 - <b>BoosterImplantManager:</b> OnSyncBoosterImplants for player JD_Sushi, player NOT slotted!
+13:05:00.582 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerInSession  Reason : None isPlayerMaster : False
+13:05:00.583 - SNET : MasterReplicationUpdate_Player : JD_Sushi mode change : InSessionHub OutOfSync
+13:05:00.583 - SendMasterCommand to JD_Sushi type: PickAvatar refA: 2
+13:05:00.584 - IsReadyToSync : PickAvatar agent sent to JD_Sushi
+13:05:00.714 - TryGetMaterialGroup : Missing material on TextMeshPro
+13:05:00.721 - CharacterIndex : Session data mismatch! Slave OutOfSync 2 -1 4167333007 0 2. Cleaning up character slot
+13:05:00.722 - CharacterIndex : Session data mismatch! Slave OutOfSync 2 -1 4167333007 0 2. Cleaning up character slot
+13:05:00.722 - CharacterIndex : Session data mismatch! Slave OutOfSync 2 -1 4167333007 0 2. Cleaning up character slot
+13:05:00.838 - StartRecall with JD_Sushi > SyncProcessState:InProcess_SoftSync BufferType:JoinedHub
+13:05:00.840 - <color=green>SNET : OnSessionPlayerAction : Spawning JD_Sushi's agent!  SpawnPlayerAgent</color>
+13:05:00.848 - SpawnPlayerModel, index: 2
+13:05:00.854 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerAgentSpawned  Reason : None isPlayerMaster : False
+13:05:01.068 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerChangedNickName  Reason : None isPlayerMaster : False
+13:05:01.069 - OnPlayerEvent : GS_Lobby has not implemented PlayerChangedNickName None
+13:05:01.070 - SNET : MasterReplicationUpdate_Player : JD_Sushi mode change : OutOfSync InSessionHub_ReadyToGenerate
+13:05:01.084 - <color=green>SNET : Added JD_Sushi to PlayersInGame</color>
+13:05:01.084 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerIsSynced  Reason : None isPlayerMaster : False
+13:05:56.064 - OnBtnPress, ID: 616 GO: Clothes Button OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:05:56.066 - Body toggle button found :o
+13:05:56.071 -  hj log, rotation is now 0, or is it? 0
+13:05:57.075 - OnBtnPress, ID: 153 GO: CM_LobbyScrolItem_Clothes(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:05:59.449 - OnBtnPress, ID: 616 GO: Clothes Button OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:05:59.451 - Body toggle button found :o
+13:06:00.167 - OnBtnPress, ID: 153 GO: CM_LobbyScrolItem_Clothes(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:00.810 - OnBtnPress, ID: 0 GO: AcceptButton OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:00.811 - CellJSON - SaveToDisk: C:/users/steamuser/AppData/LocalLow/10 Chambers Collective/GTFO\GTFO_Favorites.txt
+13:06:03.161 - OnBtnPress, ID: 616 GO: Clothes Button OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:03.162 - Body toggle button found :o
+13:06:04.073 - OnBtnPress, ID: 679 GO: Header2 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:04.076 -  hj log, rotation is now 0, or is it? 0
+13:06:04.448 - OnBtnPress, ID: 680 GO: Header3 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:04.451 -  hj log, rotation is now 0, or is it? 0
+13:06:04.847 - OnBtnPress, ID: 681 GO: Header4 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:04.851 -  hj log, rotation is now 0, or is it? 0
+13:06:05.724 - OnBtnPress, ID: 38 GO: CM_LobbyScrolItem_Clothes(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:07.142 - OnBtnPress, ID: 682 GO: Header5 OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:07.145 -  hj log, rotation is now 0, or is it? 0
+13:06:09.409 - OnBtnPress, ID: 628 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:10.856 - OnBtnPress, ID: 624 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:10.857 - DEBUG : Leaving session hub! : IsInHub:True
+13:06:10.877 - Closed connection with JD_Sushi
+13:06:10.881 - OnPlayerEvent : gayass  PlayerEvent : PlayerLeftSessionHub  Reason : None isPlayerMaster : True
+13:06:10.893 - Pagerundown GOT RundownTimerData from playfab.
+13:06:10.897 - <color=red> >>>>>> GAMESTATEMANAGER CHANGE STATE FROM : Lobby TO: NoLobby</color>
+13:06:10.906 - MusicManager - Setting music state to: Silence
+13:06:10.906 - SNet : Session reset
+13:06:10.907 - Global.OnResetSession
+13:06:10.907 - <color=purple>PlayerManager OnResetSession >  m_playerAgentsInLevel.Count : 4</color>
+13:06:10.907 - On despawn! PlayerSynced(Clone)_32781 : JD_Sushi
+13:06:10.909 - <color=green>SNET : PlayerSynced(Clone)_32781 : JD_Sushi exits PLOC_InElevator, replicator key: 32781</color>
+13:06:10.910 - OnPlayerEvent : JD_Sushi  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:06:10.911 - WARNING : OnPlayerEvent : GS_NoLobby has not implemented PlayerAgentDeSpawned None
+13:06:10.911 - On despawn! PlayerSynced(Clone)_32779 : Dauda
+13:06:10.913 - <color=green>SNET : PlayerSynced(Clone)_32779 : Dauda exits PLOC_InElevator, replicator key: 32779</color>
+13:06:10.913 - OnPlayerEvent : Dauda  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:06:10.914 - WARNING : OnPlayerEvent : GS_NoLobby has not implemented PlayerAgentDeSpawned None
+13:06:10.914 - On despawn! PlayerSynced(Clone)_32778 : Woods
+13:06:10.916 - <color=green>SNET : PlayerSynced(Clone)_32778 : Woods exits PLOC_InElevator, replicator key: 32778</color>
+13:06:10.916 - OnPlayerEvent : Woods  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : False
+13:06:10.917 - WARNING : OnPlayerEvent : GS_NoLobby has not implemented PlayerAgentDeSpawned None
+13:06:10.918 - On despawn! PlayerLocal(Clone)_32777 : gayass
+13:06:10.919 - <color=green>SNET : PlayerLocal(Clone)_32777 : gayass exits PLOC_InElevator, replicator key: 32777</color>
+13:06:10.921 - OnPlayerEvent : gayass  PlayerEvent : PlayerAgentDeSpawned  Reason : None isPlayerMaster : True
+13:06:10.922 - WARNING : OnPlayerEvent : GS_NoLobby has not implemented PlayerAgentDeSpawned None
+13:06:10.923 - SessionGUID set to 
+13:06:10.924 - No more master ;(
+13:06:10.924 - WARNING : GS_NoLobby has not implemented OnMasterChanged
+13:06:10.925 - tier: TierA index: 0 EXPEDITION UNLOCKED
+13:06:10.925 - tier: TierB index: 0 EXPEDITION UNLOCKED
+13:06:10.926 - tier: TierB index: 1 EXPEDITION UNLOCKED
+13:06:10.926 - tier: TierC index: 0 EXPEDITION UNLOCKED
+13:06:10.926 - tier: TierC index: 1 EXPEDITION LOCKED
+13:06:10.927 - tier: TierD index: 0 EXPEDITION LOCKED
+13:06:10.927 - CM_PageRundown_New.UpdateRundownExpeditionProgression, RundownManager.RundownProgressionReady: True
+13:06:12.017 - OnBtnPress, ID: 0 GO: CM_MenuBarItem(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:13.412 - OnBtnPress, ID: 0 GO: CM_TimedExpeditionButton(Clone) OnBtnPressCallback: System.Action`1[System.Int32] m_onBtnPress: UnityEngine.Events.UnityEvent UnityEngine.Events.UnityEvent
+13:06:13.521 - OnApplicationQuit

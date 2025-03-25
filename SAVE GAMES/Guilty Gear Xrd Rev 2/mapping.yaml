@@ -1,0 +1,240 @@
+---
+name: Guilty Gear Xrd Rev 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-01-14T00:58:33.246361191Z"
+    os: linux
+    files:
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultDebug.ini:
+        hash: cc0be04346c0205d588d89c4623b56b930339635
+        size: 1158
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultEditor.ini:
+        hash: 98f4fe9e1642d9ca1d321d1423a658c8a4fd9ec3
+        size: 417
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultEditorKeyBindings.ini:
+        hash: 57f90bd667f13c88f9f57525d8faa729135bf973
+        size: 67
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultEditorUserSettings.ini:
+        hash: 74daea6f8be06877812d9ea028631f2c84967025
+        size: 357
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultEngine.ini:
+        hash: cf3d574081cf866729157cec45ba6e88a521d4e2
+        size: 63120
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultGame.ini:
+        hash: b7cbed627ca9d1c9f0382147adc9a749790e0b5a
+        size: 515
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultInput.ini:
+        hash: d57b22235cba84bed2611c884b82041c311b2cd3
+        size: 2679
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultLightmass.ini:
+        hash: 1e2aa90b4e8003dd61938b95d7371148f25fd110
+        size: 61
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultSystemSettings.ini:
+        hash: 1f0c6d5144d1c6dde1b6485cf6740716df7d2686
+        size: 1686
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultTMS.ini:
+        hash: 3e83f7d2d37b46fbc903a8cd2c7f70175efcd726
+        size: 297
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/DefaultUI.ini:
+        hash: d1f3ba935b8d4221ddc4601533f78dac9da984e8
+        size: 58
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDDebug.ini:
+        hash: f9070ec57156cda7994875db2e3ce331c8c27960
+        size: 1197
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDEngine.ini:
+        hash: fb01637838c6532af332f73af4dbdb04de25f6a1
+        size: 82008
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDGame.ini:
+        hash: 7cacd5abb1ba1c6f1e778b41a8639453c2afe2e7
+        size: 4258
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDInput.ini:
+        hash: b0cd8bbfd3856cb12b7700f57783dac3c9c07149
+        size: 24639
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDLightmass.ini:
+        hash: 8f41c396d7965df710ce1f19a47eae69ff44afcc
+        size: 6922
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDSystemSettings.ini:
+        hash: 2dc46937fd738aca8de5c1f15e5a6469b75ba0fb
+        size: 18193
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDTMS.ini:
+        hash: 46580507c76b5cc9d85e104882233b6271ac495a
+        size: 328
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/REDGame/Config/REDUI.ini:
+        hash: 9e4ee43ff9e91178854145d9fad625f0ea871c26
+        size: 1891
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/ADVENT/ADVENT.DAT:
+        hash: 392b998b959bbf391e76df5c919ce43d7f10c2bb
+        size: 2024
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/FIGURE/FIGURE.DAT:
+        hash: 162053341f49fcfdbf8544fe826602d3bd07d9a4
+        size: 1936
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/LANG/LANG.DAT:
+        hash: 0aaf76f425c6e0f43a36197de768e67d9e035abb
+        size: 4
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP000.DAT:
+        hash: 35e3e5f125315f2296478e2631301f695c381611
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP002.DAT:
+        hash: 920cf83ba301d25e30a8d7f999f9f0a22190a1fd
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP004.DAT:
+        hash: 2d599515dd7d0e3612ddf3368540e2772ea13fb2
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP007.DAT:
+        hash: 8fb31b0aa862472172120acb19acb75face82ada
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP010.DAT:
+        hash: 5fd2da8ed3fd1d62b4f53bebbe8dca65678f8618
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP012.DAT:
+        hash: df9d521a755ce272ce07bea68ea1cc7e1ba58acd
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP015.DAT:
+        hash: ac33ca62dd8e04aa20b3f59055753edb25e3feab
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP017.DAT:
+        hash: 71559635992cfc9f1af0ef095728aa23bf152971
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP018.DAT:
+        hash: 90ccaaae1efb62cd66c72989b70a5df0d1ec040f
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP020.DAT:
+        hash: 3a5e0688b85de06988048d8c6db240af7f92d212
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP023.DAT:
+        hash: 40bd4f5b80a1042a1ed13e000b82ad0cb63ce7a1
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP025.DAT:
+        hash: b1ba942c3a9975b22521419a74446f3767a97c11
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP026.DAT:
+        hash: fa956a9c1228b5f13ffa613c56472276944fdbec
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP028.DAT:
+        hash: 4867d81824958048ac520cd4177681d714837de0
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP030.DAT:
+        hash: 59158e0ecfc37affda6dfa87b2fb2b9a87ae590c
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP031.DAT:
+        hash: f27bad132214b07a15e4b9ea1f9fd44fea6a5dd9
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP033.DAT:
+        hash: 72ac78caed5e2b28e026fef1e3f8600b7b897bbc
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP034.DAT:
+        hash: b1ccdaefc154d8278a9ebb800ba240c928c41ab5
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP036.DAT:
+        hash: 490b10c01f381c6a85ab3d73382cf32b559e416b
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP038.DAT:
+        hash: 7714c09212ac7d583b27996b7ed3050b207ea27b
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP039.DAT:
+        hash: 0c5e32ed586b2fb49e0b06983b864644dd76811d
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP044.DAT:
+        hash: 6ad6bf2cbe9a23e0c26e39b2dd865ce648d932bf
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP046.DAT:
+        hash: acf24597c4ef3133ce7477098a3bec368ecb0b3c
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP047.DAT:
+        hash: 8bf26eb69d4201ac87d01ddfc3a02c356f4465fa
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP048.DAT:
+        hash: eeb0fd636891561dcda178a89b2756e35af0d736
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP052.DAT:
+        hash: 5d04b15a6eeea8af7b03c30984953bf1229233a9
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP054.DAT:
+        hash: 32428c39e49a837868d43cb41f941c97893d6f5b
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP055.DAT:
+        hash: ec92ed608690b7e9359c30f69072110130adb288
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP056.DAT:
+        hash: ed3c6b6251f6752d5f9786696d7986cd04699dc1
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP060.DAT:
+        hash: 89791f0ab6037851b668ff62204d1ae388414657
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP062.DAT:
+        hash: 468cf3055ab79fb5188b5e6ef4803e7463391612
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP063.DAT:
+        hash: 0e6a682c8c76b7cc6394aec41195362b8c026cad
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP065.DAT:
+        hash: 88b14cd85db3252ef984810abf99cfdeaa17f73a
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP066.DAT:
+        hash: 56d87e40bae49df9c97f329514d31f7340cf2ff6
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP068.DAT:
+        hash: 41b1b18174a85d8e0852cdf9bf20983d41cec184
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP070.DAT:
+        hash: f8315e91213aad003b87dfc074f219463202e23b
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP071.DAT:
+        hash: e4328711b2c13e394e7abff0216b7eed04bc14a8
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP074.DAT:
+        hash: 91de497f41a3cb5608d96e8d8b93d64fcdf597bc
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP076.DAT:
+        hash: 55f07900acf17b2b484d8eebe320d0de56362c67
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP078.DAT:
+        hash: c0c969e3f150531de65aa49b4ceb0d949f2f87e7
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP079.DAT:
+        hash: 69caebbd5060d9c966b34b57201dbf48fbb7419f
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP081.DAT:
+        hash: 1a22c067750351a438f9e6dfd6b34a6fd3d531d0
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP082.DAT:
+        hash: 5a1c7cf563f06bf9408a8fece49fc7de6510f786
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP084.DAT:
+        hash: 07b2d137ea0490473ba405a65b03645843deea81
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP086.DAT:
+        hash: a59fcbd1dad18cdf9c3f4bf42f5213a227f06995
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP087.DAT:
+        hash: dcd75e1a0f4a5dd4c37f88638855db2a8ac2e398
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP090.DAT:
+        hash: b44b3be6f46f8bcef9af63158d4436aea58d0c9d
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP094.DAT:
+        hash: 70292c413cf8cd827abf11373cd80a25019b43c7
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP095.DAT:
+        hash: 0de9224e15deba448f9480e705bad160dc68c5fd
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP097.DAT:
+        hash: 2aedd00b63e2c92994a78705fe227f330620c82c
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REP098.DAT:
+        hash: 759d60c12f8276853109906f823313221f4e179a
+        size: 152460
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/REPLAY/REPLAY.DAT:
+        hash: 0d79009e5e26dc83136d3aa32759cb5431d26053
+        size: 25292
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/SYSTEM/SYSTEM.DAT:
+        hash: 44e72736f136dac4ecaa0998cb78617113fa4dee
+        size: 355028
+      /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/SAVE/steam_autocloud.vdf:
+        hash: 3e70ff40750cc7778ca913e1798d8204715d2bcc
+        size: 53
+    registry:
+      hash: ~
+    children: []

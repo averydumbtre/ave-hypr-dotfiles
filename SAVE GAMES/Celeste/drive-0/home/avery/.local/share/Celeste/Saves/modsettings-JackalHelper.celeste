@@ -1,0 +1,6 @@
+SwapCrystalToggle:
+  Buttons:
+  - LeftTrigger
+  Keys:
+  - D
+  MouseButtons: []

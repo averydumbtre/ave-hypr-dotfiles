@@ -1,0 +1,186 @@
+---
+name: Left 4 Dead 2
+drives:
+  drive-0: ""
+backups:
+  - name: "."
+    when: "2025-02-23T23:30:21.847777274Z"
+    os: linux
+    files:
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/360controller.cfg:
+        hash: 01eb2e158dd58ec9d6d2166e6fb9252526a909f7
+        size: 3761
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/addonconfig.cfg:
+        hash: 8a32921c1fa4afca755cf6feb02b55eb91fa225c
+        size: 734
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/autoexec.360.cfg:
+        hash: 297b411bbb214d014637733ba408c53b65590b93
+        size: 324
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/config.360.cfg:
+        hash: 4bffe0f5f96a4809863f736eba2d94adee5f1d93
+        size: 2583
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/config.global.360.cfg:
+        hash: 9d381c960e60533d494e9475864d6f30b7ae656b
+        size: 330
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/config_default.cfg:
+        hash: dee1e5b97f7823f6a2a9befde4e6a9ebc9250aca
+        size: 1294
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_0_pc.ekv:
+        hash: 3066bc0675aaeb3f0a75b5b0507920d611ab644c
+        size: 1111
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_0_pc_ss.ekv:
+        hash: 3066bc0675aaeb3f0a75b5b0507920d611ab644c
+        size: 1111
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_1_pc.ekv:
+        hash: 70a9d14c1cbfb2f498f1d510635559686996f04b
+        size: 1123
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_1_pc_ss.ekv:
+        hash: 70a9d14c1cbfb2f498f1d510635559686996f04b
+        size: 1123
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_2_pc.ekv:
+        hash: d2bce053078f8fb037fc5a883b241f2891d891d7
+        size: 1121
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_2_pc_ss.ekv:
+        hash: d2bce053078f8fb037fc5a883b241f2891d891d7
+        size: 1121
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_360.ekv:
+        hash: c71df75a55653b44697fbe94277416ac26ad1def
+        size: 1148
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/cpu_level_360_ss.ekv:
+        hash: 3d7136d585b21aa1d7f612f5a410d485580f9b96
+        size: 1113
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_level_0_pc.ekv:
+        hash: a5a4ca305bd013bb2d83c4cc16b057c59f11a9fb
+        size: 915
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_level_1_pc.ekv:
+        hash: 476b290da46d5adb443f11d4ae484d33035c70d6
+        size: 916
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_level_2_pc.ekv:
+        hash: c2642ce126a2f25c0cb977454ed443e502189d66
+        size: 924
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_level_360.ekv:
+        hash: 9ac1cf15df046edb56df245ef6437a303e8f90bb
+        size: 919
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_level_3_pc.ekv:
+        hash: 1065e6f88a48b0b460e27c164d785712e605fcd7
+        size: 918
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_mem_level_0_pc.ekv:
+        hash: 72827ac1a4f73764d051ebc451555b59ba866dac
+        size: 49
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_mem_level_1_pc.ekv:
+        hash: 3d50efc2177249e24a8c87f223699e0925422d3c
+        size: 49
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_mem_level_2_pc.ekv:
+        hash: 2260094588922c316abc8f14e6bccc60591ee781
+        size: 50
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/gpu_mem_level_360.ekv:
+        hash: 3d50efc2177249e24a8c87f223699e0925422d3c
+        size: 49
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/joy_preset_1.cfg:
+        hash: 3dd82f347536f6ff388b21dfd9f702dcc44eb5fd
+        size: 1149
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/joy_preset_2.cfg:
+        hash: 6cee4f59368fd11720dfbbb6d663858666a704a8
+        size: 1176
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/joy_preset_3.cfg:
+        hash: 0c2b067c41fe51f663b161fd24773b388dd0604d
+        size: 1125
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/joy_preset_4.cfg:
+        hash: e65aa2750ee6eecf9a18da4a8dda00b9f4415573
+        size: 1124
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/listenserver.cfg:
+        hash: 55f230c5e1261be4cceb8b7b475d671a60daef92
+        size: 49
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/listenserver360.cfg:
+        hash: 788fca0c667fb336d702a2fcfc085c4694197a35
+        size: 97
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/lowend.cfg:
+        hash: 409fb31486d4e2b714fc7fe7bad6478dd070b902
+        size: 338
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/mem_level_0_pc.ekv:
+        hash: 1d9d8050617f5cd9a6dd2222b519695dffbbc7d6
+        size: 92
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/mem_level_1_pc.ekv:
+        hash: 66a66a4f795efe08a1b40df3ca491c07fbfab75b
+        size: 94
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/mem_level_2_pc.ekv:
+        hash: 66a66a4f795efe08a1b40df3ca491c07fbfab75b
+        size: 94
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/mem_level_360.ekv:
+        hash: 998b735873b8114eb38de0f795ef18ab2d820d1b
+        size: 92
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/moddefaults.txt:
+        hash: 03aa0d9f880a49c1fea75176478abd0a6794ef40
+        size: 391945
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/moddefaults_mac.txt:
+        hash: ca7df8a30893e2ff18202616dc41d6eddfd9dc6c
+        size: 28420
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/modsettings.cfg:
+        hash: 8fc6fde675d708f10f4c5569f625f5a20de37d4b
+        size: 466
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/perf.cfg:
+        hash: 482b85feb12ed9c363b6b5292628d5351e172e8f
+        size: 649
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/playtest.360.cfg:
+        hash: 86af85dbb61f8158445cd1abc94d1f8a72c12e09
+        size: 208
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/screenshots.cfg:
+        hash: 2a77a8924ef2991bea78a56ef74991127e0b3344
+        size: 288
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/screenshots_undo.cfg:
+        hash: 52d7dc1f5b454eb38e78b556bfec3bd5271f19b9
+        size: 218
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/settings_default.scr:
+        hash: 5d723f025945d6e18acf21a1e2d284ee97d9e0bc
+        size: 1246
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/skill1.cfg:
+        hash: 71b378a75d6c94240adf791f903e1e9ff6d6df54
+        size: 43
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/splitscreen_off.360.cfg:
+        hash: d3643d7db4cbafe70d33c9a41926de9f8cec49ef
+        size: 514
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/splitscreen_off.cfg:
+        hash: 14b3619d1aefa0158ba75f6cadd3ab7acb9eb9b1
+        size: 516
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/splitscreen_on.360.cfg:
+        hash: cc36bcf9b9ce089c78cca1d184106023042ce0e1
+        size: 629
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/splitscreen_on.cfg:
+        hash: ec26f7f0da05698369fce765260e08b2dde50cea
+        size: 556
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/test_end.cfg:
+        hash: fc41f8d707df53bb5ed3f1c8769e197768293eb6
+        size: 151
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/test_start.cfg:
+        hash: cc812427babb94f17e9701b6956c102670880024
+        size: 41
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/undo360controller.cfg:
+        hash: da63bb7ed29d7aba6f68a78c02f1198c07222ee1
+        size: 195
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/user_default.scr:
+        hash: 8ff329c15baa6b3eccb20d62d3f4fc95103268c0
+        size: 1212
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/valve.360.rc:
+        hash: 5207e43aec6a8e8154ba2b1a8a0e14d085607f58
+        size: 228
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/valve.rc:
+        hash: e80e2fc9fba5eef9c2ca9ab1e8eef1fc71892378
+        size: 217
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/video_bench_high.txt:
+        hash: 06aa4d26a04cda97ad141836c86320bccf714fa1
+        size: 609
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/video_bench_low.txt:
+        hash: c5b8261cca346b62dac1bc05e0185abc9efc3f22
+        size: 602
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/video_bench_medium.txt:
+        hash: af0327733f4fc37c14039d29350ea508fa0c91e3
+        size: 602
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/video_bench_very_high.txt:
+        hash: 06aa4d26a04cda97ad141836c86320bccf714fa1
+        size: 609
+      /mnt/9c1b5651-fb99-4525-9716-4137b631551a/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/video_bench_very_high_4k.txt:
+        hash: 8d857cd16037c7ef4cb7c061c530749b8d00aae0
+        size: 609
+    registry:
+      hash: ~
+    children: []
