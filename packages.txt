@@ -12,6 +12,8 @@ hyprpaper
 hyprpicker
 hyprshot
 aquamarine
+hyprlock
+hypridle
 
 [Yay]
 
@@ -45,6 +47,7 @@ wget
 xorg-xwayland
 xwaylandvideobridge
 nvidia-dkms
+npm
 
 [Theme]
 
