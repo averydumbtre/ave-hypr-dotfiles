@@ -13,6 +13,5 @@ git commit -am "commit text"
 
 git config http.postBuffer 15g
 
-git remote set-url origin https://GITHUBDEVELCLASSICTOKEN/averydumbtre/ave-hypr-dotfiles.git
+git remote set-url origin https://averydumbtre:GITHUBDEVELCLASSICTOKEN@github.com/averydumbtre/ave-hypr-dotfiles.git
 git push origin puppy
-
