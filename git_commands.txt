@@ -8,10 +8,12 @@ git clone https://github.com/averydumbtre/ave-hypr-dotfiles.git
 cd /home/avery/Documents/git-DOTS/ave-hypr-dotfiles/
 
 git status
+git pull origin puppy
 git add .
 git commit -am "commit text"
 
 git config http.postBuffer 15g
 
-git remote set-url origin https://averydumbtre:GITHUBDEVELCLASSICTOKEN@github.com/averydumbtre/ave-hypr-dotfiles.git
+git remote set-url origin https://GITHUBDEVELCLASSICTOKEN/averydumbtre/ave-hypr-dotfiles.git
 git push origin puppy
+

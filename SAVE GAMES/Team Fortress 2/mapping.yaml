@@ -4,15 +4,15 @@ drives:
   drive-0: ""
 backups:
   - name: "."
-    when: "2025-03-18T02:28:06.531517277Z"
+    when: "2025-03-29T03:51:58.604530666Z"
     os: linux
     files:
       /home/avery/.local/share/Steam/userdata/1013896986/440/remote/cfg/config.cfg:
-        hash: dc0f81a1982079f2d3b651dde515a054edb5aa9b
-        size: 7236
+        hash: 69603ce4d2fd349d944f736feb48d6aea44f9611
+        size: 7239
       /home/avery/.local/share/Steam/userdata/1013896986/440/remote/item_clientacks.txt:
-        hash: 6ff2f679b8f1feb178de1b7631fb5e19db3862ee
-        size: 23
+        hash: 3d08652a21ddc47c2dae1fac3d452532f40812ca
+        size: 40
       /home/avery/.local/share/Steam/userdata/1013896986/440/remote/materials/vgui/logos/spray.vmt:
         hash: 205b1e104794fdb223cd8714899f214a4d03dd1c
         size: 130
@@ -41,8 +41,8 @@ backups:
         hash: 1f3fd097909080dc3494e264a511536176981868
         size: 27
       /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/config.cfg:
-        hash: dc0f81a1982079f2d3b651dde515a054edb5aa9b
-        size: 7236
+        hash: 69603ce4d2fd349d944f736feb48d6aea44f9611
+        size: 7239
       /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/config_default.cfg:
         hash: 774dd19b4cf1502bd8883e19421c2a5079f5e224
         size: 1954
@@ -197,7 +197,7 @@ backups:
         hash: d8107278e3112db8819be20ad10600597be214e7
         size: 674
       /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/motd_entries.txt:
-        hash: 62bf379c049284f2c6541f1ebfadb675909b0548
+        hash: e40109426bae4485e067f13ef0de4c276fe4cf0e
         size: 556
       /mnt/0df76e2c-45d5-44d2-ad7e-91488ebcafba/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/motd_text_default.txt:
         hash: d8107278e3112db8819be20ad10600597be214e7
